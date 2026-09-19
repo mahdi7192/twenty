@@ -2,12 +2,56 @@
 
 body {
   margin: 0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Estedad', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: var(--t-background-tertiary);
   color: var(--t-font-color-primary);
   touch-action: manipulation;
+}
+
+input,
+textarea,
+select,
+button {
+  font-family: inherit;
+}
+
+[dir="rtl"],
+[dir="rtl"] body,
+[dir="rtl"] input,
+[dir="rtl"] textarea,
+[dir="rtl"] select,
+[dir="rtl"] button {
+  font-family: 'Estedad', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+::placeholder,
+input::placeholder,
+textarea::placeholder {
+  font-family: inherit;
+}
+
+[dir="rtl"] ::placeholder,
+[dir="rtl"] input::placeholder,
+[dir="rtl"] textarea::placeholder {
+  font-family: 'Estedad', sans-serif !important;
+  font-style: normal !important;
+}
+
+
+/* RTL icon mirroring for directional navigation icons */
+[dir="rtl"] .tabler-icon-chevron-right,
+[dir="rtl"] .tabler-icon-chevron-left,
+[dir="rtl"] .tabler-icon-arrow-right,
+[dir="rtl"] .tabler-icon-arrow-left,
+[dir="rtl"] .tabler-icon-arrow-narrow-right,
+[dir="rtl"] .tabler-icon-arrow-narrow-left,
+[dir="rtl"] .tabler-icon-chevron-right-pipe,
+[dir="rtl"] .tabler-icon-chevron-left-pipe,
+[dir="rtl"] .tabler-icon-arrow-badge-right,
+[dir="rtl"] .tabler-icon-arrow-badge-left {
+  transform: scaleX(-1);
 }
 
 html {

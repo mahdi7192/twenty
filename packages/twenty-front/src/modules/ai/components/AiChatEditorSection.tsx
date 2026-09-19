@@ -100,6 +100,11 @@ const StyledEditorWrapper = styled.div<{ isMobile: boolean }>`
       height: 0;
       pointer-events: none;
     }
+
+    [dir='rtl'] & p.is-editor-empty:first-of-type::before {
+      float: right;
+      font-style: normal;
+    }
   }
 `;
 

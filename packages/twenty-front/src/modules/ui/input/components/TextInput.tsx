@@ -51,13 +51,17 @@ const StyledAdornmentContainer = styled.div<StyledAdornmentContainerProps>`
   align-items: center;
   background-color: ${themeCssVariables.background.transparent.light};
   border: 1px solid ${themeCssVariables.border.color.medium};
-  border-left-style: ${({ position }) =>
+  border-inline-start-style: ${({ position }) =>
     position === 'right' ? 'none' : 'solid'};
-  border-radius: ${({ position }) =>
-    position === 'left'
-      ? `${themeCssVariables.border.radius.md} 0 0 ${themeCssVariables.border.radius.md}`
-      : `0 ${themeCssVariables.border.radius.md} ${themeCssVariables.border.radius.md} 0`};
-  border-right-style: ${({ position }) =>
+  border-start-start-radius: ${({ position }) =>
+    position === 'left' ? themeCssVariables.border.radius.md : 0};
+  border-end-start-radius: ${({ position }) =>
+    position === 'left' ? themeCssVariables.border.radius.md : 0};
+  border-start-end-radius: ${({ position }) =>
+    position === 'right' ? themeCssVariables.border.radius.md : 0};
+  border-end-end-radius: ${({ position }) =>
+    position === 'right' ? themeCssVariables.border.radius.md : 0};
+  border-inline-end-style: ${({ position }) =>
     position === 'left' ? 'none' : 'solid'};
   box-sizing: border-box;
   color: ${themeCssVariables.font.color.tertiary};
@@ -108,12 +112,14 @@ const StyledInput = styled.input<
         ? themeCssVariables.border.color.danger
         : themeCssVariables.border.color.medium};
 
-  border-radius: ${({ leftAdornment, rightAdornment }) =>
-    leftAdornment
-      ? `0 ${themeCssVariables.border.radius.md} ${themeCssVariables.border.radius.md} 0`
-      : rightAdornment
-        ? `${themeCssVariables.border.radius.md} 0 0 ${themeCssVariables.border.radius.md}`
-        : themeCssVariables.border.radius.md};
+  border-start-start-radius: ${({ leftAdornment }) =>
+    leftAdornment ? 0 : themeCssVariables.border.radius.md};
+  border-end-start-radius: ${({ leftAdornment }) =>
+    leftAdornment ? 0 : themeCssVariables.border.radius.md};
+  border-start-end-radius: ${({ rightAdornment }) =>
+    rightAdornment ? 0 : themeCssVariables.border.radius.md};
+  border-end-end-radius: ${({ rightAdornment }) =>
+    rightAdornment ? 0 : themeCssVariables.border.radius.md};
   box-sizing: border-box;
   color: ${themeCssVariables.font.color.primary};
   display: flex;
@@ -140,13 +146,13 @@ const StyledInput = styled.input<
       : sizeVariant === 'xs'
         ? `${themeCssVariables.spacing[2]} 0`
         : themeCssVariables.spacing[2]};
-  padding-left: ${({ LeftIcon, autoGrow }) =>
+  padding-inline-start: ${({ LeftIcon, autoGrow }) =>
     autoGrow
       ? themeCssVariables.spacing[1]
       : LeftIcon
         ? `calc(${themeCssVariables.spacing[3]} + 16px)`
         : themeCssVariables.spacing[2]};
-  padding-right: ${({ RightIcon, autoGrow }) =>
+  padding-inline-end: ${({ RightIcon, autoGrow }) =>
     autoGrow
       ? themeCssVariables.spacing[1]
       : RightIcon
@@ -157,6 +163,23 @@ const StyledInput = styled.input<
     isDefined(width)
       ? `calc(${width}px + ${themeCssVariables.spacing[0.5]})`
       : '100%'};
+
+  &[type='email'],
+  &[type='url'],
+  &[type='tel'],
+  &[type='number'],
+  &[type='password'],
+  &[dir='ltr'] {
+    direction: ltr;
+    text-align: left;
+
+    &::placeholder,
+    &::-webkit-input-placeholder {
+      direction: ltr;
+      text-align: left;
+    }
+  }
+
   &::placeholder,
   &::-webkit-input-placeholder {
     color: ${themeCssVariables.font.color.light};
@@ -196,13 +219,14 @@ const StyledLeftIconContainer = styled.div<{ sizeVariant: TextInputSize }>`
   display: flex;
   justify-content: center;
   margin: auto 0;
-  padding-left: ${({ sizeVariant }) =>
+  padding-inline-start: ${({ sizeVariant }) =>
     sizeVariant === 'xs'
       ? themeCssVariables.spacing[0.5]
       : sizeVariant === 'md' || sizeVariant === 'sm'
         ? themeCssVariables.spacing[1]
         : themeCssVariables.spacing[2]};
   position: absolute;
+  inset-inline-start: 0;
   top: 0;
 `;
 
@@ -214,9 +238,9 @@ const StyledTrailingIconContainer = styled.div<
   display: flex;
   justify-content: center;
   margin: auto 0;
-  padding-right: ${themeCssVariables.spacing[2]};
+  padding-inline-end: ${themeCssVariables.spacing[2]};
   position: absolute;
-  right: 0;
+  inset-inline-end: 0;
   top: 0;
 `;
 
@@ -264,6 +288,13 @@ export type TextInputComponentProps = Omit<
 
 type TextInputWithAutoGrowWrapperProps = TextInputComponentProps;
 
+const isTechnicalPlaceholder = (text?: string): boolean => {
+  if (!isNonEmptyString(text)) return false;
+  return /(@|https?:\/\/|www\.|\.(com|org|net|dev|io|app|co|ir)\b|[0-9]{3,})/.test(
+    text,
+  );
+};
+
 const TextInputComponent = forwardRef<
   HTMLInputElement,
   TextInputComponentProps
@@ -300,6 +331,7 @@ const TextInputComponent = forwardRef<
       rightAdornment,
       leftAdornment,
       textClickOutsideId,
+      dir,
     },
     ref,
   ) => {
@@ -309,6 +341,16 @@ const TextInputComponent = forwardRef<
 
     const [passwordVisible, setPasswordVisible] = useState(false);
     const [isFocused, setIsFocused] = useState(false);
+
+    const isTechnicalInput =
+      type === 'email' ||
+      type === 'url' ||
+      type === 'tel' ||
+      type === 'number' ||
+      type === 'password' ||
+      isTechnicalPlaceholder(placeholder);
+
+    const resolvedDir = dir ?? (isTechnicalInput ? 'ltr' : undefined);
 
     const handleTogglePasswordVisibility = () => {
       setPasswordVisible(!passwordVisible);
@@ -372,6 +414,7 @@ const TextInputComponent = forwardRef<
                 );
               }}
               onKeyDown={onKeyDown}
+              dir={resolvedDir}
               {...{
                 autoFocus,
                 disabled,

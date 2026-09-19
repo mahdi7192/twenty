@@ -24,6 +24,21 @@
     font-weight: var(--t-font-weight-medium);
   }
 
+  &[type='email'],
+  &[type='url'],
+  &[type='tel'],
+  &[type='number'],
+  &[type='password'],
+  &[dir='ltr'] {
+    direction: ltr;
+    text-align: left;
+
+    &::placeholder {
+      direction: ltr;
+      text-align: left;
+    }
+  }
+
   &:focus {
     --tw-input-border-color: var(--t-color-blue);
   }

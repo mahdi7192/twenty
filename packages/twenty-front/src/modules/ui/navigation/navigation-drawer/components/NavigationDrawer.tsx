@@ -70,11 +70,13 @@ const StyledContent = styled.div`
   flex-direction: column;
   gap: ${themeCssVariables.spacing[2]};
   min-height: 0;
-  padding-left: ${themeCssVariables.spacing[2]};
+  padding-inline-start: ${themeCssVariables.spacing[2]};
+  padding-inline-end: ${themeCssVariables.spacing[2]};
 
   @media (max-width: ${MOBILE_VIEWPORT}px) {
     gap: ${themeCssVariables.spacing[4]};
-    padding-right: ${themeCssVariables.spacing[2]};
+    padding-inline-start: ${themeCssVariables.spacing[2]};
+    padding-inline-end: ${themeCssVariables.spacing[2]};
   }
 `;
 
@@ -85,6 +87,8 @@ export const NavigationDrawer = ({
   const [isResizing, setIsResizing] = useState(false);
   const isMobile = useIsMobile();
   const isExpanded = useNavigationDrawerExpanded();
+  const isRtl =
+    typeof document !== 'undefined' && document.documentElement.dir === 'rtl';
 
   const [isNavigationDrawerExpanded, setIsNavigationDrawerExpanded] =
     useAtomState(isNavigationDrawerExpandedState);
@@ -132,7 +136,7 @@ export const NavigationDrawer = ({
 
         {isNavigationDrawerExpanded && !isMobile && (
           <ResizablePanelEdge
-            side="right"
+            side={isRtl ? 'left' : 'right'}
             constraints={NAVIGATION_DRAWER_CONSTRAINTS}
             currentWidth={navigationDrawerWidth}
             onWidthChange={handleWidthChange}

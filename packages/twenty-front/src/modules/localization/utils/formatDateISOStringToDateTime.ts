@@ -2,6 +2,7 @@ import { type DateFormat } from '@/localization/constants/DateFormat';
 import { type TimeFormat } from '@/localization/constants/TimeFormat';
 import { isValid, type Locale } from 'date-fns';
 import { formatInTimeZone } from 'date-fns-tz';
+import { formatJalaliFromDate } from 'twenty-shared/utils';
 
 export const formatDateISOStringToDateTime = ({
   date,
@@ -22,8 +23,20 @@ export const formatDateISOStringToDateTime = ({
     return '';
   }
 
-  // TODO: replace this with shiftPointInTimeToFromTimezoneDifference to remove date-fns-tz, which formatInTimeZone is doig under the hood :
-  // https://github.com/marnusw/date-fns-tz/blob/4f3383b26a5907a73b14512a2701f3dfd8cf1579/src/toZonedTime/index.ts#L36C9-L36C27
+  const isPersianLocale =
+    localeCatalog?.code === 'fa-IR' ||
+    localeCatalog?.code === 'fa' ||
+    (typeof document !== 'undefined' &&
+      document.documentElement.lang?.startsWith('fa'));
+
+  if (isPersianLocale) {
+    const formattedDate = formatJalaliFromDate(parsedDate);
+    const formattedTime = formatInTimeZone(parsedDate, timeZone, timeFormat, {
+      locale: localeCatalog,
+    });
+    return `${formattedDate} ${formattedTime}`;
+  }
+
   return formatInTimeZone(parsedDate, timeZone, `${dateFormat} ${timeFormat}`, {
     locale: localeCatalog,
   });

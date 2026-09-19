@@ -7,7 +7,7 @@ import { TabListComponentInstanceContext } from '@/ui/layout/tab-list/states/con
 import { useAtomComponentStateValue } from '@/ui/utilities/state/jotai/hooks/useAtomComponentStateValue';
 
 const StyledRoot = styled(Tabs.Root)`
-  display: contents;
+  display: contents !important;
 `;
 
 type TabListRootProps = {

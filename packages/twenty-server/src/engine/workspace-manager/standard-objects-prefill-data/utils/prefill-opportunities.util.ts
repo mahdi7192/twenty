@@ -67,7 +67,7 @@ export const prefillOpportunities = async (
     .values([
       {
         id: OPPORTUNITY_STRIPE_PLATFORM_MIGRATION_ID,
-        name: 'Platform Migration',
+        name: 'قرارداد زیرساخت کافه‌بازار',
         amountAmountMicros: 60000000000,
         amountCurrencyCode: 'USD',
         closeDate: new Date('2026-01-31T16:25:00.000Z'),
@@ -85,7 +85,7 @@ export const prefillOpportunities = async (
       },
       {
         id: OPPORTUNITY_ANTHROPIC_AI_MODEL_ID,
-        name: 'AI Model Training',
+        name: 'سرویس یکپارچه‌سازی اسنپ',
         amountAmountMicros: 100000000000,
         amountCurrencyCode: 'USD',
         closeDate: new Date('2026-02-15T16:25:00.000Z'),
@@ -103,7 +103,7 @@ export const prefillOpportunities = async (
       },
       {
         id: OPPORTUNITY_NOTION_WORKSPACE_ID,
-        name: 'Workspace Expansion',
+        name: 'سرویس ابری سازمانی آروان',
         amountAmountMicros: 45000000000,
         amountCurrencyCode: 'USD',
         closeDate: new Date('2026-01-20T16:26:00.000Z'),
@@ -121,7 +121,7 @@ export const prefillOpportunities = async (
       },
       {
         id: OPPORTUNITY_STRIPE_API_INTEGRATION_ID,
-        name: 'API Integration Deal',
+        name: 'درگاه پرداخت سازمانی کافه‌بازار',
         amountAmountMicros: 75000000000,
         amountCurrencyCode: 'USD',
         closeDate: new Date('2026-01-25T16:26:00.000Z'),
@@ -139,7 +139,7 @@ export const prefillOpportunities = async (
       },
       {
         id: OPPORTUNITY_AIRBNB_ENTERPRISE_ID,
-        name: 'Enterprise Plan Upgrade',
+        name: 'قرارداد لجستیک دیجی‌کالا',
         amountAmountMicros: 50000000000,
         amountCurrencyCode: 'USD',
         closeDate: new Date('2026-03-10T16:26:00.000Z'),
@@ -157,7 +157,7 @@ export const prefillOpportunities = async (
       },
       {
         id: OPPORTUNITY_FIGMA_DESIGN_ID,
-        name: 'Design Partnership',
+        name: 'اشتراک سازمانی تپسی',
         amountAmountMicros: 30000000000,
         amountCurrencyCode: 'USD',
         closeDate: new Date('2026-01-15T16:27:00.000Z'),

@@ -1,3 +1,5 @@
+import { JALALI_MONTH_NAMES } from 'twenty-shared/utils';
+
 const getMonthName = (index: number, locale?: string): string =>
   new Intl.DateTimeFormat(locale || 'en-US', { month: 'long' }).format(
     new Date(0, index, 1),
@@ -17,8 +19,16 @@ const getMonthNames = (
 
 export const getMonthSelectOptions = (
   locale?: string,
-): { label: string; value: number }[] =>
-  getMonthNames(locale).map((month, index) => ({
+): { label: string; value: number }[] => {
+  if (locale?.startsWith('fa')) {
+    return JALALI_MONTH_NAMES.map((month, index) => ({
+      label: month,
+      value: index + 1,
+    }));
+  }
+
+  return getMonthNames(locale).map((month, index) => ({
     label: month,
     value: index + 1,
   }));
+};

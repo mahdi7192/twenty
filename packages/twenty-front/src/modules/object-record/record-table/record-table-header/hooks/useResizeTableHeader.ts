@@ -100,7 +100,10 @@ export const useResizeTableHeader = () => {
 
       throwIfNotDefined(recordField, 'recordField');
 
-      const newResizeOffset = (x - initialPointerPositionX) / dragUiZoom;
+      const isRtl = document.documentElement.dir === 'rtl';
+      const directionMultiplier = isRtl ? -1 : 1;
+      const newResizeOffset =
+        (directionMultiplier * (x - initialPointerPositionX)) / dragUiZoom;
 
       const newRecordFieldSizeWithOffset = recordField.size + newResizeOffset;
 
@@ -147,7 +150,7 @@ export const useResizeTableHeader = () => {
         `${newGroupSectionLastColumnWidth}px`,
       );
 
-      setResizeFieldOffset((x - initialPointerPositionX) / dragUiZoom);
+      setResizeFieldOffset(newResizeOffset);
     },
     [
       dragUiZoom,

@@ -163,6 +163,43 @@ const StyledTable = styled.div<{
     ${HorizontalScrollBoxShadowCSS}
   }
 
+  [dir="rtl"] & {
+    div.header-cell.${RECORD_TABLE_COLUMN_DRAG_AND_DROP_WIDTH_CLASS_NAME} {
+      left: auto;
+      right: 0px;
+    }
+
+    div.header-cell.${RECORD_TABLE_COLUMN_CHECKBOX_WIDTH_CLASS_NAME} {
+      left: auto;
+      right: var(${RECORD_TABLE_DRAG_DROP_WIDTH_CSS_VAR});
+    }
+
+    div.header-cell.${getRecordTableColumnFieldWidthClassName(0)} {
+      left: auto;
+      right: var(${RECORD_TABLE_FIRST_COLUMN_LEFT_CSS_VAR});
+    }
+
+    div.table-cell.${RECORD_TABLE_COLUMN_DRAG_AND_DROP_WIDTH_CLASS_NAME} {
+      left: auto;
+      right: 0px;
+    }
+
+    div.table-cell.${RECORD_TABLE_COLUMN_CHECKBOX_WIDTH_CLASS_NAME} {
+      left: auto;
+      right: var(${RECORD_TABLE_DRAG_DROP_WIDTH_CSS_VAR});
+    }
+
+    div.table-cell-0-0 {
+      left: auto;
+      right: var(${RECORD_TABLE_FIRST_COLUMN_LEFT_CSS_VAR});
+    }
+
+    div.table-cell.${getRecordTableColumnFieldWidthClassName(0)} {
+      left: auto;
+      right: var(${RECORD_TABLE_FIRST_COLUMN_LEFT_CSS_VAR});
+    }
+  }
+
   div.${RECORD_TABLE_COLUMN_DRAG_AND_DROP_WIDTH_CLASS_NAME} {
     max-width: var(${RECORD_TABLE_DRAG_DROP_WIDTH_CSS_VAR});
     min-width: var(${RECORD_TABLE_DRAG_DROP_WIDTH_CSS_VAR});

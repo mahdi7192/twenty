@@ -18,4 +18,13 @@ export const HorizontalScrollBoxShadowCSS = `
       hidden
     );
   }
+
+  [dir="rtl"] &::after {
+    right: auto;
+    left: -1px;
+    box-shadow:
+      -2px 0px 4px 0px ${themeCssVariables.boxShadow.color},
+      0px 0px 4px 0px ${themeCssVariables.boxShadow.color};
+    clip-path: inset(0px 0px 0px -4px);
+  }
 `;

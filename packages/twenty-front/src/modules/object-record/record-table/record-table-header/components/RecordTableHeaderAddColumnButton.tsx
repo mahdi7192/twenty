@@ -107,7 +107,12 @@ export const RecordTableHeaderAddColumnButton = () => {
     >
       <RecordTableHeaderResizeHandler
         recordFieldIndex={visibleRecordFields.length}
-        position="left"
+        position={
+          typeof document !== 'undefined' &&
+          document.documentElement.dir === 'rtl'
+            ? 'right'
+            : 'left'
+        }
       />
       <StyledDropdownContainer>
         <Dropdown

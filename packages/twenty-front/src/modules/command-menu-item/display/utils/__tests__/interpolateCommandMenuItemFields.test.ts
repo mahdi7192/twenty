@@ -68,4 +68,68 @@ describe('interpolateCommandMenuItemFields', () => {
       ).label,
     ).toBe('Create new {objectLabelSingular}');
   });
+
+  describe('RTL / Persian localization', () => {
+    beforeEach(() => {
+      document.documentElement.dir = 'rtl';
+    });
+
+    afterEach(() => {
+      document.documentElement.dir = 'ltr';
+    });
+
+    it('translates Go to {objectLabelPlural} with Persian object correctly', () => {
+      expect(
+        interpolateCommandMenuItemFields(
+          buildItem({ label: 'Go to {objectLabelPlural}' }),
+          buildContextApi({
+            objectMetadataItem: { labelPlural: 'داشبوردها' },
+          }),
+        ).label,
+      ).toBe('رفتن به داشبوردها');
+    });
+
+    it('translates Go to with English object name correctly', () => {
+      expect(
+        interpolateCommandMenuItemFields(
+          buildItem({ label: 'Go to Attachments' }),
+          buildContextApi({}),
+        ).label,
+      ).toBe('رفتن به پیوست‌ها');
+
+      expect(
+        interpolateCommandMenuItemFields(
+          buildItem({ label: 'Go to Blocklists' }),
+          buildContextApi({}),
+        ).label,
+      ).toBe('رفتن به لیست‌های مسدود شده');
+
+      expect(
+        interpolateCommandMenuItemFields(
+          buildItem({ label: 'Go to Workspace Members' }),
+          buildContextApi({}),
+        ).label,
+      ).toBe('رفتن به اعضای فضای کاری');
+    });
+
+    it('translates pre-interpolated Go to with Persian object', () => {
+      expect(
+        interpolateCommandMenuItemFields(
+          buildItem({ label: 'Go to مخاطبین' }),
+          buildContextApi({}),
+        ).label,
+      ).toBe('رفتن به مخاطبین');
+    });
+
+    it('normalizes Create new {objectLabelSingular} in Persian', () => {
+      expect(
+        interpolateCommandMenuItemFields(
+          buildItem({ label: 'Create new {objectLabelSingular}' }),
+          buildContextApi({
+            objectMetadataItem: { labelSingular: 'مخاطب' },
+          }),
+        ).label,
+      ).toBe('ایجاد مخاطب جدید');
+    });
+  });
 });

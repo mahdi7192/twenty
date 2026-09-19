@@ -27,6 +27,25 @@ const StyledChevronWrapper = styled.div<{ isExpanded: boolean }>`
     calc(${themeCssVariables.animation.duration.normal} * 1s) ease;
 `;
 
+const STANDARD_FIELD_GROUP_TITLE_MAP: Record<string, string> = {
+  General: 'عمومی',
+  Work: 'اطلاعات شغلی',
+  Social: 'شبکه‌های اجتماعی',
+  System: 'سیستم',
+  Contact: 'اطلاعات تماس',
+  Business: 'کسب‌وکار',
+  Deal: 'معامله',
+  Relations: 'روابط',
+  Details: 'جزئیات',
+  Emails: 'ایمیل‌ها',
+  Calls: 'تماس‌ها',
+  Tasks: 'وظایف',
+  Notes: 'یادداشت‌ها',
+  Files: 'فایل‌ها',
+  Timeline: 'تایم‌لاین',
+  Activity: 'فعالیت',
+};
+
 type FieldsWidgetGroupContainerProps = {
   children: React.ReactNode;
   title: string;
@@ -41,13 +60,20 @@ export const FieldsWidgetGroupContainer = ({
   const { theme } = useContext(ThemeContext);
   const [isExpanded, setIsExpanded] = useState(defaultExpanded);
 
+  const isRtl =
+    typeof document !== 'undefined' && document.documentElement.dir === 'rtl';
+
+  const displayTitle = isRtl
+    ? (STANDARD_FIELD_GROUP_TITLE_MAP[title] ?? title)
+    : title;
+
   const handleToggleGroup = () =>
     setIsExpanded((previousIsExpanded) => !previousIsExpanded);
 
   return (
     <Section.Root>
       <StyledHeader onClick={handleToggleGroup}>
-        <StyledTitleLabel>{title}</StyledTitleLabel>
+        <StyledTitleLabel>{displayTitle}</StyledTitleLabel>
         <StyledChevronWrapper isExpanded={isExpanded}>
           <IconChevronDown
             size={theme.icon.size.md}

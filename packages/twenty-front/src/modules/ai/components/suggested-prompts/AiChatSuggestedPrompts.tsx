@@ -38,11 +38,11 @@ const StyledTitle = styled.div<{ isCentered: boolean }>`
       : themeCssVariables.font.weight.medium};
   height: ${({ isCentered }) => (isCentered ? 'auto' : '24px')};
   padding: 0 ${themeCssVariables.spacing[2]};
-  text-align: ${({ isCentered }) => (isCentered ? 'center' : 'left')};
+  text-align: ${({ isCentered }) => (isCentered ? 'center' : 'start')};
 `;
 
 const StyledPromptList = styled.div<{ isCentered: boolean }>`
-  align-items: ${({ isCentered }) => (isCentered ? 'center' : 'flex-start')};
+  align-items: ${({ isCentered }) => (isCentered ? 'center' : 'start')};
   display: flex;
   flex-direction: ${({ isCentered }) => (isCentered ? 'row' : 'column')};
   flex-wrap: wrap;

@@ -45,10 +45,18 @@ export const resolveDropFromPointer = ({
     const targetMidpoint = splitsOnX ? left + width / 2 : top + height / 2;
     const pointerMainAxis = splitsOnX ? pointer.x : pointer.y;
 
-    const dropTargetIndex =
-      pointerMainAxis < targetMidpoint
-        ? targetData.index
-        : targetData.index + 1;
+    const isRtl =
+      typeof document !== 'undefined' &&
+      document.documentElement.dir === 'rtl';
+
+    const isBeforeMidpoint =
+      splitsOnX && isRtl
+        ? pointerMainAxis > targetMidpoint
+        : pointerMainAxis < targetMidpoint;
+
+    const dropTargetIndex = isBeforeMidpoint
+      ? targetData.index
+      : targetData.index + 1;
 
     return { droppableId: targetData.droppableId, dropTargetIndex };
   }

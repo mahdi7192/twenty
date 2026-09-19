@@ -4,6 +4,7 @@ export type SettingsCustomizeVideoModalTab = {
   id: string;
   title: string;
   Icon: IconComponent;
-  vimeoId: string;
+  vimeoId?: string;
+  videoUrl?: string;
   hasSound?: boolean;
 };

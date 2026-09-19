@@ -62,14 +62,18 @@ const StyledCustomPhoneInputWrapper = styled.div`
     border: none;
     box-sizing: border-box;
     color: ${themeCssVariables.font.color.primary};
+    direction: ltr;
     height: 100%;
-    padding-left: ${themeCssVariables.spacing[2]};
+    padding-inline-start: ${themeCssVariables.spacing[2]};
+    text-align: left;
 
     &::placeholder,
     &::-webkit-input-placeholder {
       color: ${themeCssVariables.font.color.light};
+      direction: ltr;
       font-family: ${themeCssVariables.font.family};
       font-weight: ${themeCssVariables.font.weight.medium};
+      text-align: left;
     }
 
     &:focus {

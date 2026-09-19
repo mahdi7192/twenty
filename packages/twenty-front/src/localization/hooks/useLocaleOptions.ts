@@ -68,6 +68,7 @@ export const useLocaleOptions = (): LocaleOption[] => {
     'sr-Cyrl': t`Serbian (Cyrillic)`,
     'sr-Latn': t`Serbian (Latin)`,
     'es-ES': t`Spanish`,
+    'fa-IR': t`Persian (فارسی)`,
     'sv-SE': t`Swedish`,
     'tr-TR': t`Turkish`,
     'uk-UA': t`Ukrainian`,

@@ -117,15 +117,19 @@ const StyledItem = styled.button<StyledItemProps>`
     indentationLevel === 2 ? '2px' : '0'};
   min-width: 0;
   padding-bottom: ${themeCssVariables.spacing[1]};
-  padding-left: ${({ isNavigationDrawerExpanded }) =>
+  padding-inline-start: ${({ isNavigationDrawerExpanded }) =>
     isNavigationDrawerExpanded
       ? themeCssVariables.spacing[1]
-      : `calc(${themeCssVariables.spacing[2]} - 1px)`};
-  padding-right: ${({ hasRightOptions, isNavigationDrawerExpanded }) =>
+      : '0'};
+  padding-inline-end: ${({ hasRightOptions, isNavigationDrawerExpanded }) =>
     hasRightOptions && isNavigationDrawerExpanded
       ? themeCssVariables.spacing['0.5']
-      : themeCssVariables.spacing[1]};
+      : isNavigationDrawerExpanded
+        ? themeCssVariables.spacing[1]
+        : '0'};
   padding-top: ${themeCssVariables.spacing[1]};
+  justify-content: ${({ isNavigationDrawerExpanded }) =>
+    isNavigationDrawerExpanded ? 'flex-start' : 'center'};
   pointer-events: ${({ isSoon, variant }) =>
     isSoon || variant === 'placeholder' ? 'none' : 'auto'};
   text-decoration: none;
@@ -152,15 +156,22 @@ const StyledItem = styled.button<StyledItemProps>`
   }
 `;
 
-const StyledItemElementsContainer = styled.div`
+const StyledItemElementsContainer = styled.div<{
+  isNavigationDrawerExpanded?: boolean;
+}>`
   align-items: center;
   display: flex;
+  justify-content: ${({ isNavigationDrawerExpanded }) =>
+    isNavigationDrawerExpanded ? 'flex-start' : 'center'};
   width: 100%;
 `;
 
-const StyledLabelParent = styled.div`
+const StyledLabelParent = styled.div<{
+  isNavigationDrawerExpanded?: boolean;
+}>`
   align-items: center;
-  display: flex;
+  display: ${({ isNavigationDrawerExpanded }) =>
+    isNavigationDrawerExpanded ? 'flex' : 'none'};
   flex: 1 1 auto;
   min-width: 0px;
   overflow: hidden;
@@ -201,13 +212,14 @@ const StyledSpacer = styled.span`
   flex-grow: 1;
 `;
 
-const StyledIcon = styled.div`
+const StyledIcon = styled.div<{ isNavigationDrawerExpanded?: boolean }>`
   align-items: center;
   display: flex;
   flex-grow: 0;
   flex-shrink: 0;
   justify-content: center;
-  margin-right: ${themeCssVariables.spacing[2]};
+  margin-inline-end: ${({ isNavigationDrawerExpanded }) =>
+    isNavigationDrawerExpanded ? themeCssVariables.spacing[2] : '0'};
 `;
 
 const StyledRightOptionsContainer = styled.div`
@@ -283,7 +295,8 @@ export const NavigationDrawerItem = ({
       : undefined;
 
   const showBreadcrumb = indentationLevel === 2;
-  const showStyledSpacer = isDefined(modifier) || isDefined(rightOptions);
+  const showStyledSpacer =
+    isExpanded && (isDefined(modifier) || isDefined(rightOptions));
 
   const handleMobileNavigation = () => {
     if (isMobile && !preventCollapseOnMobile) {
@@ -322,11 +335,14 @@ export const NavigationDrawerItem = ({
           ? 'div'
           : undefined;
 
+  const isRtl =
+    typeof document !== 'undefined' && document.documentElement.dir === 'rtl';
+
   return (
     <StyledNavigationDrawerItemContainer>
       <Tooltip
         content={label}
-        side="right"
+        side={isRtl ? 'left' : 'right'}
         delay={TooltipDelay.noDelay}
         positionMethod="fixed"
         disabled={isExpanded || isMobile}
@@ -376,7 +392,7 @@ export const NavigationDrawerItem = ({
           rel={isExternalLink ? 'noopener noreferrer' : undefined}
           draggable={isInternalLink ? false : undefined}
         >
-          <StyledItemElementsContainer>
+          <StyledItemElementsContainer isNavigationDrawerExpanded={isExpanded}>
             {showBreadcrumb && (
               <NavigationDrawerAnimatedCollapseWrapper>
                 <NavigationDrawerItemBreadcrumb state={subItemState} />
@@ -384,10 +400,12 @@ export const NavigationDrawerItem = ({
             )}
 
             {editingContent ? (
-              <StyledIcon>{editingContent.icon}</StyledIcon>
+              <StyledIcon isNavigationDrawerExpanded={isExpanded}>
+                {editingContent.icon}
+              </StyledIcon>
             ) : (
               isDefined(Icon) && (
-                <StyledIcon>
+                <StyledIcon isNavigationDrawerExpanded={isExpanded}>
                   <Icon
                     size={theme.icon.size.md}
                     stroke={theme.icon.stroke.md}
@@ -401,7 +419,7 @@ export const NavigationDrawerItem = ({
               )
             )}
 
-            <StyledLabelParent>
+            <StyledLabelParent isNavigationDrawerExpanded={isExpanded}>
               {editingContent?.label ?? (
                 <OverflowingTextWithTooltip
                   text={
@@ -444,7 +462,7 @@ export const NavigationDrawerItem = ({
               </NavigationDrawerAnimatedCollapseWrapper>
             )}
 
-            {isDefined(rightOptions) && (
+            {isExpanded && isDefined(rightOptions) && (
               <NavigationDrawerAnimatedCollapseWrapper>
                 {/* When StyledItem renders as a Link, we need both handlers to
                   prevent navigation when interacting with rightOptions:

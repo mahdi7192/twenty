@@ -119,6 +119,7 @@ export const SettingsAccountsConnectionForm = ({
             <SettingsTextInput
               instanceId="email-address-connection-form"
               label={t`Email Address`}
+              type="email"
               placeholder={t`john.doe@example.com`}
               value={field.value}
               onChange={field.onChange}
@@ -143,6 +144,7 @@ export const SettingsAccountsConnectionForm = ({
               <SettingsTextInput
                 instanceId="imap-host-connection-form"
                 label={t`IMAP Server`}
+                dir="ltr"
                 placeholder={t`imap.example.com`}
                 value={field.value || ''}
                 onChange={field.onChange}
@@ -158,6 +160,7 @@ export const SettingsAccountsConnectionForm = ({
               <SettingsTextInput
                 instanceId="imap-username-connection-form"
                 label={t`IMAP Username (Optional)`}
+                dir="ltr"
                 placeholder={t`john.doe`}
                 type="text"
                 value={field.value || ''}
@@ -240,6 +243,7 @@ export const SettingsAccountsConnectionForm = ({
               <SettingsTextInput
                 instanceId="smtp-host-connection-form"
                 label={t`SMTP Server`}
+                dir="ltr"
                 placeholder={t`smtp.example.com`}
                 value={field.value || ''}
                 onChange={field.onChange}
@@ -255,6 +259,7 @@ export const SettingsAccountsConnectionForm = ({
               <SettingsTextInput
                 instanceId="smtp-username-connection-form"
                 label={t`SMTP Username`}
+                dir="ltr"
                 placeholder={t`john.doe`}
                 type="text"
                 value={field.value || ''}
@@ -336,6 +341,7 @@ export const SettingsAccountsConnectionForm = ({
               <SettingsTextInput
                 instanceId="caldav-host-connection-form"
                 label={t`CalDAV Server`}
+                dir="ltr"
                 placeholder={t`caldav.example.com`}
                 value={field.value || ''}
                 onChange={field.onChange}
@@ -351,6 +357,7 @@ export const SettingsAccountsConnectionForm = ({
               <SettingsTextInput
                 instanceId="caldav-username-connection-form"
                 label={t`CalDAV Username`}
+                dir="ltr"
                 placeholder={t`john.doe`}
                 required={false}
                 value={field.value || ''}

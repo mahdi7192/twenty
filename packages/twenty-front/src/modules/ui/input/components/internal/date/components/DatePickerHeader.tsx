@@ -12,7 +12,7 @@ import { currentWorkspaceMemberState } from '@/auth/states/currentWorkspaceMembe
 import { useAtomStateValue } from '@/ui/utilities/state/jotai/hooks/useAtomStateValue';
 import { Temporal } from 'temporal-polyfill';
 import { SOURCE_LOCALE } from 'twenty-shared/translations';
-import { isDefined } from 'twenty-shared/utils';
+import { gregorianToJalali, isDefined } from 'twenty-shared/utils';
 import { themeCssVariables } from 'twenty-ui/theme-constants';
 
 const MONTH_AND_YEAR_DROPDOWN_MONTH_SELECT_ID =
@@ -22,6 +22,17 @@ const MONTH_AND_YEAR_DROPDOWN_YEAR_SELECT_ID =
 const YEARS_SELECT_OPTIONS = Array.from(
   { length: 200 },
   (_, i) => new Date().getFullYear() + 50 - i,
+).map((year) => ({ label: year.toString(), value: year }));
+
+const currentJalaliYear = gregorianToJalali(
+  new Date().getFullYear(),
+  1,
+  1,
+).jalaliYear;
+
+const JALALI_YEARS_SELECT_OPTIONS = Array.from(
+  { length: 150 },
+  (_, i) => currentJalaliYear + 20 - i,
 ).map((year) => ({ label: year.toString(), value: year }));
 
 const StyledCustomDatePickerHeader = styled.div`
@@ -60,8 +71,23 @@ export const DatePickerHeader = ({
 }: DatePickerHeaderProps) => {
   const currentWorkspaceMember = useAtomStateValue(currentWorkspaceMemberState);
   const userLocale = currentWorkspaceMember?.locale ?? SOURCE_LOCALE;
+  const isPersian =
+    userLocale.startsWith('fa') ||
+    (typeof document !== 'undefined' &&
+      (document.documentElement.lang?.startsWith('fa') ||
+        document.documentElement.dir === 'rtl'));
 
-  const dateParsed = isDefined(date) ? Temporal.PlainDate.from(date) : null;
+  const now = Temporal.Now.plainDateISO();
+  const dateParsed = isDefined(date) ? Temporal.PlainDate.from(date) : now;
+  const jalali = isPersian
+    ? gregorianToJalali(dateParsed.year, dateParsed.month, dateParsed.day)
+    : null;
+
+  const currentMonthValue = isPersian ? jalali?.jalaliMonth : dateParsed.month;
+  const currentYearValue = isPersian ? jalali?.jalaliYear : dateParsed.year;
+  const yearOptions = isPersian
+    ? JALALI_YEARS_SELECT_OPTIONS
+    : YEARS_SELECT_OPTIONS;
 
   return (
     <>
@@ -74,9 +100,9 @@ export const DatePickerHeader = ({
         >
           <Select
             dropdownId={MONTH_AND_YEAR_DROPDOWN_MONTH_SELECT_ID}
-            options={getMonthSelectOptions(userLocale)}
+            options={getMonthSelectOptions(isPersian ? 'fa-IR' : userLocale)}
             onChange={onChangeMonth}
-            value={dateParsed?.month}
+            value={currentMonthValue}
             fullWidth
           />
         </ClickOutsideListenerContext.Provider>
@@ -88,8 +114,8 @@ export const DatePickerHeader = ({
           <Select
             dropdownId={MONTH_AND_YEAR_DROPDOWN_YEAR_SELECT_ID}
             onChange={onChangeYear}
-            value={dateParsed?.year}
-            options={YEARS_SELECT_OPTIONS}
+            value={currentYearValue}
+            options={yearOptions}
             fullWidth
           />
         </ClickOutsideListenerContext.Provider>

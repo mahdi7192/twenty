@@ -12,6 +12,7 @@ import { styled } from '@linaria/react';
 import { IconX } from 'twenty-ui/icon';
 import { IconButton } from 'twenty-ui/components';
 import { themeCssVariables, useTheme } from 'twenty-ui/theme-constants';
+import { isDefined } from 'twenty-shared/utils';
 
 type SettingsCustomizeVideoModalProps = {
   modalInstanceId: string;
@@ -63,11 +64,25 @@ const StyledTitleText = styled.span`
 
 const StyledVideoContainer = styled.div`
   display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
   padding: ${themeCssVariables.spacing[6]};
+  gap: ${themeCssVariables.spacing[2]};
 `;
 
 const StyledVideoIframe = styled.iframe`
+  aspect-ratio: 1440 / 900;
+  border: 0;
+  border-radius: ${themeCssVariables.border.radius.md};
+  box-shadow: ${themeCssVariables.boxShadow.strong};
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: 960px;
+`;
+
+const StyledVideoPlayer = styled.video`
   aspect-ratio: 1440 / 900;
   border: 0;
   border-radius: ${themeCssVariables.border.radius.md};
@@ -102,18 +117,39 @@ export const SettingsCustomizeVideoModal = ({
     closeDialog(modalInstanceId);
   };
 
+  const customUrl =
+    activeTab.videoUrl ??
+    (activeTab.vimeoId?.startsWith('http') ? activeTab.vimeoId : undefined);
+
+  const isDirectVideo =
+    isDefined(customUrl) && /\.(mp4|webm|ogg)($|\?)/i.test(customUrl);
+
+  const vimeoUrl = isDefined(activeTab.vimeoId)
+    ? activeTab.hasSound
+      ? `https://player.vimeo.com/video/${activeTab.vimeoId}?byline=0&portrait=0&title=0&vimeo_logo=0&app_id=58479&dnt=1`
+      : `https://player.vimeo.com/video/${activeTab.vimeoId}?autoplay=1&loop=1&autopause=0&background=1&muted=1&dnt=1`
+    : undefined;
+
+  const videoSrc = customUrl ?? vimeoUrl;
+
   const videoContent = (
     <StyledVideoContainer>
-      <StyledVideoIframe
-        key={activeTab.id}
-        src={
-          activeTab.hasSound
-            ? `https://player.vimeo.com/video/${activeTab.vimeoId}?byline=0&portrait=0&title=0&vimeo_logo=0&app_id=58479&dnt=1`
-            : `https://player.vimeo.com/video/${activeTab.vimeoId}?autoplay=1&loop=1&autopause=0&background=1&muted=1&dnt=1`
-        }
-        allow="autoplay; fullscreen; picture-in-picture"
-        title={activeTab.title}
-      />
+      {isDirectVideo ? (
+        <StyledVideoPlayer
+          key={activeTab.id}
+          src={videoSrc}
+          controls
+          autoPlay
+          playsInline
+        />
+      ) : isDefined(videoSrc) ? (
+        <StyledVideoIframe
+          key={activeTab.id}
+          src={videoSrc}
+          allow="autoplay; fullscreen; picture-in-picture"
+          title={activeTab.title}
+        />
+      ) : null}
     </StyledVideoContainer>
   );
 

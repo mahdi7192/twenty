@@ -33,23 +33,26 @@ const StyledOptionHeader = styled.label`
 const StyledTextContainer = styled.div`
   flex: 1;
   min-width: 0;
+  text-align: start;
 `;
 
 const StyledTitle = styled.div`
   color: ${themeCssVariables.font.color.primary};
   font-weight: ${themeCssVariables.font.weight.medium};
   margin-bottom: ${themeCssVariables.spacing[2]};
+  text-align: start;
 `;
 
 const StyledDescription = styled.div`
   color: ${themeCssVariables.font.color.tertiary};
   font-size: ${themeCssVariables.font.size.sm};
+  text-align: start;
 `;
 
 const StyledRadioContainer = styled.span`
   align-items: center;
   display: flex;
-  margin-left: auto;
+  margin-inline-start: auto;
 `;
 
 const StyledExpandedContent = styled.div`

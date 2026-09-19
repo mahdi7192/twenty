@@ -51,7 +51,7 @@ const StyledSidePanelWrapper = styled.div<{
 
 const StyledSidePanel = styled.aside<{ isShrinkingFromFullWidth: boolean }>`
   background: ${themeCssVariables.background.primary};
-  border-left: 1px solid ${themeCssVariables.border.color.medium};
+  border-inline-start: 1px solid ${themeCssVariables.border.color.medium};
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
@@ -156,6 +156,9 @@ export const SidePanelForDesktop = () => {
     setTableWidthResizeIsActive(true);
   }, [closeSidePanelMenu, setTableWidthResizeIsActive]);
 
+  const isRtl =
+    typeof document !== 'undefined' && document.documentElement.dir === 'rtl';
+
   return (
     <>
       <SidePanelWidthEffect />
@@ -163,7 +166,7 @@ export const SidePanelForDesktop = () => {
         onContinueChatFromFullWidth={handleContinueChatFromFullWidth}
       />
       <ResizablePanelGap
-        side="left"
+        side={isRtl ? 'right' : 'left'}
         constraints={SIDE_PANEL_CONSTRAINTS}
         currentWidth={sidePanelWidth}
         onWidthChange={handleWidthChange}

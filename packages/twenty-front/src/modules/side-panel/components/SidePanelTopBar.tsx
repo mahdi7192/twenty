@@ -57,7 +57,9 @@ const StyledInput = styled.input`
   border-radius: 0;
   color: ${themeCssVariables.font.color.primary};
   flex: 1;
+  font-family: ${themeCssVariables.font.family};
   font-size: ${themeCssVariables.font.size.md};
+  font-style: normal;
   height: 24px;
   margin: 0;
   outline: none;
@@ -65,6 +67,8 @@ const StyledInput = styled.input`
 
   &::placeholder {
     color: ${themeCssVariables.font.color.light};
+    font-family: ${themeCssVariables.font.family};
+    font-style: normal;
     font-weight: ${themeCssVariables.font.weight.medium};
   }
 `;

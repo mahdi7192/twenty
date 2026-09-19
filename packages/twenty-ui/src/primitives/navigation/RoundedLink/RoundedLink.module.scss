@@ -8,6 +8,7 @@
   box-sizing: content-box;
   color: var(--t-font-color-primary);
   cursor: pointer;
+  direction: ltr;
   display: inline-flex;
   font-weight: var(--t-font-size-md);
   gap: var(--t-spacing-1);
@@ -19,6 +20,7 @@
   padding: var(--t-spacing-1) var(--t-spacing-2);
   text-decoration: none;
   text-overflow: ellipsis;
+  unicode-bidi: isolate;
   user-select: none;
   white-space: nowrap;
 

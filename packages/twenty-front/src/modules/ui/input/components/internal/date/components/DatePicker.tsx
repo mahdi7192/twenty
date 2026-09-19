@@ -23,7 +23,10 @@ import { useAtomStateValue } from '@/ui/utilities/state/jotai/hooks/useAtomState
 import { Temporal } from 'temporal-polyfill';
 import { type Nullable } from 'twenty-shared/types';
 import {
+  getDaysInJalaliMonth,
+  gregorianToJalali,
   isDefined,
+  jalaliToGregorian,
   turnJSDateToPlainDate,
   turnPlainDateToShiftedDateInSystemTimeZone,
   type RelativeDateFilter,
@@ -175,25 +178,115 @@ export const DatePicker = ({
     onClose?.(newDate);
   };
 
+  const isPersianLocale =
+    currentWorkspaceMember?.locale?.startsWith('fa') ||
+    (typeof document !== 'undefined' &&
+      (document.documentElement.lang?.startsWith('fa') ||
+        document.documentElement.dir === 'rtl'));
+
   const handleChangeMonth = (month: number) => {
+    if (isPersianLocale && isDefined(plainDate)) {
+      const currentJalali = gregorianToJalali(
+        plainDate.year,
+        plainDate.month,
+        plainDate.day,
+      );
+      const maxDays = getDaysInJalaliMonth(currentJalali.jalaliYear, month);
+      const safeDay = Math.min(currentJalali.jalaliDay, maxDays);
+      const { gregorianYear, gregorianMonth, gregorianDay } =
+        jalaliToGregorian(currentJalali.jalaliYear, month, safeDay);
+      const newDate = Temporal.PlainDate.from({
+        year: gregorianYear,
+        month: gregorianMonth,
+        day: gregorianDay,
+      });
+      onChange?.(newDate.toString());
+      return;
+    }
     const newDate = plainDate?.with({ month: month });
 
     onChange?.(newDate?.toString() ?? null);
   };
 
   const handleAddMonth = () => {
+    if (isPersianLocale && isDefined(plainDate)) {
+      const currentJalali = gregorianToJalali(
+        plainDate.year,
+        plainDate.month,
+        plainDate.day,
+      );
+      let nextMonth = currentJalali.jalaliMonth + 1;
+      let nextYear = currentJalali.jalaliYear;
+      if (nextMonth > 12) {
+        nextMonth = 1;
+        nextYear += 1;
+      }
+      const maxDays = getDaysInJalaliMonth(nextYear, nextMonth);
+      const safeDay = Math.min(currentJalali.jalaliDay, maxDays);
+      const { gregorianYear, gregorianMonth, gregorianDay } =
+        jalaliToGregorian(nextYear, nextMonth, safeDay);
+      const newDate = Temporal.PlainDate.from({
+        year: gregorianYear,
+        month: gregorianMonth,
+        day: gregorianDay,
+      });
+      onChange?.(newDate.toString());
+      return;
+    }
     const newDate = plainDate?.add({ months: 1 });
 
     onChange?.(newDate?.toString() ?? null);
   };
 
   const handleSubtractMonth = () => {
+    if (isPersianLocale && isDefined(plainDate)) {
+      const currentJalali = gregorianToJalali(
+        plainDate.year,
+        plainDate.month,
+        plainDate.day,
+      );
+      let prevMonth = currentJalali.jalaliMonth - 1;
+      let prevYear = currentJalali.jalaliYear;
+      if (prevMonth < 1) {
+        prevMonth = 12;
+        prevYear -= 1;
+      }
+      const maxDays = getDaysInJalaliMonth(prevYear, prevMonth);
+      const safeDay = Math.min(currentJalali.jalaliDay, maxDays);
+      const { gregorianYear, gregorianMonth, gregorianDay } =
+        jalaliToGregorian(prevYear, prevMonth, safeDay);
+      const newDate = Temporal.PlainDate.from({
+        year: gregorianYear,
+        month: gregorianMonth,
+        day: gregorianDay,
+      });
+      onChange?.(newDate.toString());
+      return;
+    }
     const newDate = plainDate?.subtract({ months: 1 });
 
     onChange?.(newDate?.toString() ?? null);
   };
 
   const handleChangeYear = (year: number) => {
+    if (isPersianLocale && isDefined(plainDate)) {
+      const currentJalali = gregorianToJalali(
+        plainDate.year,
+        plainDate.month,
+        plainDate.day,
+      );
+      const maxDays = getDaysInJalaliMonth(year, currentJalali.jalaliMonth);
+      const safeDay = Math.min(currentJalali.jalaliDay, maxDays);
+      const { gregorianYear, gregorianMonth, gregorianDay } =
+        jalaliToGregorian(year, currentJalali.jalaliMonth, safeDay);
+      const newDate = Temporal.PlainDate.from({
+        year: gregorianYear,
+        month: gregorianMonth,
+        day: gregorianDay,
+      });
+      onChange?.(newDate.toString());
+      return;
+    }
     const newDate = plainDate?.with({ year: year });
 
     onChange?.(newDate?.toString() ?? null);
@@ -217,8 +310,9 @@ export const DatePicker = ({
     handleClose?.(plainDatePicked.toString());
   };
 
-  const calendarStartDay =
-    currentWorkspaceMember?.calendarStartDay === CalendarStartDay.SYSTEM
+  const calendarStartDay = isPersianLocale
+    ? 6
+    : currentWorkspaceMember?.calendarStartDay === CalendarStartDay.SYSTEM
       ? CalendarStartDay[detectCalendarStartDay()]
       : (currentWorkspaceMember?.calendarStartDay ?? undefined);
 
@@ -270,6 +364,40 @@ export const DatePicker = ({
             calendarStartDay={
               calendarStartDay as 0 | 1 | 2 | 3 | 4 | 5 | 6 | undefined
             }
+            formatWeekDay={
+              isPersianLocale
+                ? (dayName: string) => {
+                    const persianDayMap: Record<string, string> = {
+                      Saturday: 'ش',
+                      Sunday: 'ی',
+                      Monday: 'د',
+                      Tuesday: 'س',
+                      Wednesday: 'چ',
+                      Thursday: 'پ',
+                      Friday: 'ج',
+                      Sat: 'ش',
+                      Sun: 'ی',
+                      Mon: 'د',
+                      Tue: 'س',
+                      Wed: 'چ',
+                      Thu: 'پ',
+                      Fri: 'ج',
+                    };
+                    return persianDayMap[dayName] ?? dayName.charAt(0);
+                  }
+                : undefined
+            }
+            renderDayContents={(dayOfMonth: number, date?: Date) => {
+              if (isPersianLocale && date) {
+                const jalali = gregorianToJalali(
+                  date.getFullYear(),
+                  date.getMonth() + 1,
+                  date.getDate(),
+                );
+                return jalali.jalaliDay;
+              }
+              return dayOfMonth;
+            }}
             renderCustomHeader={({
               monthDate,
               decreaseMonth,

@@ -19,6 +19,12 @@ type PhonesDisplayProps = {
   ) => void;
 };
 
+const StyledPhoneWrapper = styled.div`
+  direction: ltr;
+  display: inline-flex;
+  unicode-bidi: isolate;
+`;
+
 const StyledContainer = styled.div`
   align-items: center;
   display: flex;
@@ -80,16 +86,17 @@ export const PhonesDisplay = ({
           parsePhoneNumberOrReturnInvalidValue(callingCode + number);
         const URI = parsedPhone?.getURI();
         return (
-          <RoundedLink
-            key={index}
-            href={URI || ''}
-            label={
-              parsedPhone ? parsedPhone.formatInternational() : invalidPhone
-            }
-            onClick={(event) =>
-              onPhoneNumberClick?.(callingCode + number, event)
-            }
-          />
+          <StyledPhoneWrapper key={index}>
+            <RoundedLink
+              href={URI || ''}
+              label={
+                parsedPhone ? parsedPhone.formatInternational() : invalidPhone
+              }
+              onClick={(event) =>
+                onPhoneNumberClick?.(callingCode + number, event)
+              }
+            />
+          </StyledPhoneWrapper>
         );
       })}
     </ExpandableList>
@@ -100,16 +107,17 @@ export const PhonesDisplay = ({
           parsePhoneNumberOrReturnInvalidValue(callingCode + number);
         const URI = parsedPhone?.getURI();
         return (
-          <RoundedLink
-            key={index}
-            href={URI || ''}
-            label={
-              parsedPhone ? parsedPhone.formatInternational() : invalidPhone
-            }
-            onClick={(event) =>
-              onPhoneNumberClick?.(callingCode + number, event)
-            }
-          />
+          <StyledPhoneWrapper key={index}>
+            <RoundedLink
+              href={URI || ''}
+              label={
+                parsedPhone ? parsedPhone.formatInternational() : invalidPhone
+              }
+              onClick={(event) =>
+                onPhoneNumberClick?.(callingCode + number, event)
+              }
+            />
+          </StyledPhoneWrapper>
         );
       })}
     </StyledContainer>

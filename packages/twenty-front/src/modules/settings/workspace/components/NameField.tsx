@@ -18,9 +18,7 @@ import { logError } from '~/utils/logError';
 const StyledComboInputContainer = styled.div`
   display: flex;
   flex-direction: row;
-  > * + * {
-    margin-left: ${themeCssVariables.spacing[4]};
-  }
+  gap: ${themeCssVariables.spacing[4]};
 `;
 
 type NameFieldProps = {

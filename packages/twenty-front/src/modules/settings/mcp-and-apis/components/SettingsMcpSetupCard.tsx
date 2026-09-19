@@ -50,17 +50,19 @@ const StyledTitle = styled.div`
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  text-align: start;
 `;
 
 const StyledActionSlot = styled.div`
   display: flex;
   flex: 0 0 auto;
-  margin-left: auto;
+  margin-inline-start: auto;
 `;
 
 const StyledDescription = styled.div`
   color: ${themeCssVariables.font.color.secondary};
   font-size: ${themeCssVariables.font.size.sm};
+  text-align: start;
 `;
 
 // Install links use custom URI schemes (goose://, vscode:, lmstudio://) that

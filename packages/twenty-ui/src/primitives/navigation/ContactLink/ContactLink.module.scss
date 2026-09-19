@@ -1,9 +1,11 @@
 .root {
   color: inherit;
+  direction: ltr;
   overflow: hidden;
   text-decoration: underline;
   text-decoration-color: var(--t-border-color-strong);
   text-overflow: ellipsis;
+  unicode-bidi: isolate;
   white-space: nowrap;
   width: 100%;
 

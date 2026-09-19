@@ -45,6 +45,16 @@ export { isPlainDateBeforeOrEqual } from './date/isPlainDateBeforeOrEqual';
 export { isPlainDateInSameMonth } from './date/isPlainDateInSameMonth';
 export { isPlainDateInWeekend } from './date/isPlainDateInWeekend';
 export { isSamePlainDate } from './date/isSamePlainDate';
+export type { JalaliDate, GregorianDate } from './date/jalali';
+export {
+  JALALI_MONTH_NAMES,
+  JALALI_WEEKDAY_NAMES,
+  isJalaliLeapYear,
+  getDaysInJalaliMonth,
+  gregorianToJalali,
+  jalaliToGregorian,
+  formatJalaliFromDate,
+} from './date/jalali';
 export { parseToInstantOrThrow } from './date/parseToInstantOrThrow';
 export { parseToPlainDateOrThrow } from './date/parseToPlainDateOrThrow';
 export { sortPlainDate } from './date/sortPlainDate';

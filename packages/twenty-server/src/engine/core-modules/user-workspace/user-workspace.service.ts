@@ -148,7 +148,7 @@ export class UserWorkspaceService {
       userId,
       workspaceId,
       defaultAvatarUrl,
-      locale: locale ?? SOURCE_LOCALE,
+      locale: locale ?? APP_LOCALES['fa-IR'],
     });
 
     return queryRunner
@@ -198,7 +198,7 @@ export class UserWorkspaceService {
         userId: user.id,
         userEmail: user.email,
         avatarUrl: userWorkspace.defaultAvatarUrl ?? null,
-        locale: (user.locale ?? SOURCE_LOCALE) as keyof typeof APP_LOCALES,
+        locale: (user.locale ?? APP_LOCALES['fa-IR']) as keyof typeof APP_LOCALES,
       });
 
       const workspaceMember = await workspaceMemberRepository.find({

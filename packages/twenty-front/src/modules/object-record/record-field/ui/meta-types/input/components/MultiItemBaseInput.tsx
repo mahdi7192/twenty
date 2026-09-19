@@ -43,11 +43,22 @@ const StyledInput = styled.input<{
   height: 32px;
   outline: none;
   padding: ${themeCssVariables.spacing[0]} ${themeCssVariables.spacing[2]};
-  padding-right: ${({ withRightComponent }) =>
+  padding-inline-end: ${({ withRightComponent }) =>
     withRightComponent ? '32px' : '0'};
   position: relative;
 
   width: 100%;
+
+  &[dir='ltr'] {
+    direction: ltr;
+    text-align: left;
+
+    &::placeholder,
+    &::-webkit-input-placeholder {
+      direction: ltr;
+      text-align: left;
+    }
+  }
 `;
 
 const StyledInputContainer = styled.div`
@@ -62,8 +73,8 @@ const StyledInputContainer = styled.div`
 `;
 
 const StyledRightContainer = styled.div`
+  inset-inline-end: ${themeCssVariables.spacing[2]};
   position: absolute;
-  right: ${themeCssVariables.spacing[2]};
   top: 50%;
   transform: translateY(-50%);
 `;
@@ -157,6 +168,14 @@ export const MultiItemBaseInput = forwardRef<
               autoFocus={autoFocus}
               value={value}
               placeholder={placeholder}
+              dir={
+                typeof placeholder === 'string' &&
+                /(@|https?:\/\/|www\.|\.(com|org|net|dev|io|app|co|ir)\b|[0-9]{3,})/.test(
+                  placeholder,
+                )
+                  ? 'ltr'
+                  : undefined
+              }
               onChange={(event) => onChange(event.target.value)}
               ref={combinedRef}
               withRightComponent={isDefined(rightComponent)}

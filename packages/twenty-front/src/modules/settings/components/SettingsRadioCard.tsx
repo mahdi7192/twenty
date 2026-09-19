@@ -26,19 +26,21 @@ const StyledRadioCardContentContainer = styled.label`
 const StyledRadioContainer = styled.span`
   align-items: center;
   display: flex;
-  margin-left: auto;
+  margin-inline-start: auto;
   padding: ${themeCssVariables.spacing[1]};
 `;
 
 const StyledTitle = styled.div`
   color: ${themeCssVariables.font.color.secondary};
   font-weight: ${themeCssVariables.font.weight.medium};
+  text-align: start;
 `;
 
 const StyledDescription = styled.div`
   color: ${themeCssVariables.font.color.tertiary};
   font-size: ${themeCssVariables.font.size.sm};
   line-height: ${themeCssVariables.text.lineHeight.lg};
+  text-align: start;
 `;
 
 type SettingsRadioCardProps = {

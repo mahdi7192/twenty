@@ -11,6 +11,7 @@ import { REACT_APP_SERVER_BASE_URL } from '~/config';
 const StyledContainer = styled.div`
   display: flex;
   flex-direction: row;
+  gap: ${themeCssVariables.spacing[4]};
 `;
 
 const StyledPicture = styled.button<{ withPicture: boolean }>`
@@ -57,8 +58,6 @@ const StyledContent = styled.div`
   flex-direction: column;
   gap: ${themeCssVariables.spacing[3]};
   justify-content: start;
-
-  margin-left: ${themeCssVariables.spacing[4]};
 `;
 
 const StyledButtonContainer = styled.div`

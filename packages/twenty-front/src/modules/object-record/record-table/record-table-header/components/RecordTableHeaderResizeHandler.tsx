@@ -15,10 +15,14 @@ export const RecordTableHeaderResizeHandler = ({
 }) => {
   const { visibleRecordFields } = useRecordTableContextOrThrow();
 
-  const recordField: RecordField | undefined =
-    position === 'left'
-      ? visibleRecordFields[recordFieldIndex - 1]
-      : visibleRecordFields[recordFieldIndex];
+  const isRtl =
+    typeof document !== 'undefined' && document.documentElement.dir === 'rtl';
+
+  const isTrailingHandle = isRtl ? position === 'left' : position === 'right';
+
+  const recordField: RecordField | undefined = isTrailingHandle
+    ? visibleRecordFields[recordFieldIndex]
+    : visibleRecordFields[recordFieldIndex - 1];
 
   const isMobile = useIsMobile();
 

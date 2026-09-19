@@ -17,7 +17,7 @@ import { ClickOutsideListenerContext } from '@/ui/utilities/pointer-event/contex
 import { t } from '@lingui/core/macro';
 import { type Temporal } from 'temporal-polyfill';
 import { SOURCE_LOCALE } from 'twenty-shared/translations';
-import { isDefined } from 'twenty-shared/utils';
+import { gregorianToJalali, isDefined } from 'twenty-shared/utils';
 import {
   IconCalendar,
   IconChevronLeft,
@@ -38,6 +38,17 @@ export const DATE_TIME_PICKER_MONTH_YEAR_PANEL_DROPDOWN_ID =
 const YEARS_SELECT_OPTIONS = Array.from(
   { length: 200 },
   (_, i) => new Date().getFullYear() + 50 - i,
+).map((year) => ({ label: year.toString(), value: year }));
+
+const currentJalaliYear = gregorianToJalali(
+  new Date().getFullYear(),
+  1,
+  1,
+).jalaliYear;
+
+const JALALI_YEARS_SELECT_OPTIONS = Array.from(
+  { length: 150 },
+  (_, i) => currentJalaliYear + 20 - i,
 ).map((year) => ({ label: year.toString(), value: year }));
 
 const StyledTimeRow = styled.div`
@@ -156,6 +167,19 @@ export const DateTimePickerHeader = ({
 
   const currentWorkspaceMember = useAtomStateValue(currentWorkspaceMemberState);
   const userLocale = currentWorkspaceMember?.locale ?? SOURCE_LOCALE;
+  const isPersian =
+    userLocale.startsWith('fa') ||
+    (typeof document !== 'undefined' &&
+      (document.documentElement.lang?.startsWith('fa') ||
+        document.documentElement.dir === 'rtl'));
+
+  const jalali = isPersian && isDefined(date)
+    ? gregorianToJalali(date.year, date.month, date.day)
+    : null;
+
+  const currentMonthValue = isPersian ? jalali?.jalaliMonth : date?.month;
+  const currentYearValue = isPersian ? jalali?.jalaliYear : date?.year;
+  const yearOptions = isPersian ? JALALI_YEARS_SELECT_OPTIONS : YEARS_SELECT_OPTIONS;
 
   const { closeDropdown: closeMonthSelect } = useCloseDropdown();
   const { closeDropdown: closeYearSelect } = useCloseDropdown();
@@ -245,9 +269,9 @@ export const DateTimePickerHeader = ({
                 >
                   <Select
                     dropdownId={MONTH_AND_YEAR_DROPDOWN_MONTH_SELECT_ID}
-                    options={getMonthSelectOptions(userLocale)}
+                    options={getMonthSelectOptions(isPersian ? 'fa-IR' : userLocale)}
                     onChange={onChangeMonth}
-                    value={date?.month}
+                    value={currentMonthValue}
                     fullWidth={false}
                     dropdownWidth={160}
                   />
@@ -261,8 +285,8 @@ export const DateTimePickerHeader = ({
                   <Select
                     dropdownId={MONTH_AND_YEAR_DROPDOWN_YEAR_SELECT_ID}
                     onChange={onChangeYear}
-                    value={date?.year}
-                    options={YEARS_SELECT_OPTIONS}
+                    value={currentYearValue}
+                    options={yearOptions}
                     fullWidth={false}
                     dropdownWidth={160}
                   />

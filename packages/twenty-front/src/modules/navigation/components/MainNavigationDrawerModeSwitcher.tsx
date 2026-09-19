@@ -130,6 +130,8 @@ export const MainNavigationDrawerModeSwitcher = () => {
   }
 
   const shouldShowTooltips = !isExpanded && !isMobile;
+  const isRtl =
+    typeof document !== 'undefined' && document.documentElement.dir === 'rtl';
 
   return (
     <StyledSwitcher
@@ -155,7 +157,7 @@ export const MainNavigationDrawerModeSwitcher = () => {
             }
             disabled={!shouldShowTooltips && !isDisabled}
             delay={TooltipDelay.noDelay}
-            side={isExpanded ? 'bottom' : 'right'}
+            side={isExpanded ? 'bottom' : isRtl ? 'left' : 'right'}
             positionMethod="fixed"
           >
             <StyledMode
