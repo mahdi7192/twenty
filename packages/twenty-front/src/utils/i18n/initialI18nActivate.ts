@@ -17,19 +17,33 @@ export const initialI18nActivate = () => {
     ? normalizeLocale(storageLocale)
     : null;
 
+  const manuallySelected =
+    typeof localStorage !== 'undefined' &&
+    localStorage.getItem('locale_manually_selected') === 'true';
+
   if (isDefined(normalizedUrlLocale) && isValidLocale(normalizedUrlLocale)) {
     locale = normalizedUrlLocale;
     try {
       localStorage.setItem('locale', normalizedUrlLocale);
+      localStorage.setItem('locale_manually_selected', 'true');
     } catch (error) {
       // oxlint-disable-next-line no-console
       console.log('Failed to save locale to localStorage:', error);
     }
   } else if (
+    manuallySelected &&
     isDefined(normalizedStorageLocale) &&
     isValidLocale(normalizedStorageLocale)
   ) {
     locale = normalizedStorageLocale;
+  } else {
+    locale = APP_LOCALES['fa-IR'];
+    try {
+      localStorage.setItem('locale', APP_LOCALES['fa-IR']);
+    } catch (error) {
+      // oxlint-disable-next-line no-console
+      console.log('Failed to save locale to localStorage:', error);
+    }
   }
 
   if (typeof document !== 'undefined') {

@@ -8,8 +8,8 @@ import {
 export const dynamicActivate = async (locale: keyof typeof APP_LOCALES) => {
   if (!Object.values(APP_LOCALES).includes(locale)) {
     // oxlint-disable-next-line no-console
-    console.warn(`Invalid locale "${locale}", defaulting to "en"`);
-    locale = SOURCE_LOCALE;
+    console.warn(`Invalid locale "${locale}", defaulting to "fa-IR"`);
+    locale = APP_LOCALES['fa-IR'];
   }
   const { messages } = await import(`../../locales/generated/${locale}.ts`);
   i18n.load(locale, messages);

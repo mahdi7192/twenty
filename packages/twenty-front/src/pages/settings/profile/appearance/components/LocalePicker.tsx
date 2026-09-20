@@ -69,6 +69,7 @@ export const LocalePicker = () => {
     await dynamicActivate(value);
     try {
       localStorage.setItem('locale', value);
+      localStorage.setItem('locale_manually_selected', 'true');
     } catch (error) {
       // oxlint-disable-next-line no-console
       console.log('Failed to save locale to localStorage:', error);

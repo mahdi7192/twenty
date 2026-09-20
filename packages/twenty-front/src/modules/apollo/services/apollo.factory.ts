@@ -29,6 +29,7 @@ import {
   type SelectionNode,
 } from 'graphql';
 import isEmpty from 'lodash.isempty';
+import { APP_LOCALES } from 'twenty-shared/translations';
 import { getGenericOperationName, isDefined } from 'twenty-shared/utils';
 
 const logger = loggerLink(() => 'Twenty');
@@ -97,7 +98,10 @@ export class ApolloFactory implements ApolloManager {
       });
 
       const authLink = setContext(async (_, { headers }) => {
-        const locale = this.currentWorkspaceMember?.locale ?? i18n.locale;
+        const locale =
+          this.currentWorkspaceMember?.locale ??
+          i18n.locale ??
+          APP_LOCALES['fa-IR'];
 
         return {
           sessionGeneration: getSessionGeneration(),

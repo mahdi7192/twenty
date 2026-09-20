@@ -792,7 +792,7 @@ export class SignInUpService {
                 : userData.newUserWithPicture.picture,
               applicationUniversalIdentifier:
                 customApplication.universalIdentifier,
-              locale: user.locale,
+              locale: user.locale ?? 'fa-IR',
             },
             queryRunner,
           );

@@ -529,7 +529,7 @@ export function generateRandomUsers(): {
       id: workspaceMemberId,
       nameFirstName: firstName,
       nameLastName: lastName,
-      locale: 'en',
+      locale: 'fa-IR',
       colorScheme: COLOR_SCHEMES[colorSchemeIndex],
       userEmail: email,
       userId,

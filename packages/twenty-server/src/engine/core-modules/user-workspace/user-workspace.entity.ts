@@ -66,7 +66,7 @@ export class UserWorkspaceEntity extends WorkspaceRelatedEntity {
   defaultAvatarUrl: string;
 
   @Field(() => String, { nullable: false })
-  @Column({ nullable: false, default: SOURCE_LOCALE, type: 'varchar' })
+  @Column({ nullable: false, default: APP_LOCALES['fa-IR'], type: 'varchar' })
   locale: keyof typeof APP_LOCALES;
 
   @Field()

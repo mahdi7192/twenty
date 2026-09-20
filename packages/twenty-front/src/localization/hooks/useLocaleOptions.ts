@@ -33,6 +33,10 @@ const LOCALE_SEARCH_KEYWORDS: Record<string, string> = Object.fromEntries(
   ]),
 );
 
+const LOCALE_EXTRA_SEARCH_KEYWORDS: Record<string, string> = {
+  'fa-IR': 'farsi persian فارسی فارسى fa iran ایرانی ايراني',
+};
+
 export const useLocaleOptions = (): LocaleOption[] => {
   const { t } = useLingui();
 
@@ -68,7 +72,7 @@ export const useLocaleOptions = (): LocaleOption[] => {
     'sr-Cyrl': t`Serbian (Cyrillic)`,
     'sr-Latn': t`Serbian (Latin)`,
     'es-ES': t`Spanish`,
-    'fa-IR': t`Persian (فارسی)`,
+    'fa-IR': t`فارسی (Persian)`,
     'sv-SE': t`Swedish`,
     'tr-TR': t`Turkish`,
     'uk-UA': t`Ukrainian`,
@@ -86,7 +90,18 @@ export const useLocaleOptions = (): LocaleOption[] => {
     .map(([locale, label]) => ({
       label,
       value: locale as LocaleOption['value'],
-      searchKeywords: LOCALE_SEARCH_KEYWORDS[locale] ?? '',
+      searchKeywords: [
+        LOCALE_SEARCH_KEYWORDS[locale] ?? '',
+        LOCALE_EXTRA_SEARCH_KEYWORDS[locale] ?? '',
+      ]
+        .join(' ')
+        .trim(),
     }))
-    .sort((a, b) => a.label.localeCompare(b.label));
+    .sort((a, b) => {
+      if (a.value === APP_LOCALES['fa-IR']) return -1;
+      if (b.value === APP_LOCALES['fa-IR']) return 1;
+      if (a.value === APP_LOCALES.en) return -1;
+      if (b.value === APP_LOCALES.en) return 1;
+      return a.label.localeCompare(b.label);
+    });
 };

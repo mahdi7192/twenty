@@ -47,7 +47,7 @@ export const prefillDashboards = async (
     .values([
       {
         id: MY_FIRST_DASHBOARD_ID,
-        title: 'My First Dashboard',
+        title: 'اولین داشبورد من',
         pageLayoutId: myFirstDashboardPageLayout.id,
         position: 0,
         createdBySource: FieldActorSource.SYSTEM,

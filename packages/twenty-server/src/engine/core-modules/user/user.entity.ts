@@ -89,7 +89,7 @@ export class UserEntity {
   deletedAt: Date;
 
   @Field(() => String, { nullable: false })
-  @Column({ nullable: false, default: SOURCE_LOCALE, type: 'varchar' })
+  @Column({ nullable: false, default: APP_LOCALES['fa-IR'], type: 'varchar' })
   locale: keyof typeof APP_LOCALES;
 
   @OneToMany(() => AppTokenEntity, (appToken) => appToken.user, {

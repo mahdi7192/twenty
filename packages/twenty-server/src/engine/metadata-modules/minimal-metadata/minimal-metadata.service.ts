@@ -87,7 +87,7 @@ export class MinimalMetadataService {
       })
       .filter(isDefined);
 
-    const safeLocale = (locale as keyof typeof APP_LOCALES) ?? SOURCE_LOCALE;
+    const safeLocale = (locale as keyof typeof APP_LOCALES) ?? APP_LOCALES['fa-IR'];
     const i18nInstance = this.i18nService.getI18nInstance(safeLocale);
 
     const objectMetadataItems: MinimalObjectMetadataDTO[] = Object.values(

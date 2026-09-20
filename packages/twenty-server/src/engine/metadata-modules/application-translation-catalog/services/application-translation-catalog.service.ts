@@ -144,7 +144,7 @@ export class ApplicationTranslationCatalogService {
     locale: keyof typeof APP_LOCALES | undefined;
     workspaceId: string;
   }): Promise<EffectiveEntityI18nContext> {
-    const safeLocale = locale ?? SOURCE_LOCALE;
+    const safeLocale = locale ?? APP_LOCALES['fa-IR'];
 
     if (!isDefined(loaders)) {
       const getI18nContext = await this.getI18nContextByApplicationId({
@@ -197,7 +197,7 @@ export class ApplicationTranslationCatalogService {
         this.getApplicationAuthorIdentifiers({ workspaceId }),
         this.getCatalogs({
           applicationIds,
-          locale: locale ?? SOURCE_LOCALE,
+          locale: locale ?? APP_LOCALES['fa-IR'],
           workspaceId,
         }),
       ]);
@@ -225,7 +225,7 @@ export class ApplicationTranslationCatalogService {
     locale: keyof typeof APP_LOCALES | undefined;
   }): (applicationId: string | undefined) => EffectiveEntityI18nContext {
     const i18nInstance = this.i18nService.getI18nInstance(
-      locale ?? SOURCE_LOCALE,
+      locale ?? APP_LOCALES['fa-IR'],
     );
 
     return (applicationId) => ({

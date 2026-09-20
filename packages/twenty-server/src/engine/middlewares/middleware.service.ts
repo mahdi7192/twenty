@@ -155,9 +155,13 @@ export class MiddlewareService {
 
   public async hydrateGraphqlRequest(request: Request) {
     if (!this.isTokenPresent(request)) {
+      const headerLocale = request.headers['x-locale'] as
+        | keyof typeof APP_LOCALES
+        | undefined;
+
       request.locale =
-        (request.headers['x-locale'] as keyof typeof APP_LOCALES) ??
-        SOURCE_LOCALE;
+        (headerLocale && APP_LOCALES[headerLocale] ? headerLocale : undefined) ??
+        APP_LOCALES['fa-IR'];
 
       return;
     }

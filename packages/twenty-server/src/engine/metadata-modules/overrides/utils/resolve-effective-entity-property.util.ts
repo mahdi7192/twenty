@@ -1,7 +1,7 @@
 import { isNonEmptyString } from '@sniptt/guards';
 import { type TranslatableMetadataName } from 'twenty-shared/i18n';
 import { type AllMetadataName } from 'twenty-shared/metadata';
-import { SOURCE_LOCALE } from 'twenty-shared/translations';
+import { APP_LOCALES } from 'twenty-shared/translations';
 import { isDefined } from 'twenty-shared/utils';
 
 import { translateStandardLabel } from 'src/engine/core-modules/i18n/utils/translate-standard-label.util';
@@ -66,7 +66,7 @@ const resolveEffectiveProperty = ({
 
   const { locale, i18nInstance, isStandardApp, applicationCatalog } =
     i18nContext;
-  const safeLocale = locale ?? SOURCE_LOCALE;
+  const safeLocale = locale ?? APP_LOCALES['fa-IR'];
   const safeBaseValue = baseValue ?? '';
 
   // Workspace-authored translations apply to every entity, custom ones

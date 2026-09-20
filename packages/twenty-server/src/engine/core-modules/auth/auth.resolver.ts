@@ -7,7 +7,7 @@ import { type Request } from 'express';
 import GraphQLUpload from 'graphql-upload/GraphQLUpload.mjs';
 import omit from 'lodash.omit';
 import { PermissionFlagType } from 'twenty-shared/constants';
-import { SOURCE_LOCALE } from 'twenty-shared/translations';
+import { APP_LOCALES } from 'twenty-shared/translations';
 import { TwoFactorAuthenticationStrategy } from 'twenty-shared/types';
 import { assertIsDefinedOrThrow, isDefined } from 'twenty-shared/utils';
 import { Repository } from 'typeorm';
@@ -471,7 +471,7 @@ export class AuthResolver {
       userId: user.id,
       email: user.email,
       workspace: undefined,
-      locale: signUpInput.locale ?? SOURCE_LOCALE,
+      locale: signUpInput.locale ?? APP_LOCALES['fa-IR'],
       verifyEmailRedirectPath: signUpInput.verifyEmailRedirectPath,
       verificationTrigger: EmailVerificationTrigger.SIGN_UP,
     });
@@ -562,7 +562,7 @@ export class AuthResolver {
       userId: user.id,
       email: user.email,
       workspace,
-      locale: signUpInput.locale ?? SOURCE_LOCALE,
+      locale: signUpInput.locale ?? APP_LOCALES['fa-IR'],
       verifyEmailRedirectPath: signUpInput.verifyEmailRedirectPath,
       verificationTrigger: EmailVerificationTrigger.SIGN_UP,
     });

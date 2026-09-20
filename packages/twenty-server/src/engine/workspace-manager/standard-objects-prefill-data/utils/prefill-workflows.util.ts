@@ -198,7 +198,7 @@ export const prefillWorkflows = async (
     .values([
       {
         id: quickLeadWorkflowId,
-        name: 'Quick Lead',
+        name: 'سرنخ سریع',
         lastPublishedVersionId: quickLeadWorkflowVersionId,
         statuses: ['ACTIVE'],
         position: 1,
@@ -213,7 +213,7 @@ export const prefillWorkflows = async (
       },
       {
         id: createCompanyWorkflowId,
-        name: 'Create company when adding a new person',
+        name: 'ایجاد شرکت هنگام افزودن شخص جدید',
         lastPublishedVersionId: createCompanyWorkflowVersionId,
         statuses: ['ACTIVE'],
         position: 2,
@@ -241,7 +241,7 @@ export const prefillWorkflows = async (
         workspaceId,
         universalIdentifier: quickLeadWorkflowUniversalIdentifier,
         applicationId,
-        name: 'Quick Lead',
+        name: 'سرنخ سریع',
         lastPublishedVersionId: quickLeadWorkflowVersionId,
         workspaceWorkflowId: quickLeadWorkflowId,
         lastPublishedCoreWorkflowVersionId: coreQuickLeadWorkflowVersionId,
@@ -251,7 +251,7 @@ export const prefillWorkflows = async (
         workspaceId,
         universalIdentifier: createCompanyWorkflowUniversalIdentifier,
         applicationId,
-        name: 'Create company when adding a new person',
+        name: 'ایجاد شرکت هنگام افزودن شخص جدید',
         lastPublishedVersionId: createCompanyWorkflowVersionId,
         workspaceWorkflowId: createCompanyWorkflowId,
         lastPublishedCoreWorkflowVersionId: coreCreateCompanyWorkflowVersionId,
@@ -260,7 +260,7 @@ export const prefillWorkflows = async (
     .execute();
 
   const quickLeadTrigger = {
-    name: 'Launch manually',
+    name: 'اجرای دستی',
     type: 'MANUAL',
     settings: {
       outputSchema: {},
@@ -271,7 +271,7 @@ export const prefillWorkflows = async (
   };
 
   const createCompanyTrigger = {
-    name: 'Record is created or updated',
+    name: 'رکورد ایجاد یا به‌روزرسانی شد',
     type: 'DATABASE_EVENT',
     settings: {
       eventName: 'person.upserted',
@@ -292,7 +292,7 @@ export const prefillWorkflows = async (
   const quickLeadSteps = JSON.stringify([
     {
       id: '6e089bc9-aabd-435f-865f-f31c01c8f4a7',
-      name: 'Quick Lead Form',
+      name: 'فرم ثبت سریع سرنخ',
       type: 'FORM',
       valid: false,
       settings: {
@@ -301,79 +301,79 @@ export const prefillWorkflows = async (
             id: '14d669f0-5249-4fa4-b0bb-f8bd408328d5',
             name: 'firstName',
             type: 'TEXT',
-            label: 'First name',
-            placeholder: 'Tim',
+            label: 'نام',
+            placeholder: 'علی',
           },
           {
             id: '4eb6ce85-d231-4aef-9837-744490c026d0',
             name: 'lastName',
             type: 'TEXT',
-            label: 'Last Name',
-            placeholder: 'Apple',
+            label: 'نام خانوادگی',
+            placeholder: 'محمدی',
           },
           {
             id: 'adbf0e9f-1427-49be-b4fb-092b34d97350',
             name: 'email',
             type: 'TEXT',
-            label: 'Email',
-            placeholder: 'timapple@apple.com',
+            label: 'ایمیل',
+            placeholder: 'ali.mohammadi@example.ir',
           },
           {
             id: '4ffc7992-9e65-4a4d-9baf-b52e62f2c273',
             name: 'jobTitle',
             type: 'TEXT',
-            label: 'Job title',
-            placeholder: 'CEO',
+            label: 'عنوان شغلی',
+            placeholder: 'مدیر عامل',
           },
           {
             id: '42f11926-04ea-4924-94a4-2293cc748362',
             name: 'companyName',
             type: 'TEXT',
-            label: 'Company name',
-            placeholder: 'Apple',
+            label: 'نام شرکت',
+            placeholder: 'دیجی‌کالا',
           },
           {
             id: 'd6ca80ee-26cd-466d-91bf-984d7205451c',
             name: 'companyDomain',
             type: 'TEXT',
-            label: 'Company domain',
-            placeholder: 'https://www.apple.com',
+            label: 'دامنه شرکت',
+            placeholder: 'https://digikala.com',
           },
         ],
         outputSchema: {
           email: {
             type: 'TEXT',
-            label: 'Email',
+            label: 'ایمیل',
             value: 'My text',
             isLeaf: true,
           },
           jobTitle: {
             type: 'TEXT',
-            label: 'Job title',
+            label: 'عنوان شغلی',
             value: 'My text',
             isLeaf: true,
           },
           lastName: {
             type: 'TEXT',
-            label: 'Last Name',
+            label: 'نام خانوادگی',
             value: 'My text',
             isLeaf: true,
           },
           firstName: {
             type: 'TEXT',
-            label: 'First name',
+            label: 'نام',
             value: 'My text',
             isLeaf: true,
           },
           companyName: {
             type: 'TEXT',
-            label: 'Company name',
+            label: 'نام شرکت',
             value: 'My text',
             isLeaf: true,
           },
           companyDomain: {
             type: 'TEXT',
-            label: 'Company domain',
+            label: 'دامنه شرکت',
             value: 'My text',
             isLeaf: true,
           },
@@ -388,7 +388,7 @@ export const prefillWorkflows = async (
     },
     {
       id: '0715b6cd-7cc1-4b98-971b-00f54dfe643b',
-      name: 'Create Company',
+      name: 'ایجاد شرکت',
       type: 'CREATE_RECORD',
       valid: false,
       settings: {
@@ -406,7 +406,7 @@ export const prefillWorkflows = async (
         outputSchema: {
           object: {
             icon: 'IconBuildingSkyscraper',
-            label: 'Company',
+            label: 'شرکت',
             value: 'A company',
             isLeaf: true,
             fieldIdName: 'id',
@@ -431,7 +431,7 @@ export const prefillWorkflows = async (
     },
     {
       id: '6f553ea7-b00e-4371-9d88-d8298568a246',
-      name: 'Create Person',
+      name: 'ایجاد مخاطب',
       type: 'CREATE_RECORD',
       valid: false,
       settings: {
@@ -471,7 +471,7 @@ export const prefillWorkflows = async (
   const createCompanySteps = JSON.stringify([
     {
       id: 'c30d7cbe-00e0-4966-bc1a-99b0a11a2cca',
-      name: 'Is this a personal email?',
+      name: 'آیا این ایمیل شخصی است؟',
       type: 'CODE',
       valid: false,
       position: {
@@ -507,7 +507,7 @@ export const prefillWorkflows = async (
     },
     {
       id: '01f3db05-aae5-4e4b-b361-96684f09c704',
-      name: 'If business email',
+      name: 'اگر ایمیل کاری باشد',
       type: 'FILTER',
       valid: false,
       position: {
@@ -551,7 +551,7 @@ export const prefillWorkflows = async (
     },
     {
       id: '1b01193b-8300-4d79-940b-44464bf45505',
-      name: 'Extract domain from email',
+      name: 'استخراج دامنه از ایمیل',
       type: 'CODE',
       valid: false,
       position: {
@@ -595,7 +595,7 @@ export const prefillWorkflows = async (
     },
     {
       id: 'becb3acf-79bb-4672-8a42-3696e94957b5',
-      name: 'Search Company',
+      name: 'جستجوی شرکت',
       type: 'FIND_RECORDS',
       valid: false,
       position: {
@@ -610,7 +610,7 @@ export const prefillWorkflows = async (
               {
                 id: 'a9b917a0-5c4c-4e8f-bf91-160d0b888693',
                 type: 'LINKS',
-                label: 'Domain Name',
+                label: 'نام دامنه',
                 value: '{{1b01193b-8300-4d79-940b-44464bf45505.domain}}',
                 operand: 'CONTAINS',
                 displayValue: '{{1b01193b-8300-4d79-940b-44464bf45505.domain}}',
@@ -643,7 +643,7 @@ export const prefillWorkflows = async (
     },
     {
       id: '9d0b6ef2-aad2-4853-92e1-95f2abf10d5b',
-      name: 'Find exact company match',
+      name: 'یافتن شرکت با تطابق دقیق',
       type: 'CODE',
       valid: false,
       position: {
@@ -686,7 +686,7 @@ export const prefillWorkflows = async (
     },
     {
       id: '0c99a900-656a-40e8-977e-5a7357be33b9',
-      name: 'If a company already exists',
+      name: 'اگر شرکت از قبل وجود دارد',
       type: 'IF_ELSE',
       valid: false,
       position: {
@@ -740,7 +740,7 @@ export const prefillWorkflows = async (
     },
     {
       id: 'ffdd4271-75d4-4805-b1f8-2167a113c3b2',
-      name: 'Attach person to existing company',
+      name: 'اتصال مخاطب به شرکت موجود',
       type: 'UPDATE_RECORD',
       valid: false,
       position: {
@@ -770,7 +770,7 @@ export const prefillWorkflows = async (
     },
     {
       id: 'ddafb9db-a94f-40b9-a5c9-becce857edf7',
-      name: 'Create a new company',
+      name: 'ایجاد شرکت جدید',
       type: 'CREATE_RECORD',
       valid: false,
       position: {
@@ -804,7 +804,7 @@ export const prefillWorkflows = async (
     },
     {
       id: 'd5d5d6e1-391f-4142-83c1-670f7087f079',
-      name: 'Attach person to this company',
+      name: 'اتصال مخاطب به این شرکت',
       type: 'UPDATE_RECORD',
       valid: false,
       position: {

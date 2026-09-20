@@ -1,5 +1,5 @@
 import { type Request } from 'express';
-import { type APP_LOCALES, SOURCE_LOCALE } from 'twenty-shared/translations';
+import { APP_LOCALES } from 'twenty-shared/translations';
 
 import { type RawAuthContext } from 'src/engine/core-modules/auth/types/raw-auth-context.type';
 
@@ -23,8 +23,13 @@ export const bindDataToRequestObject = (
   request.tokenType = data.tokenType;
   request.authenticatedAt = data.authenticatedAt;
 
+  const headerLocale = request.headers['x-locale'] as
+    | keyof typeof APP_LOCALES
+    | undefined;
+
   request.locale =
+    (headerLocale && APP_LOCALES[headerLocale] ? headerLocale : undefined) ??
+    (data.workspaceMember?.locale as keyof typeof APP_LOCALES | undefined) ??
     data.userWorkspace?.locale ??
-    (request.headers['x-locale'] as keyof typeof APP_LOCALES) ??
-    SOURCE_LOCALE;
+    APP_LOCALES['fa-IR'];
 };

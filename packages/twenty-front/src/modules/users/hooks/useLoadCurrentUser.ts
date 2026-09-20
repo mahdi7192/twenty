@@ -12,7 +12,7 @@ import { useAtomStateValue } from '@/ui/utilities/state/jotai/hooks/useAtomState
 import { useSetAtomState } from '@/ui/utilities/state/jotai/hooks/useSetAtomState';
 import { workspaceAuthBypassProvidersState } from '@/workspace/states/workspaceAuthBypassProvidersState';
 import { useCallback } from 'react';
-import { SOURCE_LOCALE, type APP_LOCALES } from 'twenty-shared/translations';
+import { APP_LOCALES } from 'twenty-shared/translations';
 import { type ObjectPermissions } from 'twenty-shared/types';
 import { isDefined } from 'twenty-shared/utils';
 import { toOpenRecordInPreference } from '@/workspace-member/utils/toOpenRecordInPreference';
@@ -95,14 +95,15 @@ export const useLoadCurrentUser = () => {
         openRecordIn: toOpenRecordInPreference(
           user.workspaceMember?.openRecordIn,
         ),
-        locale: user.workspaceMember?.locale ?? SOURCE_LOCALE,
+        locale: user.workspaceMember?.locale ?? APP_LOCALES['fa-IR'],
       };
 
       setCurrentWorkspaceMember(workspaceMember);
 
       initializeFormatPreferences(workspaceMember);
       dynamicActivate(
-        (workspaceMember.locale as keyof typeof APP_LOCALES) ?? SOURCE_LOCALE,
+        (workspaceMember.locale as keyof typeof APP_LOCALES) ??
+          APP_LOCALES['fa-IR'],
       );
     }
 

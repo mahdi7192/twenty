@@ -59,7 +59,7 @@ import { useRedirectToWorkspaceDomain } from '@/domain-manager/hooks/useRedirect
 import { useLoadCurrentUser } from '@/users/hooks/useLoadCurrentUser';
 import { i18n } from '@lingui/core';
 import { useNavigate, useSearchParams } from 'react-router-dom';
-import { SOURCE_LOCALE } from 'twenty-shared/translations';
+import { APP_LOCALES } from 'twenty-shared/translations';
 import { isDefined } from 'twenty-shared/utils';
 import { getWorkspaceUrl } from '~/utils/getWorkspaceUrl';
 import { isGraphqlErrorOfType } from '~/utils/is-graphql-error-of-type.util';
@@ -390,7 +390,7 @@ export const useAuth = () => {
           email,
           password,
           captchaToken,
-          locale: i18n.locale ?? SOURCE_LOCALE,
+          locale: i18n.locale ?? APP_LOCALES['fa-IR'],
         },
       });
 
@@ -476,7 +476,7 @@ export const useAuth = () => {
           workspaceInviteHash,
           workspacePersonalInviteToken,
           captchaToken,
-          locale: i18n.locale ?? SOURCE_LOCALE,
+          locale: i18n.locale ?? APP_LOCALES['fa-IR'],
           ...(workspacePublicData?.id
             ? { workspaceId: workspacePublicData.id }
             : {}),
