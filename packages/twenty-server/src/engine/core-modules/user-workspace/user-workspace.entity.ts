@@ -4,7 +4,7 @@ import {
   PermissionFlagType,
   PermissionsOnAllObjectRecords,
 } from 'twenty-shared/constants';
-import { type APP_LOCALES, SOURCE_LOCALE } from 'twenty-shared/translations';
+import { APP_LOCALES, SOURCE_LOCALE } from 'twenty-shared/translations';
 import {
   Column,
   CreateDateColumn,
@@ -66,7 +66,7 @@ export class UserWorkspaceEntity extends WorkspaceRelatedEntity {
   defaultAvatarUrl: string;
 
   @Field(() => String, { nullable: false })
-  @Column({ nullable: false, default: APP_LOCALES['fa-IR'], type: 'varchar' })
+  @Column({ nullable: false, default: 'fa-IR', type: 'varchar' })
   locale: keyof typeof APP_LOCALES;
 
   @Field()

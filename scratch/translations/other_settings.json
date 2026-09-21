@@ -1,0 +1,1421 @@
+{
+  "a+PGuG": [
+    "رابط کاربری"
+  ],
+  "GfnKOF": [
+    "رابط کاربری"
+  ],
+  "7c7atJ": [
+    "زبان خود را انتخاب کرده و اندازه رابط کاربری را تنظیم کنید"
+  ],
+  "AM0pWl": [
+    "زبان خود را انتخاب کرده و اندازه رابط کاربری را تنظیم کنید"
+  ],
+  "+7nlzA": [
+    "محدودیت جدید"
+  ],
+  "+A7KEy": [
+    "جزئیات تاریخ"
+  ],
+  "+UIjOX": [
+    "آیا از بازنشانی این متغیر اطمینان دارید؟"
+  ],
+  "+V9e6z": [
+    "مدل‌های سفارشی هوش مصنوعی"
+  ],
+  "+cyvPb": [
+    "درصد باقی‌مانده"
+  ],
+  "+nqVyF": [
+    "مدیریت صورت‌حساب"
+  ],
+  "+rvV4v": [
+    "حذف مقادیر صفر"
+  ],
+  "/D217u": [
+    "همه عملیات‌ها"
+  ],
+  "/VLYQj": [
+    "ویرایش ترجمه‌ها"
+  ],
+  "/clmEa": [
+    "رویدادهای آبجکت"
+  ],
+  "/eZE05": [
+    "درخواست API"
+  ],
+  "/kfzmx": [
+    "بارگذاری قرارداد پردازش داده انجام نشد. لطفاً دوباره تلاش کنید."
+  ],
+  "/qrjU8": [
+    "قرارداد پردازش داده"
+  ],
+  "0CuAor": [
+    "شرایط"
+  ],
+  "0lvH/K": [
+    "سفارشی‌سازی ظاهر فضای کاری شما."
+  ],
+  "layout_customize": [
+    "سفارشی‌سازی"
+  ],
+  "layout_customize_layout": [
+    "سفارشی‌سازی چیدمان"
+  ],
+  "layout_watch_demo": [
+    "مشاهده دموی سفارشی‌سازی"
+  ],
+  "layout_all_items": [
+    "تمام آیتم‌های چیدمان تعریف شده در فضای کاری شما"
+  ],
+  "layout_commands": [
+    "دستورات"
+  ],
+  "layout_sidebar_items": [
+    "آیتم‌های نوار کناری"
+  ],
+  "layout_pages": [
+    "صفحات"
+  ],
+  "layout_widgets": [
+    "ویجت‌ها"
+  ],
+  "0o2LpE": [
+    "Credits are used by workflows, AI chats, agents, and approved apps"
+  ],
+  "0okvpx": [
+    "Subscription error. Please retry or contact Twenty team"
+  ],
+  "0zoYr3": [
+    "Failed to activate Organization license. Please check your key or contact support."
+  ],
+  "13a+Fq": [
+    "Switch to production instance"
+  ],
+  "1BEcEg": [
+    "Reset 2FA"
+  ],
+  "1ETc0T": [
+    "Hire a partner to help you implement and customize Twenty."
+  ],
+  "1EwZPZ": [
+    "Switch to yearly"
+  ],
+  "1HfW/F": [
+    "Colors"
+  ],
+  "1WZTTl": [
+    "One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats."
+  ],
+  "1hKEom": [
+    "Priority"
+  ],
+  "1r7WdP": [
+    "Limit deleted."
+  ],
+  "204Qo2": [
+    "Failed to upgrade credit plan."
+  ],
+  "21Xjwu": [
+    "The full agreement with fields resolved for your deployment."
+  ],
+  "21hsGI": [
+    "Usage Analytics"
+  ],
+  "2AvJlR": [
+    "Error transferring the Organization key"
+  ],
+  "2ICF9k": [
+    "Max range"
+  ],
+  "2InwTp": [
+    "Invoice amount may vary if you add members or credits between periods"
+  ],
+  "2rAG3K": [
+    "Credits limit reached. Update your credit plan to keep Workflows and AI running."
+  ],
+  "30KnZB": [
+    "API calls"
+  ],
+  "319YPG": [
+    "Your subscription is active but your validity token is invalid or has expired. Try reloading it or contact support."
+  ],
+  "31TuIx": [
+    "Join our Discord"
+  ],
+  "3AphJD": [
+    "Add credit card"
+  ],
+  "3WWUB9": [
+    "Try our upcoming features. Note they are still in beta. Please bear with us and report any issues you find."
+  ],
+  "3XIgKU": [
+    "User roles"
+  ],
+  "3dQ6zJ": [
+    "Environments"
+  ],
+  "3fPjUY": [
+    "Pro"
+  ],
+  "3mGNuB": [
+    "Search by email address"
+  ],
+  "3qg5Ro": [
+    "Licensee"
+  ],
+  "3w+Aox": [
+    "Table, Kanban, Calendar"
+  ],
+  "3yzHpm": [
+    "Authorized signatory name"
+  ],
+  "45MZFs": [
+    "دستورات"
+  ],
+  "4C6sMs": [
+    "Usage by User"
+  ],
+  "4ba0NE": [
+    "Scheduled"
+  ],
+  "4pcfmN": [
+    "We will activate your paid plan. Do you want to proceed?"
+  ],
+  "543eQ7": [
+    "Nothing counted against this scope yet"
+  ],
+  "549d7o": [
+    "Read changelog"
+  ],
+  "5EMoSo": [
+    "Choose plan"
+  ],
+  "5K1++A": [
+    "You will be redirected to add your credit card. Once added, your subscription will start automatically."
+  ],
+  "5pSj4j": [
+    "No payment method found. Please update your billing details."
+  ],
+  "6/q4+J": [
+    "Credit usage breakdown for your workspace."
+  ],
+  "6WQdu8": [
+    "100 per minute"
+  ],
+  "6alGoe": [
+    "Organization license activated successfully"
+  ],
+  "6eo66Q": [
+    "Grant access to your workspace so we can troubleshoot problems."
+  ],
+  "6iUnle": [
+    "Enjoy a 30-day free trial"
+  ],
+  "6rzsES": [
+    "Reset variable"
+  ],
+  "74qJhc": [
+    "Edit limit"
+  ],
+  "79D4Az": [
+    "Object ID"
+  ],
+  "79hamt": [
+    "Each slice represents"
+  ],
+  "7CTZ9z": [
+    "credits used"
+  ],
+  "7Kq6TI": [
+    "Usage analytics requires ClickHouse. Contact your administrator."
+  ],
+  "7SJhyh": [
+    "30+"
+  ],
+  "7VBQ2j": [
+    "Local, Production"
+  ],
+  "7Zdnlq": [
+    "Document"
+  ],
+  "7iwYAn": [
+    "Credit consumption over time."
+  ],
+  "7oCJuI": [
+    "Scheduled change"
+  ],
+  "7xz1r9": [
+    "Failed to create the limit."
+  ],
+  "7yiFvZ": [
+    "Unpaid"
+  ],
+  "8RWevB": [
+    "CSV import & export"
+  ],
+  "8eSMLX": [
+    "Cancel plan switching"
+  ],
+  "8mfOAZ": [
+    "Your payment details are incomplete. Please review and retry."
+  ],
+  "8sgZS9": [
+    "seat / month"
+  ],
+  "8skTDV": [
+    "Custom objects"
+  ],
+  "8tzR0k": [
+    "Billing period"
+  ],
+  "8vc1Dy": [
+    "Unlock premium features like SSO, row-level security, and audit logs."
+  ],
+  "8xkU9e": [
+    "Activate Organization Key"
+  ],
+  "91Ysnw": [
+    "Your Organization key"
+  ],
+  "977k6M": [
+    "pro plan"
+  ],
+  "9e+AU2": [
+    "Call Recording"
+  ],
+  "9gm/Oo": [
+    "Upgrading subscription..."
+  ],
+  "9k9PMD": [
+    "آیتم‌های نوار کناری"
+  ],
+  "9lFfqv": [
+    "/month"
+  ],
+  "9m7pJA": [
+    "Change to Monthly?"
+  ],
+  "A1CyH/": [
+    "Jane Doe"
+  ],
+  "A5YO8f": [
+    "Subscription has been switched to Yearly."
+  ],
+  "AFYemk": [
+    "Unsubscribe all"
+  ],
+  "AOwjMZ": [
+    "Contact admin"
+  ],
+  "ARGZDy": [
+    "Registered as a development instance. This instance will not be billed."
+  ],
+  "ATGYL1": [
+    "Email address"
+  ],
+  "AYRXBE": [
+    "There is a payment issue with your subscription. Your premium features are disabled. Settle the outstanding invoice to restore them, before the subscription is cancelled: a cancelled subscription cannot be reactivated and you would need to start a new one."
+  ],
+  "Aapaa8": [
+    "All API keys"
+  ],
+  "AbyZbl": [
+    "Custom views"
+  ],
+  "AkYLhr": [
+    "/month billed yearly"
+  ],
+  "AoN898": [
+    "Email and Chat"
+  ],
+  "AvbPI1": [
+    "Get Organization"
+  ],
+  "B02hom": [
+    "View invoices"
+  ],
+  "B0clc7": [
+    "Execution ID"
+  ],
+  "B1MDds": [
+    "Operations"
+  ],
+  "B9/B0O": [
+    "Label (plural)"
+  ],
+  "BAzC1v": [
+    "View types"
+  ],
+  "BFjW8X": [
+    "Past due"
+  ],
+  "BXMLsb": [
+    "Acme GmbH"
+  ],
+  "BkmgMC": [
+    "Your premium features will be disabled"
+  ],
+  "BrrIs8": [
+    "Storage"
+  ],
+  "C4qYgu": [
+    "Included"
+  ],
+  "C8G9Mq": [
+    "Change to Organization Plan?"
+  ],
+  "CHf20W": [
+    "This Organization key is currently bound to a different server instance. Transferring it here will release it from the previous server and stop counting seats on it. Are you sure you want to continue?"
+  ],
+  "CRzGla": [
+    "Help center"
+  ],
+  "CYpB9A": [
+    "Credit pack switching has been cancelled."
+  ],
+  "CedRjP": [
+    "Usage Events"
+  ],
+  "CzeIij": [
+    "Number of dashboards"
+  ],
+  "DDbn3x": [
+    "Confirm upgrade"
+  ],
+  "DNM+xk": [
+    "Updated (on specific fields)"
+  ],
+  "Dg2c0z": [
+    "You don't have access to this settings page."
+  ],
+  "E1qk3l": [
+    "Register as development instance"
+  ],
+  "E5v5TK": [
+    "Could not download the document."
+  ],
+  "EDl9kS": [
+    "Subscribe"
+  ],
+  "EIU345": [
+    "Two-factor authentication"
+  ],
+  "EqCbT9": [
+    "Read/Edit/Delete permissions"
+  ],
+  "FIlQ3z": [
+    "All logic functions"
+  ],
+  "FS6DQK": [
+    "Error while cancelling plan switching."
+  ],
+  "Fx0axg": [
+    "Your subscription is scheduled for cancellation"
+  ],
+  "FxVG/l": [
+    "Copied to clipboard"
+  ],
+  "G6DTnD": [
+    "All applications"
+  ],
+  "GAmD3h": [
+    "Languages"
+  ],
+  "GPKudC": [
+    "Switch to Pro"
+  ],
+  "GRQhAg": [
+    "Preview of the page recipients see when they unsubscribe"
+  ],
+  "Gpb1xF": [
+    "Head of Legal"
+  ],
+  "GrFbIR": [
+    "Limit updated."
+  ],
+  "Gzd97S": [
+    "This server is registered as a development instance and is not billed additionally. A subscription can have a single development instance in addition to its production one. Switching it back to a production instance will make its seats count toward billing."
+  ],
+  "H3rta9": [
+    "Generate DPA"
+  ],
+  "HS8BG/": [
+    "Hide empty groups"
+  ],
+  "HVOGoW": [
+    "Seats limit"
+  ],
+  "Hb4Cgz": [
+    "Go to billing portal"
+  ],
+  "HbXHSp": [
+    "AI agents"
+  ],
+  "I7Exsw": [
+    "Follow us on X"
+  ],
+  "IBWuXb": [
+    "This server has an Organization key configured. Make sure you keep a copy of it somewhere safe: you need the same key to activate a development instance or to move your license to a replacement server. If you no longer have access to your key, contact support."
+  ],
+  "IgrLD/": [
+    "Pause"
+  ],
+  "Iy8Gze": [
+    "Encryption key rotation"
+  ],
+  "J1QT+3": [
+    "Cumulative"
+  ],
+  "J2q6WC": [
+    "Workspace Events"
+  ],
+  "J8GEvd": [
+    "Label (singular)"
+  ],
+  "J8nuSF": [
+    "Cancel credit pack switching"
+  ],
+  "JBisyL": [
+    "Min range"
+  ],
+  "JEtonz": [
+    "Only application logs are available on your current plan. Other log types require an Organization subscription."
+  ],
+  "JIOvqZ": [
+    "Filter limits"
+  ],
+  "JQUXsv": [
+    "Not included"
+  ],
+  "Jkg0nj": [
+    "Paste your Organization key here"
+  ],
+  "JlP83A": [
+    "Update your payment method"
+  ],
+  "Jnenuz": [
+    "Credit package"
+  ],
+  "K8iwJx": [
+    "Install shared tarball app"
+  ],
+  "KANz0G": [
+    "View billing details"
+  ],
+  "KDw4GX": [
+    "Try again"
+  ],
+  "KXrI7W": [
+    "Release & transfer Organization key"
+  ],
+  "LE8J+K": [
+    "Downgrade"
+  ],
+  "LGNhPn": [
+    "Failed to load billing plans"
+  ],
+  "LHkoee": [
+    "Keep executing the next nodes even if this one fails"
+  ],
+  "LjNPDA": [
+    "Filter by event"
+  ],
+  "LllWIc": [
+    "Application Logs"
+  ],
+  "Lx8/KQ": [
+    "Failed to upload picture"
+  ],
+  "Lz4j8Q": [
+    "Signed copy"
+  ],
+  "M01WeF": [
+    "Paste your Organization key below to activate. Keep a copy of this key somewhere safe: the same key is reused to set up a development instance or to move your license to a replacement server."
+  ],
+  "M5CqkG": [
+    "Cancel interval switching?"
+  ],
+  "MC9SGH": [
+    "Error activating Organization license"
+  ],
+  "MGWsz+": [
+    "This is a non-production instance."
+  ],
+  "MNHZwz": [
+    "Bounce"
+  ],
+  "MP1v+1": [
+    "Legend"
+  ],
+  "MUIppF": [
+    "Two factor authentication provisioning failed."
+  ],
+  "MZWnSC": [
+    "Reloading..."
+  ],
+  "MZe3+J": [
+    "Get Organization Key"
+  ],
+  "MoJjhq": [
+    "Organization License"
+  ],
+  "Mox63G": [
+    "Error opening billing portal"
+  ],
+  "MpFIca": [
+    "seats"
+  ],
+  "MspNoT": [
+    "Logs require ClickHouse to be configured. Please contact your administrator."
+  ],
+  "MuEcPp": [
+    "Hide empty category"
+  ],
+  "N0vrR6": [
+    "Resource credits updated."
+  ],
+  "N6gPiD": [
+    "Cancel your subscription"
+  ],
+  "N8mUQE": [
+    "Change to Yearly?"
+  ],
+  "NIuIk1": [
+    "Unlimited"
+  ],
+  "NaiAqg": [
+    "Choose folders to sync"
+  ],
+  "NonvA5": [
+    "Could not generate the signed DPA. Please try again."
+  ],
+  "NtQvjo": [
+    "Period"
+  ],
+  "O2tNG0": [
+    "Ending"
+  ],
+  "OLsGjz": [
+    "No unsubscribers found"
+  ],
+  "OaTurC": [
+    "Custom apps"
+  ],
+  "ObCvfI": [
+    "Email sharing"
+  ],
+  "OeMn6m": [
+    "Confirm your preferences:"
+  ],
+  "PEi+K2": [
+    "Languages without their own translation show the source text."
+  ],
+  "PWZBIT": [
+    "Validity token refreshed successfully"
+  ],
+  "PYZeGT": [
+    "Release & transfer to this server"
+  ],
+  "PpZkda": [
+    "Features"
+  ],
+  "Pvk9fk": [
+    "Email addresses that will no longer receive campaign emails"
+  ],
+  "QBTEtW": [
+    "Your workspace doesn't have an active subscription. Please contact your admin."
+  ],
+  "QEUZoG": [
+    "End trial period to continue using Workflow or AI features."
+  ],
+  "QIIAIQ": [
+    "Date field"
+  ],
+  "QJz8/3": [
+    "Suffix"
+  ],
+  "QPJi2W": [
+    "Error while switching subscription."
+  ],
+  "QfzgpH": [
+    "Switched to a production instance."
+  ],
+  "QmR+2U": [
+    "Error while ending trial period. Please contact Twenty team."
+  ],
+  "QmXBEc": [
+    "Payment issue"
+  ],
+  "QsDjlD": [
+    "Apple"
+  ],
+  "R/mKm6": [
+    "Release & transfer"
+  ],
+  "RDAH2t": [
+    "You have scheduled a credit pack change. Do you want to cancel it?"
+  ],
+  "RGUZK1": [
+    "Choose a usage"
+  ],
+  "RhNbPE": [
+    "Your workspace will be disabled"
+  ],
+  "RmDTQ6": [
+    "The whole workspace"
+  ],
+  "SIR5Ix": [
+    "No event logs found"
+  ],
+  "SdIdBz": [
+    "Fix the payment issue to restore your premium features."
+  ],
+  "Sv4BSp": [
+    "Subdomain (yourco.twenty.com)"
+  ],
+  "SxwQE8": [
+    "Checkout session error. Please retry or contact Twenty team"
+  ],
+  "T4nt+1": [
+    "Failed to remove picture"
+  ],
+  "TJ4tz9": [
+    "Show value in center"
+  ],
+  "TLbVxH": [
+    "AI Workflow"
+  ],
+  "TbCWB7": [
+    "Card payment is currently unavailable. Please verify your Stripe configuration or contact your workspace admin."
+  ],
+  "TdZwYb": [
+    "Add sort"
+  ],
+  "ThVMIW": [
+    "This Organization key is already bound to a different server instance. Releasing it here will transfer the license to this server and stop counting seats on the previous one."
+  ],
+  "TqGZ8Y": [
+    "Start a new Organization subscription to re-enable premium features."
+  ],
+  "TvNBSn": [
+    "We couldn't load the plans"
+  ],
+  "U+WOF9": [
+    "Select date & time"
+  ],
+  "U/kVJF": [
+    "Logic function"
+  ],
+  "U6bnfj": [
+    "Allow Support Team Access"
+  ],
+  "UBpkWM": [
+    "All users"
+  ],
+  "UJqqRe": [
+    "Workflow Execution"
+  ],
+  "URAE3q": [
+    "Paused"
+  ],
+  "V+Qj+q": [
+    "AI Chat"
+  ],
+  "VEKoJx": [
+    "Invalid verification code. Please try again."
+  ],
+  "VRFEn9": [
+    "Your premium features are active but your Organization key is missing or invalid. This may be expected, but if not, please set a valid signed Organization key to manage your subscription, or contact support."
+  ],
+  "Vz1Vq2": [
+    "Custom domain (crm.yourco.com)"
+  ],
+  "WGLEBU": [
+    "All emails"
+  ],
+  "WHjLqG": [
+    "Features active until"
+  ],
+  "WZBvO8": [
+    "Subscription has been switched to Monthly."
+  ],
+  "WbPx+C": [
+    "Cancels on"
+  ],
+  "Wdh41P": [
+    "Row-level permissions"
+  ],
+  "Wfz6Xv": [
+    "operations"
+  ],
+  "WukjCJ": [
+    "Unsubscribe topics"
+  ],
+  "XGd8Wo": [
+    "Emails & Calendar"
+  ],
+  "XNF6El": [
+    "Recipients can only unsubscribe from everything. Add a public topic to let them choose what they keep receiving."
+  ],
+  "XduPHC": [
+    "Plan switching has been cancelled."
+  ],
+  "XgIa/8": [
+    "Your subscription setup was not completed."
+  ],
+  "XgOuA7": [
+    "Last 90 days"
+  ],
+  "XglEba": [
+    "Usage analytics will appear here once you start using credits."
+  ],
+  "XuMw6C": [
+    "Error resetting variable"
+  ],
+  "Y00a9G": [
+    "seat"
+  ],
+  "Y69tSP": [
+    "Update payment method"
+  ],
+  "Y9FJQX": [
+    "No limit matches your search."
+  ],
+  "YMZBxa": [
+    "Function"
+  ],
+  "YVct3Q": [
+    "Failed to delete the limit."
+  ],
+  "Ya1wb4": [
+    "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+  ],
+  "YkfDoz": [
+    "Annual"
+  ],
+  "Z2TH0F": [
+    "50 per minute"
+  ],
+  "Z2Wg9g": [
+    "Signed DPA generated and downloaded"
+  ],
+  "ZEOklT": [
+    "Add your credit card"
+  ],
+  "ZYntTu": [
+    "Add your credit card below. Once added, your subscription will start automatically."
+  ],
+  "ZjBqNE": [
+    "View usage"
+  ],
+  "Zpgvun": [
+    "No copy has been generated yet. This is the agreement that applies to your deployment — generate a signed copy from the top-right."
+  ],
+  "ZuI4Sl": [
+    "Could not open Stripe. Please contact support."
+  ],
+  "Zw+Zv+": [
+    "MCP server"
+  ],
+  "a6TaW9": [
+    "Signatory title"
+  ],
+  "aBgwis": [
+    "Scope"
+  ],
+  "aCFYU+": [
+    "Exclude the following people and domains from the email and calendar sync of every workspace member"
+  ],
+  "aHdZwP": [
+    "Incomplete expired"
+  ],
+  "aIkeAd": [
+    "Billed monthly"
+  ],
+  "aL1w5Z": [
+    "Used"
+  ],
+  "aOedjo": [
+    "Key in use on another server"
+  ],
+  "aQnWwf": [
+    "seat / month - billed yearly"
+  ],
+  "aUn7Ps": [
+    "AI & Automations"
+  ],
+  "alkXJ5": [
+    "Calendar view"
+  ],
+  "awM9hH": [
+    "Compare plans"
+  ],
+  "b8dX3V": [
+    "Organization key transferred to this server"
+  ],
+  "b9bH06": [
+    "Development instance"
+  ],
+  "bQSDyq": [
+    "Stacked lines"
+  ],
+  "bha0Vl": [
+    "Renews on"
+  ],
+  "bihQKI": [
+    "Upgrade to access audit logs"
+  ],
+  "c3lkKf": [
+    "All Members"
+  ],
+  "cAUlDL": [
+    "runs"
+  ],
+  "cBdysG": [
+    "Advanced Encryption"
+  ],
+  "cByGGA": [
+    "Contact your admin to continue using Workflow or AI features."
+  ],
+  "cIo6Vk": [
+    "Join the community"
+  ],
+  "cNBo/E": [
+    "2FA Method Reset"
+  ],
+  "cRM1ec": [
+    "Two-factor authentication setup completed successfully!"
+  ],
+  "cW8SdW": [
+    "Event type"
+  ],
+  "ct2SYD": [
+    "Last 7 days"
+  ],
+  "ctM+rp": [
+    "Spending stays capped by your plan allowance and the other limits."
+  ],
+  "cyDPQQ": [
+    "organization plan"
+  ],
+  "dPwNDl": [
+    "Delete limit"
+  ],
+  "dSjFxR": [
+    "Billing history"
+  ],
+  "dV4HC5": [
+    "Cancel interval switching"
+  ],
+  "dtwyLS": [
+    "All messages"
+  ],
+  "du6d5C": [
+    "Error while cancelling credit pack switching."
+  ],
+  "e/eieW": [
+    "Error opening Stripe"
+  ],
+  "e6BgMV": [
+    "Field-level permissions"
+  ],
+  "eE08iE": [
+    "Your Organization subscription has been canceled."
+  ],
+  "eE0JZ4": [
+    "Version"
+  ],
+  "eU1E2J": [
+    "A payment on your subscription failed. Your premium features stay active while we retry it."
+  ],
+  "egkNh9": [
+    "Watch demo"
+  ],
+  "es+Zrf": [
+    "Transferring..."
+  ],
+  "esl+Tv": [
+    "Resource Type"
+  ],
+  "f6KFEf": [
+    "Cancel plan switching?"
+  ],
+  "fM466x": [
+    "Data on display"
+  ],
+  "g3jaWB": [
+    "Executed copies"
+  ],
+  "g6Wfbf": [
+    "An error occurred while removing the picture."
+  ],
+  "gOOpXW": [
+    "Continue on failure"
+  ],
+  "gVEHcL": [
+    "Filter by record ID"
+  ],
+  "gaqIMK": [
+    "Object type"
+  ],
+  "ggS/0k": [
+    "Invalid 2FA information."
+  ],
+  "gqXMNe": [
+    "All reasons"
+  ],
+  "grt0Pu": [
+    "Seats"
+  ],
+  "gsifzp": [
+    "Split multiple values"
+  ],
+  "gtZrCd": [
+    "You will stop receiving these emails."
+  ],
+  "h2KoTu": [
+    "Edit payment method, see your invoices and more"
+  ],
+  "h4KC4F": [
+    "We couldn't confirm your payment method. Please retry."
+  ],
+  "hADObV": [
+    "Failed to update the limit."
+  ],
+  "hKAV/O": [
+    "Browse partners"
+  ],
+  "hKNhfF": [
+    "Add topic"
+  ],
+  "hYXHVl": [
+    "Usage by App"
+  ],
+  "hdxwWi": [
+    "Fully customizable"
+  ],
+  "hziCGA": [
+    "2FA Method has been deleted successfully."
+  ],
+  "i7ur8L": [
+    "Activating subscription..."
+  ],
+  "iGG0MA": [
+    "Limits on members, API keys and apps require the Organization plan."
+  ],
+  "iKzPQM": [
+    "All agents"
+  ],
+  "iSuLEw": [
+    "Credits limit reached. Contact your admin to resume Workflows and AI."
+  ],
+  "iizYt1": [
+    "Your premium features are active"
+  ],
+  "ioPfqt": [
+    "Email categories recipients can opt out of"
+  ],
+  "j/O9Sh": [
+    "Filter unsubscribers"
+  ],
+  "j1828V": [
+    "Complaint"
+  ],
+  "j5vd/9": [
+    "Failed to update resource credits."
+  ],
+  "jDRt4n": [
+    "Do you want to unsubscribe?"
+  ],
+  "jPvFKE": [
+    "Delete Two-Factor Authentication Method"
+  ],
+  "jSZacs": [
+    "Activating..."
+  ],
+  "jyjroS": [
+    "Interval switching has been cancelled."
+  ],
+  "k1i50B": [
+    "End Trial Period"
+  ],
+  "k1illW": [
+    "Webhook Call"
+  ],
+  "k62X/2": [
+    "Priority support"
+  ],
+  "kDx/lV": [
+    "An error occurred while uploading the picture."
+  ],
+  "kSEiZD": [
+    "searches"
+  ],
+  "kZkFSm": [
+    "Confirm downgrade"
+  ],
+  "kciPHv": [
+    "This billing period"
+  ],
+  "kiuQlM": [
+    "Only enable for steps that are safe to run twice: a failed attempt may already have written data or sent messages."
+  ],
+  "kqtVJH": [
+    "Start a new Organization subscription."
+  ],
+  "l/UFPv": [
+    "Properties"
+  ],
+  "l0JGUk": [
+    "Impersonate users"
+  ],
+  "lKmQeh": [
+    "1 retry"
+  ],
+  "lWy5a1": [
+    "Plans"
+  ],
+  "lhkaAC": [
+    "Trial"
+  ],
+  "li9In6": [
+    "Axis name"
+  ],
+  "lndIq/": [
+    " billed annually"
+  ],
+  "lvAOAE": [
+    "Limit created."
+  ],
+  "mPkInZ": [
+    "Partners"
+  ],
+  "mmGBWT": [
+    "Your details"
+  ],
+  "mtGDyy": [
+    "Incomplete"
+  ],
+  "n+SX4g": [
+    "Developers"
+  ],
+  "n1zTaJ": [
+    "Caps on what your workspace can spend and who they apply to"
+  ],
+  "nHmYga": [
+    "How much can be spent, and how often it resets."
+  ],
+  "nJJAYH": [
+    "Accepted and signed DPAs for this workspace, with their template version and date."
+  ],
+  "nNpwX2": [
+    "Stacked bars"
+  ],
+  "nc/jNe": [
+    "Legal entity name"
+  ],
+  "noHthC": [
+    "View AI usage breakdown"
+  ],
+  "nvUgnK": [
+    "Save 25% when billed yearly"
+  ],
+  "nvgUPq": [
+    "Manage billing information"
+  ],
+  "o5vUsG": [
+    "This action cannot be undone. This will permanently reset your two factor authentication method. <0/> Please type in your email to confirm."
+  ],
+  "oC2l7f": [
+    "REST & GraphQL API"
+  ],
+  "oC6WBs": [
+    "Your workspace doesn't have an active subscription."
+  ],
+  "oCHfGC": [
+    "Level"
+  ],
+  "oCQwvS": [
+    "Stay up to date with product news and community updates."
+  ],
+  "oK+1Wj": [
+    "Hidden Fields"
+  ],
+  "oPwQt4": [
+    "Custom fields"
+  ],
+  "oQjB9l": [
+    "Renewal date"
+  ],
+  "oW3yYY": [
+    "This month"
+  ],
+  "ouRvqq": [
+    "TTL"
+  ],
+  "owAIq9": [
+    "Search a limit"
+  ],
+  "oxbT4Q": [
+    "Something went wrong while contacting our billing service."
+  ],
+  "oz9P7U": [
+    "/user per month"
+  ],
+  "p7JFjT": [
+    "Spending will only be capped by your plan allowance and the other limits."
+  ],
+  "p98xmP": [
+    "Applies to"
+  ],
+  "pRpC/r": [
+    "unit"
+  ],
+  "pbmZ7R": [
+    "Onboarding Packs"
+  ],
+  "pd1EEy": [
+    "Could not open billing portal. Please check your Organization key is present, or contact support."
+  ],
+  "phtAw0": [
+    "Sync every message"
+  ],
+  "prIqWa": [
+    "Custom layout"
+  ],
+  "pt7mmi": [
+    "Error while cancelling interval switching."
+  ],
+  "q2rgqr": [
+    "Confirm changing your current resource credit allocation."
+  ],
+  "qEODFi": [
+    "This will permanently delete your two factor authentication method.<0/>Since 2FA is mandatory in your workspace, you will be logged out after deletion and will be asked to configure it again upon login. <1/>Please type in your email to confirm."
+  ],
+  "qJLttu": [
+    "Topic"
+  ],
+  "qJwqET": [
+    "Choose a usage first"
+  ],
+  "qMTT4Z": [
+    "The usage this limit applies to."
+  ],
+  "qbM5In": [
+    "Reload validity token"
+  ],
+  "qf6r3X": [
+    "All workflows"
+  ],
+  "qlAIQ1": [
+    "Remote"
+  ],
+  "qtEx+T": [
+    "Credit plan upgraded."
+  ],
+  "r5je1s": [
+    "Pro plan"
+  ],
+  "rGxoIq": [
+    "Could not transfer the Organization key. Please contact support."
+  ],
+  "rNqTKZ": [
+    "Prefix"
+  ],
+  "rPAZRd": [
+    "No workspace selected"
+  ],
+  "rRK/Lf": [
+    "Cancel Plan"
+  ],
+  "rUVyfz": [
+    "Add a card below to update your billing details and retry your payment."
+  ],
+  "rg5AzZ": [
+    "Unknown topic"
+  ],
+  "rn2/2V": [
+    "Remove filter"
+  ],
+  "rtN0nI": [
+    "Limits could not be loaded."
+  ],
+  "s+K73L": [
+    "Start Your Subscription"
+  ],
+  "s+iV3f": [
+    "Error updating variable"
+  ],
+  "s/LEE/": [
+    "Retry on failure"
+  ],
+  "sF+Xp9": [
+    "Page Views"
+  ],
+  "sFY+gw": [
+    "Add card"
+  ],
+  "sHa2Dg": [
+    "Choose a spender"
+  ],
+  "sJS35p": [
+    "Could not refresh validity token and could not revert the instance type change."
+  ],
+  "ss6vFU": [
+    "Click-through acceptance"
+  ],
+  "t7uUc+": [
+    "Change to Pro Plan?"
+  ],
+  "t9yxlZ": [
+    "Reports"
+  ],
+  "tIoZo5": [
+    "Update plan"
+  ],
+  "tL6W2K": [
+    "ویجت‌ها"
+  ],
+  "tVSmFT": [
+    "Loading more..."
+  ],
+  "tVgANq": [
+    "Fix the payment issue to keep your premium features active."
+  ],
+  "teokEm": [
+    "Something went wrong while loading logs. Please try again."
+  ],
+  "twOnMk": [
+    "Payment method added."
+  ],
+  "two5rl": [
+    "Search objects"
+  ],
+  "tyxkc0": [
+    "Code Execution"
+  ],
+  "tzk0bz": [
+    "You have reached the maximum number of server transfers allowed in the last 30 days for this Organization key. Please try again later or contact support."
+  ],
+  "uHAV+O": [
+    "Search for a user..."
+  ],
+  "uIMn/N": [
+    "Payment method added. Retrying your payment..."
+  ],
+  "uIrZTC": [
+    "مشاهده دموی سفارشی‌سازی"
+  ],
+  "uq2BmQ": [
+    "Last 30 days"
+  ],
+  "uvY7Wk": [
+    "Subscription activated."
+  ],
+  "uvgDyK": [
+    "Delete this limit?"
+  ],
+  "v39wLo": [
+    "Resume"
+  ],
+  "vifyyw": [
+    "Legal"
+  ],
+  "vlvAkg": [
+    "SSO (SAML / OIDC)"
+  ],
+  "w1HkE9": [
+    "Could not refresh validity token - reverted the instance type change."
+  ],
+  "wIAG+H": [
+    "Deleting this method will remove it permanently from your account."
+  ],
+  "wN0jHF": [
+    "Trial expired. Please contact your admin"
+  ],
+  "wRR604": [
+    "صفحات"
+  ],
+  "wVw4Am": [
+    "Could not refresh validity token. Please contact support."
+  ],
+  "wdVyxi": [
+    "Folder/Label import"
+  ],
+  "wg8Kjn": [
+    "Downgrade to monthly"
+  ],
+  "wwdak+": [
+    "Spender"
+  ],
+  "xDAtGP": [
+    "Message"
+  ],
+  "xF/NXI": [
+    "Billing portal session error. Please retry or contact Twenty team"
+  ],
+  "xP6s/m": [
+    "تمام آیتم‌های چیدمان تعریف شده در فضای کاری شما"
+  ],
+  "xPaeO2": [
+    "Row-level security"
+  ],
+  "xSAYIn": [
+    "Record ID"
+  ],
+  "xUDbZ0": [
+    "Email Send"
+  ],
+  "xUNmcx": [
+    "How credits work"
+  ],
+  "xYbZZH": [
+    "All topics"
+  ],
+  "xpZXLn": [
+    "Data labels"
+  ],
+  "xsKD3e": [
+    "Could not update the instance type"
+  ],
+  "y2W2Hg": [
+    "Audit logs"
+  ],
+  "y4uH7j": [
+    "Cancelling"
+  ],
+  "y985qL": [
+    "Trial expired. Please update your billing details."
+  ],
+  "yHueLx": [
+    "Implementation partners"
+  ],
+  "yRkqG9": [
+    "Limit"
+  ],
+  "zQF6Kb": [
+    "Page name"
+  ],
+  "zRXcyv": [
+    "Error refreshing validity token. Please contact support."
+  ],
+  "zZksLX": [
+    "سفارشی‌سازی چیدمان"
+  ],
+  "zaaZ8V": [
+    "credits available during the trial period"
+  ],
+  "zi/p7n": [
+    "Organization plan"
+  ],
+  "ziAjHi": [
+    "Generate"
+  ],
+  "zsKJ2q": [
+    "Meter"
+  ],
+  "ztnpYZ": [
+    "Cancel credit pack switching?"
+  ]
+}

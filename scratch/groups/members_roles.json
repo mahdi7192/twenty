@@ -1,0 +1,1741 @@
+[
+  {
+    "id": "+7s4fw",
+    "msgid": "Search agents",
+    "ast": [
+      "Search agents"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentEntityPickerDropdown.tsx"
+    ]
+  },
+  {
+    "id": "+XmkDf",
+    "msgid": "Allow exporting data to CSV files",
+    "ast": [
+      "Allow exporting data to CSV files"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "+iFqZW",
+    "msgid": "Control which types of entities this role can be assigned to",
+    "ast": [
+      "Control which types of entities this role can be assigned to"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleApplicability.tsx"
+    ]
+  },
+  {
+    "id": "+ow7t4",
+    "msgid": "destroy",
+    "ast": [
+      "destroy"
+    ],
+    "files": [
+      "src/modules/metadata-error-handler/hooks/useMetadataErrorHandler.ts",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/utils/objectPermissionKeyToHumanReadableText.ts"
+    ]
+  },
+  {
+    "id": "/YAKmj",
+    "msgid": "Perform administrative actions or permanently delete this user",
+    "ast": [
+      "Perform administrative actions or permanently delete this user"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberInfosTab.tsx"
+    ]
+  },
+  {
+    "id": "/berfj",
+    "msgid": "Manage Views",
+    "ast": [
+      "Manage Views"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "/kWolQ",
+    "msgid": "Toggle all settings permissions",
+    "ast": [
+      "Toggle all settings permissions"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsSettingsTableHeader.tsx"
+    ]
+  },
+  {
+    "id": "/nLvVj",
+    "msgid": "No members match your search",
+    "ast": [
+      "No members match your search"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersTeamTab.tsx"
+    ]
+  },
+  {
+    "id": "0M8+El",
+    "msgid": "Invite by email",
+    "ast": [
+      "Invite by email"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "0dtKl9",
+    "msgid": "Assignment",
+    "ast": [
+      "Assignment"
+    ],
+    "files": [
+      "src/modules/settings/roles/role/components/SettingsRole.tsx"
+    ]
+  },
+  {
+    "id": "14xBUx",
+    "msgid": "Reset to static value",
+    "ast": [
+      "Reset to static value"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionValueInput.tsx"
+    ]
+  },
+  {
+    "id": "28b8wO",
+    "msgid": "Confirm role update",
+    "ast": [
+      "Confirm role update"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberPermissionsTab.tsx"
+    ]
+  },
+  {
+    "id": "2CeOI3",
+    "msgid": "Import CSV",
+    "ast": [
+      "Import CSV"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "2KAI4N",
+    "msgid": "Export CSV",
+    "ast": [
+      "Export CSV"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "2M5OF+",
+    "msgid": "Allow downloading files and attachments",
+    "ast": [
+      "Allow downloading files and attachments"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "2jU+NX",
+    "msgid": "No agents available",
+    "ast": [
+      "No agents available"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentEntityPickerDropdown.tsx"
+    ]
+  },
+  {
+    "id": "2y2quh",
+    "msgid": "Assign to member",
+    "ast": [
+      "Assign to member"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/constants/RoleTargetConfig.ts"
+    ]
+  },
+  {
+    "id": "4XD2Lr",
+    "msgid": "Search 1 field",
+    "ast": [
+      "Search 1 field"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionMeValueSelect.tsx"
+    ]
+  },
+  {
+    "id": "4ZM8/a",
+    "msgid": "Install and manage applications",
+    "ast": [
+      "Install and manage applications"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "5UU7Q6",
+    "msgid": "Fields Permissions",
+    "ast": [
+      "Fields Permissions"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/field-permissions/components/SettingsRolePermissionsObjectLevelObjectFieldPermissionTable.tsx"
+    ]
+  },
+  {
+    "id": "5bRMKt",
+    "msgid": "Update role",
+    "ast": [
+      "Update role"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberPermissionsTab.tsx"
+    ]
+  },
+  {
+    "id": "5g78zo",
+    "msgid": "Error while saving the name",
+    "ast": [
+      "Error while saving the name"
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx"
+    ]
+  },
+  {
+    "id": "623chP",
+    "msgid": "Infos",
+    "ast": [
+      "Infos"
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx"
+    ]
+  },
+  {
+    "id": "6KA8xy",
+    "msgid": "Set global workspace preferences",
+    "ast": [
+      "Set global workspace preferences"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "6ZDYQy",
+    "msgid": "Watch members demo",
+    "ast": [
+      "Watch members demo"
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMembers.tsx"
+    ]
+  },
+  {
+    "id": "77hGcG",
+    "msgid": "Agent roles",
+    "ast": [
+      "Agent roles"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesList.tsx"
+    ]
+  },
+  {
+    "id": "7J3Y++",
+    "msgid": "Ability to filter the records a user can interact with.",
+    "ast": [
+      "Ability to filter the records a user can interact with."
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelSection.tsx"
+    ]
+  },
+  {
+    "id": "8Uv5e6",
+    "msgid": "Agents",
+    "ast": [
+      "Agents"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentTable.tsx",
+      "src/pages/settings/ai/components/SettingsAiModelsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "8ZjIgO",
+    "msgid": "Create and configure AI agents",
+    "ast": [
+      "Create and configure AI agents"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "99VIgC",
+    "msgid": "Remove member",
+    "ast": [
+      "Remove member"
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx"
+    ]
+  },
+  {
+    "id": "9mcJ/7",
+    "msgid": "No roles found",
+    "ast": [
+      "No roles found"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesList.tsx"
+    ]
+  },
+  {
+    "id": "9mx36q",
+    "msgid": "No API keys assigned",
+    "ast": [
+      "No API keys assigned"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentTable.tsx"
+    ]
+  },
+  {
+    "id": "9tggYj",
+    "msgid": "Approved Domains",
+    "ast": [
+      "Approved Domains"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "CGhRMh",
+    "msgid": "Default Role",
+    "ast": [
+      "Default Role"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesDefaultRole.tsx",
+      "src/modules/settings/roles/components/SettingsRolesDefaultRole.tsx"
+    ]
+  },
+  {
+    "id": "CbGxon",
+    "msgid": "Workspace member",
+    "ast": [
+      "Workspace member"
+    ],
+    "files": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/roles/components/SettingsRolesTableRow.tsx"
+    ]
+  },
+  {
+    "id": "CqsED8",
+    "msgid": "Send emails via connected accounts",
+    "ast": [
+      "Send emails via connected accounts"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "DMIYL8",
+    "msgid": "Edit data structure and fields",
+    "ast": [
+      "Edit data structure and fields"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "DP5C7w",
+    "msgid": "Open in Roles",
+    "ast": [
+      "Open in Roles"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberPermissionsTab.tsx"
+    ]
+  },
+  {
+    "id": "DvpBQM",
+    "msgid": "HTTP Request",
+    "ast": [
+      "HTTP Request"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "FVzmGK",
+    "msgid": "No role assigned to this member",
+    "ast": [
+      "No role assigned to this member"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberPermissionsTab.tsx"
+    ]
+  },
+  {
+    "id": "FzY1pn",
+    "msgid": "Remove member from workspace",
+    "ast": [
+      "Remove member from workspace"
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx"
+    ]
+  },
+  {
+    "id": "FzcOoG",
+    "msgid": "Search API keys",
+    "ast": [
+      "Search API keys"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentEntityPickerDropdown.tsx"
+    ]
+  },
+  {
+    "id": "GG37FL",
+    "msgid": "Revoked for this object",
+    "ast": [
+      "Revoked for this object"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevelTableRow.tsx"
+    ]
+  },
+  {
+    "id": "HAKBY9",
+    "msgid": "Upload Files",
+    "ast": [
+      "Upload Files"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "HRGl1X",
+    "msgid": "Cook",
+    "ast": [
+      "Cook"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberNameFields.tsx",
+      "src/modules/settings/profile/components/NameFields.tsx"
+    ]
+  },
+  {
+    "id": "HZFm5R",
+    "msgid": "and",
+    "ast": [
+      "and"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/FooterNote.tsx",
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettingsDeleteRoleConfirmationModalSubtitle.tsx",
+      "src/utils/date-utils.ts"
+    ]
+  },
+  {
+    "id": "Hm90t3",
+    "msgid": "All roles",
+    "ast": [
+      "All roles"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesList.tsx"
+    ]
+  },
+  {
+    "id": "Hn61nE",
+    "msgid": "All Actions Access",
+    "ast": [
+      "All Actions Access"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsToolSection.tsx"
+    ]
+  },
+  {
+    "id": "IDPv1P",
+    "msgid": "Download Files",
+    "ast": [
+      "Download Files"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "IT5nsa",
+    "msgid": "Manage billing and subscriptions",
+    "ast": [
+      "Manage billing and subscriptions"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "IaSCqp",
+    "msgid": "Edit own profile information",
+    "ast": [
+      "Edit own profile information"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "JBjv4v",
+    "msgid": "Allow uploading files and attachments",
+    "ast": [
+      "Allow uploading files and attachments"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "JE9zuL",
+    "msgid": "Ability to edit all settings",
+    "ast": [
+      "Ability to edit all settings"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsSettingsSection.tsx"
+    ]
+  },
+  {
+    "id": "JmZ/+d",
+    "msgid": "Finish",
+    "ast": [
+      "Finish"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectForm.tsx"
+    ]
+  },
+  {
+    "id": "KM6m8p",
+    "msgid": "Team",
+    "ast": [
+      "Team"
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMembers.tsx"
+    ]
+  },
+  {
+    "id": "KnN1Tu",
+    "msgid": "Expires",
+    "ast": [
+      "Expires"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentTable.tsx"
+    ]
+  },
+  {
+    "id": "M067Bn",
+    "msgid": "Add or remove users",
+    "ast": [
+      "Add or remove users"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "M0WyJi",
+    "msgid": "This action cannot be undone. This member will be removed and unassigned from their records. Their synced emails and calendars will stop syncing and be reassigned to you.",
+    "ast": [
+      "This action cannot be undone. This member will be removed and unassigned from their records. Their synced emails and calendars will stop syncing and be reassigned to you."
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx"
+    ]
+  },
+  {
+    "id": "M1RnFv",
+    "msgid": "Expired",
+    "ast": [
+      "Expired"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/developers/utils/formatExpiration.ts",
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "M9SCiK",
+    "msgid": "Role updated successfully",
+    "ast": [
+      "Role updated successfully"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberPermissionsTab.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "MA3x23",
+    "msgid": "No Results",
+    "ast": [
+      "No Results"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentWorkspaceMemberPickerDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "MOLprz",
+    "msgid": "Make HTTP requests to external APIs",
+    "ast": [
+      "Make HTTP requests to external APIs"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "MjUIIf",
+    "msgid": "Ability to filter the records a user can interact with",
+    "ast": [
+      "Ability to filter the records a user can interact with"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelSection.tsx"
+    ]
+  },
+  {
+    "id": "MsxItJ",
+    "msgid": "Sync email and calendar accounts",
+    "ast": [
+      "Sync email and calendar accounts"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "N/XI5S",
+    "msgid": "Unable to delete member right now",
+    "ast": [
+      "Unable to delete member right now"
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx"
+    ]
+  },
+  {
+    "id": "N4ZcCd",
+    "msgid": "Actions users can perform on this object",
+    "ast": [
+      "Actions users can perform on this object"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevel.tsx"
+    ]
+  },
+  {
+    "id": "N7fMy9",
+    "msgid": "Manage the members of your workspace here",
+    "ast": [
+      "Manage the members of your workspace here"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersTeamTab.tsx"
+    ]
+  },
+  {
+    "id": "NSv0tC",
+    "msgid": "Customize page layouts and UI structure",
+    "ast": [
+      "Customize page layouts and UI structure"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "Ntu10D",
+    "msgid": "Define user roles and access levels",
+    "ast": [
+      "Define user roles and access levels"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "O1Aswy",
+    "msgid": "Never expires",
+    "ast": [
+      "Never expires"
+    ],
+    "files": [
+      "src/modules/settings/developers/utils/formatExpiration.ts",
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentTableRow.tsx"
+    ]
+  },
+  {
+    "id": "O8tK4v",
+    "msgid": "Add rule",
+    "ast": [
+      "Add rule"
+    ],
+    "files": [
+      "src/modules/object-core/workflows/components/CoreWorkflowFilterAddRuleButton.tsx",
+      "src/modules/object-core/workflows/components/CoreWorkflowFilterAddRuleButton.tsx",
+      "src/modules/object-record/advanced-filter/components/AdvancedFilterAddFilterRuleSelect.tsx",
+      "src/modules/object-record/advanced-filter/components/AdvancedFilterAddFilterRuleSelect.tsx",
+      "src/modules/object-record/advanced-filter/components/AdvancedFilterAddFilterRuleSelect.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelSection.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionFilterBuilderContent.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionFilterBuilderContent.tsx",
+      "src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterAddFilterRuleSelect.tsx",
+      "src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterAddFilterRuleSelect.tsx",
+      "src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterAddFilterRuleSelect.tsx"
+    ]
+  },
+  {
+    "id": "OHF273",
+    "msgid": "Create, edit, and delete workspace views",
+    "ast": [
+      "Create, edit, and delete workspace views"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "OUbMUU",
+    "msgid": "Assignable to Workspace Members",
+    "ast": [
+      "Assignable to Workspace Members"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleApplicability.tsx"
+    ]
+  },
+  {
+    "id": "PWIq/W",
+    "msgid": "Invite by link",
+    "ast": [
+      "Invite by link"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "PxMD2N",
+    "msgid": "Manage MCP, API keys, and webhooks",
+    "ast": [
+      "Manage MCP, API keys, and webhooks"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "QEVmIH",
+    "msgid": "Set a default for this workspace",
+    "ast": [
+      "Set a default for this workspace"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesDefaultRole.tsx"
+    ]
+  },
+  {
+    "id": "QGaQRo",
+    "msgid": "Failed to update role",
+    "ast": [
+      "Failed to update role"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberPermissionsTab.tsx"
+    ]
+  },
+  {
+    "id": "QJQd1J",
+    "msgid": "Edit Profile",
+    "ast": [
+      "Edit Profile"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "QnVLjD",
+    "msgid": "Error deleting invitation",
+    "ast": [
+      "Error deleting invitation"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "QnvikC",
+    "msgid": "No API keys available",
+    "ast": [
+      "No API keys available"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentEntityPickerDropdown.tsx"
+    ]
+  },
+  {
+    "id": "RoyYUE",
+    "msgid": "Create Role",
+    "ast": [
+      "Create Role"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesList.tsx",
+      "src/pages/settings/ai/components/SettingsAgentRoleTab.tsx"
+    ]
+  },
+  {
+    "id": "SjxzXf",
+    "msgid": "Remove rule",
+    "ast": [
+      "Remove rule"
+    ],
+    "files": [
+      "src/modules/object-record/advanced-filter/components/AdvancedFilterRecordFilterOptionsDropdown.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelTableRowOptionsDropdown.tsx"
+    ]
+  },
+  {
+    "id": "T6YjCk",
+    "msgid": "Manage Members",
+    "ast": [
+      "Manage Members"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersTeamTab.tsx"
+    ]
+  },
+  {
+    "id": "T9qjpu",
+    "msgid": "Code Interpreter",
+    "ast": [
+      "Code Interpreter"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "TJBHlP",
+    "msgid": "Standard",
+    "ast": [
+      "Standard"
+    ],
+    "files": [
+      "src/modules/applications/utils/getApplicationDisplayName.ts",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelObjectPicker.tsx",
+      "src/pages/settings/ai/components/SettingsAgentToolsTab.tsx"
+    ]
+  },
+  {
+    "id": "TzM/0+",
+    "msgid": "Assigned to users who join via invite link, approved domain, or SSO, and used as fallback when an assigned role is deleted",
+    "ast": [
+      "Assigned to users who join via invite link, approved domain, or SSO, and used as fallback when an assigned role is deleted"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesDefaultRole.tsx"
+    ]
+  },
+  {
+    "id": "U3pytU",
+    "msgid": "Admin",
+    "ast": [
+      "Admin"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberInfosTab.tsx"
+    ]
+  },
+  {
+    "id": "UwvrGq",
+    "msgid": "No members",
+    "ast": [
+      "No members"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersTeamTab.tsx"
+    ]
+  },
+  {
+    "id": "UxeiNP",
+    "msgid": "Chat with AI agents and use AI features",
+    "ast": [
+      "Chat with AI agents and use AI features"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "VjMMyZ",
+    "msgid": "Select 1 field",
+    "ast": [
+      "Select 1 field"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionMeValueSelect.tsx"
+    ]
+  },
+  {
+    "id": "Vy9kmk",
+    "msgid": "Share this link to invite users to join your workspace",
+    "ast": [
+      "Share this link to invite users to join your workspace"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "W3MumH",
+    "msgid": "Cannot impersonate selected user",
+    "ast": [
+      "Cannot impersonate selected user"
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx",
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx"
+    ]
+  },
+  {
+    "id": "WUgtid",
+    "msgid": "Granted for this object",
+    "ast": [
+      "Granted for this object"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevelTableRow.tsx"
+    ]
+  },
+  {
+    "id": "WXvlVa",
+    "msgid": "Search a role...",
+    "ast": [
+      "Search a role..."
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesList.tsx"
+    ]
+  },
+  {
+    "id": "Widx6n",
+    "msgid": "API key roles",
+    "ast": [
+      "API key roles"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesList.tsx"
+    ]
+  },
+  {
+    "id": "XLzFVD",
+    "msgid": "All workspace members already have this role",
+    "ast": [
+      "All workspace members already have this role"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/constants/RoleTargetConfig.ts"
+    ]
+  },
+  {
+    "id": "XSdCGq",
+    "msgid": "1. Select an object",
+    "ast": [
+      "1. Select an object"
+    ],
+    "files": [
+      "src/pages/settings/members/roles/SettingsRoleAddObjectLevel.tsx"
+    ]
+  },
+  {
+    "id": "XuuWVF",
+    "msgid": "All the standard objects",
+    "ast": [
+      "All the standard objects"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelObjectPicker.tsx"
+    ]
+  },
+  {
+    "id": "Y4qK8/",
+    "msgid": "No members assigned",
+    "ast": [
+      "No members assigned"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentTable.tsx"
+    ]
+  },
+  {
+    "id": "Y8zko3",
+    "msgid": "update",
+    "ast": [
+      "update"
+    ],
+    "files": [
+      "src/modules/metadata-error-handler/hooks/useMetadataErrorHandler.ts",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/utils/objectPermissionKeyToHumanReadableText.ts"
+    ]
+  },
+  {
+    "id": "YJgmMZ",
+    "msgid": "Object-Level",
+    "ast": [
+      "Object-Level"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelTableHeader.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevel.tsx"
+    ]
+  },
+  {
+    "id": "YvwwqC",
+    "msgid": "Where",
+    "ast": [
+      "Where"
+    ],
+    "files": [
+      "src/modules/object-record/advanced-filter/components/AdvancedFilterLogicalOperatorCell.tsx",
+      "src/modules/object-record/advanced-filter/side-panel/components/AdvancedFilterSidePanelLogicalOperatorCell.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionLogicalOperatorCell.tsx",
+      "src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterLogicalOperatorCell.tsx"
+    ]
+  },
+  {
+    "id": "ZBgSzH",
+    "msgid": "Customize what this user can view and perform",
+    "ast": [
+      "Customize what this user can view and perform"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberPermissionsTab.tsx"
+    ]
+  },
+  {
+    "id": "avDJC3",
+    "msgid": "Sync Account",
+    "ast": [
+      "Sync Account"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "c0vHQI",
+    "msgid": "Delete this role and assign a new role to its members",
+    "ast": [
+      "Delete this role and assign a new role to its members"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettings.tsx"
+    ]
+  },
+  {
+    "id": "cNIHA/",
+    "msgid": "Member removed from workspace",
+    "ast": [
+      "Member removed from workspace"
+    ],
+    "files": [
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx"
+    ]
+  },
+  {
+    "id": "clfpgU",
+    "msgid": "Error resending invitation",
+    "ast": [
+      "Error resending invitation"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "cybVUo",
+    "msgid": "As it will be displayed in the workspace",
+    "ast": [
+      "As it will be displayed in the workspace"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberInfosTab.tsx"
+    ]
+  },
+  {
+    "id": "d7+zQ6",
+    "msgid": "Applicability",
+    "ast": [
+      "Applicability"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleApplicability.tsx"
+    ]
+  },
+  {
+    "id": "eGGH1l",
+    "msgid": "Manage security policies",
+    "ast": [
+      "Manage security policies"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "ecLxgy",
+    "msgid": "Object permission options",
+    "ast": [
+      "Object permission options"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelTableRowOptionsDropdown.tsx"
+    ]
+  },
+  {
+    "id": "efjzvW",
+    "msgid": "Delete role",
+    "ast": [
+      "Delete role"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettings.tsx"
+    ]
+  },
+  {
+    "id": "f9b1sj",
+    "msgid": "No agents assigned",
+    "ast": [
+      "No agents assigned"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentTable.tsx"
+    ]
+  },
+  {
+    "id": "fEqDWx",
+    "msgid": "Manage workflows",
+    "ast": [
+      "Manage workflows"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "fQj/UU",
+    "msgid": "Create calendar events via connected accounts",
+    "ast": [
+      "Create calendar events via connected accounts"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "fbe2ik",
+    "msgid": "Create Calendar Event",
+    "ast": [
+      "Create Calendar Event"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "fcUyLo",
+    "msgid": "Grants permission to perform all available actions without restriction",
+    "ast": [
+      "Grants permission to perform all available actions without restriction"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsToolSection.tsx"
+    ]
+  },
+  {
+    "id": "gCnKdT",
+    "msgid": "Allow importing data from CSV files",
+    "ast": [
+      "Allow importing data from CSV files"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "gF4nBH",
+    "msgid": "Role name cannot be empty",
+    "ast": [
+      "Role name cannot be empty"
+    ],
+    "files": [
+      "src/modules/settings/roles/role/components/SettingsRole.tsx"
+    ]
+  },
+  {
+    "id": "ggd+Ee",
+    "msgid": "Upgrade to access",
+    "ast": [
+      "Upgrade to access"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelSection.tsx"
+    ]
+  },
+  {
+    "id": "h+8V38",
+    "msgid": "See",
+    "ast": [
+      "See"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/field-permissions/components/SettingsRolePermissionsObjectLevelObjectFieldPermissionTable.tsx"
+    ]
+  },
+  {
+    "id": "hiLxmN",
+    "msgid": "You cannot impersonate your own account",
+    "ast": [
+      "You cannot impersonate your own account"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/hooks/useHandleImpersonate.ts",
+      "src/pages/settings/members/SettingsWorkspaceMember.tsx"
+    ]
+  },
+  {
+    "id": "i0zibG",
+    "msgid": "see",
+    "ast": [
+      "see"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/utils/objectPermissionKeyToHumanReadableText.ts"
+    ]
+  },
+  {
+    "id": "i6mVT3",
+    "msgid": "This feature is part of the Organization plan",
+    "ast": [
+      "This feature is part of the Organization plan"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelSection.tsx"
+    ]
+  },
+  {
+    "id": "i9qiyR",
+    "msgid": "Expires in",
+    "ast": [
+      "Expires in"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "iSfzXo",
+    "msgid": "Role name",
+    "ast": [
+      "Role name"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettings.tsx",
+      "src/modules/settings/roles/role/components/SettingsRoleLabelContainer.tsx"
+    ]
+  },
+  {
+    "id": "kOksfH",
+    "msgid": "Assignable to API Keys",
+    "ast": [
+      "Assignable to API Keys"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleApplicability.tsx"
+    ]
+  },
+  {
+    "id": "kSCxfd",
+    "msgid": "No permissions have been set for individual objects.",
+    "ast": [
+      "No permissions have been set for individual objects."
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelSection.tsx"
+    ]
+  },
+  {
+    "id": "krsgB0",
+    "msgid": "Assign to agent",
+    "ast": [
+      "Assign to agent"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/constants/RoleTargetConfig.ts"
+    ]
+  },
+  {
+    "id": "kwkhPe",
+    "msgid": "Upgrade",
+    "ast": [
+      "Upgrade"
+    ],
+    "files": [
+      "src/modules/ai/components/AIChatNoMoreBillingCreditsBanner.tsx",
+      "src/modules/ai/components/AIChatNoMoreBillingCreditsBanner.tsx",
+      "src/modules/information-banner/components/billing/InformationBannerNoMoreCredits.tsx",
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx",
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts",
+      "src/modules/settings/event-logs/components/SettingsLogs.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelSection.tsx"
+    ]
+  },
+  {
+    "id": "lxQ+5m",
+    "msgid": "Assigned to",
+    "ast": [
+      "Assigned to"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesTableHeader.tsx"
+    ]
+  },
+  {
+    "id": "mFtRj8",
+    "msgid": "Add object permission",
+    "ast": [
+      "Add object permission"
+    ],
+    "files": [
+      "src/pages/settings/members/roles/SettingsRoleAddObjectLevel.tsx",
+      "src/pages/settings/members/roles/SettingsRoleAddObjectLevel.tsx"
+    ]
+  },
+  {
+    "id": "mQKK3r",
+    "msgid": "Actions permissions",
+    "ast": [
+      "Actions permissions"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsToolSection.tsx"
+    ]
+  },
+  {
+    "id": "mU1OkO",
+    "msgid": "No agents match your search",
+    "ast": [
+      "No agents match your search"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentEntityPickerDropdown.tsx"
+    ]
+  },
+  {
+    "id": "mjK8F3",
+    "msgid": "Send an invite email to your team",
+    "ast": [
+      "Send an invite email to your team"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "n3ohBy",
+    "msgid": "Impersonate workspace users",
+    "ast": [
+      "Impersonate workspace users"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "nerbkq",
+    "msgid": "Assign roles to specify access permissions",
+    "ast": [
+      "Assign roles to specify access permissions"
+    ],
+    "files": [
+      "src/modules/settings/roles/components/SettingsRolesList.tsx"
+    ]
+  },
+  {
+    "id": "ngx6hS",
+    "msgid": "Assign to API key",
+    "ast": [
+      "Assign to API key"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/constants/RoleTargetConfig.ts"
+    ]
+  },
+  {
+    "id": "oGROXc",
+    "msgid": "See Fields",
+    "ast": [
+      "See Fields"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelTableHeader.tsx"
+    ]
+  },
+  {
+    "id": "oKQ7ls",
+    "msgid": "Edit Fields",
+    "ast": [
+      "Edit Fields"
+    ],
+    "files": [
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownHiddenFieldsContent.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelTableHeader.tsx",
+      "src/modules/side-panel/hooks/useOpenWidgetSettingsInSidePanel.ts"
+    ]
+  },
+  {
+    "id": "p8fNBm",
+    "msgid": "Settings permissions",
+    "ast": [
+      "Settings permissions"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsSettingsSection.tsx"
+    ]
+  },
+  {
+    "id": "pFe0YS",
+    "msgid": "Search an object",
+    "ast": [
+      "Search an object"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelObjectPicker.tsx"
+    ]
+  },
+  {
+    "id": "pPTmfc",
+    "msgid": "All your custom objects",
+    "ast": [
+      "All your custom objects"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelObjectPicker.tsx"
+    ]
+  },
+  {
+    "id": "pfWzog",
+    "msgid": "Me (User ID)",
+    "ast": [
+      "Me (User ID)"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionMeValueSelect.tsx"
+    ]
+  },
+  {
+    "id": "q11Dk2",
+    "msgid": "Enable bypass options",
+    "ast": [
+      "Enable bypass options"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "qBpBSc",
+    "msgid": "SSO Bypass",
+    "ast": [
+      "SSO Bypass"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts",
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "qTxPPY",
+    "msgid": "No compatible fields",
+    "ast": [
+      "No compatible fields"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionMeValueSelect.tsx"
+    ]
+  },
+  {
+    "id": "r9gSmi",
+    "msgid": "MCP & APIs",
+    "ast": [
+      "MCP & APIs"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx",
+      "src/modules/settings/hooks/useSettingsNavigationItems.tsx",
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts",
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx",
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeysNew.tsx",
+      "src/pages/settings/developers/playground/SettingsGraphQLPlayground.tsx",
+      "src/pages/settings/developers/playground/SettingsRestPlayground.tsx"
+    ]
+  },
+  {
+    "id": "rRyKdg",
+    "msgid": "Run code to analyze files and data",
+    "ast": [
+      "Run code to analyze files and data"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useActionRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "sFsCOG",
+    "msgid": "See data model settings",
+    "ast": [
+      "See data model settings"
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersTeamTab.tsx"
+    ]
+  },
+  {
+    "id": "sqEW29",
+    "msgid": "Assignable to Agents",
+    "ast": [
+      "Assignable to Agents"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleApplicability.tsx"
+    ]
+  },
+  {
+    "id": "tSVr6t",
+    "msgid": "Impersonate",
+    "ast": [
+      "Impersonate"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberInfosTab.tsx",
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts",
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "uMOyEH",
+    "msgid": "Record-level",
+    "ast": [
+      "Record-level"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelSection.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelSection.tsx"
+    ]
+  },
+  {
+    "id": "uXW4pg",
+    "msgid": "Settings All Access",
+    "ast": [
+      "Settings All Access"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsSettingsSection.tsx"
+    ]
+  },
+  {
+    "id": "umgyhx",
+    "msgid": "Tim",
+    "ast": [
+      "Tim"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberNameFields.tsx",
+      "src/modules/settings/profile/components/NameFields.tsx",
+      "src/pages/onboarding/CreateProfile.tsx"
+    ]
+  },
+  {
+    "id": "upbzgm",
+    "msgid": "Me",
+    "ast": [
+      "Me"
+    ],
+    "files": [
+      "src/modules/object-record/record-field/ui/form-types/components/FormWorkspaceMemberFilterValueInput.tsx",
+      "src/modules/object-record/record-field/ui/form-types/components/FormWorkspaceMemberFilterValueInput.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionValueInput.tsx",
+      "src/modules/views/hooks/useComputeRecordRelationFilterDisplayValue.tsx"
+    ]
+  },
+  {
+    "id": "v41A6S",
+    "msgid": "Delete Role Permanently",
+    "ast": [
+      "Delete Role Permanently"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettingsDeleteRoleConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "v41VX6",
+    "msgid": "Default role",
+    "ast": [
+      "Default role"
+    ],
+    "files": [
+      "src/modules/workspace/components/WorkspaceInviteTeam.tsx",
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "vCSBPD",
+    "msgid": "Add filter",
+    "ast": [
+      "Add filter"
+    ],
+    "files": [
+      "src/modules/object-record/advanced-filter/side-panel/components/AdvancedFilterSidePanelCreateRootFilterButton.tsx",
+      "src/modules/object-record/advanced-filter/side-panel/components/AdvancedFilterSidePanelCreateRootFilterButton.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionFilterBuilderContent.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/record-level-permissions/components/SettingsRolePermissionsObjectLevelRecordLevelPermissionFilterBuilderContent.tsx",
+      "src/modules/views/components/ViewBarDetailsAddFilterButton.tsx"
+    ]
+  },
+  {
+    "id": "wTKqOI",
+    "msgid": "Ability to interact with this object's fields.",
+    "ast": [
+      "Ability to interact with this object's fields."
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/field-permissions/components/SettingsRolePermissionsObjectLevelObjectFieldPermissionTable.tsx"
+    ]
+  },
+  {
+    "id": "wZT6U/",
+    "msgid": "No API keys match your search",
+    "ast": [
+      "No API keys match your search"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentEntityPickerDropdown.tsx"
+    ]
+  },
+  {
+    "id": "xJR+Wq",
+    "msgid": "Anyone with an email address at these domains is allowed to sign up for this workspace.",
+    "ast": [
+      "Anyone with an email address at these domains is allowed to sign up for this workspace."
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersInviteTab.tsx"
+    ]
+  },
+  {
+    "id": "xJSPh6",
+    "msgid": "The email associated to this account",
+    "ast": [
+      "The email associated to this account"
+    ],
+    "files": [
+      "src/modules/settings/members/components/MemberInfosTab.tsx"
+    ]
+  },
+  {
+    "id": "xdl79x",
+    "msgid": "Search a team member...",
+    "ast": [
+      "Search a team member..."
+    ],
+    "files": [
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersTeamTab.tsx"
+    ]
+  },
+  {
+    "id": "xzOKup",
+    "msgid": "Untitled role",
+    "ast": [
+      "Untitled role"
+    ],
+    "files": [
+      "src/modules/settings/roles/role/components/SettingsRoleCreateEffect.tsx"
+    ]
+  },
+  {
+    "id": "yU0QVO",
+    "msgid": "Layouts",
+    "ast": [
+      "Layouts"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/permission-flags/hooks/useSettingsRolePermissionFlagConfig.ts"
+    ]
+  },
+  {
+    "id": "zfjcH5",
+    "msgid": "Some",
+    "ast": [
+      "Some"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelSeeFieldsValueForObject.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelUpdateFieldsValueForObject.tsx"
+    ]
+  }
+]

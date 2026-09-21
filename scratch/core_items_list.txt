@@ -1,0 +1,319 @@
+Qvm3VE	{0, plural, one {# Object} other {# Objects}}
+peiknr	{0} shown
+XWd9bY	{agentCount, plural, one {{agentCount} agent} other {{agentCount} agents}}
+WhHyQh	{apiKeyCount, plural, one {{apiKeyCount} API key} other {{apiKeyCount} API keys}}
+u1mVnV	{appDisplayName} would like to:
+SWRSbi	{browser} on {operatingSystem}
+M9lDqR	{count, plural, one {E.g. {example} for # decimal} other {E.g. {example} for # decimals}}
+7o03+8	{decimals, plural, one {E.g. {example} for # decimal} other {E.g. {example} for # decimals}}
+bv2QCV	{filterRulesCount, plural, one {{filterRulesCount} rule} other {{filterRulesCount} rules}}
+YF/a2j	{grantedBy, plural, one {Granted for {grantedBy} object} other {Granted for {grantedBy} objects}}
+1DrH/j	{memberCount, plural, one {{memberCount} member} other {{memberCount} members}}
+HpUf/k	{positionLabel} record holds priority
+hcRYEH	{revokedBy, plural, one {Revoked for {revokedBy} object} other {Revoked for {revokedBy} objects}}
+OeIgEg	{roleLabel} can {humanReadableAction} {objectLabel} records
+D0C09b	{roleLabel} can't {humanReadableAction} {objectLabel} records
+uHZWwU	{roleTargetName} will be assigned to the "{newRoleName}" role.
+Bzjg0/	{stepNumber}. Calendar
+XdG+hI	{totalFieldsCount} visible fields
+WjjsAL	{visibleFieldsCount} visible fields
+WN9tFl	{workspaceMemberName} will be unassigned from the following role:
+hziCGA	2FA Method has been deleted successfully.
+cNBo/E	2FA Method Reset
+eU1E2J	A payment on your subscription failed. Your premium features stay active while we retry it.
+nJJAYH	Accepted and signed DPAs for this workspace, with their template version and date.
+BXMLsb	Acme GmbH
+8xkU9e	Activate Organization Key
+jSZacs	Activating...
+Mue4oc	Active API keys created by you or your team.
+QXX2VR	Add "{trimmedName}" to options
+hKNhfF	Add topic
+8zCitC	Add widget above
+yy7F6M	Add widget below
+vLO+NG	Added {beautifiedCreatedAt}
+9iIYOy	Added to blocklist
+cBdysG	Advanced Encryption
+WGLEBU	All emails
+dJn2LR	All emails and events linked to this account ({accountHandle}) will be deleted
+dtwyLS	All messages
+gqXMNe	All reasons
+xYbZZH	All topics
+VwwcyO	Allow editing
+GMx1K0	Allow logins through Google's single sign-on functionality.
+U6bnfj	Allow Support Team Access
+g6Wfbf	An error occurred while removing the picture.
+kDx/lV	An error occurred while uploading the picture.
+QsDjlD	Apple
+9JFf0y	Are you sure you want to update the role of this user from "{oldRoleLabel}" to "{newRoleLabel}"?
+OBqG7p	Assign {roleTargetName}?
+7qh2Hx	Assigned {roleTargetDisplayName}
+EPEFrH	Audit Logs
+3yzHpm	Authorized signatory name
+li9In6	Axis name
+9aZHfH	Back to settings
+dSjFxR	Billing history
+MNHZwz	Bounce
+hKAV/O	Browse partners
+GixROH	CalDAV Configuration
++x0fpb	caldav.example.com
+alkXJ5	Calendar view
+y4uH7j	Cancelling
+WbPx+C	Cancels on
+kryGs+	Card
+GptGxg	Change password
+NaiAqg	Choose folders to sync
+ss6vFU	Click-through acceptance
+1HfW/F	Colors
+j1828V	Complaint
+Bh4GBD	Configure your emails and calendar settings.
+SU6Tym	Confirm deletion of {roleName} role? This cannot be undone.
+W7S+Tm	Confirm deletion of {roleName} role? This cannot be undone. {reassignSubject} will be reassigned to the default role.
+OeMn6m	Confirm your preferences:
+IOfqM8	Connect with Microsoft
+9TzudL	Connected accounts
+FxVG/l	Copied to clipboard
+HvB+os	Copy paste the code below
+E5v5TK	Could not download the document.
+NonvA5	Could not generate the signed DPA. Please try again.
+pd1EEy	Could not open billing portal. Please check your Organization key is present, or contact support.
+ZuI4Sl	Could not open Stripe. Please contact support.
+w1HkE9	Could not refresh validity token - reverted the instance type change.
+sJS35p	Could not refresh validity token and could not revert the instance type change.
+wVw4Am	Could not refresh validity token. Please contact support.
+rGxoIq	Could not transfer the Organization key. Please contact support.
+xsKD3e	Could not update the instance type
+J1QT+3	Cumulative
+nxnCld	Data and display
+xpZXLn	Data labels
+fM466x	Data on display
+QIIAIQ	Date field
+jPvFKE	Delete Two-Factor Authentication Method
+tWD0z0	Delete widget
+wIAG+H	Deleting this method will remove it permanently from your account.
+YI3c7h	Destroy {objectLabelPlural}
+b9bH06	Development instance
+fAlSRz	Discovery on {defaultDomain}
+Ldgs6e	Display "More fields" button
+jDRt4n	Do you want to unsubscribe?
+7Zdnlq	Document
+mMsEuG	Duplicate widget
+79hamt	Each slice represents
++hvIFU	eddy@gmail.com, @apple.com
+9B436y	Edit Account
+JTcEch	Edit Graph
+WXPnsc	Edit iFrame
+19vPbj	Edit Record Table
+6o1M/Q	Edit your subdomain name or set a custom domain.
+ATGYL1	Email address
+Pvk9fk	Email addresses that will no longer receive campaign emails
+ioPfqt	Email categories recipients can opt out of
+6iUnle	Enjoy a 30-day free trial
+8PrrNJ	Entity ID copied to clipboard
+BlLvRP	Erasure of soft-deleted records
+MC9SGH	Error activating Organization license
+Mox63G	Error opening billing portal
+e/eieW	Error opening Stripe
+zRXcyv	Error refreshing validity token. Please contact support.
+XuMw6C	Error resetting variable
+2AvJlR	Error transferring the Organization key
+s+iV3f	Error updating variable
+JLxMta	Establish Webhook endpoints for notifications on asynchronous events.
+aCFYU+	Exclude the following people and domains from the email and calendar sync of every workspace member
+g3jaWB	Executed copies
+0zoYr3	Failed to activate Organization license. Please check your key or contact support.
+ERoMSu	Failed to log out this device
+T4nt+1	Failed to remove picture
+Lx8/KQ	Failed to upload picture
+PpZkda	Features
+WHjLqG	Features active until
+lcNTiF	Field widget
+Tnz22x	Fields conflicts
+j/O9Sh	Filter unsubscribers
+8BwQeU	Finish Setup
+tVgANq	Fix the payment issue to keep your premium features active.
+SdIdBz	Fix the payment issue to restore your premium features.
+HSh8u/	Folders
+I7Exsw	Follow us on X
+q3il6U	Font size
+abDZwc	Format e.g. d-MMM-y (qqq''yy)
+ziAjHi	Generate
+H3rta9	Generate DPA
+AvbPI1	Get Organization
+MZe3+J	Get Organization Key
+Hb4Cgz	Go to billing portal
+CQwSng	Google OIDC
+6eo66Q	Grant access to your workspace so we can troubleshoot problems.
+Gpb1xF	Head of Legal
+oK+1Wj	Hidden Fields
+MuEcPp	Hide empty category
+HS8BG/	Hide empty groups
+1ETc0T	Hire a partner to help you implement and customize Twenty.
+yhVtER	https://example.com/embed
++8jOVa	imap.example.com
+XOHdRf	Install {appDisplayName} on your workspace
+GfnKOF	Interface
+ggS/0k	Invalid 2FA information.
+9TgH9p	Invalid auth bypass provider
+4D6/HO	Invalid file: {0}
+VEKoJx	Invalid verification code. Please try again.
+IhCN5p	Issuer URI
+A1CyH/	Jane Doe
+C5FAaq	john.doe
+wrLOeW	john.doe@example.com
+31TuIx	Join our Discord
+cIo6Vk	Join the community
+aOedjo	Key in use on another server
+B9/B0O	Label (plural)
+J8GEvd	Label (singular)
+PEi+K2	Languages without their own translation show the source text.
+8QyoLb	Leave blank if you don't need calendar sync.
+EY3IAD	Leave blank if you don't need to import emails.
+vifyyw	Legal
+nc/jNe	Legal entity name
+MP1v+1	Legend
+vhRvfF	Letter spacing
+3qg5Ro	Licensee
+Wqh8xb	Line height
+ILNASD	Logged out all other devices
+FyFNsd	Manage your internet accounts.
+2ICF9k	Max range
+nA8kxD	MCP
+JBisyL	Min range
+bAvovP	Move Down
+iSLA/r	Move left
+Ubl2by	Move right
+TH+XKl	Move to another tab
+Bpglf1	Move Up
+J7w8lI	Name of your workspace
+ErO8dj	Never shown at sign-in. Members use the workspace URL.
+C7WtCv	New SSO provider
+Zpgvun	No copy has been generated yet. This is the agreement that applies to your deployment — generate a signed copy from the top-right.
+lAfu/q	No default configuration available for this tab
+B8I32S	No default configuration available for this widget
+OLsGjz	No unsubscribers found
+rPAZRd	No workspace selected
+1WZTTl	One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats.
+b8dX3V	Organization key transferred to this server
+MoJjhq	Organization License
+6alGoe	Organization license activated successfully
+9LV44m	Other security settings
+9PPBpT	Page {0} of {pageCount}
+mPkInZ	Partners
+M01WeF	Paste your Organization key below to activate. Keep a copy of this key somewhere safe: the same key is reused to set up a development instance or to move your license to a replacement server.
+Jkg0nj	Paste your Organization key here
+QmXBEc	Payment issue
+KiuPPj	Permissions · {objectLabelSingular}
+3pU8e+	Pin tab
+MFTZK8	Placement
+rNqTKZ	Prefix
+GRQhAg	Preview of the page recipients see when they unsubscribe
+1hKEom	Priority
+GVxbU6	Provide your OIDC provider details
+iaocTt	Ratio
+549d7o	Read changelog
+BT7pY+	Receive an email containing password set link
+XNF6El	Recipients can only unsubscribe from everything. Add a public topic to let them choose what they keep receiving.
+E1qk3l	Register as development instance
+ARGZDy	Registered as a development instance. This instance will not be billed.
+R/mKm6	Release & transfer
+KXrI7W	Release & transfer Organization key
+PYZeGT	Release & transfer to this server
+qbM5In	Reload validity token
+MZWnSC	Reloading...
+qlAIQ1	Remote
+rn2/2V	Remove filter
+bha0Vl	Renews on
+q8Id6J	Replace widget
+1BEcEg	Reset 2FA
+6rzsES	Reset variable
+xPaeO2	Row-level security
+kdagxk	Search an assigned {roleTargetDisplayName}...
+3mGNuB	Search by email address
+two5rl	Search objects
+8sgZS9	seat / month
+aQnWwf	seat / month - billed yearly
+aOvXdk	See {objectLabelPlural}
+U+WOF9	Select date & time
+7c7atJ	Select your language and adjust the size of the interface
+J2TlKG	setup key
+TJ4tz9	Show value in center
+a6TaW9	Signatory title
+Lz4j8Q	Signed copy
+Z2Wg9g	Signed DPA generated and downloaded
+ISDzCY	SMTP Username
+4oakKm	smtp.example.com
+MEXVHu	Source: {canonicalValue}
+gsifzp	Split multiple values
+vlvAkg	SSO (SAML / OIDC)
+nNpwX2	Stacked bars
+bQSDyq	Stacked lines
+TqGZ8Y	Start a new Organization subscription to re-enable premium features.
+kqtVJH	Start a new Organization subscription.
+oCQwvS	Stay up to date with product news and community updates.
+1CalO6	Style
+97eDN2	Subject and metadata
+J9ylmk	Subject, body and attachments will be shared with your team.
+QJz8/3	Suffix
+13a+Fq	Switch to production instance
+QfzgpH	Switched to a production instance.
+phtAw0	Sync every message
+MapzEo	Text color
+21Xjwu	The full agreement with fields resolved for your deployment.
+Ya1wb4	The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory.
+AYRXBE	There is a payment issue with your subscription. Your premium features are disabled. Settle the outstanding invoice to restore them, before the subscription is cancelled: a cancelled subscription cannot be reactivated and you would need to start a new one.
+Ox1hE7	"
+"This action cannot be undone. This will permanently delete your
+"
+"            entire account.
+o5vUsG	This action cannot be undone. This will permanently reset your two factor authentication method. <0/> Please type in your email to confirm.
+ThVMIW	This Organization key is already bound to a different server instance. Releasing it here will transfer the license to this server and stop counting seats on the previous one.
+CHf20W	This Organization key is currently bound to a different server instance. Transferring it here will release it from the previous server and stop counting seats on it. Are you sure you want to continue?
+vbLBMd	This role can {humanReadableAction} all records
+BifDEA	This role is assigned to these {roleTargetDisplayName}.
+IBWuXb	This server has an Organization key configured. Make sure you keep a copy of it somewhere safe: you need the same key to activate a development instance or to move your license to a replacement server. If you no longer have access to your key, contact support.
+Gzd97S	This server is registered as a development instance and is not billed additionally. A subscription can have a single development instance in addition to its production one. Switching it back to a production instance will make its seats count toward billing.
+VbVocX	This will cancel all modifications done on the widget. This action cannot be undone.
+XGDxrH	This will permanently delete the field and all its data from {objectLabel}. Type "yes" to confirm.
+qEODFi	This will permanently delete your two factor authentication method.<0/>Since 2FA is mandatory in your workspace, you will be logged out after deletion and will be asked to configure it again upon login. <1/>Please type in your email to confirm.
+GFxnQR	Toggle all folders
+qJLttu	Topic
+es+Zrf	Transferring...
+64tOpZ	Try our REST or GraphQL API playgrounds
+3WWUB9	Try our upcoming features. Note they are still in beta. Please bear with us and report any issues you find.
+ouRvqq	TTL
+MUIppF	Two factor authentication provisioning failed.
+cRM1ec	Two-factor authentication setup completed successfully!
+pRpC/r	unit
+rg5AzZ	Unknown topic
+8vc1Dy	Unlock premium features like SSO, row-level security, and audit logs.
+SYfHmN	Unpin tab
+AFYemk	Unsubscribe all
+WukjCJ	Unsubscribe topics
+Y69tSP	Update payment method
+Uq5zVf	Update your payment method before {licenseExpiresAtDate} to avoid losing access.
+DNM+xk	Updated (on specific fields)
+pphDjD	URL to Embed
+IjyOjp	User is not logged in
+PWZBIT	Validity token refreshed successfully
+d2GZm6	Variable {title} updated
+eE0JZ4	Version
+B02hom	View invoices
+XQC+sL	Visibility restriction
+gkAApJ	Visibility Restriction
+egkNh9	Watch demo
+SHqkdn	X axis
+fplGg6	Y axis
+Dg2c0z	You don't have access to this settings page.
+tzk0bz	You have reached the maximum number of server transfers allowed in the last 30 days for this Organization key. Please try again later or contact support.
+gtZrCd	You will stop receiving these emails.
+mmGBWT	Your details
+91Ysnw	Your Organization key
+eE08iE	Your Organization subscription has been canceled.
+iizYt1	Your premium features are active
+VRFEn9	Your premium features are active but your Organization key is missing or invalid. This may be expected, but if not, please set a valid signed Organization key to manage your subscription, or contact support.
+BkmgMC	Your premium features will be disabled
+TI99Rh	Your premium features will remain active until {cancelAtDate}.
+319YPG	Your subscription is active but your validity token is invalid or has expired. Try reloading it or contact support.
+Fx0axg	Your subscription is scheduled for cancellation
+XgIa/8	Your subscription setup was not completed.
+Z9kbt6	Your subscription status is: {statusLabel}

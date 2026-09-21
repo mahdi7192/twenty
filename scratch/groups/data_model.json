@@ -1,0 +1,2384 @@
+[
+  {
+    "id": "+69KDk",
+    "msgid": "The values of this field must be unique",
+    "ast": [
+      "The values of this field must be unique"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "+RYIn9",
+    "msgid": "Delete this index?",
+    "ast": [
+      "Delete this index?"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectIndexesSection.tsx"
+    ]
+  },
+  {
+    "id": "//H2Cs",
+    "msgid": "New Index",
+    "ast": [
+      "New Index"
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-index/SettingsObjectNewIndex.tsx",
+      "src/pages/settings/data-model/new-index/SettingsObjectNewIndex.tsx"
+    ]
+  },
+  {
+    "id": "/4gGIX",
+    "msgid": "Copy to clipboard",
+    "ast": [
+      "Copy to clipboard"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldOnClickActionForm.tsx"
+    ]
+  },
+  {
+    "id": "/8Yh6y",
+    "msgid": "Objects and fields permissions settings",
+    "ast": [
+      "Objects and fields permissions settings"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsSection.tsx"
+    ]
+  },
+  {
+    "id": "/SZI25",
+    "msgid": "What each language displays for this field's labels",
+    "ast": [
+      "What each language displays for this field's labels"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "/hrkZs",
+    "msgid": "Remove field",
+    "ast": [
+      "Remove field"
+    ],
+    "files": [
+      "src/modules/settings/data-model/indexes/forms/components/SettingsObjectIndexFieldsForm.tsx"
+    ]
+  },
+  {
+    "id": "/roQKz",
+    "msgid": "Percentage",
+    "ast": [
+      "Percentage"
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/graph/graph-widget-pie-chart/hooks/usePieChartCenterMetricData.ts",
+      "src/modules/settings/data-model/fields/forms/number/constants/NumberDataModelSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "/xM6j0",
+    "msgid": "Enter one option per line",
+    "ast": [
+      "Enter one option per line"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectForm.tsx"
+    ]
+  },
+  {
+    "id": "00Lxnh",
+    "msgid": "Remove option",
+    "ast": [
+      "Remove option"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "0DTqrp",
+    "msgid": "Translate or rename?",
+    "ast": [
+      "Translate or rename?"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/SettingsUpdateDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "0HAF12",
+    "msgid": "2. Configure field",
+    "ast": [
+      "2. Configure field"
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-field/SettingsObjectNewFieldConfigure.tsx"
+    ]
+  },
+  {
+    "id": "0Ractl",
+    "msgid": "Field added to search",
+    "ast": [
+      "Field added to search"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectSearchSection.tsx"
+    ]
+  },
+  {
+    "id": "0apULK",
+    "msgid": "System objects",
+    "ast": [
+      "System objects"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemViewObjectPickerSubView.tsx",
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemViewSystemSubView.tsx",
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelObjectPickerSubView.tsx",
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelSystemObjectPickerSubView.tsx",
+      "src/modules/side-panel/utils/getSidePanelSubPageTitle.ts",
+      "src/modules/side-panel/utils/getSidePanelSubPageTitle.ts",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPermissionsObjectsList.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPermissionsTab.tsx",
+      "src/pages/settings/data-model/SettingsObjectTable.tsx"
+    ]
+  },
+  {
+    "id": "0fRFSb",
+    "msgid": "Number of decimals",
+    "ast": [
+      "Number of decimals"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/currency/components/SettingsDataModelFieldCurrencyForm.tsx",
+      "src/modules/settings/data-model/fields/forms/number/components/SettingsDataModelFieldNumberForm.tsx"
+    ]
+  },
+  {
+    "id": "1PqGzu",
+    "msgid": "Rename for all languages",
+    "ast": [
+      "Rename for all languages"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/SettingsUpdateDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "1QEPf7",
+    "msgid": "Bulk edit",
+    "ast": [
+      "Bulk edit"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectForm.tsx"
+    ]
+  },
+  {
+    "id": "1Y7Unr",
+    "msgid": "Use indexes sparingly",
+    "ast": [
+      "Use indexes sparingly"
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-index/SettingsObjectNewIndex.tsx"
+    ]
+  },
+  {
+    "id": "1YV5aa",
+    "msgid": "Select a field",
+    "ast": [
+      "Select a field"
+    ],
+    "files": [
+      "src/modules/object-core/workflows/components/CoreWorkflowFilterFieldSelect.tsx",
+      "src/modules/settings/data-model/indexes/forms/components/SettingsObjectIndexFieldsForm.tsx",
+      "src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterFieldSelect.tsx"
+    ]
+  },
+  {
+    "id": "1xQkU9",
+    "msgid": "The default country code for new phone numbers.",
+    "ast": [
+      "The default country code for new phone numbers."
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/phones/components/SettingsDataModelFieldPhonesForm.tsx"
+    ]
+  },
+  {
+    "id": "2FIjLb",
+    "msgid": "Pink",
+    "ast": [
+      "Pink"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "2OUtmv",
+    "msgid": "The description of this field",
+    "ast": [
+      "The description of this field"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "2ZFG9X",
+    "msgid": "Choose between Short and Full",
+    "ast": [
+      "Choose between Short and Full"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/currency/components/SettingsDataModelFieldCurrencyForm.tsx"
+    ]
+  },
+  {
+    "id": "2xOCJW",
+    "msgid": "This action cannot be undone.",
+    "ast": [
+      "This action cannot be undone."
+    ],
+    "files": [
+      "src/modules/layout-customization/components/LayoutCustomizationBarResetConfirmationModal.tsx",
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx"
+    ]
+  },
+  {
+    "id": "3UVA3z",
+    "msgid": "Show this object's records in the command menu (⌘K).",
+    "ast": [
+      "Show this object's records in the command menu (⌘K)."
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectSearchSection.tsx"
+    ]
+  },
+  {
+    "id": "4BSfjK",
+    "msgid": "No country",
+    "ast": [
+      "No country"
+    ],
+    "files": [
+      "src/modules/object-record/record-field/ui/form-types/components/FormCountrySelectInput.tsx",
+      "src/modules/settings/data-model/fields/forms/address/components/SettingsDataModelFieldAddressForm.tsx",
+      "src/modules/settings/data-model/fields/forms/phones/components/SettingsDataModelFieldPhonesForm.tsx",
+      "src/modules/ui/input/components/internal/country/components/CountrySelect.tsx"
+    ]
+  },
+  {
+    "id": "4OE5Sf",
+    "msgid": "Orange",
+    "ast": [
+      "Orange"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "4pzLrc",
+    "msgid": "1 Object",
+    "ast": [
+      "1 Object"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/SettingsObjectRelationItemTableRow.tsx"
+    ]
+  },
+  {
+    "id": "4zuPQL",
+    "msgid": "Default Country Code",
+    "ast": [
+      "Default Country Code"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/phones/components/SettingsDataModelFieldPhonesForm.tsx"
+    ]
+  },
+  {
+    "id": "5Dll32",
+    "msgid": "Object deleted",
+    "ast": [
+      "Object deleted"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx"
+    ]
+  },
+  {
+    "id": "5IrCQY",
+    "msgid": "Mint",
+    "ast": [
+      "Mint"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "5Um70B",
+    "msgid": "Address 2",
+    "ast": [
+      "Address 2"
+    ],
+    "files": [
+      "src/modules/object-metadata/hooks/useSortSubFieldChoicesForField.ts",
+      "src/modules/object-record/record-field/ui/form-types/components/FormAddressFieldInput.tsx",
+      "src/modules/settings/data-model/fields/forms/address/constants/DefaultSelectionAddressWithMessages.ts",
+      "src/modules/ui/field/input/components/AddressInput.tsx"
+    ]
+  },
+  {
+    "id": "5iSD9O",
+    "msgid": "Wrap on record pages",
+    "ast": [
+      "Wrap on record pages"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/text/SettingsDataModelFieldTextForm.tsx"
+    ]
+  },
+  {
+    "id": "5y3O+A",
+    "msgid": "Deactivate",
+    "ast": [
+      "Deactivate"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx",
+      "src/modules/settings/security/components/sso/SettingsSecuritySsoRowDropdownMenu.tsx",
+      "src/pages/settings/ai/components/SettingsSkillDangerZone.tsx",
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "623MHa",
+    "msgid": "All lines",
+    "ast": [
+      "All lines"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/text/constants/TextDataModelSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "6n2zpV",
+    "msgid": "Edit Records on All Objects",
+    "ast": [
+      "Edit Records on All Objects"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsSection.tsx"
+    ]
+  },
+  {
+    "id": "6n7jtr",
+    "msgid": "Visualize",
+    "ast": [
+      "Visualize"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjects.tsx"
+    ]
+  },
+  {
+    "id": "7L01XJ",
+    "msgid": "Actions",
+    "ast": [
+      "Actions"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevelTableHeader.tsx",
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsTableHeader.tsx",
+      "src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsSettingsTableHeader.tsx",
+      "src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsToolSection.tsx",
+      "src/modules/side-panel/pages/create-related-record/components/SidePanelCreateRelatedRecordPage.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPermissionsTab.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPermissionsTab.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "7jTlsu",
+    "msgid": "Ruby",
+    "ast": [
+      "Ruby"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "8Vg8H7",
+    "msgid": "Display as a plain number or a percentage",
+    "ast": [
+      "Display as a plain number or a percentage"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/number/components/SettingsDataModelFieldNumberForm.tsx"
+    ]
+  },
+  {
+    "id": "8YPqRx",
+    "msgid": "New Field",
+    "ast": [
+      "New Field"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/number/components/SettingsDataModelFieldNumberSettingsFormCard.tsx",
+      "src/pages/settings/data-model/SettingsObjectDetailPage.tsx"
+    ]
+  },
+  {
+    "id": "9EqSGz",
+    "msgid": "Lime",
+    "ast": [
+      "Lime"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "9IXG0o",
+    "msgid": "What each language displays for this object's labels",
+    "ast": [
+      "What each language displays for this object's labels"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx"
+    ]
+  },
+  {
+    "id": "9kCSLK",
+    "msgid": "No indexes match your filters.",
+    "ast": [
+      "No indexes match your filters."
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectIndexTable.tsx"
+    ]
+  },
+  {
+    "id": "AQVj2A",
+    "msgid": "Useful for pivot/junction tables",
+    "ast": [
+      "Useful for pivot/junction tables"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "AY1Gaf",
+    "msgid": "Where records of this object open",
+    "ast": [
+      "Where records of this object open"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx"
+    ]
+  },
+  {
+    "id": "AmiJYR",
+    "msgid": "Add relation",
+    "ast": [
+      "Add relation"
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/field/components/FieldWidgetRelationEditAction.tsx",
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectFields.tsx"
+    ]
+  },
+  {
+    "id": "AtzMpB",
+    "msgid": "Synchronize Field Label and API Name",
+    "ast": [
+      "Synchronize Field Label and API Name"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldIconLabelForm.tsx"
+    ]
+  },
+  {
+    "id": "BDDkm3",
+    "msgid": "First 5 lines",
+    "ast": [
+      "First 5 lines"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/text/constants/TextDataModelSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "BIZl8w",
+    "msgid": "Sky",
+    "ast": [
+      "Sky"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "BPig2P",
+    "msgid": "Plural",
+    "ast": [
+      "Plural"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "BWupFm",
+    "msgid": "Member preference",
+    "ast": [
+      "Member preference"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectOpenRecordInPicker.tsx"
+    ]
+  },
+  {
+    "id": "BZdVGR",
+    "msgid": "Single edit",
+    "ast": [
+      "Single edit"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectForm.tsx"
+    ]
+  },
+  {
+    "id": "CSDv65",
+    "msgid": "Bronze",
+    "ast": [
+      "Bronze"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "CUvG5b",
+    "msgid": "Iris",
+    "ast": [
+      "Iris"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "CiPJbh",
+    "msgid": "Choose what happens when you click a link",
+    "ast": [
+      "Choose what happens when you click a link"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/utils/getSettingsDataModelFieldOnClickActionDescription.ts"
+    ]
+  },
+  {
+    "id": "D3MauW",
+    "msgid": "Choose what happens when you click a phone number",
+    "ast": [
+      "Choose what happens when you click a phone number"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/utils/getSettingsDataModelFieldOnClickActionDescription.ts"
+    ]
+  },
+  {
+    "id": "DBiUDH",
+    "msgid": "Maximum email addresses",
+    "ast": [
+      "Maximum email addresses"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "DL2sg0",
+    "msgid": "Listings",
+    "ast": [
+      "Listings"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "Dl5lVI",
+    "msgid": "Add option",
+    "ast": [
+      "Add option"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectForm.tsx"
+    ]
+  },
+  {
+    "id": "DpV70M",
+    "msgid": "Add Field",
+    "ast": [
+      "Add Field"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectFields.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/form-action/components/WorkflowEditActionFormBuilder.tsx"
+    ]
+  },
+  {
+    "id": "DqlQy+",
+    "msgid": "Ability to add more than one email address",
+    "ast": [
+      "Ability to add more than one email address"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "EdHWDU",
+    "msgid": "Turquoise",
+    "ast": [
+      "Turquoise"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "EoKe5U",
+    "msgid": "Domain",
+    "ast": [
+      "Domain"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldLinksVariantForm.tsx",
+      "src/modules/settings/workspace/components/SettingsWorkspaceEmailGroupSection.tsx",
+      "src/pages/settings/security/SettingsSecurityApprovedAccessDomain.tsx"
+    ]
+  },
+  {
+    "id": "F7UdSk",
+    "msgid": "Open records on a dedicated page",
+    "ast": [
+      "Open records on a dedicated page"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectOpenRecordInPicker.tsx",
+      "src/modules/settings/experience/components/OpenRecordInPreferencePicker.tsx"
+    ]
+  },
+  {
+    "id": "FJPUOB",
+    "msgid": "Link content",
+    "ast": [
+      "Link content"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldLinksVariantForm.tsx"
+    ]
+  },
+  {
+    "id": "FQBaXG",
+    "msgid": "Activate",
+    "ast": [
+      "Activate"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx",
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx",
+      "src/modules/settings/data-model/object-details/components/SettingsObjectFieldDisabledActionDropdown.tsx",
+      "src/modules/settings/data-model/objects/components/SettingsObjectInactiveMenuDropDown.tsx",
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx",
+      "src/modules/settings/security/components/sso/SettingsSecuritySsoRowDropdownMenu.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/components/SettingsSkillDangerZone.tsx",
+      "src/pages/settings/ai/components/SettingsSkillInactiveMenuDropDown.tsx",
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "FYlHHU",
+    "msgid": "Gold",
+    "ast": [
+      "Gold"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "GoHpxA",
+    "msgid": "Display text on multiple lines",
+    "ast": [
+      "Display text on multiple lines"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/text/SettingsDataModelFieldTextForm.tsx"
+    ]
+  },
+  {
+    "id": "GsXRxc",
+    "msgid": "BTREE (default, good for sorting and equality)",
+    "ast": [
+      "BTREE (default, good for sorting and equality)"
+    ],
+    "files": [
+      "src/modules/settings/data-model/indexes/forms/components/SettingsObjectIndexOptionsForm.tsx"
+    ]
+  },
+  {
+    "id": "HR+PwH",
+    "msgid": "Relative",
+    "ast": [
+      "Relative"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/date/utils/getDisplayFormatLabel.ts"
+    ]
+  },
+  {
+    "id": "HhVDr2",
+    "msgid": "Listing",
+    "ast": [
+      "Listing"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "HptUxX",
+    "msgid": "Number",
+    "ast": [
+      "Number"
+    ],
+    "files": [
+      "src/modules/ai/constants/OutputFieldTypeOptions.ts",
+      "src/modules/settings/data-model/fields/forms/number/constants/NumberDataModelSelectOptions.ts",
+      "src/modules/ui/input/components/internal/date/components/RelativeDatePickerHeader.tsx"
+    ]
+  },
+  {
+    "id": "I3hko2",
+    "msgid": "First 2 lines",
+    "ast": [
+      "First 2 lines"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/text/constants/TextDataModelSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "ICtlXD",
+    "msgid": "Ability to add more than one URL",
+    "ast": [
+      "Ability to add more than one URL"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "IagCbF",
+    "msgid": "URL",
+    "ast": [
+      "URL"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldLinksVariantForm.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowEditActionHttpRequest.tsx"
+    ]
+  },
+  {
+    "id": "Ij2ljU",
+    "msgid": "Plum",
+    "ast": [
+      "Plum"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "J6OYmT",
+    "msgid": "Jade",
+    "ast": [
+      "Jade"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "JE2tjr",
+    "msgid": "Input must be in camel case and cannot start with a number",
+    "ast": [
+      "Input must be in camel case and cannot start with a number"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldIconLabelForm.tsx",
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx",
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "JG4LoU",
+    "msgid": "Open as link",
+    "ast": [
+      "Open as link"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldOnClickActionForm.tsx"
+    ]
+  },
+  {
+    "id": "JHXjkT",
+    "msgid": "Pick one or more fields. The order you select them in becomes the column order in the index — important for composite queries. For composite fields like Address, pick the specific sub-column to index.",
+    "ast": [
+      "Pick one or more fields. The order you select them in becomes the column order in the index — important for composite queries. For composite fields like Address, pick the specific sub-column to index."
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-index/SettingsObjectNewIndex.tsx"
+    ]
+  },
+  {
+    "id": "JLxwQS",
+    "msgid": "Brown",
+    "ast": [
+      "Brown"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "JcqvfA",
+    "msgid": "Customize the workspace record page",
+    "ast": [
+      "Customize the workspace record page"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx"
+    ]
+  },
+  {
+    "id": "K6/7kH",
+    "msgid": "Record label",
+    "ast": [
+      "Record label"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectIdentifiersForm.tsx",
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectIdentifiersForm.tsx",
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectIdentifiersForm.tsx"
+    ]
+  },
+  {
+    "id": "KclpRp",
+    "msgid": "API Name (Singular)",
+    "ast": [
+      "API Name (Singular)"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "L+rMC9",
+    "msgid": "Reset to default",
+    "ast": [
+      "Reset to default"
+    ],
+    "files": [
+      "src/modules/command-menu-item/edit/components/CommandMenuItemOptionsDropdown.tsx",
+      "src/modules/layout-customization/components/LayoutCustomizationBarResetConfirmationModal.tsx",
+      "src/modules/settings/data-model/fields/forms/address/components/SettingsDataModelFieldAddressForm.tsx",
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx",
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx",
+      "src/modules/settings/translations/components/SidePanelSettingsMetadataTranslationsPage.tsx",
+      "src/modules/side-panel/pages/page-layout/components/RegularTabSettingsContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/RegularTabSettingsContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/SingleWidgetTabSettingsContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/SingleWidgetTabSettingsContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsManageSection.tsx",
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsManageSection.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "L68qSB",
+    "msgid": "Destroy Records on All Objects",
+    "ast": [
+      "Destroy Records on All Objects"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsSection.tsx"
+    ]
+  },
+  {
+    "id": "L85ZX9",
+    "msgid": "This will permanently delete the object and all its records. Type \"yes\" to confirm.",
+    "ast": [
+      "This will permanently delete the object and all its records. Type \"yes\" to confirm."
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx"
+    ]
+  },
+  {
+    "id": "LHce7q",
+    "msgid": "Choose the fields that will identify your records",
+    "ast": [
+      "Choose the fields that will identify your records"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx"
+    ]
+  },
+  {
+    "id": "LMUw1U",
+    "msgid": "App",
+    "ast": [
+      "App"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/SettingsObjectRelationsTable.tsx",
+      "src/pages/settings/ai/components/SettingsAgentToolsTable.tsx",
+      "src/pages/settings/ai/constants/SettingsSkillTableMetadata.ts",
+      "src/pages/settings/data-model/constants/SettingsObjectTableMetadata.ts",
+      "src/pages/settings/data-model/SettingsObjectFieldTable.tsx"
+    ]
+  },
+  {
+    "id": "LMX+xC",
+    "msgid": "Customize record page",
+    "ast": [
+      "Customize record page"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx"
+    ]
+  },
+  {
+    "id": "LNz5UW",
+    "msgid": "Manage objects, fields and relationships",
+    "ast": [
+      "Manage objects, fields and relationships"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjects.tsx"
+    ]
+  },
+  {
+    "id": "LX8Pu1",
+    "msgid": "Field deleted",
+    "ast": [
+      "Field deleted"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "O+81DP",
+    "msgid": "Index created",
+    "ast": [
+      "Index created"
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-index/SettingsObjectNewIndex.tsx"
+    ]
+  },
+  {
+    "id": "OKJUcC",
+    "msgid": "Postcode",
+    "ast": [
+      "Postcode"
+    ],
+    "files": [
+      "src/modules/object-metadata/hooks/useSortSubFieldChoicesForField.ts",
+      "src/modules/settings/data-model/fields/forms/address/constants/DefaultSelectionAddressWithMessages.ts"
+    ]
+  },
+  {
+    "id": "OLqG0t",
+    "msgid": "Configure how this object appears in search results",
+    "ast": [
+      "Configure how this object appears in search results"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx"
+    ]
+  },
+  {
+    "id": "P7rcbf",
+    "msgid": "Side panel",
+    "ast": [
+      "Side panel"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectOpenRecordInPicker.tsx",
+      "src/modules/settings/experience/components/OpenRecordInPreferencePicker.tsx",
+      "src/modules/ui/navigation/navigation-drawer/constants/OpenRecordInOptions.ts"
+    ]
+  },
+  {
+    "id": "PAhTVY",
+    "msgid": "Maximum files",
+    "ast": [
+      "Maximum files"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "PPcets",
+    "msgid": "Set as default",
+    "ast": [
+      "Set as default"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "PWlTvh",
+    "msgid": "Records",
+    "ast": [
+      "Records"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemSearchResults.tsx",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelTableHeader.tsx",
+      "src/pages/settings/data-model/constants/SettingsObjectTableMetadata.ts"
+    ]
+  },
+  {
+    "id": "PfWWOa",
+    "msgid": "Mostly empty",
+    "ast": [
+      "Mostly empty"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/SettingsObjectFieldItemTableRow.tsx",
+      "src/pages/settings/data-model/SettingsObjectFieldTable.tsx"
+    ]
+  },
+  {
+    "id": "PlF+NA",
+    "msgid": "Skip the junction object (similar to many-to-many relations)",
+    "ast": [
+      "Skip the junction object (similar to many-to-many relations)"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationJunctionForm.tsx"
+    ]
+  },
+  {
+    "id": "PmXLtL",
+    "msgid": "The default country for new addresses",
+    "ast": [
+      "The default country for new addresses"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/address/components/SettingsDataModelFieldAddressForm.tsx"
+    ]
+  },
+  {
+    "id": "Q2u5E9",
+    "msgid": "Remove as default",
+    "ast": [
+      "Remove as default"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "Q9pNST",
+    "msgid": "Write a description",
+    "ast": [
+      "Write a description"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldDescriptionForm.tsx",
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx",
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx",
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettings.tsx",
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx",
+      "src/pages/settings/ai/SettingsToolDetail.tsx"
+    ]
+  },
+  {
+    "id": "QR1yAR",
+    "msgid": "Choose what happens when you click an email",
+    "ast": [
+      "Choose what happens when you click an email"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/utils/getSettingsDataModelFieldOnClickActionDescription.ts"
+    ]
+  },
+  {
+    "id": "Qds9fe",
+    "msgid": "Limit how many values can be added to this field",
+    "ast": [
+      "Limit how many values can be added to this field"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "QyCqHT",
+    "msgid": "Yellow",
+    "ast": [
+      "Yellow"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "R6uY2r",
+    "msgid": "Index deleted",
+    "ast": [
+      "Index deleted"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectIndexesSection.tsx"
+    ]
+  },
+  {
+    "id": "RRXpo1",
+    "msgid": "Short",
+    "ast": [
+      "Short"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/number/constants/NumberDataModelSelectOptions.ts",
+      "src/modules/side-panel/pages/page-layout/utils/getChartNumberFormatLabel.ts"
+    ]
+  },
+  {
+    "id": "T2YbXF",
+    "msgid": "Deactivate object",
+    "ast": [
+      "Deactivate object"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx"
+    ]
+  },
+  {
+    "id": "THYlSm",
+    "msgid": "Walkthrough",
+    "ast": [
+      "Walkthrough"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAI.tsx",
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx",
+      "src/pages/settings/applications/SettingsApplications.tsx",
+      "src/pages/settings/data-model/SettingsObjects.tsx",
+      "src/pages/settings/layout/SettingsLayout.tsx",
+      "src/pages/settings/members/SettingsWorkspaceMembers.tsx"
+    ]
+  },
+  {
+    "id": "TyudBs",
+    "msgid": "Skip creating a Name field ",
+    "ast": [
+      "Skip creating a Name field "
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "U+NKyj",
+    "msgid": "An object with this name already exists",
+    "ast": [
+      "An object with this name already exists"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "UiAJoB",
+    "msgid": "Relation type",
+    "ast": [
+      "Relation type"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationForm.tsx"
+    ]
+  },
+  {
+    "id": "UxKoFf",
+    "msgid": "Navigation",
+    "ast": [
+      "Navigation"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx",
+      "src/pages/settings/profile/appearance/components/SettingsExperience.tsx"
+    ]
+  },
+  {
+    "id": "Va3xJe",
+    "msgid": "Add field",
+    "ast": [
+      "Add field"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectSearchSection.tsx"
+    ]
+  },
+  {
+    "id": "VjbCv0",
+    "msgid": "Remove all",
+    "ast": [
+      "Remove all"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectForm.tsx"
+    ]
+  },
+  {
+    "id": "VmkjGB",
+    "msgid": "Green",
+    "ast": [
+      "Green"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "VvM/Ty",
+    "msgid": "Visualize data model",
+    "ast": [
+      "Visualize data model"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjects.tsx"
+    ]
+  },
+  {
+    "id": "WFtdWr",
+    "msgid": "Should changing an object's label also change the API?",
+    "ast": [
+      "Should changing an object's label also change the API?"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "WIUeUf",
+    "msgid": "Sub-Fields",
+    "ast": [
+      "Sub-Fields"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/address/components/SettingsDataModelFieldAddressForm.tsx"
+    ]
+  },
+  {
+    "id": "WZ6bN9",
+    "msgid": "Synchronize Objects Labels and API Names",
+    "ast": [
+      "Synchronize Objects Labels and API Names"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "X1kz7Q",
+    "msgid": "Pick the index type. BTREE covers most queries; GIN is for full-text and JSONB.",
+    "ast": [
+      "Pick the index type. BTREE covers most queries; GIN is for full-text and JSONB."
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-index/SettingsObjectNewIndex.tsx"
+    ]
+  },
+  {
+    "id": "XArpJK",
+    "msgid": "Toggle all object permissions",
+    "ast": [
+      "Toggle all object permissions"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsTableHeader.tsx"
+    ]
+  },
+  {
+    "id": "XTWO+W",
+    "msgid": "Icon and Name",
+    "ast": [
+      "Icon and Name"
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-field/SettingsObjectNewFieldConfigure.tsx",
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "XXtAx5",
+    "msgid": "GIN (full-text search and JSONB)",
+    "ast": [
+      "GIN (full-text search and JSONB)"
+    ],
+    "files": [
+      "src/modules/settings/data-model/indexes/forms/components/SettingsObjectIndexOptionsForm.tsx"
+    ]
+  },
+  {
+    "id": "Xj6ylP",
+    "msgid": "Enter one option per line. Each line will become a new option.",
+    "ast": [
+      "Enter one option per line. Each line will become a new option."
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectForm.tsx"
+    ]
+  },
+  {
+    "id": "XkK/Vw",
+    "msgid": "Ability to add more than one phone number",
+    "ast": [
+      "Ability to add more than one phone number"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "XueM/X",
+    "msgid": "Record page",
+    "ast": [
+      "Record page"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx"
+    ]
+  },
+  {
+    "id": "Y2ImVJ",
+    "msgid": "Define the name and description of your object",
+    "ast": [
+      "Define the name and description of your object"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsNewObject.tsx"
+    ]
+  },
+  {
+    "id": "YZK9mj",
+    "msgid": "Field removed from search",
+    "ast": [
+      "Field removed from search"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectSearchSection.tsx"
+    ]
+  },
+  {
+    "id": "YcrXB2",
+    "msgid": "Choose the default currency that will apply",
+    "ast": [
+      "Choose the default currency that will apply"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/currency/components/SettingsDataModelFieldCurrencyForm.tsx"
+    ]
+  },
+  {
+    "id": "Z3Brb2",
+    "msgid": "API values",
+    "ast": [
+      "API values"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectForm.tsx"
+    ]
+  },
+  {
+    "id": "Z9go8W",
+    "msgid": "Queries that relied on it will fall back to a sequential scan. You can recreate it later.",
+    "ast": [
+      "Queries that relied on it will fall back to a sequential scan. You can recreate it later."
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectIndexesSection.tsx"
+    ]
+  },
+  {
+    "id": "ZEH/cb",
+    "msgid": "Maximum values",
+    "ast": [
+      "Maximum values"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "Zn5crm",
+    "msgid": "Blue",
+    "ast": [
+      "Blue"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "ZrUSCK",
+    "msgid": "Relations cannot include the source object when multiple destinations are selected.",
+    "ast": [
+      "Relations cannot include the source object when multiple destinations are selected."
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationForm.tsx"
+    ]
+  },
+  {
+    "id": "Zrauom",
+    "msgid": "Object destination",
+    "ast": [
+      "Object destination"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationForm.tsx"
+    ]
+  },
+  {
+    "id": "ZyIk6Y",
+    "msgid": "First 10 lines",
+    "ast": [
+      "First 10 lines"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/text/constants/TextDataModelSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "aFE/OW",
+    "msgid": "All Objects",
+    "ast": [
+      "All Objects"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/WebhookEntitySelect.tsx",
+      "src/modules/settings/event-logs/components/EventLogFilters.tsx",
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsTableHeader.tsx"
+    ]
+  },
+  {
+    "id": "aL6QIz",
+    "msgid": "Open records alongside the current page",
+    "ast": [
+      "Open records alongside the current page"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectOpenRecordInPicker.tsx",
+      "src/modules/settings/experience/components/OpenRecordInPreferencePicker.tsx"
+    ]
+  },
+  {
+    "id": "aNaNTH",
+    "msgid": "Inactive Object Options",
+    "ast": [
+      "Inactive Object Options"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/components/SettingsObjectInactiveMenuDropDown.tsx"
+    ]
+  },
+  {
+    "id": "aQ8swY",
+    "msgid": "Default Value",
+    "ast": [
+      "Default Value"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/boolean/components/SettingsDataModelFieldBooleanForm.tsx",
+      "src/modules/settings/data-model/fields/forms/currency/components/SettingsDataModelFieldCurrencyForm.tsx"
+    ]
+  },
+  {
+    "id": "aTNzjg",
+    "msgid": "Let each member decide for themselves",
+    "ast": [
+      "Let each member decide for themselves"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectOpenRecordInPicker.tsx"
+    ]
+  },
+  {
+    "id": "aiuTYK",
+    "msgid": "Maximum URLs",
+    "ast": [
+      "Maximum URLs"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "alSW5d",
+    "msgid": "Build many-to-many relations",
+    "ast": [
+      "Build many-to-many relations"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationJunctionForm.tsx"
+    ]
+  },
+  {
+    "id": "bbR21S",
+    "msgid": "System fields",
+    "ast": [
+      "System fields"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectFieldTable.tsx"
+    ]
+  },
+  {
+    "id": "d/HoE2",
+    "msgid": "Inactive Field Options",
+    "ast": [
+      "Inactive Field Options"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/SettingsObjectFieldDisabledActionDropdown.tsx"
+    ]
+  },
+  {
+    "id": "dEO3Zx",
+    "msgid": "Add object",
+    "ast": [
+      "Add object"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjects.tsx",
+      "src/pages/settings/data-model/SettingsObjects.tsx"
+    ]
+  },
+  {
+    "id": "dPDEh6",
+    "msgid": "Decide which Sub-address fields you want to display",
+    "ast": [
+      "Decide which Sub-address fields you want to display"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/address/components/SettingsDataModelFieldAddressForm.tsx"
+    ]
+  },
+  {
+    "id": "dQHMbF",
+    "msgid": "Relation between this object and other objects",
+    "ast": [
+      "Relation between this object and other objects"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectFields.tsx"
+    ]
+  },
+  {
+    "id": "e/xgrw",
+    "msgid": "Display Format",
+    "ast": [
+      "Display Format"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/date/components/SettingsDataModelFieldDateForm.tsx"
+    ]
+  },
+  {
+    "id": "e73uuf",
+    "msgid": "Crimson",
+    "ast": [
+      "Crimson"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "eQ3co2",
+    "msgid": "See your data structure as an interactive diagram",
+    "ast": [
+      "See your data structure as an interactive diagram"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjects.tsx"
+    ]
+  },
+  {
+    "id": "eXoH4Q",
+    "msgid": "employees",
+    "ast": [
+      "employees"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldIconLabelForm.tsx"
+    ]
+  },
+  {
+    "id": "eedtPL",
+    "msgid": "Violet",
+    "ast": [
+      "Violet"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "f09Lhk",
+    "msgid": "Enter in Unicode format",
+    "ast": [
+      "Enter in Unicode format"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/date/components/SettingsDataModelFieldDateForm.tsx"
+    ]
+  },
+  {
+    "id": "fFwMZv",
+    "msgid": "Cyan",
+    "ast": [
+      "Cyan"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "fXVIZq",
+    "msgid": "Values",
+    "ast": [
+      "Values"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx",
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "g3YJC1",
+    "msgid": "Limit how many files can be attached to this field",
+    "ast": [
+      "Limit how many files can be attached to this field"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "gWk8gY",
+    "msgid": "Should changing a field's label also change the API name?",
+    "ast": [
+      "Should changing a field's label also change the API name?"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldIconLabelForm.tsx"
+    ]
+  },
+  {
+    "id": "gexAq8",
+    "msgid": "Deactivate this field",
+    "ast": [
+      "Deactivate this field"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "ggOXu2",
+    "msgid": "Other objects",
+    "ast": [
+      "Other objects"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/components/SettingsDataModelObjectSummary.tsx"
+    ]
+  },
+  {
+    "id": "h8mvCd",
+    "msgid": "The name and icon of this field",
+    "ast": [
+      "The name and icon of this field"
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-field/SettingsObjectNewFieldConfigure.tsx",
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "h9AYFD",
+    "msgid": "Relation",
+    "ast": [
+      "Relation"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsObjectNewFieldSelector.tsx"
+    ]
+  },
+  {
+    "id": "hIJigY",
+    "msgid": "Choose the format used to display date value",
+    "ast": [
+      "Choose the format used to display date value"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/date/components/SettingsDataModelFieldDateForm.tsx"
+    ]
+  },
+  {
+    "id": "hT/xCE",
+    "msgid": "Grass",
+    "ast": [
+      "Grass"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "hW/fMg",
+    "msgid": "Address 1",
+    "ast": [
+      "Address 1"
+    ],
+    "files": [
+      "src/modules/object-metadata/hooks/useSortSubFieldChoicesForField.ts",
+      "src/modules/object-record/record-field/ui/form-types/components/FormAddressFieldInput.tsx",
+      "src/modules/settings/data-model/fields/forms/address/constants/DefaultSelectionAddressWithMessages.ts",
+      "src/modules/ui/field/input/components/AddressInput.tsx"
+    ]
+  },
+  {
+    "id": "i9zh9T",
+    "msgid": "Full page",
+    "ast": [
+      "Full page"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectOpenRecordInPicker.tsx",
+      "src/modules/settings/experience/components/OpenRecordInPreferencePicker.tsx",
+      "src/modules/ui/navigation/navigation-drawer/constants/OpenRecordInOptions.ts"
+    ]
+  },
+  {
+    "id": "iT7UeX",
+    "msgid": "Add Index",
+    "ast": [
+      "Add Index"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectIndexesSection.tsx",
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectIndexesSection.tsx"
+    ]
+  },
+  {
+    "id": "irbH/8",
+    "msgid": "See Records on All Objects",
+    "ast": [
+      "See Records on All Objects"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsSection.tsx"
+    ]
+  },
+  {
+    "id": "iwCoSG",
+    "msgid": "Maximum phone numbers",
+    "ast": [
+      "Maximum phone numbers"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldMaxValuesForm.tsx"
+    ]
+  },
+  {
+    "id": "j6ogTf",
+    "msgid": "Action on click",
+    "ast": [
+      "Action on click"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldOnClickActionForm.tsx"
+    ]
+  },
+  {
+    "id": "juzGVI",
+    "msgid": "Store the full URL or just the domain",
+    "ast": [
+      "Store the full URL or just the domain"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldLinksVariantForm.tsx"
+    ]
+  },
+  {
+    "id": "k7kp5/",
+    "msgid": "Search an index...",
+    "ast": [
+      "Search an index..."
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectIndexesSection.tsx"
+    ]
+  },
+  {
+    "id": "kAtj+q",
+    "msgid": "API Name",
+    "ast": [
+      "API Name"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldIconLabelForm.tsx",
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "kAy5R9",
+    "msgid": "Translations",
+    "ast": [
+      "Translations"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx",
+      "src/modules/settings/translations/components/SettingsTranslationsButton.tsx",
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "kI1qVD",
+    "msgid": "Format",
+    "ast": [
+      "Format"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/currency/components/SettingsDataModelFieldCurrencyForm.tsx",
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "kw0Yv1",
+    "msgid": "Reset all overrides on this layout to return it to the app default",
+    "ast": [
+      "Reset all overrides on this layout to return it to the app default"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx"
+    ]
+  },
+  {
+    "id": "l1/uy2",
+    "msgid": "Search a field...",
+    "ast": [
+      "Search a field..."
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/SettingsObjectRelationsTable.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/field-permissions/components/SettingsRolePermissionsObjectLevelObjectFieldPermissionTable.tsx",
+      "src/pages/settings/data-model/SettingsObjectFieldTable.tsx"
+    ]
+  },
+  {
+    "id": "lVa1Xn",
+    "msgid": "Option 1",
+    "ast": [
+      "Option 1"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/hooks/useSelectSettingsFormInitialValues.ts"
+    ]
+  },
+  {
+    "id": "lnDfeK",
+    "msgid": "Search a type",
+    "ast": [
+      "Search a type"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsObjectNewFieldSelector.tsx"
+    ]
+  },
+  {
+    "id": "lwCAhN",
+    "msgid": "API Name (Plural)",
+    "ast": [
+      "API Name (Plural)"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "lwDz5R",
+    "msgid": "Global search",
+    "ast": [
+      "Global search"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectSearchSection.tsx"
+    ]
+  },
+  {
+    "id": "m3W0Yn",
+    "msgid": "No relations found",
+    "ast": [
+      "No relations found"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/SettingsObjectRelationsTable.tsx"
+    ]
+  },
+  {
+    "id": "mC21D6",
+    "msgid": "Default Country",
+    "ast": [
+      "Default Country"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/address/components/SettingsDataModelFieldAddressForm.tsx"
+    ]
+  },
+  {
+    "id": "mF9LxA",
+    "msgid": "Purple",
+    "ast": [
+      "Purple"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "maCaRp",
+    "msgid": "Singular",
+    "ast": [
+      "Singular"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "mcXHCJ",
+    "msgid": "Delete Records on All Objects",
+    "ast": [
+      "Delete Records on All Objects"
+    ],
+    "files": [
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsSection.tsx"
+    ]
+  },
+  {
+    "id": "mj1fkT",
+    "msgid": "Record image",
+    "ast": [
+      "Record image"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectIdentifiersForm.tsx"
+    ]
+  },
+  {
+    "id": "msssZq",
+    "msgid": "Can't change API names for standard objects",
+    "ast": [
+      "Can't change API names for standard objects"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "njWene",
+    "msgid": "This is a relation to a Junction Object",
+    "ast": [
+      "This is a relation to a Junction Object"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationJunctionForm.tsx"
+    ]
+  },
+  {
+    "id": "noLjKT",
+    "msgid": "Open in app",
+    "ast": [
+      "Open in app"
+    ],
+    "files": [
+      "src/modules/object-record/record-field/ui/hooks/useGetSecondaryFieldButton.ts",
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldOnClickActionForm.tsx"
+    ]
+  },
+  {
+    "id": "npNQJR",
+    "msgid": "Each index speeds up reads on the fields it covers, but slows down every insert and update, and uses disk space. Only add an index when you know which queries it serves.",
+    "ast": [
+      "Each index speeds up reads on the fields it covers, but slows down every insert and update, and uses disk space. Only add an index when you know which queries it serves."
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-index/SettingsObjectNewIndex.tsx"
+    ]
+  },
+  {
+    "id": "nrXDdR",
+    "msgid": "Field name",
+    "ast": [
+      "Field name"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationForm.tsx"
+    ]
+  },
+  {
+    "id": "oK9ArN",
+    "msgid": "Tomato",
+    "ast": [
+      "Tomato"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "ofuw3g",
+    "msgid": "Search for an object...",
+    "ast": [
+      "Search for an object..."
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectTable.tsx"
+    ]
+  },
+  {
+    "id": "pZ/USH",
+    "msgid": "Indexes",
+    "ast": [
+      "Indexes"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx"
+    ]
+  },
+  {
+    "id": "pofGCP",
+    "msgid": "Select the default value for this boolean field",
+    "ast": [
+      "Select the default value for this boolean field"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/boolean/components/SettingsDataModelFieldBooleanForm.tsx"
+    ]
+  },
+  {
+    "id": "pyfee5",
+    "msgid": "Speed up reads on the fields you filter or sort by most. Each index also slows down writes and uses disk space, so add them with intent.",
+    "ast": [
+      "Speed up reads on the fields you filter or sort by most. Each index also slows down writes and uses disk space, so add them with intent."
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx"
+    ]
+  },
+  {
+    "id": "qS5//Q",
+    "msgid": "Gray",
+    "ast": [
+      "Gray"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "qg5nhQ",
+    "msgid": "Number type",
+    "ast": [
+      "Number type"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/number/components/SettingsDataModelFieldNumberForm.tsx"
+    ]
+  },
+  {
+    "id": "qk4i22",
+    "msgid": "Deactivate \"Synchronize Objects Labels and API Names\" to set a custom API name",
+    "ast": [
+      "Deactivate \"Synchronize Objects Labels and API Names\" to set a custom API name"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldIconLabelForm.tsx",
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx"
+    ]
+  },
+  {
+    "id": "qqLY+j",
+    "msgid": "Customization",
+    "ast": [
+      "Customization"
+    ],
+    "files": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/pages/settings/data-model/new-field/SettingsObjectNewFieldConfigure.tsx"
+    ]
+  },
+  {
+    "id": "r+cVRP",
+    "msgid": "Data type",
+    "ast": [
+      "Data type"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectSearchSection.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/field-permissions/components/SettingsRolePermissionsObjectLevelObjectFieldPermissionTable.tsx",
+      "src/pages/settings/data-model/SettingsObjectFieldTable.tsx"
+    ]
+  },
+  {
+    "id": "s60PUr",
+    "msgid": "Customize how your record page looks.",
+    "ast": [
+      "Customize how your record page looks."
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx"
+    ]
+  },
+  {
+    "id": "sceIIK",
+    "msgid": "Target relation on Junction Object",
+    "ast": [
+      "Target relation on Junction Object"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationJunctionForm.tsx"
+    ]
+  },
+  {
+    "id": "srRMnJ",
+    "msgid": "Customize",
+    "ast": [
+      "Customize"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelEditLinkItemView.tsx",
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelEditObjectViewBase.tsx",
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNavigationMenuItemEditPage.tsx",
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectLayout.tsx",
+      "src/pages/settings/layout/SettingsLayout.tsx"
+    ]
+  },
+  {
+    "id": "syeoTg",
+    "msgid": "Watch data model demo",
+    "ast": [
+      "Watch data model demo"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjects.tsx"
+    ]
+  },
+  {
+    "id": "uOFdLq",
+    "msgid": "Select a valid target",
+    "ast": [
+      "Select a valid target"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationJunctionForm.tsx"
+    ]
+  },
+  {
+    "id": "uWikAA",
+    "msgid": "The values of this field",
+    "ast": [
+      "The values of this field"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "uprOiC",
+    "msgid": "Amber",
+    "ast": [
+      "Amber"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "ut1ZY+",
+    "msgid": "Prevent from assigning the same value to different records",
+    "ast": [
+      "Prevent from assigning the same value to different records"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/components/SettingsDataModelFieldIsUniqueForm.tsx"
+    ]
+  },
+  {
+    "id": "uyJsf6",
+    "msgid": "About",
+    "ast": [
+      "About"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx",
+      "src/modules/settings/applications/components/SettingsApplicationAboutSidebar.tsx",
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx",
+      "src/modules/settings/logic-functions/components/SettingsLogicFunctionNewForm.tsx",
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx",
+      "src/pages/settings/applications/SettingsApplicationDetails.tsx",
+      "src/pages/settings/applications/SettingsAvailableApplicationDetails.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx",
+      "src/pages/settings/data-model/SettingsNewObject.tsx",
+      "src/pages/settings/layout/components/SettingsLayoutDetailScaffold.tsx"
+    ]
+  },
+  {
+    "id": "vb5TwV",
+    "msgid": "1. Select a field type",
+    "ast": [
+      "1. Select a field type"
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-field/SettingsObjectNewFieldSelect.tsx"
+    ]
+  },
+  {
+    "id": "vn4aKq",
+    "msgid": "See records",
+    "ast": [
+      "See records"
+    ],
+    "files": [
+      "src/pages/settings/data-model/SettingsObjectDetailPage.tsx",
+      "src/pages/settings/members/tabs/SettingsWorkspaceMembersTeamTab.tsx"
+    ]
+  },
+  {
+    "id": "wCgL30",
+    "msgid": "Please select at least one destination object for this relation.",
+    "ast": [
+      "Please select at least one destination object for this relation."
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-field/SettingsObjectNewFieldConfigure.tsx"
+    ]
+  },
+  {
+    "id": "wRTiSD",
+    "msgid": "Red",
+    "ast": [
+      "Red"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/select/components/SettingsDataModelFieldSelectFormOptionRow.tsx"
+    ]
+  },
+  {
+    "id": "wiqA3D",
+    "msgid": "Customize field settings",
+    "ast": [
+      "Customize field settings"
+    ],
+    "files": [
+      "src/pages/settings/data-model/new-field/SettingsObjectNewFieldConfigure.tsx"
+    ]
+  },
+  {
+    "id": "wwu18a",
+    "msgid": "Icon",
+    "ast": [
+      "Icon"
+    ],
+    "files": [
+      "src/modules/settings/data-model/objects/forms/components/SettingsDataModelObjectAboutForm.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "x07QTl",
+    "msgid": "Field on destination",
+    "ast": [
+      "Field on destination"
+    ],
+    "files": [
+      "src/modules/settings/data-model/fields/forms/morph-relation/components/SettingsDataModelFieldRelationForm.tsx"
+    ]
+  },
+  {
+    "id": "y9sG4l",
+    "msgid": "Hide system indexes",
+    "ast": [
+      "Hide system indexes"
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/SettingsObjectIndexesSection.tsx"
+    ]
+  },
+  {
+    "id": "zaxmAs",
+    "msgid": "Name in both singular (e.g., 'Invoice') and plural (e.g., 'Invoices') forms.",
+    "ast": [
+      "Name in both singular (e.g., 'Invoice') and plural (e.g., 'Invoices') forms."
+    ],
+    "files": [
+      "src/modules/settings/data-model/object-details/components/tabs/ObjectSettings.tsx"
+    ]
+  },
+  {
+    "id": "zvwLTy",
+    "msgid": "Singular and plural names must be different",
+    "ast": [
+      "Singular and plural names must be different"
+    ],
+    "files": [
+      "src/modules/settings/data-model/validation-schemas/settingsDataModelObjectAboutFormSchema.ts"
+    ]
+  }
+]

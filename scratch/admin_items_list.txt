@@ -1,0 +1,442 @@
+ZBGbuw	[empty string]
+XHO5F1	{0, plural, one {# job could not be deleted} other {# jobs could not be deleted}}
+AHhuJj	{0, plural, one {# job could not be retried} other {# jobs could not be retried}}
+8ob0vY	{0, plural, one {# workspace failed or behind} other {# workspaces failed or behind}}
+xEqptn	{0, plural, one {credit/period} other {credits/period}}
+AkeiJW	{0, plural, one {seat} other {seats}}
+wXviUj	{attemptsMade, plural, one {{attemptsMade} attempt} other {{attemptsMade} attempts}}
+y9covz	{behindCount, plural, one {# workspace behind} other {# workspaces behind}}
+0aO0VO	{days, plural, one {{days} day} other {{days} days}}
+MIIEDl	{deletedCount, plural, one {Successfully deleted {deletedCount} job} other {Successfully deleted {deletedCount} jobs}}
+nRKZKb	{failedCount, plural, one {# workspace failed} other {# workspaces failed}}
+pEl0a0	{hours, plural, one {{hours} hour} other {{hours} hours}}
+j9A2IB	{jobCount, plural, one {Delete {jobCount} Job} other {Delete {jobCount} Jobs}}
+48w++B	{jobCount, plural, one {Retry {jobCount} Job} other {Retry {jobCount} Jobs}}
+X78+Nn	{jobCount, plural, one {This will permanently remove it from the queue. This action cannot be undone.} other {This will permanently remove them from the queue. This action cannot be undone.}}
+QJYN9L	{jobCount, plural, one {This will retry the selected job. It will be re-executed from the beginning.} other {This will retry the selected jobs. They will be re-executed from the beginning.}}
+5d0hY6	{retriedCount, plural, one {Successfully retried {retriedCount} job} other {Successfully retried {retriedCount} jobs}}
+kvVMdH	{selectedCount, plural, one {Delete {selectedCount} Job} other {Delete {selectedCount} Jobs}}
+1y0QK1	{selectedCount, plural, one {Retry {selectedCount} Job} other {Retry {selectedCount} Jobs}}
+hvL8np	{serviceLabel} service is unreachable
+43TqJC	A display name for this provider
+DhgC7B	About this user
+PtK3Kn	About this workspace
+pNW+Rt	Access Key ID
+QHjErc	Active Sync
+RVp8im	Add custom endpoints, private gateways, or additional regions.
+4JviOV	Add Custom Provider
+q5ruxx	Add Model
+05jO4l	Admin Panel - AI
+2GX/U+	Admin Panel - Apps
+JA5LSq	Admin Panel - Config
+6X68yA	Admin Panel - General
+v/zjIb	Admin Panel - Health
+WlItll	After 180 days
+I6lVwB	After 30 days
+yPZL9v	After 60 days
+E5fxqI	After 90 days
+5uLUiv	After a year
+qiD/6r	AI chat threads for this workspace
+E/lGXl	AI consumption across all workspaces.
+jSHIk0	AI usage analytics across workspaces is available with an Organization key.
+jyqPfh	AI Usage by Workspace
+BAiyFV	AKIA...
+s1C/cR	All App Registrations
+REq7rb	All application registrations across the platform, including orphaned marketplace apps ({totalCount} matching)
+GNJgJf	All failed jobs have been retried
+BKoJRa	All Groups
+MLmnB2	All workspaces this user is a member of
+fWQJW/	Allow developers to claim ownership of applications.
+G1r3UJ	Allow filtering records by values inside JSON fields.
+irI8Y5	Allow installation
+cLzEjc	Allow sharing individual records with workspace members.
+xfQ2i8	Allow unique indexes to prevent duplicate field values.
+GqCA/t	Answered
+Jl+rxL	API key configured
+eZ6HbZ	API key is required
+FXWLlg	API rate limits v2
+gA2ZGo	App claiming
+qKnSyT	App deleted successfully
+4H6WHS	Asymmetric public keys used to sign and verify access tokens. Revoking a key immediately invalidates every JWT signed with it.
+rHeTee	Automatically install this app on every newly created workspace
+b2ghLW	Base credits
+9JIIfQ	Base URL
+QtMnui	Base URL is required
+nJGwRf	Billing interval
+041SWy	Browse AI chat threads across all workspaces ({totalCount} matching)
+IXoy1p	Browse AI chat threads across all workspaces, including onboarding chats
+uvoIrk	Built-in models from this provider. Toggle to enable or disable.
+30JOri	Built-in providers activated by API key. Click to manage models.
+ZPnTAU	Cache pricing
+UHhAMv	Cache read
+cGlfU4	Cache write
+LbIh3Y	Calendar Sync
+dC0BTo	Canceled at
+zbbpgB	Cancels at
+2CAby/	Cancels at period end
+eKz2ln	Chat conversation
+jTS+KY	Chat Sessions
+8Q+lLG	Chats
+PPf/RT	Choose which fields are used when searching for records.
+hom7qf	Claim
+aHPKtV	Claim ownership
+wu0RfR	Clear the field or "X" to revert to environment/default value.
+b8wwse	Click on the checkmark to apply your changes.
+H86f9p	Collapse
+amPBVF	Compensation
+6y7/Rf	Completed jobs kept for {completedDuration}, failed jobs kept for {failedDuration} (max {maxCount} each)
+BglnOD	Computed at
+Vj43Y/	Config Variables
+8/+vjg	Configurable search fields
+iAL9tI	Configure
+M1co/O	Configured
+LXIm4m	Context window
+uKvqU1	Context window must be a positive integer
+4jdeR0	Copy key ID
+3X5ngu	Cost per million tokens (USD)
+t+sNce	Cost per million tokens for cached input (USD)
+t3sqJR	Created on {0}
+HAzhV7	Credentials
+NGOYJs	Credit allowance quotas
+3hkXRB	Credit balance
+Woqoyp	Credit consumption for the current period
+zH6NZT	Credit grant revoked.
+UQ4Hjl	credits
+x4qjZw	Credits are added on top of the plan allowance and are spent only once it runs out. They carry over in full from one billing period to the next, and stay available until they are used up or, where an expiry is set, until the end of the billing period that expiry falls in.
+nbyiz/	Credits handed out on top of the plan allowance. They stay spendable until used up.
+yLljbQ	Credits used
+Hp1l6f	Current
+nSK0mT	Current period
+C6vAhD	Current subscription state and line items
+6YzXhC	Current value from server environment. Set a custom value to override.
+Hd06oy	Current version
+87ZNeX	Custom model ID
+sakSHW	Custom provider
+Gh6L3r	Custom Providers
+79QPp0	Custom providers are complimentary for organizations of up to {0} seats. Above that, an Organization plan is required.
+dDp+uz	Custom providers are complimentary for organizations of up to {0} seats. This instance has {1} seats, so an Organization plan is required.
+FjmF6O	Custom providers are complimentary up to {0} seats. This instance has {1}. Upgrade to add more.
+RzkN1M	Data Residency
+GEMJqo	Database configuration is currently disabled.
+Zrez13	Default Models
+pZXwuH	Delayed
+JXU6Ex	Delete app
+x9/fRy	Delete or transfer this app registration
+crxufE	Detail per workspace
+8n9Unw	Direct REST metadata responses
+XDeNvP	Disable impersonation
+7sBzvW	Display name for the model
+ljWYXA	Display this app in the NPM packages list
+vU/Hht	Distribution
+8zfXiN	e.g. 1.25
+il+blF	e.g. 10.00
+6bwSBJ	e.g. 16384
+8u2elr	e.g. 2.50
+7F0zgN	e.g. 3.75
+u+aOKb	e.g. gpt-4o
+c+GbbT	e.g. GPT-4o
+Xh9FA2	e.g. My OpenAI Proxy
+88vQqv	e.g. my-workspace
+XnR4kd	e.g. OpenAI EU
+snb/bC	Email campaigns
+OMbipf	Empty Array
+3hSGoJ	Empty Object
+vs9cre	Enable email campaigns, lists, and unsubscribe management.
+Tt0V8j	Enable impersonation
+IrI9pg	End date
+Fqu/aC	End date must be after start date.
+peBb6B	Enter a new secret value
+oiVP/+	Enter a value to store in database
+lcPZCR	Enter both keys, or neither to use the instance IAM role
+9CjMQ7	Enter JSON array
+tEWpbi	Enter the workspace subdomain to transfer this app to. You will lose access to manage it.
+pubQie	Enter value
+GDMzJS	Enter your two-factor authentication code to confirm.
+gmjkzq	Error deleting app
+bnJA0G	Error Message
+1A3EXy	Expand
+tKcbYd	Failed Jobs
+ZWX/Lk	Failed to add model
+gU+vGA	Failed to add provider
+E2CkaQ	Failed to claim ownership.
+pUligB	Failed to delete jobs. Please try again later.
+UYDPfv	Failed to load chats. Please try again.
+HYRl4P	Failed to load more chats.
+VxZSi+	Failed to load server administrators.
+3m7+J/	Failed to refresh upgrade status
+3YA1cX	Failed to remove model
+B6yaak	Failed to remove provider
+SJEIIJ	Failed to retry jobs. Please try again later.
+70UyPr	Failed to revoke signing key. Please try again later.
+aj02T8	Failed to set maintenance mode.
+OX7bKt	Failed to synchronize the marketplace catalog.
+LVcnN8	Failed to transfer ownership. Check that the subdomain is correct.
+2D6TRg	Failed to update default model
+W7Ff/4	Failed to update model availability
+ahCOdw	Failed to update server administrator access.
+K0joU5	Failure Rate
++ZqAYI	Feature Flags
+Xgkhyj	Flags
+aerYcp	full admin panel access
+CU/Sq6	full server access
+nE5VAt	Grant
+P1Rw/Z	Grant access
+3xMv4O	Grant admin panel access
+5O8DG6	Grant credits
+FdPN4f	Grant full access
+E0rSFg	Granted
+Tbxf45	Granted {parsedAmount} credits to this workspace.
+fqtGOd	Granted credits
+L8fEEm	Group
+fQoUMw	Has error
+HyaXse	Health of the latest instance command
+I1IOmb	Health Status
+wgmt7A	Hide hidden groups
+k7iMla	How your system is doing
+xsawDG	https://api.example.com/v1
+VNC0Db	IAM credentials
+bacFcZ	IAM credentials configured
+LlQirF	IAM role
+VjDLrJ	IAM role (instance profile)
+S0kLOH	ID
+bTDz/2	If there's no link, no button will appear.
+hG89Ed	Image
+1ZMDWV	impersonation
+yImXof	Impersonation is disabled for this workspace
+hG711D	Inferred version
+XU5AOg	Input
+Xry+oU	Installation
+x8uKc7	Instance status
+FVzmEZ	Job Actions
+TH7loN	Job Data
+ruJO57	Job Name
+Tof7pX	Jobs
+klrZv0	JSON filters
+wCSQOc	Key ID
+Gtjqi6	Key ID copied
+DJokAV	Kickoff prompt
+w8Rv8T	Label is required
+DU27lO	Last 1 hour
+YoKFgq	Last 10 users created. Click to impersonate.
+XUlP/Y	Last 12 hours
+n7EOpf	Last 12 Hours (oldest → newest)
+j5nqnO	Last 24 Hours (oldest → newest)
+gdAJ4I	Last 4 hours
+MjAVB0	Last 4 Hours (oldest → newest)
+GQgBSj	Last 7 Days (oldest → newest)
+IpCCj8	Last command
+cdB4EG	Last command result
+wW6NCp	Last error
+zUzYWu	Latest version
+Sn1jT8	Legacy
+KZ7vMS	Legacy HS256 verifications across all tokens
+OuYGr9	Limit the rate of outgoing webhook deliveries.
+6BDqha	Limits
+yzF66j	Link
+Ap948/	Listed
+58V8TX	Loading apps...
+UDL15Z	Loading chats...
+IFQsdb	Loading jobs...
+s1MstR	Loading metrics data...
+nDnbEe	Loading retention configuration...
+6Dd2PM	Maintenance
+/hmUGb	Maintenance mode
+Dt05oz	Manage feature flags for this workspace
+WJEtVC	Manage the marketplace application catalog
+fI1Tll	Mark this app as reviewed and approved
+qPiqVD	Marketplace catalog synchronization started.
+S8w4XA	Max output
+D0Z4Jd	Max output must be a positive integer
+jBzu2R	Message and calendar target reads
+elpx6r	Message Sync
+i2zgN4	Message Sync and Calendar Sync are not available because the service is down
+VRi9O8	Message Sync is not available because the service is down
+t7TeQU	Messages
+bC/dq9	Model "{0}" added
+dpLl7b	Model "{0}" removed
+IzB3v0	Model ID
+9I618z	Model ID is required
+tNFUgB	Models for this provider. Toggle to enable or disable.
+8g3Cgz	Monitor the execution of your calendar events sync job
+IL/nIb	Monitor the execution of your emails sync job
+XXzjfC	Msgs
+cT1jbf	Multiple answers
+fj5byd	N/A
+qqeAJM	Never
+JJFwWE	New AI Provider
+ROxeMs	New Model
+oPoLg+	No access
+glQp+P	No active subscription.
+42kV9p	No AI usage data recorded yet.
+pfRh+M	No apps found
+8whThc	No billing data is available for this workspace.
+NjIy4U	No chat threads found.
+nU13WY	No chats found
+YFLMyY	No config variables match your current filters. Try adjusting your filters or search criteria.
+afg3OQ	No credentials
+gIrKyO	No input
+lj3GoP	No jobs found
+PtRwQi	No jobs were deleted{errorDetails}
+ULhEV8	No jobs were retried{errorDetails}
+OcMef3	No latest version found
+IohPnt	No messages found.
+XRc1G9	No output
+JkPTT8	No server administrators found.
+YrBAQE	No usage data is available for this workspace.
+ywC9IM	No user reply
+EsP4NW	No users found matching your search criteria.
+A5XQ/A	No variables found
+Q4dFjT	No workspace behind
+apOMfI	No workspace failed
+TiRphK	No workspaces found matching your search criteria.
+SDND4q	Not configured
+i/2ImT	Not listed
+b/j06W	OAuth
+gukxZ5	Onboarding
+uahNQ+	Onboarding only
+wxvgdv	Onboarding reward
+8m1COB	Operational
+gUeG+X	Optional — uses IAM role if empty
+yL8XdR	Outage
+gh06VD	Output
+LtI9AS	Owner
+oDAEQq	Ownership
+9J0yW0	Ownership claimed successfully
+RWJnRQ	Ownership transferred successfully
+6WdDG7	Page
+CcK+Ft	PDF
+GdgCoi	Plan
+QLv09h	Planned for {formattedStartDate}
+osUElx	Please type "{confirmationValue}" to confirm you want to delete this app. All workspace installations linked to it will lose their OAuth credentials.
+iVFTRM	Pre-install on new workspaces
+q+Xhwx	Pre-installed only
+HslPhm	Prebuilt logic functions
+aHCEmh	Pricing
+rW8PxS	Prioritized
+aemBRq	Provider
+d7tyJ/	Provider "{0}" added
+Bkg47g	Provider "{0}" removed
+jerYcl	Providers
+enzGAL	Questions
+e9OqcR	Queue performance
+Qsq82i	Queue: {queueName}
+VJScHU	Reason
+wUf2OL	Reasoning
+ZVr1+K	Recent Events (oldest → newest)
+WEYdDv	Recommended
+zod7Md	Record creation form
+dmU8dH	Record sharing
+pTGa/J	Refresh status
+uJ+Ve2	Region
+bPJyAg	Region is required for Bedrock
+qeXMXz	Region where inference data is processed (optional)
+FeQ/sf	Remove model "{0}"
+bKJVLZ	Remove provider
+hJ4+Zq	Remove provider "{0}"
+yBC05U	Remove this provider and disconnect all its models
+N8UzTV	Replies
+ex8PR1	Retry All Failed
+AF7Zfa	Return metadata directly instead of wrapping it in the legacy response envelope.
+ZbpKL+	Return Value
+GXsAby	Revoke
+cg+Poy	Revoke access
+iu5Egq	Revoke admin panel access
+CCR+qC	Revoke credit grant
+rJrWw4	Revoke signing key
+xGiT1z	Revoked
+lrTLOv	Revoking this key will invalidate every JWT signed with it. Users with active tokens signed by this key will be logged out.
+Q6o/eX	Rollover
+8KjW3W	Run logic functions from prebuilt application bundles.
+mUv9U4	Sales
+Ys/D8h	Schedule a maintenance window and notify all users
+pUfoQJ	Schema name
+hJjXGo	SDK
+8J0e5B	Search a model...
+MS72xQ	Search by workspace, user email or thread id...
+3UPqHL	Search config variables
+wCw+0a	Search registrations...
+llJ0OR	Secret Access Key
+rHNnAT	Select a known model or add a custom one
+d/tbM2	Select a known provider or create a custom one
+llc/hA	Select Group
+n0WCk8	Select options
+UKCiEd	Select Source
+hjUUtd	Server access
+4Fpy78	Server administrator access updated.
+fMPkxb	Show more
+X1zsRT	Signing key revoked
+Gzr66P	Signing Keys
+Nbjq/v	sk-...
+wdxz7K	Source
+uavm+q	Stack Trace
+WAjFYI	Start date
+zHJ27S	Stripe customer
+Zk8585	Stripe customer linked to this workspace
+Yiplcx	Stripe subscription
+WVzGc2	Subscription
+omBFwv	Supported input types
+Gw5WrN	Supports reasoning
+2XrCFd	Synchronize catalog
+qmwHSv	Target workspace subdomain
+oVH0Mt	The API endpoint for your OpenAI-compatible provider
+qjNojw	The AWS region for Bedrock
+4m3QoL	The model behind each mode for every workspace. Workspaces can pin their own.
+HiI1Lo	The model identifier used by the provider API
+bEXHAZ	The workspace that claimed this app registration
+9rY+8P	This app has no owner workspace. Claiming it will assign ownership to your current workspace, and you will be able to manage it.
+SLIRqz	This database value overrides environment settings. 
+6IcJ94	This instance's plan could not be verified. Reload the page to try again.
+xrVx9A	This is the current signing key. Revoking it will invalidate every JWT signed with it and users may need to sign in again. A new signing key will be generated automatically on the next request.
+Wuvfgw	This model will be removed from the provider. You can re-add it later.
+R/PuIn	This provider doesn't have a native SDK yet — it will use OpenAI-compatible mode. Need native support? Reach out to us.
+C/wr0z	This setting can only be configured through environment variables.
+iAubP2	This should never happen
+ddMLFL	This takes {0} credits back off this workspace straight away. Revoking cannot be undone.
+MMGDfe	This value will be saved to the database.
+yByRxz	This week
+0+L84I	This will disconnect all models from this provider. Models will no longer be available until a new provider is configured.
+XZWXeK	This will grant {0} to {userLabel}.
+Dg+3bR	This will revoke {0} for {userLabel}.
+IHtFjq	Token limits for context and output
+v7vAuj	Total Jobs
+zPGNJm	Transfer
+KSnRfc	Transfer ownership
+67waeA	Trial period
+D38O1A	Types of content this model can process besides text
+2lF8Zj	Unanswered
+EUHN7i	Undefined
+7S4EZE	Uninstall this app from all workspaces before deleting it
+NXfWhP	Unique indexes
+Ef7StM	Unknown
+m/o1+r	Unknown workspace
+a3Hy65	Unnamed product
+wja8aL	Untitled
+j5CWO4	Up to date
+IEtN5Y	Upgrade health
+88ZkNH	Upgrade health across all workspaces
+5UfQvA	Upgrade Status
+WUREiw	us-east-1
+6SbZqO	Usage period
+MNOlLY	Use a dedicated form when creating records.
+c2ES/s	Use target relations to find messages and calendar events linked to records.
+40bRe+	Use the dedicated workflow index page to browse workflows and their versions.
+tNT8wT	User Info
+UIOjSC	Uses (last {verifyWindowDays}d)
+vUr1/5	Using default application value. Configure via environment variables.
+8Drj7i	Using default value. Set a custom value to override.
+UZHvVi	Value is set in the server environment, it may be a different value on the worker.
+Shfac6	Vetted
+vSJd18	Video
+lFgRxz	View all chats
+lh5BED	View Jobs
+uUehLT	Waiting
+iKFXyT	Waiting Children
+PAbCsV	Whether this model supports chain-of-thought reasoning
+3J7l5w	Worker
+91e2Af	Workflow index page
+J22jAC	Workspace Info
+Ce7yfm	Workspace lists by upgrade status
+wtxjAY	Workspace members
+Smg70n	Workspace upgrade health
+33fb3H	Workspaces status
+MxZ8eH	Your provider API key for authentication

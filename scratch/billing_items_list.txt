@@ -1,0 +1,270 @@
+lndIq/	 billed annually
+nA/hWD	 per {intervalLabel}
+N/lIUf	. The change will be applied the {beautifiedRenewDate}.
+TaLmrR	({0} credits)
+i/aRV6	({seats} {seatCountLabel} × ${displayedPerSeatPrice})
+lAxYP0	(${currentCreditPriceDisplay}/{intervalLabel})
+dNIJYp	{0} credits
+r4l/MK	{0} used
+LZWC7x	{currentCreditAmountDisplay} credits 
+Ae2fyu	{grantedCreditsDisplay} credits
+h5WHNQ	/{intervalLabel}
+vOdfPD	/{intervalLabel} after trial
+9lFfqv	/month
+AkYLhr	/month billed yearly
+oz9P7U	/user per month
+6WQdu8	100 per minute
+7SJhyh	30+
+Z2TH0F	50 per minute
+i7ur8L	Activating subscription...
+rUVyfz	Add a card below to update your billing details and retry your payment.
+sFY+gw	Add card
+3AphJD	Add credit card
+ZEOklT	Add your credit card
+ZYntTu	Add your credit card below. Once added, your subscription will start automatically.
+iEQQyu	Agent
+aUn7Ps	AI & Automations
+HbXHSp	AI agents
+V+Qj+q	AI Chat
+TLbVxH	AI Workflow
+iKzPQM	All agents
+Aapaa8	All API keys
+G6DTnD	All applications
+FIlQ3z	All logic functions
+UBpkWM	All users
+qf6r3X	All workflows
+YkfDoz	Annual
+OZtEcz	API
+30KnZB	API calls
+IrC12v	Application
+p98xmP	Applies to
+y2W2Hg	Audit logs
+aIkeAd	Billed monthly
+8tzR0k	Billing period
+xF/NXI	Billing portal session error. Please retry or contact Twenty team
+9e+AU2	Call Recording
+J8nuSF	Cancel credit pack switching
+ztnpYZ	Cancel credit pack switching?
+dV4HC5	Cancel interval switching
+M5CqkG	Cancel interval switching?
+rRK/Lf	Cancel Plan
+8eSMLX	Cancel plan switching
+f6KFEf	Cancel plan switching?
+N6gPiD	Cancel your subscription
+n1zTaJ	Caps on what your workspace can spend and who they apply to
+TbCWB7	Card payment is currently unavailable. Please verify your Stripe configuration or contact your workspace admin.
+9m7pJA	Change to Monthly?
+C8G9Mq	Change to Organization Plan?
+t7uUc+	Change to Pro Plan?
+N8mUQE	Change to Yearly?
+SxwQE8	Checkout session error. Please retry or contact Twenty team
+tMOTjD	Choose {intervalAdjective} credits
+sHa2Dg	Choose a spender
+RGUZK1	Choose a usage
+qJwqET	Choose a usage first
+5EMoSo	Choose plan
+u8JHrO	Clear filters
+Gt8ndY	Click a user to see their daily breakdown.
+CTdw8/	ClickHouse Not Configured
+tyxkc0	Code Execution
+awM9hH	Compare plans
+Gdj3Sa	Confirm changing to {selectedCreditAmountDisplay} credits for ${selectedPriceDisplay} per {intervalLabel}.
+q2rgqr	Confirm changing your current resource credit allocation.
+kZkFSm	Confirm downgrade
+AOwjMZ	Contact admin
+7iwYAn	Credit consumption over time.
+CYpB9A	Credit pack switching has been cancelled.
+Jnenuz	Credit package
+qtEx+T	Credit plan upgraded.
+6/q4+J	Credit usage breakdown for your workspace.
+lDIOek	Credits
+0o2LpE	Credits are used by workflows, AI chats, agents, and approved apps
+Ydxr+g	credits available (including {extraCreditsDisplay} on top of your plan)
+zaaZ8V	credits available during the trial period
+7CTZ9z	credits used
+8RWevB	CSV import & export
+OaTurC	Custom apps
+Vz1Vq2	Custom domain (crm.yourco.com)
+oPwQt4	Custom fields
+prIqWa	Custom layout
+8skTDV	Custom objects
+AbyZbl	Custom views
+KXQkvT	Daily Usage
+dPwNDl	Delete limit
+uvgDyK	Delete this limit?
+n+SX4g	Developers
+LE8J+K	Downgrade
+wg8Kjn	Downgrade to monthly
+74qJhc	Edit limit
+h2KoTu	Edit payment method, see your invoices and more
+AoN898	Email and Chat
+xUDbZ0	Email Send
+ObCvfI	Email sharing
+XGd8Wo	Emails & Calendar
+Iy8Gze	Encryption key rotation
+O2tNG0	Ending
+3dQ6zJ	Environments
+du6d5C	Error while cancelling credit pack switching.
+pt7mmi	Error while cancelling interval switching.
+FS6DQK	Error while cancelling plan switching.
+QmR+2U	Error while ending trial period. Please contact Twenty team.
+QPJi2W	Error while switching subscription.
+7xz1r9	Failed to create the limit.
+YVct3Q	Failed to delete the limit.
+LGNhPn	Failed to load billing plans
+j5vd/9	Failed to update resource credits.
+hADObV	Failed to update the limit.
+204Qo2	Failed to upgrade credit plan.
+e6BgMV	Field-level permissions
+JIOvqZ	Filter limits
+wdVyxi	Folder/Label import
+hdxwWi	Fully customizable
+y0SPQU	Go to billing
+CRzGla	Help center
+xUNmcx	How credits work
+nHmYga	How much can be spent, and how often it resets.
+l0JGUk	Impersonate users
+yHueLx	Implementation partners
+C4qYgu	Included
+mtGDyy	Incomplete
+aHdZwP	Incomplete expired
+Xltrl0	Increase to ${priceDisplay}
+K8iwJx	Install shared tarball app
+jyjroS	Interval switching has been cancelled.
+2InwTp	Invoice amount may vary if you add members or credits between periods
+GAmD3h	Languages
+uq2BmQ	Last 30 days
+ct2SYD	Last 7 days
+XgOuA7	Last 90 days
+yRkqG9	Limit
+lvAOAE	Limit created.
+1r7WdP	Limit deleted.
+GrFbIR	Limit updated.
+rtN0nI	Limits could not be loaded.
+iGG0MA	Limits on members, API keys and apps require the Organization plan.
+Pwqkdw	Loading…
+7VBQ2j	Local, Production
+U/kVJF	Logic function
+QTVVDd	Logic functions
+nvgUPq	Manage billing information
+Zw+Zv+	MCP server
+zsKJ2q	Meter
+L0DCk4	Next charge {totalRenewDate}. Invoice amount may vary if you add members or credits between periods
+FoID5n	No credit consumption recorded for this user.
+Y9FJQX	No limit matches your search.
+5pSj4j	No payment method found. Please update your billing details.
+WwlPOG	No usage data
+TayaS7	No usage data yet
+JQUXsv	Not included
+543eQ7	Nothing counted against this scope yet
+pbmZ7R	Onboarding Packs
+Wfz6Xv	operations
+B1MDds	Operations
+cyDPQQ	organization plan
+zi/p7n	Organization plan
+BFjW8X	Past due
+URAE3q	Paused
+twOnMk	Payment method added.
+uIMn/N	Payment method added. Retrying your payment...
+OvqmUS	Payment successful.
+i9iYjM	Per-day credit consumption.
+NtQvjo	Period
+XduPHC	Plan switching has been cancelled.
+lWy5a1	Plans
+k62X/2	Priority support
+3fPjUY	Pro
+977k6M	pro plan
+r5je1s	Pro plan
+EqCbT9	Read/Edit/Delete permissions
+oQjB9l	Renewal date
+t9yxlZ	Reports
+N0vrR6	Resource credits updated.
+oC2l7f	REST & GraphQL API
+Wdh41P	Row-level permissions
+cAUlDL	runs
+nvUgnK	Save 25% when billed yearly
+4ba0NE	Scheduled
+7oCJuI	Scheduled change
+aBgwis	Scope
+owAIq9	Search a limit
+uHAV+O	Search for a user...
+kSEiZD	searches
+Y00a9G	seat
+MpFIca	seats
+grt0Pu	Seats
+HVOGoW	Seats limit
++emzyJ	Select the credit package to add to your {intervalAdjective} bill.
+oxbT4Q	Something went wrong while contacting our billing service.
+wwdak+	Spender
+ctM+rp	Spending stays capped by your plan allowance and the other limits.
+p7JFjT	Spending will only be capped by your plan allowance and the other limits.
+s+K73L	Start Your Subscription
+rCIXU9	Starting {scheduledChangeStartDate}
+BrrIs8	Storage
+Sv4BSp	Subdomain (yourco.twenty.com)
+ShbDuS	Subscribe Now
+uvY7Wk	Subscription activated.
+0okvpx	Subscription error. Please retry or contact Twenty team
+FooJUj	Subscription has been switched to {0} Plan.
+WZBvO8	Subscription has been switched to Monthly.
+A5YO8f	Subscription has been switched to Yearly.
+ulJRqh	Subscription will be switched to {0} Plan the {1}.
+7Vg+lX	Subscription will be switched to Monthly the {0}.
+GPKudC	Switch to Pro
+1EwZPZ	Switch to yearly
+3w+Aox	Table, Kanban, Calendar
+qMTT4Z	The usage this limit applies to.
+RmDTQ6	The whole workspace
+kciPHv	This billing period
+oW3yYY	This month
+h4VeOo	This will cancel the scheduled interval change and keep your current billing interval ({currentIntervalLabel}).
+XpARoU	This will cancel the scheduled plan change and keep your current plan ({planKeyWord}).
+lhkaAC	Trial
+KMw9zY	Trial ends {trialEndDate}, please add card details to keep the {planName}
+zHiSsK	Trial ends {trialEndDate}. Please contact your admin to add card details to keep the {planName}
+7ZOjOO	Trial ends soon. Please contact your admin to add card details to keep the {planName}
+KDw4GX	Try again
+EIU345	Two-factor authentication
+jqzUyM	Unavailable
+NIuIk1	Unlimited
+7yiFvZ	Unpaid
+9Wwdnk	Unused credits roll over, up to 2× your plan's credits (max {rolloverCapDisplay}).
+EkH9pt	Update
+XeFxgX	Update payment
+JlP83A	Update your payment method
+9gm/Oo	Upgrading subscription...
+21hsGI	Usage Analytics
+7Kq6TI	Usage analytics requires ClickHouse. Contact your administrator.
+XglEba	Usage analytics will appear here once you start using credits.
+hYXHVl	Usage by App
+7vRxpC	Usage by Type
+4C6sMs	Usage by User
+aL1w5Z	Used
+3XIgKU	User roles
+5r/Ozr	User Usage
+noHthC	View AI usage breakdown
+KANz0G	View billing details
+BAzC1v	View types
+ZjBqNE	View usage
+h4KC4F	We couldn't confirm your payment method. Please retry.
+TvNBSn	We couldn't load the plans
+Fui3cz	We will activate your {planName}. Do you want to proceed?
+c7GQY2	We will activate your ${perSeatPriceDisplay}/user/{intervalUnit} {planName}. Do you want to proceed?
+4pcfmN	We will activate your paid plan. Do you want to proceed?
+LnnVIT	Web Search
+k1illW	Webhook Call
+UJqqRe	Workflow Execution
+RDAH2t	You have scheduled a credit pack change. Do you want to cancel it?
+z8eKS7	you will be charged ${enterprisePrice} per user per month
+u3S6u8	You will be charged ${monthlyPrice} per user per month billed monthly. The change will be applied the {beautifiedRenewDate}.
+/T5zAB	You will be charged ${proPrice} per user per month
+W3k5LA	You will be charged ${yearlyPrice} per user per year billed annually. A prorata with your current subscription will be applied.
+5K1++A	You will be redirected to add your credit card. Once added, your subscription will start automatically.
+dtOZU/	Your billing interval will switch to monthly immediately and your trial will continue. When it ends, you will be charged ${monthlyPrice} per user per month billed monthly.
+R6FfrK	Your billing interval will switch to yearly immediately and your trial will continue. When it ends, you will be charged ${yearlyPrice} per user per year billed annually.
+u1O1GV	Your card was saved, but the payment still needs attention.
+8mfOAZ	Your payment details are incomplete. Please review and retry.
+IxG5gy	Your plan will switch to Organization immediately and your trial will continue. When it ends, you will be charged ${enterprisePrice} per user per month{suffix}.
+T2GIPK	Your plan will switch to Pro immediately and your trial will continue. When it ends, you will be charged ${proPrice} per user per month{suffix}.
+BqByjB	Your subscription is scheduled to end on {scheduledCancellationDateLabel}. You will keep access until then
+RhNbPE	Your workspace will be disabled

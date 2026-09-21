@@ -1,0 +1,2836 @@
+[
+  {
+    "id": "+/y8+6",
+    "msgid": "The name recipients see next to your address in their inbox, instead of the address alone.",
+    "ast": [
+      "The name recipients see next to your address in their inbox, instead of the address alone."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsNewEmailGroupChannel.tsx"
+    ]
+  },
+  {
+    "id": "+8jOVa",
+    "msgid": "imap.example.com",
+    "ast": [
+      "imap.example.com"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "+cbzNC",
+    "msgid": "Number of days to retain audit logs (30-1095 days)",
+    "ast": [
+      "Number of days to retain audit logs (30-1095 days)"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "+hvIFU",
+    "msgid": "eddy@gmail.com, @apple.com",
+    "ast": [
+      "eddy@gmail.com, @apple.com"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistInput.tsx"
+    ]
+  },
+  {
+    "id": "+tk2yZ",
+    "msgid": "Exclude non-professional emails",
+    "ast": [
+      "Exclude non-professional emails"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "+x0fpb",
+    "msgid": "caldav.example.com",
+    "ast": [
+      "caldav.example.com"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "+zUMwJ",
+    "msgid": "Configure an SSO connection",
+    "ast": [
+      "Configure an SSO connection"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "/QYKta",
+    "msgid": "Expand folder",
+    "ast": [
+      "Expand folder"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/message-folders/SettingsMessageFoldersTreeItem.tsx"
+    ]
+  },
+  {
+    "id": "/RAwfY",
+    "msgid": "IMAP Server",
+    "ast": [
+      "IMAP Server"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "/VwdtK",
+    "msgid": "Timestamp and participants will be shared with your team.",
+    "ast": [
+      "Timestamp and participants will be shared with your team."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageVisibilityCard.tsx"
+    ]
+  },
+  {
+    "id": "/m52AE",
+    "msgid": "Invalid email or domain",
+    "ast": [
+      "Invalid email or domain"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistInput.tsx"
+    ]
+  },
+  {
+    "id": "02EFne",
+    "msgid": "Choose which profile fields users with the Edit Profile permission can modify",
+    "ast": [
+      "Choose which profile fields users with the Edit Profile permission can modify"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "06cbfQ",
+    "msgid": "Identity Provider",
+    "ast": [
+      "Identity Provider"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "086gvz",
+    "msgid": "Collapse folder",
+    "ast": [
+      "Collapse folder"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/message-folders/SettingsMessageFoldersTreeItem.tsx"
+    ]
+  },
+  {
+    "id": "0Ogq/s",
+    "msgid": "Organization feature",
+    "ast": [
+      "Organization feature"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx",
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx",
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "0UMxlw",
+    "msgid": "Apostrophe and dot",
+    "ast": [
+      "Apostrophe and dot"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/NumberFormatSelect.tsx"
+    ]
+  },
+  {
+    "id": "0b3reS",
+    "msgid": "Current workspace member not found.",
+    "ast": [
+      "Current workspace member not found."
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteAccount.tsx"
+    ]
+  },
+  {
+    "id": "0cIXZQ",
+    "msgid": "Hidden from email-domain discovery. Members and invitees still see it.",
+    "ast": [
+      "Hidden from email-domain discovery. Members and invitees still see it."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "0nBpE2",
+    "msgid": "Domain already taken",
+    "ast": [
+      "Domain already taken"
+    ],
+    "files": [
+      "src/modules/settings/domains/hooks/useSettingsCustomDomain.ts"
+    ]
+  },
+  {
+    "id": "1GTWIA",
+    "msgid": "Custom domain updated",
+    "ast": [
+      "Custom domain updated"
+    ],
+    "files": [
+      "src/modules/settings/domains/hooks/useSettingsCustomDomain.ts"
+    ]
+  },
+  {
+    "id": "1O32oy",
+    "msgid": "Remove account",
+    "ast": [
+      "Remove account"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "1jgsYC",
+    "msgid": "No folders found for this account",
+    "ast": [
+      "No folders found for this account"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/message-folders/SettingsMessageFoldersEmptyStateCard.tsx"
+    ]
+  },
+  {
+    "id": "2IXDgU",
+    "msgid": "Upload file",
+    "ast": [
+      "Upload file"
+    ],
+    "files": [
+      "src/modules/object-record/record-field/ui/meta-types/input/components/FilesFieldInput.tsx",
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowSendEmailAttachments.tsx"
+    ]
+  },
+  {
+    "id": "2gHjVM",
+    "msgid": "Set Password",
+    "ast": [
+      "Set Password"
+    ],
+    "files": [
+      "src/modules/settings/profile/components/SetOrChangePassword.tsx",
+      "src/pages/auth/PasswordReset.tsx"
+    ]
+  },
+  {
+    "id": "2q/Q7x",
+    "msgid": "Visibility",
+    "ast": [
+      "Visibility"
+    ],
+    "files": [
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownCustomView.tsx",
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownVisibilityContent.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx",
+      "src/modules/settings/unsubscribe-topics/components/SettingsWorkspaceUnsubscribeTopicSection.tsx",
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationConnectionsSection.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceNewUnsubscribeTopic.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx",
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "2qr/61",
+    "msgid": "New Approved Access Domain",
+    "ast": [
+      "New Approved Access Domain"
+    ],
+    "files": [
+      "src/pages/settings/security/SettingsSecurityApprovedAccessDomain.tsx",
+      "src/pages/settings/security/SettingsSecurityApprovedAccessDomain.tsx"
+    ]
+  },
+  {
+    "id": "2zJkmL",
+    "msgid": "Auto-creation",
+    "ast": [
+      "Auto-creation"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "3WrMP5",
+    "msgid": "Complete setup",
+    "ast": [
+      "Complete setup"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "3athPG",
+    "msgid": "Invite by Link",
+    "ast": [
+      "Invite by Link"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "3guYwv",
+    "msgid": "Log out all other devices",
+    "ast": [
+      "Log out all other devices"
+    ],
+    "files": [
+      "src/modules/settings/profile/devices/components/SettingsProfileDevicesSection.tsx"
+    ]
+  },
+  {
+    "id": "3x3eiP",
+    "msgid": "SMTP Connection security",
+    "ast": [
+      "SMTP Connection security"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "49MfD1",
+    "msgid": "Manage support access settings",
+    "ast": [
+      "Manage support access settings"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "4FQd0Y",
+    "msgid": "ACS URL copied to clipboard",
+    "ast": [
+      "ACS URL copied to clipboard"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "4JsQoY",
+    "msgid": "Formats",
+    "ast": [
+      "Formats"
+    ],
+    "files": [
+      "src/pages/settings/profile/appearance/components/SettingsExperience.tsx"
+    ]
+  },
+  {
+    "id": "4dwQbl",
+    "msgid": "CalDAV Password",
+    "ast": [
+      "CalDAV Password"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "4oakKm",
+    "msgid": "smtp.example.com",
+    "ast": [
+      "smtp.example.com"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "4waP7/",
+    "msgid": "SMTP Port",
+    "ast": [
+      "SMTP Port"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "5+ttxv",
+    "msgid": "Add to blocklist",
+    "ast": [
+      "Add to blocklist"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistInput.tsx"
+    ]
+  },
+  {
+    "id": "5TRY4+",
+    "msgid": "Sync failed",
+    "ast": [
+      "Sync failed"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectedAccountsRowRightContainer.tsx"
+    ]
+  },
+  {
+    "id": "5f1fxa",
+    "msgid": "Source Email Address",
+    "ast": [
+      "Source Email Address"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsNewEmailGroupChannel.tsx"
+    ]
+  },
+  {
+    "id": "6BV/aG",
+    "msgid": "Allow email & password login for SSO bypass users.",
+    "ast": [
+      "Allow email & password login for SSO bypass users."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "6GBt0m",
+    "msgid": "Metadata",
+    "ast": [
+      "Metadata"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarVisibilitySettingsCard.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsMessageVisibilityCard.tsx",
+      "src/modules/settings/developers/components/WebhookEntitySelect.tsx",
+      "src/modules/settings/mcp-and-apis/constants/SettingsPlaygroundFormSchemaSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "6MDr1S",
+    "msgid": "Configure CalDAV settings to sync your calendar events.",
+    "ast": [
+      "Configure CalDAV settings to sync your calendar events."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "6cH65H",
+    "msgid": "Microsoft",
+    "ast": [
+      "Microsoft"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx",
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "6jHg0/",
+    "msgid": "Unsubscribe link",
+    "ast": [
+      "Unsubscribe link"
+    ],
+    "files": [
+      "src/modules/settings/emailing-domains/utils/getVerificationRecordGroupContent.ts"
+    ]
+  },
+  {
+    "id": "6o1M/Q",
+    "msgid": "Edit your subdomain name or set a custom domain.",
+    "ast": [
+      "Edit your subdomain name or set a custom domain."
+    ],
+    "files": [
+      "src/pages/settings/general/SettingsGeneral.tsx"
+    ]
+  },
+  {
+    "id": "7c7atJ",
+    "msgid": "Select your language and adjust the size of the interface",
+    "ast": [
+      "Select your language and adjust the size of the interface"
+    ],
+    "files": [
+      "src/pages/settings/profile/appearance/components/SettingsExperience.tsx"
+    ]
+  },
+  {
+    "id": "7kVRe6",
+    "msgid": "Domains have to be smaller than 256 characters, cannot contain spaces and cannot contain any special characters.",
+    "ast": [
+      "Domains have to be smaller than 256 characters, cannot contain spaces and cannot contain any special characters."
+    ],
+    "files": [
+      "src/pages/settings/security/SettingsSecurityApprovedAccessDomain.tsx"
+    ]
+  },
+  {
+    "id": "8BwQeU",
+    "msgid": "Finish Setup",
+    "ast": [
+      "Finish Setup"
+    ],
+    "files": [
+      "src/pages/settings/accounts/SettingsAccountsConfigurationStepCalendar.tsx"
+    ]
+  },
+  {
+    "id": "8EkdZh",
+    "msgid": "The name of your Domain",
+    "ast": [
+      "The name of your Domain"
+    ],
+    "files": [
+      "src/pages/settings/security/SettingsSecurityApprovedAccessDomain.tsx"
+    ]
+  },
+  {
+    "id": "8PrrNJ",
+    "msgid": "Entity ID copied to clipboard",
+    "ast": [
+      "Entity ID copied to clipboard"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "8QyoLb",
+    "msgid": "Leave blank if you don't need calendar sync.",
+    "ast": [
+      "Leave blank if you don't need calendar sync."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "90/XJz",
+    "msgid": "Please check your email for a verification link.",
+    "ast": [
+      "Please check your email for a verification link."
+    ],
+    "files": [
+      "src/pages/settings/security/SettingsSecurityApprovedAccessDomain.tsx"
+    ]
+  },
+  {
+    "id": "97eDN2",
+    "msgid": "Subject and metadata",
+    "ast": [
+      "Subject and metadata"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageVisibilityCard.tsx"
+    ]
+  },
+  {
+    "id": "9B436y",
+    "msgid": "Edit Account",
+    "ast": [
+      "Edit Account"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsEditImapSmtpCaldavConnection.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsEditImapSmtpCaldavConnection.tsx"
+    ]
+  },
+  {
+    "id": "9LV44m",
+    "msgid": "Other security settings",
+    "ast": [
+      "Other security settings"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "9TgH9p",
+    "msgid": "Invalid auth bypass provider",
+    "ast": [
+      "Invalid auth bypass provider"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "9TzudL",
+    "msgid": "Connected accounts",
+    "ast": [
+      "Connected accounts"
+    ],
+    "files": [
+      "src/pages/settings/accounts/SettingsAccounts.tsx"
+    ]
+  },
+  {
+    "id": "9aB4Rs",
+    "msgid": "Authenticator apps and browser extensions like 1Password, Authy, Microsoft Authenticator, etc. generate one-time passwords that are used as a second factor to verify your identity when prompted during sign-in.",
+    "ast": [
+      "Authenticator apps and browser extensions like 1Password, Authy, Microsoft Authenticator, etc. generate one-time passwords that are used as a second factor to verify your identity when prompted during sign-in."
+    ],
+    "files": [
+      "src/pages/settings/profile/SettingsTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "9iIYOy",
+    "msgid": "Added to blocklist",
+    "ast": [
+      "Added to blocklist"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistTable.tsx"
+    ]
+  },
+  {
+    "id": "AeXO77",
+    "msgid": "Account",
+    "ast": [
+      "Account"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsConnectedAccountsTableHeader.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionCreateCalendarEvent.tsx",
+      "src/pages/settings/accounts/SettingsAccounts.tsx",
+      "src/pages/settings/accounts/SettingsAccounts.tsx",
+      "src/pages/settings/accounts/SettingsAccountsConfigurationStepCalendar.tsx",
+      "src/pages/settings/accounts/SettingsAccountsConfigurationStepEmail.tsx"
+    ]
+  },
+  {
+    "id": "BT7pY+",
+    "msgid": "Receive an email containing password set link",
+    "ast": [
+      "Receive an email containing password set link"
+    ],
+    "files": [
+      "src/modules/settings/profile/components/SetOrChangePassword.tsx"
+    ]
+  },
+  {
+    "id": "Bdj4LI",
+    "msgid": "Client Secret",
+    "ast": [
+      "Client Secret"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "Bh4GBD",
+    "msgid": "Configure your emails and calendar settings.",
+    "ast": [
+      "Configure your emails and calendar settings."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsSettingsSection.tsx"
+    ]
+  },
+  {
+    "id": "BlLvRP",
+    "msgid": "Erasure of soft-deleted records",
+    "ast": [
+      "Erasure of soft-deleted records"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "C5FAaq",
+    "msgid": "john.doe",
+    "ast": [
+      "john.doe"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "C7WtCv",
+    "msgid": "New SSO provider",
+    "ast": [
+      "New SSO provider"
+    ],
+    "files": [
+      "src/pages/settings/security/SettingsSecuritySsoIdentifyProvider.tsx"
+    ]
+  },
+  {
+    "id": "CQwSng",
+    "msgid": "Google OIDC",
+    "ast": [
+      "Google OIDC"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoIdentitiesProvidersForm.tsx"
+    ]
+  },
+  {
+    "id": "Cl+hUj",
+    "msgid": "You're about to change your workspace subdomain. This action will log out all users.",
+    "ast": [
+      "You're about to change your workspace subdomain. This action will log out all users."
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingsSubdomain.tsx"
+    ]
+  },
+  {
+    "id": "D4SseJ",
+    "msgid": "System settings",
+    "ast": [
+      "System settings"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/DateTimeSettingsDateFormatSelect.tsx",
+      "src/modules/settings/experience/components/DateTimeSettingsTimeFormatSelect.tsx",
+      "src/modules/settings/experience/components/DateTimeSettingsTimeZoneSelect.tsx",
+      "src/modules/settings/experience/components/NumberFormatSelect.tsx",
+      "src/pages/settings/profile/appearance/components/DateTimeSettingsCalendarStartDaySelect.tsx",
+      "src/pages/settings/profile/appearance/components/SettingsExperience.tsx"
+    ]
+  },
+  {
+    "id": "D5QSQM",
+    "msgid": "Import only selected folders/labels",
+    "ast": [
+      "Import only selected folders/labels"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageFolderCard.tsx"
+    ]
+  },
+  {
+    "id": "D8ATlr",
+    "msgid": "Connect a new account to your workspace",
+    "ast": [
+      "Connect a new account to your workspace"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsNewAccountSection.tsx"
+    ]
+  },
+  {
+    "id": "DTG2nE",
+    "msgid": "Subdomain updated",
+    "ast": [
+      "Subdomain updated"
+    ],
+    "files": [
+      "src/modules/settings/domains/hooks/useSettingsSubdomain.ts"
+    ]
+  },
+  {
+    "id": "EPEFrH",
+    "msgid": "Audit Logs",
+    "ast": [
+      "Audit Logs"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx",
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "ERoMSu",
+    "msgid": "Failed to log out this device",
+    "ast": [
+      "Failed to log out this device"
+    ],
+    "files": [
+      "src/modules/settings/profile/devices/components/SettingsDeviceSessionRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "EY3IAD",
+    "msgid": "Leave blank if you don't need to import emails.",
+    "ast": [
+      "Leave blank if you don't need to import emails."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "EYSFEW",
+    "msgid": "Change subdomain?",
+    "ast": [
+      "Change subdomain?"
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingsSubdomain.tsx"
+    ]
+  },
+  {
+    "id": "Ef7StM",
+    "msgid": "Unknown",
+    "ast": [
+      "Unknown"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminVersionContainer.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminUpgradeStatusRightContainer.tsx",
+      "src/modules/settings/admin-panel/utils/getUpgradeHealthStatusBadge.ts",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/unsubscribers/utils/getMessageSuppressionReasonBadge.ts",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/emailing-domains/utils/getEmailingDomainStatusText.ts"
+    ]
+  },
+  {
+    "id": "Emrbzc",
+    "msgid": "Don't create contacts from/to Gmail, Outlook emails",
+    "ast": [
+      "Don't create contacts from/to Gmail, Outlook emails"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "ErO8dj",
+    "msgid": "Never shown at sign-in. Members use the workspace URL.",
+    "ast": [
+      "Never shown at sign-in. Members use the workspace URL."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "FyFNsd",
+    "msgid": "Manage your internet accounts.",
+    "ast": [
+      "Manage your internet accounts."
+    ],
+    "files": [
+      "src/pages/settings/accounts/SettingsAccounts.tsx"
+    ]
+  },
+  {
+    "id": "GFxnQR",
+    "msgid": "Toggle all folders",
+    "ast": [
+      "Toggle all folders"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/message-folders/SettingsAccountsMessageFoldersCard.tsx"
+    ]
+  },
+  {
+    "id": "GMx1K0",
+    "msgid": "Allow logins through Google's single sign-on functionality.",
+    "ast": [
+      "Allow logins through Google's single sign-on functionality."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "GVxbU6",
+    "msgid": "Provide your OIDC provider details",
+    "ast": [
+      "Provide your OIDC provider details"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "GfnKOF",
+    "msgid": "Interface",
+    "ast": [
+      "Interface"
+    ],
+    "files": [
+      "src/pages/settings/profile/appearance/components/SettingsExperience.tsx"
+    ]
+  },
+  {
+    "id": "GixROH",
+    "msgid": "CalDAV Configuration",
+    "ast": [
+      "CalDAV Configuration"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "GptGxg",
+    "msgid": "Change password",
+    "ast": [
+      "Change password"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsPasswordController.tsx"
+    ]
+  },
+  {
+    "id": "HD0x5p",
+    "msgid": "Add Approved Access Domain",
+    "ast": [
+      "Add Approved Access Domain"
+    ],
+    "files": [
+      "src/modules/settings/security/components/approvedAccessDomains/SettingsApprovedAccessDomainsListCard.tsx",
+      "src/modules/settings/security/components/approvedAccessDomains/SettingsApprovedAccessDomainsListCard.tsx"
+    ]
+  },
+  {
+    "id": "HSh8u/",
+    "msgid": "Folders",
+    "ast": [
+      "Folders"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelEditFolderPickerSubPage.tsx",
+      "src/modules/settings/accounts/components/message-folders/SettingsAccountsMessageFoldersCard.tsx"
+    ]
+  },
+  {
+    "id": "HpK/8d",
+    "msgid": "Reload",
+    "ast": [
+      "Reload"
+    ],
+    "files": [
+      "src/modules/error-handler/components/AppRootErrorFallback.tsx",
+      "src/modules/error-handler/components/internal/AppErrorDisplay.tsx",
+      "src/modules/settings/domains/components/SettingPublicDomain.tsx",
+      "src/modules/settings/domains/components/SettingsCustomDomain.tsx"
+    ]
+  },
+  {
+    "id": "HvB+os",
+    "msgid": "Copy paste the code below",
+    "ast": [
+      "Copy paste the code below"
+    ],
+    "files": [
+      "src/pages/settings/profile/SettingsTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "ILNASD",
+    "msgid": "Logged out all other devices",
+    "ast": [
+      "Logged out all other devices"
+    ],
+    "files": [
+      "src/modules/settings/profile/devices/components/SettingsProfileDevicesSection.tsx"
+    ]
+  },
+  {
+    "id": "IOfqM8",
+    "msgid": "Connect with Microsoft",
+    "ast": [
+      "Connect with Microsoft"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsListEmptyStateCard.tsx"
+    ]
+  },
+  {
+    "id": "ISDzCY",
+    "msgid": "SMTP Username",
+    "ast": [
+      "SMTP Username"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "IhCN5p",
+    "msgid": "Issuer URI",
+    "ast": [
+      "Issuer URI"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "IjyOjp",
+    "msgid": "User is not logged in",
+    "ast": [
+      "User is not logged in"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx",
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx",
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx",
+      "src/modules/settings/security/components/SettingsSecurityEditableProfileFields.tsx"
+    ]
+  },
+  {
+    "id": "J2TlKG",
+    "msgid": "setup key",
+    "ast": [
+      "setup key"
+    ],
+    "files": [
+      "src/pages/settings/profile/SettingsTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "J7w8lI",
+    "msgid": "Name of your workspace",
+    "ast": [
+      "Name of your workspace"
+    ],
+    "files": [
+      "src/pages/settings/general/SettingsGeneral.tsx"
+    ]
+  },
+  {
+    "id": "J9ylmk",
+    "msgid": "Subject, body and attachments will be shared with your team.",
+    "ast": [
+      "Subject, body and attachments will be shared with your team."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageVisibilityCard.tsx"
+    ]
+  },
+  {
+    "id": "JUGLyW",
+    "msgid": "CalDAV Server",
+    "ast": [
+      "CalDAV Server"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "K1172m",
+    "msgid": "Blocklist",
+    "ast": [
+      "Blocklist"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistSection.tsx",
+      "src/modules/settings/workspace/components/SettingsWorkspaceBlocklistSection.tsx"
+    ]
+  },
+  {
+    "id": "KUxVkp",
+    "msgid": "Don’t auto-create contacts.",
+    "ast": [
+      "Don’t auto-create contacts."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageAutoCreationCard.tsx"
+    ]
+  },
+  {
+    "id": "Kcr9Fr",
+    "msgid": "New account",
+    "ast": [
+      "New account"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsNewAccountSection.tsx"
+    ]
+  },
+  {
+    "id": "LPN8Ma",
+    "msgid": "Identity Provider Metadata XML",
+    "ast": [
+      "Identity Provider Metadata XML"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "LUc0oL",
+    "msgid": "Service Provider Details",
+    "ast": [
+      "Service Provider Details"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "LYbP/A",
+    "msgid": "Subject and metadata will be shared with your team.",
+    "ast": [
+      "Subject and metadata will be shared with your team."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageVisibilityCard.tsx"
+    ]
+  },
+  {
+    "id": "LimKOG",
+    "msgid": "Email verification",
+    "ast": [
+      "Email verification"
+    ],
+    "files": [
+      "src/pages/settings/security/SettingsSecurityApprovedAccessDomain.tsx"
+    ]
+  },
+  {
+    "id": "LnUhnM",
+    "msgid": "IMAP Connection security",
+    "ast": [
+      "IMAP Connection security"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "Lo/oRJ",
+    "msgid": "Custom domain successfully created",
+    "ast": [
+      "Custom domain successfully created"
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingPublicDomain.tsx"
+    ]
+  },
+  {
+    "id": "MHLapp",
+    "msgid": "The whole event details will be shared with your team.",
+    "ast": [
+      "The whole event details will be shared with your team."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarVisibilitySettingsCard.tsx"
+    ]
+  },
+  {
+    "id": "MPPZ54",
+    "msgid": "Add account",
+    "ast": [
+      "Add account"
+    ],
+    "files": [
+      "src/modules/activities/calendar/components/CalendarEventComposerFields.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsConnectedAccountsListCard.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionCreateCalendarEvent.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx",
+      "src/pages/settings/accounts/SettingsAccountsConfigurationStepEmail.tsx"
+    ]
+  },
+  {
+    "id": "MTqQMG",
+    "msgid": "Not set",
+    "ast": [
+      "Not set"
+    ],
+    "files": [
+      "src/modules/settings/emailing-domains/utils/getVerificationRecordGroupStatusDisplay.ts",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx",
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "MsaCqr",
+    "msgid": "Mail Account",
+    "ast": [
+      "Mail Account"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "N2FcBE",
+    "msgid": "Synced",
+    "ast": [
+      "Synced"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectedAccountsRowRightContainer.tsx"
+    ]
+  },
+  {
+    "id": "NtFk/Z",
+    "msgid": "Invalid auth provider",
+    "ast": [
+      "Invalid auth provider"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "O7a3Du",
+    "msgid": "Leave blank if you don't need to send emails.",
+    "ast": [
+      "Leave blank if you don't need to send emails."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "OLE3Ky",
+    "msgid": "You can set up any combination of IMAP (receiving emails), SMTP (sending emails), and CalDAV (calendar sync).",
+    "ast": [
+      "You can set up any combination of IMAP (receiving emails), SMTP (sending emails), and CalDAV (calendar sync)."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "OueVS2",
+    "msgid": "Smaller",
+    "ast": [
+      "Smaller"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/UiScalePicker.tsx"
+    ]
+  },
+  {
+    "id": "Ovw0c6",
+    "msgid": "Authorized URL copied to clipboard",
+    "ast": [
+      "Authorized URL copied to clipboard"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "OzWuT+",
+    "msgid": "New SSO Configuration",
+    "ast": [
+      "New SSO Configuration"
+    ],
+    "files": [
+      "src/pages/settings/security/SettingsSecuritySsoIdentifyProvider.tsx"
+    ]
+  },
+  {
+    "id": "P8fBlG",
+    "msgid": "Authentication",
+    "ast": [
+      "Authentication"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "PxBA+g",
+    "msgid": "People I’ve sent emails to and received emails from.",
+    "ast": [
+      "People I’ve sent emails to and received emails from."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageAutoCreationCard.tsx"
+    ]
+  },
+  {
+    "id": "QDEWii",
+    "msgid": "Verified",
+    "ast": [
+      "Verified"
+    ],
+    "files": [
+      "src/pages/settings/emailing-domains/utils/getEmailingDomainStatusText.ts"
+    ]
+  },
+  {
+    "id": "QQlMid",
+    "msgid": "Exclude group emails",
+    "ast": [
+      "Exclude group emails"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "QT/Wo7",
+    "msgid": "Email or domain is already in blocklist",
+    "ast": [
+      "Email or domain is already in blocklist"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistInput.tsx"
+    ]
+  },
+  {
+    "id": "QTNsSm",
+    "msgid": "Configure and customize your calendar preferences.",
+    "ast": [
+      "Configure and customize your calendar preferences."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsSettingsSection.tsx"
+    ]
+  },
+  {
+    "id": "QeCopv",
+    "msgid": "Commas and dot",
+    "ast": [
+      "Commas and dot"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/NumberFormatSelect.tsx"
+    ]
+  },
+  {
+    "id": "Qx8HXb",
+    "msgid": "Workspace domain",
+    "ast": [
+      "Workspace domain"
+    ],
+    "files": [
+      "src/pages/settings/general/SettingsGeneral.tsx"
+    ]
+  },
+  {
+    "id": "Qz73jD",
+    "msgid": "Choose between OIDC and SAML protocols",
+    "ast": [
+      "Choose between OIDC and SAML protocols"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoIdentitiesProvidersForm.tsx"
+    ]
+  },
+  {
+    "id": "RM6uKY",
+    "msgid": "No fields selected",
+    "ast": [
+      "No fields selected"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityEditableProfileFields.tsx"
+    ]
+  },
+  {
+    "id": "RZjynQ",
+    "msgid": "Redirection URI",
+    "ast": [
+      "Redirection URI"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "RpExX0",
+    "msgid": "Automatically create People records when receiving or sending emails",
+    "ast": [
+      "Automatically create People records when receiving or sending emails"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "RqSvT0",
+    "msgid": "Importing",
+    "ast": [
+      "Importing"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/message-folders/SettingsMessageFoldersTreeItem.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsConnectedAccountsRowRightContainer.tsx"
+    ]
+  },
+  {
+    "id": "RwCYVZ",
+    "msgid": "Some folders",
+    "ast": [
+      "Some folders"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageFolderCard.tsx"
+    ]
+  },
+  {
+    "id": "Ryrt8E",
+    "msgid": "This subdomain is reserved",
+    "ast": [
+      "This subdomain is reserved"
+    ],
+    "files": [
+      "src/modules/settings/domains/utils/getSubdomainValidationSchema.ts"
+    ]
+  },
+  {
+    "id": "SLuq/l",
+    "msgid": "Entity ID",
+    "ast": [
+      "Entity ID"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "Sj0IaL",
+    "msgid": "DMARC policy",
+    "ast": [
+      "DMARC policy"
+    ],
+    "files": [
+      "src/modules/settings/emailing-domains/utils/getVerificationRecordGroupContent.ts"
+    ]
+  },
+  {
+    "id": "Szskbr",
+    "msgid": "Profile Picture",
+    "ast": [
+      "Profile Picture"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityEditableProfileFields.tsx"
+    ]
+  },
+  {
+    "id": "TE8s2c",
+    "msgid": "IMAP Port",
+    "ast": [
+      "IMAP Port"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "TXurH0",
+    "msgid": "Add Custom Domain",
+    "ast": [
+      "Add Custom Domain"
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingsPublicDomainsListCard.tsx",
+      "src/modules/settings/domains/components/SettingsPublicDomainsListCard.tsx"
+    ]
+  },
+  {
+    "id": "TtG/MN",
+    "msgid": "Data deletion",
+    "ast": [
+      "Data deletion"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "U/UvMm",
+    "msgid": "People I’ve sent emails to.",
+    "ast": [
+      "People I’ve sent emails to."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageAutoCreationCard.tsx"
+    ]
+  },
+  {
+    "id": "UDlRcx",
+    "msgid": "Approved access domain validated",
+    "ast": [
+      "Approved access domain validated"
+    ],
+    "files": [
+      "src/modules/settings/security/components/approvedAccessDomains/SettingsSecurityApprovedAccessDomainValidationEffect.tsx"
+    ]
+  },
+  {
+    "id": "Ubs0tf",
+    "msgid": "IMAP Password",
+    "ast": [
+      "IMAP Password"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "Ue7X/E",
+    "msgid": "Setup incomplete",
+    "ast": [
+      "Setup incomplete"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectedAccountsRowRightContainer.tsx"
+    ]
+  },
+  {
+    "id": "UeDEV/",
+    "msgid": "SMTP Password",
+    "ast": [
+      "SMTP Password"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "V7fgiB",
+    "msgid": "Set email visibility, manage your blocklist and more.",
+    "ast": [
+      "Set email visibility, manage your blocklist and more."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsSettingsSection.tsx"
+    ]
+  },
+  {
+    "id": "VI2hiF",
+    "msgid": "Email/Domain",
+    "ast": [
+      "Email/Domain"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistTable.tsx"
+    ]
+  },
+  {
+    "id": "VVRHmR",
+    "msgid": "Could not delete approved access domain",
+    "ast": [
+      "Could not delete approved access domain"
+    ],
+    "files": [
+      "src/modules/settings/security/components/approvedAccessDomains/SettingsSecurityApprovedAccessDomainRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "VicISP",
+    "msgid": "Workspace Deletion",
+    "ast": [
+      "Workspace Deletion"
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteWorkspace.tsx"
+    ]
+  },
+  {
+    "id": "Vt7Dh/",
+    "msgid": "Domain authentication",
+    "ast": [
+      "Domain authentication"
+    ],
+    "files": [
+      "src/modules/settings/emailing-domains/utils/getVerificationRecordGroupContent.ts"
+    ]
+  },
+  {
+    "id": "Vv4JVS",
+    "msgid": "Enforce two-step verification for every user login.",
+    "ast": [
+      "Enforce two-step verification for every user login."
+    ],
+    "files": [
+      "src/modules/settings/security/components/TwoFactorAuthenticationSwitch.tsx"
+    ]
+  },
+  {
+    "id": "Vxmaf0",
+    "msgid": "Invalid domain. Please include at least one subdomain (e.g., sub.example.com).",
+    "ast": [
+      "Invalid domain. Please include at least one subdomain (e.g., sub.example.com)."
+    ],
+    "files": [
+      "src/modules/settings/domains/utils/getDomainValidationSchema.ts"
+    ]
+  },
+  {
+    "id": "W1k7eB",
+    "msgid": "24h",
+    "ast": [
+      "24h"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/DateTimeSettingsTimeFormatSelect.tsx"
+    ]
+  },
+  {
+    "id": "W4Kgwq",
+    "msgid": "Connection settings",
+    "ast": [
+      "Connection settings"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "WEltn2",
+    "msgid": "Error editing SSO Identity Provider",
+    "ast": [
+      "Error editing SSO Identity Provider"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSecuritySsoRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "WcWS//",
+    "msgid": "Download file",
+    "ast": [
+      "Download file"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "Wm78zZ",
+    "msgid": "Dots and comma",
+    "ast": [
+      "Dots and comma"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/NumberFormatSelect.tsx"
+    ]
+  },
+  {
+    "id": "Ww/M6X",
+    "msgid": "Emails settings",
+    "ast": [
+      "Emails settings"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "XJU8BD",
+    "msgid": "Enter the credentials to set the connection",
+    "ast": [
+      "Enter the credentials to set the connection"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "XQ681Q",
+    "msgid": "Custom Domain",
+    "ast": [
+      "Custom Domain"
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingPublicDomain.tsx",
+      "src/modules/settings/domains/components/SettingPublicDomain.tsx",
+      "src/modules/settings/domains/components/SettingPublicDomain.tsx",
+      "src/modules/settings/domains/components/SettingsCustomDomain.tsx",
+      "src/modules/settings/domains/components/SettingsCustomDomain.tsx",
+      "src/modules/settings/domains/components/SettingsCustomDomain.tsx",
+      "src/modules/settings/domains/components/SettingsWorkspaceDomainCard.tsx"
+    ]
+  },
+  {
+    "id": "XUe4cu",
+    "msgid": "Client Settings",
+    "ast": [
+      "Client Settings"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "XoBD/+",
+    "msgid": "Domain Setup",
+    "ast": [
+      "Domain Setup"
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingsDomainRecords.tsx"
+    ]
+  },
+  {
+    "id": "Y2y0mC",
+    "msgid": "Contact auto-creation",
+    "ast": [
+      "Contact auto-creation"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarChannelDetails.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "Y7Dx6e",
+    "msgid": "At least one authentication method must be enabled",
+    "ast": [
+      "At least one authentication method must be enabled"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "YLx3sC",
+    "msgid": "Connect via IMAP/SMTP",
+    "ast": [
+      "Connect via IMAP/SMTP"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsListEmptyStateCard.tsx"
+    ]
+  },
+  {
+    "id": "YRT7ZW",
+    "msgid": "Automatically create contacts for people you've participated in an event with.",
+    "ast": [
+      "Automatically create contacts for people you've participated in an event with."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "YXzPl1",
+    "msgid": "Can't scan? Copy the",
+    "ast": [
+      "Can't scan? Copy the"
+    ],
+    "files": [
+      "src/pages/settings/profile/SettingsTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "Z4WP0F",
+    "msgid": "The address your workspace will send and receive email from (e.g. support@mycompany.com). Outbound sending requires the domain to be verified in Outbound Domains.",
+    "ast": [
+      "The address your workspace will send and receive email from (e.g. support@mycompany.com). Outbound sending requires the domain to be verified in Outbound Domains."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsNewEmailGroupChannel.tsx"
+    ]
+  },
+  {
+    "id": "Zgi9Fd",
+    "msgid": "Connect with Google",
+    "ast": [
+      "Connect with Google"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsListEmptyStateCard.tsx"
+    ]
+  },
+  {
+    "id": "ZwIUeU",
+    "msgid": "ClickHouse is required for audit logs. Contact your administrator.",
+    "ast": [
+      "ClickHouse is required for audit logs. Contact your administrator."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "a14mj8",
+    "msgid": "Unknown device",
+    "ast": [
+      "Unknown device"
+    ],
+    "files": [
+      "src/modules/settings/profile/devices/components/SettingsProfileDevicesSection.tsx"
+    ]
+  },
+  {
+    "id": "aJTn2g",
+    "msgid": "Connection successfully updated",
+    "ast": [
+      "Connection successfully updated"
+    ],
+    "files": [
+      "src/modules/settings/accounts/hooks/useImapSmtpCaldavConnectionForm.ts"
+    ]
+  },
+  {
+    "id": "ahqAfe",
+    "msgid": "Configure date, time, number, timezone, and calendar start day",
+    "ast": [
+      "Configure date, time, number, timezone, and calendar start day"
+    ],
+    "files": [
+      "src/pages/settings/profile/appearance/components/SettingsExperience.tsx"
+    ]
+  },
+  {
+    "id": "akDOEO",
+    "msgid": "Upload the XML file with your connection infos",
+    "ast": [
+      "Upload the XML file with your connection infos"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "atF3YG",
+    "msgid": "IMAP Username (Optional)",
+    "ast": [
+      "IMAP Username (Optional)"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "b9Y4up",
+    "msgid": "Client ID",
+    "ast": [
+      "Client ID"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "bCJa9l",
+    "msgid": "Customize your workspace security",
+    "ast": [
+      "Customize your workspace security"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "bQkkFU",
+    "msgid": "Define what will be visible to other users in your workspace",
+    "ast": [
+      "Define what will be visible to other users in your workspace"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarChannelDetails.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "bR2sEm",
+    "msgid": "Number format",
+    "ast": [
+      "Number format"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/NumberFormatSelect.tsx"
+    ]
+  },
+  {
+    "id": "bifv6N",
+    "msgid": "Scale",
+    "ast": [
+      "Scale"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/UiScalePicker.tsx"
+    ]
+  },
+  {
+    "id": "cWi/rl",
+    "msgid": "Custom domain successfully deleted",
+    "ast": [
+      "Custom domain successfully deleted"
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingPublicDomain.tsx",
+      "src/modules/settings/domains/components/SettingPublicDomainRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "ccv57g",
+    "msgid": "Exclude the following people and domains from my email sync.",
+    "ast": [
+      "Exclude the following people and domains from my email sync."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistSection.tsx"
+    ]
+  },
+  {
+    "id": "cyvTSq",
+    "msgid": "Error deleting SSO Identity Provider",
+    "ast": [
+      "Error deleting SSO Identity Provider"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSecuritySsoRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "d5CFUo",
+    "msgid": "Subdomain cannot be longer than 30 characters",
+    "ast": [
+      "Subdomain cannot be longer than 30 characters"
+    ],
+    "files": [
+      "src/modules/settings/domains/utils/getSubdomainValidationSchema.ts"
+    ]
+  },
+  {
+    "id": "dN5YOb",
+    "msgid": "Metadata file generation failed",
+    "ast": [
+      "Metadata file generation failed"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "dea+zy",
+    "msgid": "Allow logins through Microsoft's single sign-on functionality.",
+    "ast": [
+      "Allow logins through Microsoft's single sign-on functionality."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "dzcUZq",
+    "msgid": "Please type in your email to confirm.",
+    "ast": [
+      "Please type in your email to confirm."
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteAccount.tsx",
+      "src/modules/settings/profile/components/DeleteAccount.tsx"
+    ]
+  },
+  {
+    "id": "e/dfFe",
+    "msgid": "The name of your connection",
+    "ast": [
+      "The name of your connection"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoIdentitiesProvidersForm.tsx"
+    ]
+  },
+  {
+    "id": "eoe8BR",
+    "msgid": "Google",
+    "ast": [
+      "Google"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx",
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "f6bbrz",
+    "msgid": "Connection successfully created",
+    "ast": [
+      "Connection successfully created"
+    ],
+    "files": [
+      "src/modules/settings/accounts/hooks/useImapSmtpCaldavConnectionForm.ts"
+    ]
+  },
+  {
+    "id": "gFoGWm",
+    "msgid": "Impersonation",
+    "ast": [
+      "Impersonation"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdmins.tsx",
+      "src/modules/settings/profile/devices/components/SettingsDeviceSessionRowRightComponent.tsx"
+    ]
+  },
+  {
+    "id": "gW0DoU",
+    "msgid": "Account added successfully. Sync started.",
+    "ast": [
+      "Account added successfully. Sync started."
+    ],
+    "files": [
+      "src/pages/settings/accounts/SettingsAccountsConfiguration.tsx"
+    ]
+  },
+  {
+    "id": "gWGuHC",
+    "msgid": "This action cannot be undone. This will permanently delete your entire workspace. <0/> Please type in your email to confirm.",
+    "ast": [
+      "This action cannot be undone. This will permanently delete your entire workspace. <0/> Please type in your email to confirm."
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteWorkspace.tsx"
+    ]
+  },
+  {
+    "id": "gcoiFh",
+    "msgid": "Reconnect",
+    "ast": [
+      "Reconnect"
+    ],
+    "files": [
+      "src/modules/activities/calendar/components/CalendarEventComposerFields.tsx",
+      "src/modules/information-banner/components/reconnect-account/InformationBannerReconnectAccountEmailAliases.tsx",
+      "src/modules/information-banner/components/reconnect-account/InformationBannerReconnectAccountInsufficientPermissions.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx",
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "gk/8eh",
+    "msgid": "Configure SMTP settings to send emails from your account.",
+    "ast": [
+      "Configure SMTP settings to send emails from your account."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "h5C4B4",
+    "msgid": "Check verification",
+    "ast": [
+      "Check verification"
+    ],
+    "files": [
+      "src/modules/settings/emailing-domains/components/SettingsEmailingDomainVerifyButton.tsx"
+    ]
+  },
+  {
+    "id": "h69WC6",
+    "msgid": "Sent",
+    "ast": [
+      "Sent"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageAutoCreationCard.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsEmailDetail.tsx"
+    ]
+  },
+  {
+    "id": "hHW6h5",
+    "msgid": "Don't import emails from team@ support@ noreply@...",
+    "ast": [
+      "Don't import emails from team@ support@ noreply@..."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "hTX65V",
+    "msgid": "Started verification process",
+    "ast": [
+      "Started verification process"
+    ],
+    "files": [
+      "src/modules/settings/emailing-domains/components/SettingsEmailingDomainVerifyButton.tsx"
+    ]
+  },
+  {
+    "id": "hXXBiE",
+    "msgid": "Check your inbox to verify your new email address.",
+    "ast": [
+      "Check your inbox to verify your new email address."
+    ],
+    "files": [
+      "src/modules/settings/profile/hooks/useUpdateEmail.ts"
+    ]
+  },
+  {
+    "id": "hZWthZ",
+    "msgid": "Not synced",
+    "ast": [
+      "Not synced"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectedAccountsRowRightContainer.tsx"
+    ]
+  },
+  {
+    "id": "hdVMzO",
+    "msgid": "Sent and Received",
+    "ast": [
+      "Sent and Received"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageAutoCreationCard.tsx"
+    ]
+  },
+  {
+    "id": "hzKQCy",
+    "msgid": "Email Address",
+    "ast": [
+      "Email Address"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsNewEmailGroupChannel.tsx"
+    ]
+  },
+  {
+    "id": "i5CJAR",
+    "msgid": "Setup key copied to clipboard",
+    "ast": [
+      "Setup key copied to clipboard"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/internal/SignInUpTwoFactorAuthenticationProvision.tsx",
+      "src/pages/settings/profile/SettingsTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "ijW9MW",
+    "msgid": "IMAP Configuration",
+    "ast": [
+      "IMAP Configuration"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "ix5Jyh",
+    "msgid": "Redirect URL copied to clipboard",
+    "ast": [
+      "Redirect URL copied to clipboard"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "jbuOOX",
+    "msgid": "Configure IMAP settings to receive and sync your emails.",
+    "ast": [
+      "Configure IMAP settings to receive and sync your emails."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "k7rCa/",
+    "msgid": "Large",
+    "ast": [
+      "Large"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/UiScalePicker.tsx"
+    ]
+  },
+  {
+    "id": "kGKOiW",
+    "msgid": "CalDAV Username",
+    "ast": [
+      "CalDAV Username"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "kTDEu6",
+    "msgid": "Choose where records open by default. Some objects may use a workspace setting",
+    "ast": [
+      "Choose where records open by default. Some objects may use a workspace setting"
+    ],
+    "files": [
+      "src/pages/settings/profile/appearance/components/SettingsExperience.tsx"
+    ]
+  },
+  {
+    "id": "kVRKMS",
+    "msgid": "This action cannot be undone. Your membership will be removed; synced emails and calendars stay with the workspace.",
+    "ast": [
+      "This action cannot be undone. Your membership will be removed; synced emails and calendars stay with the workspace."
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteAccount.tsx"
+    ]
+  },
+  {
+    "id": "kYu0eF",
+    "msgid": "Delete workspace",
+    "ast": [
+      "Delete workspace"
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteWorkspace.tsx",
+      "src/modules/settings/profile/components/DeleteWorkspace.tsx"
+    ]
+  },
+  {
+    "id": "ke14uo",
+    "msgid": "Larger",
+    "ast": [
+      "Larger"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/UiScalePicker.tsx"
+    ]
+  },
+  {
+    "id": "ku9TbG",
+    "msgid": "Subdomain",
+    "ast": [
+      "Subdomain"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/internal/SignInUpWorkspaceCreationForm.tsx",
+      "src/modules/settings/domains/components/SettingsSubdomain.tsx",
+      "src/modules/settings/domains/components/SettingsSubdomain.tsx",
+      "src/modules/settings/domains/components/SettingsSubdomain.tsx",
+      "src/modules/settings/domains/components/SettingsWorkspaceDomainCard.tsx"
+    ]
+  },
+  {
+    "id": "kv8vw3",
+    "msgid": "You can't change your email because you belong to 2 or more workspaces.",
+    "ast": [
+      "You can't change your email because you belong to 2 or more workspaces."
+    ],
+    "files": [
+      "src/modules/settings/profile/components/EmailField.tsx"
+    ]
+  },
+  {
+    "id": "kvHBHg",
+    "msgid": "Delete account and all the associated data or leave workspace",
+    "ast": [
+      "Delete account and all the associated data or leave workspace"
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteAccount.tsx"
+    ]
+  },
+  {
+    "id": "lKXcJz",
+    "msgid": "Temporary Failure",
+    "ast": [
+      "Temporary Failure"
+    ],
+    "files": [
+      "src/pages/settings/emailing-domains/utils/getEmailingDomainStatusText.ts"
+    ]
+  },
+  {
+    "id": "la3+yi",
+    "msgid": "Subdomain cannot be empty",
+    "ast": [
+      "Subdomain cannot be empty"
+    ],
+    "files": [
+      "src/modules/settings/domains/utils/getSubdomainValidationSchema.ts"
+    ]
+  },
+  {
+    "id": "le4Hch",
+    "msgid": "Device logged out",
+    "ast": [
+      "Device logged out"
+    ],
+    "files": [
+      "src/modules/settings/profile/devices/components/SettingsDeviceSessionRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "lgw3U4",
+    "msgid": "Automatically create contacts for people.",
+    "ast": [
+      "Automatically create contacts for people."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "mA+AZz",
+    "msgid": "Anyone with an approved email domain can find and join.",
+    "ast": [
+      "Anyone with an approved email domain can find and join."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "mHrqHa",
+    "msgid": "Emails from the blocklist will be ignored. Manage blocklist on the \"Accounts\" setting page.",
+    "ast": [
+      "Emails from the blocklist will be ignored. Manage blocklist on the \"Accounts\" setting page."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "mk2Ygs",
+    "msgid": "Delete your whole workspace",
+    "ast": [
+      "Delete your whole workspace"
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteWorkspace.tsx"
+    ]
+  },
+  {
+    "id": "nB84mG",
+    "msgid": "Error validating approved access domain",
+    "ast": [
+      "Error validating approved access domain"
+    ],
+    "files": [
+      "src/modules/settings/security/components/approvedAccessDomains/SettingsSecurityApprovedAccessDomainValidationEffect.tsx"
+    ]
+  },
+  {
+    "id": "nD0Y+a",
+    "msgid": "Account Deletion",
+    "ast": [
+      "Account Deletion"
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteAccount.tsx"
+    ]
+  },
+  {
+    "id": "no/yG9",
+    "msgid": "Configure what emails should get synced",
+    "ast": [
+      "Configure what emails should get synced"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "oKqFNn",
+    "msgid": "SMTP Server",
+    "ast": [
+      "SMTP Server"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "oTTQsc",
+    "msgid": "Use letter, number and dash only. Start and finish with a letter or a number",
+    "ast": [
+      "Use letter, number and dash only. Start and finish with a letter or a number"
+    ],
+    "files": [
+      "src/modules/settings/domains/utils/getSubdomainValidationSchema.ts"
+    ]
+  },
+  {
+    "id": "obJfqn",
+    "msgid": "We will send you a link to verify domain ownership",
+    "ast": [
+      "We will send you a link to verify domain ownership"
+    ],
+    "files": [
+      "src/pages/settings/security/SettingsSecurityApprovedAccessDomain.tsx"
+    ]
+  },
+  {
+    "id": "omhc+7",
+    "msgid": "Subdomain already taken",
+    "ast": [
+      "Subdomain already taken"
+    ],
+    "files": [
+      "src/modules/settings/domains/hooks/useSettingsSubdomain.ts"
+    ]
+  },
+  {
+    "id": "pf6MGm",
+    "msgid": "Allow Microsoft-based login for users with SSO bypass permissions.",
+    "ast": [
+      "Allow Microsoft-based login for users with SSO bypass permissions."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "poC90w",
+    "msgid": "Event visibility",
+    "ast": [
+      "Event visibility"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarChannelDetails.tsx"
+    ]
+  },
+  {
+    "id": "q/pgyN",
+    "msgid": "Allow Google-based login for users with SSO bypass permissions.",
+    "ast": [
+      "Allow Google-based login for users with SSO bypass permissions."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "q10MiT",
+    "msgid": "Upgrade to Organization to access audit logs.",
+    "ast": [
+      "Upgrade to Organization to access audit logs."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "q8ka1X",
+    "msgid": "Members & invitees",
+    "ast": [
+      "Members & invitees"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "qA9AGQ",
+    "msgid": "Configure these DNS records with your domain provider",
+    "ast": [
+      "Configure these DNS records with your domain provider"
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingsDomainRecords.tsx"
+    ]
+  },
+  {
+    "id": "qNbuWB",
+    "msgid": "Set the name of your custom domain and configure your DNS records.",
+    "ast": [
+      "Set the name of your custom domain and configure your DNS records."
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingPublicDomain.tsx",
+      "src/modules/settings/domains/components/SettingsCustomDomain.tsx"
+    ]
+  },
+  {
+    "id": "qQiBwb",
+    "msgid": "Failed to log out other devices",
+    "ast": [
+      "Failed to log out other devices"
+    ],
+    "files": [
+      "src/modules/settings/profile/devices/components/SettingsProfileDevicesSection.tsx"
+    ]
+  },
+  {
+    "id": "qakNlV",
+    "msgid": "Log retention",
+    "ast": [
+      "Log retention"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "qbg8VE",
+    "msgid": "Update your account's configuration. Configure any combination of IMAP, SMTP, and CalDAV as needed.",
+    "ast": [
+      "Update your account's configuration. Configure any combination of IMAP, SMTP, and CalDAV as needed."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "qrbojL",
+    "msgid": "ACS URL",
+    "ast": [
+      "ACS URL"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "qvRaz1",
+    "msgid": "Leave workspace",
+    "ast": [
+      "Leave workspace"
+    ],
+    "files": [
+      "src/modules/settings/profile/components/DeleteAccount.tsx",
+      "src/modules/settings/profile/components/DeleteAccount.tsx",
+      "src/modules/settings/profile/components/DeleteAccount.tsx"
+    ]
+  },
+  {
+    "id": "rGWgcm",
+    "msgid": "Enter the infos to set the connection",
+    "ast": [
+      "Enter the infos to set the connection"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "rU05hS",
+    "msgid": "12h",
+    "ast": [
+      "12h"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/DateTimeSettingsTimeFormatSelect.tsx"
+    ]
+  },
+  {
+    "id": "rXrG+N",
+    "msgid": "Search folders...",
+    "ast": [
+      "Search folders..."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/message-folders/SettingsAccountsMessageFoldersCard.tsx"
+    ]
+  },
+  {
+    "id": "sgXUv+",
+    "msgid": "Add SSO Identity Provider",
+    "ast": [
+      "Add SSO Identity Provider"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoIdentitiesProvidersListCard.tsx",
+      "src/modules/settings/security/components/sso/SettingsSsoIdentitiesProvidersListCardWrapper.tsx"
+    ]
+  },
+  {
+    "id": "sqOGcv",
+    "msgid": "Import all emails",
+    "ast": [
+      "Import all emails"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageFolderCard.tsx"
+    ]
+  },
+  {
+    "id": "tEdOxj",
+    "msgid": "1. Email",
+    "ast": [
+      "1. Email"
+    ],
+    "files": [
+      "src/pages/settings/accounts/SettingsAccountsConfigurationStepEmail.tsx",
+      "src/pages/settings/accounts/SettingsAccountsConfigurationStepEmail.tsx"
+    ]
+  },
+  {
+    "id": "tn41zE",
+    "msgid": "Set the name of your subdomain",
+    "ast": [
+      "Set the name of your subdomain"
+    ],
+    "files": [
+      "src/modules/settings/domains/components/SettingsSubdomain.tsx"
+    ]
+  },
+  {
+    "id": "tzDI+P",
+    "msgid": "John Doe",
+    "ast": [
+      "John Doe"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "u3hwhx",
+    "msgid": "Invalid domain. Domains have to be smaller than 256 characters in length, cannot be IP addresses, cannot contain spaces, cannot contain any special characters such as _~`!@#$%^*()=+{}[]|\\;:'\",<>/? and cannot begin or end with a '-' character.",
+    "ast": [
+      "Invalid domain. Domains have to be smaller than 256 characters in length, cannot be IP addresses, cannot contain spaces, cannot contain any special characters such as _~`!@#$%^*()=+{}[]|\\;:'\",<>/? and cannot begin or end with a '-' character."
+    ],
+    "files": [
+      "src/modules/settings/domains/utils/getDomainValidationSchema.ts"
+    ]
+  },
+  {
+    "id": "unEEog",
+    "msgid": "Email cannot be empty",
+    "ast": [
+      "Email cannot be empty"
+    ],
+    "files": [
+      "src/pages/settings/security/SettingsSecurityApprovedAccessDomain.tsx"
+    ]
+  },
+  {
+    "id": "utsXG8",
+    "msgid": "Configure fallback login methods for users with SSO bypass permissions",
+    "ast": [
+      "Configure fallback login methods for users with SSO bypass permissions"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "vHeVg5",
+    "msgid": "Allow users to sign in with an email and password.",
+    "ast": [
+      "Allow users to sign in with an email and password."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "vnS6Rf",
+    "msgid": "SSO",
+    "ast": [
+      "SSO"
+    ],
+    "files": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "w+rJId",
+    "msgid": "SMTP Configuration",
+    "ast": [
+      "SMTP Configuration"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "w/bY7R",
+    "msgid": "Logs",
+    "ast": [
+      "Logs"
+    ],
+    "files": [
+      "src/modules/logic-functions/components/LogicFunctionLogs.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/side-panel/pages/workflow/step/view-run/components/SidePanelWorkflowRunViewStepContent.tsx",
+      "src/pages/settings/ai/components/SettingsAgentFormContent.tsx",
+      "src/pages/settings/general/SettingsGeneral.tsx"
+    ]
+  },
+  {
+    "id": "wLtx+m",
+    "msgid": "Calendar settings",
+    "ast": [
+      "Calendar settings"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "wMg43c",
+    "msgid": "Allow the invitation of new users by sharing an invite link.",
+    "ast": [
+      "Allow the invitation of new users by sharing an invite link."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "wSpwGR",
+    "msgid": "Permanent deletion. Enter the number of days.",
+    "ast": [
+      "Permanent deletion. Enter the number of days."
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "wTBNbL",
+    "msgid": "Authorized URI",
+    "ast": [
+      "Authorized URI"
+    ],
+    "files": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "wqF3jl",
+    "msgid": "Everything",
+    "ast": [
+      "Everything"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarVisibilitySettingsCard.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsMessageFolderCard.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsMessageVisibilityCard.tsx"
+    ]
+  },
+  {
+    "id": "wrLOeW",
+    "msgid": "john.doe@example.com",
+    "ast": [
+      "john.doe@example.com"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "xMkLkW",
+    "msgid": "Editable Profile Fields",
+    "ast": [
+      "Editable Profile Fields"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "xmUVPi",
+    "msgid": "Calendar start day",
+    "ast": [
+      "Calendar start day"
+    ],
+    "files": [
+      "src/pages/settings/profile/appearance/components/DateTimeSettingsCalendarStartDaySelect.tsx"
+    ]
+  },
+  {
+    "id": "xqlr9R",
+    "msgid": "Spaces and comma",
+    "ast": [
+      "Spaces and comma"
+    ],
+    "files": [
+      "src/modules/settings/experience/components/NumberFormatSelect.tsx"
+    ]
+  },
+  {
+    "id": "xt4a74",
+    "msgid": "Discoverable",
+    "ast": [
+      "Discoverable"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "yYneQW",
+    "msgid": "Support Team",
+    "ast": [
+      "Support Team"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsNewEmailGroupChannel.tsx"
+    ]
+  },
+  {
+    "id": "yhhfqh",
+    "msgid": "Exclude the following people and domains from my email sync. Internal conversations will not be imported",
+    "ast": [
+      "Exclude the following people and domains from my email sync. Internal conversations will not be imported"
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistSection.tsx"
+    ]
+  },
+  {
+    "id": "zS/rMV",
+    "msgid": "Verify the code from the app",
+    "ast": [
+      "Verify the code from the app"
+    ],
+    "files": [
+      "src/pages/settings/profile/SettingsTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "zXzR4W",
+    "msgid": "Configure how long audit logs are retained",
+    "ast": [
+      "Configure how long audit logs are retained"
+    ],
+    "files": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "zii2Qj",
+    "msgid": "Only date & participants will be shared with your team.",
+    "ast": [
+      "Only date & participants will be shared with your team."
+    ],
+    "files": [
+      "src/modules/settings/accounts/components/SettingsAccountsCalendarVisibilitySettingsCard.tsx"
+    ]
+  }
+]

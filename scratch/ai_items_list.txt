@@ -1,0 +1,322 @@
+55frRG	{0} retries
+0PXtku	{0} tokens/s
+/ZFL82	{0} widgets
+lhr2m3	{agentLabel} Agent Role
+Xs84Pv	{label} (Auto)
+Oq2RUh	{label} (deprecated)
+XxzXhf	#
+SMgdEJ	~ {0} tokens
+w++m8p	${0} / 1M
+lKmQeh	1 retry
+m60AP0	1 widget
+C6xZqR	A role must be selected for the API key
+AeXO77	Account
+HD0x5p	Add Approved Access Domain
+TdZwYb	Add sort
+6Tl23V	Add test input for evaluation (e.g., "Find all customers in NY")
+BTFMKE	Add these records at your DNS provider. Twenty checks them automatically.
+WrQ+BN	Agent interactions will appear here once the agent is used in conversations
+mDXkHu	Agent not found
+n2fhCy	AI chat
+kkfXGh	AI consumption over time.
+tzhisR	AI Usage
+55MeVT	AI usage analytics is available with an Organization key.
+U2F/HK	AI usage analytics requires ClickHouse. Contact your administrator.
+KgAAyO	AI usage analytics will appear here once you start using AI features.
+SknniY	AI Usage by Model
+ehjYr9	AI Usage by Type
+X2afmM	AI Usage by User
+KLyZ6L	AI User Usage
+ukH0aS	Alignment
+sb6i1L	API key name cannot be empty
+hIGwzP	App URL
+YhZuwP	Appears filled in fewer than 5% of {0}. Fields that stay empty can be deactivated.
+vdieHo	Application details
+l/T809	Application not listed on the marketplace. It was shared via a direct link
+ZlXhiU	Applications below are not vetted. Use at your own risk.
+Faev6R	Are you sure you want to delete {sourceHandle}? Inbound mail forwarded to this address and outbound replies from it will stop working.
+MMJ5lw	Are you sure you want to delete {topicName}? Recipients will no longer be able to opt out of this category.
+4CHeVx	Are you sure you want to delete this evaluation input?
+4Li0Pw	Are you sure you want to delete this skill? This action cannot be undone.
+0Cs5HS	Are you sure you want to delete this tool? This action cannot be undone.
+d/bvvp	Assistant
+cNBqH+	Auth failed at
+sgXsd0	Auth failure reason
+Dnn2XG	Automatic
+MHsVk5	Automatically selected by Twenty for this mode.
+BJgDIM	Automation, AI, and access this app provides
+lXkUEV	Availability
+GtJbUa	Background
+JEzhsu	Block Settings
+dCIGNG	Border
+o/S4BG	Border color
+1hGdwj	Breakdown across AI models.
+8ds4Hj	by {author}
+MY7CDs	Catalog sync started. Try your lookup again in a moment.
+EYSFEW	Change subdomain?
+KsP4Tg	Choose automatically
+KoXi44	Choose the default modes for people and agents
+B6GVe3	Claim an application
+PzqcRM	Claim with GitHub
+KqRGF3	Claiming is not configured on this server. Ask an administrator to set up the GitHub OAuth app.
+efhuJR	Columns shown in this view, in display order
+h5/VA5	Command menu item
+yVBJNs	Command menu items
+NBdIgR	Comment
+IfvM+Z	Conditions applied to records before they appear in this view
+ywFj2D	Configuration
+QHcLEN	Connected
+exyUec	Connection
+XYeKcu	Connection not found
+sbBqyy	Connection providers
+M73whl	Context
+gOOpXW	Continue on failure
+XBRyA1	Control whether recipients can find and manage this topic.
+Ej5euX	Copy this key as it will not be visible again
+Fnq2K7	Corner radius
+Z9Z9PX	Cost per 1M tokens
+T8ACay	Could not claim this application
+LpyyAM	Could not complete the claim. Please try again.
+5PWKlr	Could not run the lookup
+p75IO8	Could not start the GitHub claim
+Yu3v/5	Could not sync the catalog
+ZITKtg	Create a role to define permissions for this agent.
+VT4irJ	Current date
+MNGIVW	Customise the fields available in the {objectLabelSingular} views and their display order in the {objectLabelSingular} detail view and menus.
+ShUrwO	Daily AI Usage
+HKH+W+	Data
+Ix/CMz	Data residency
+7OGvrU	Deactivate "Synchronize Label and API Name" to set a custom API name
+OFJYGS	Deactivate or delete this skill
+xQXPRn	Define the name and instructions for this skill
+ErLA3E	Define what this tool does
+YMNj8z	Delete Agent
+hGfWDm	Delete API key
+4xlcyV	Delete email channel
+gf2eXy	Delete Evaluation Input
+DgHnjS	Delete this agent
+T6S2Ns	Delete this integration
+UvEQr6	Delete this tool
+rQiOWg	Delete Tool
+EhjVw/	Delete unsubscribe topic
+Ssdrw4	Deprecated
+C8lmDv	Description provided by the application
+MRB7nI	Direction
+TauHgw	Disconnect connection?
+7kVRe6	Domains have to be smaller than 256 characters, cannot contain spaces and cannot contain any special characters.
+Emrbzc	Don't create contacts from/to Gmail, Outlook emails
+QVVmxi	E.g. backoffice integration
+SwLZ5l	e.g. my-twenty-app
+p5P8NB	E.g., "We are a B2B SaaS company. Always use formal language..."
+ZwR0Vd	Edit each side
+uBAxNB	Editor
+7A0K1Y	Empty tab
+gZo0V9	Enable model-specific features
+P/e64M	Enter agent name*
+3EF9HN	Enter the system prompt that defines this agent's behavior and capabilities
+GHKxvg	Error deleting api key.
+PfAip2	Error regenerating api key.
+lX3Yil	Error updating role
+4ASb34	Evals
+UKdZ7G	Evaluate
+FDRUdE	Evaluating
+Y3MReI	Evaluations
+YzI8cc	Existing Field
+vJiM7T	Failed to activate skill
+ITWxKI	Failed to create unsubscribe topic.
+AXveCw	Failed to delete email channel.
+bmwWKk	Failed to delete skill
+AUprM8	Failed to delete tool
+HUBJsk	Failed to delete unsubscribe topic.
+dqEkUR	Failed to evaluate turn
+P/885a	Failed to execute evaluation input
+y3HIOa	Failed to save role permissions: {errorMessage}
+9ryUyP	Failed to save workspace instructions
+mDyyo1	Failed to update model settings
+R4iTSf	Failed to update sender name.
+16Z+3L	Failed to update unsubscribe topic.
+h5NDR9	Fields added to other objects
+kNqMMd	Folder
+nm91BR	Forwarding address
+TFf85Z	Forwarding address copied to clipboard
+7skoga	Front component
+IvIKDS	Front components
+AHOl4W	Function name
+BhYbva	GitHub authorization failed or was denied. Please connect your GitHub account again.
+MkDC2z	Granted OAuth scopes
+Nf7oXL	Handle
+WC32k6	How records, pages, and navigation are displayed
+j843N3	If you’ve lost this key, you can regenerate it, but be aware that any script using this key will need to be updated. Please type"{confirmationValue}" to confirm.
+sdlhyk	Inactive Skill Options
+iaXnN5	Information about the current user (auto-generated and included in each request)
+VmBcTm	Input parameters accepted by this tool
+/6i28D	Input settings
+NxHkkp	Instructions
+77QeTr	Instructions Editor
+Gzw2pq	Intelligence
+B2Zb/F	JSON
+UpNpMK	Just for me
+LHkoee	Keep executing the next nodes even if this one fails
+uPb/1Y	Last refreshed
+NYwqoV	Last signed in
+uQ0+Yc	Layout mode: {0}
+5wIe5g	Listed on the unsubscribe page
+C5bVie	Live URL
+fS/QXs	Loading applications...
+8NbHF7	Locale
+wuCnq1	Logic
+TMahs7	Look up
+5UjiOC	Manage this application's OAuth connection.
+HwujXK	Manage unsubscribe
+R+LCkB	Manage unsubscribers, opt-out topics, and the page recipients see
+waFx9W	Managed
+ospBFm	Manually selected for this mode.
+zz/Wd/	Mode
+8jgO3g	Model agents use when they run on their own
+iaurWj	Model used when you chat with Twenty
+JUrq94	mySkill
+z+6jaZ	Name of your API key
+jRptK+	Navigation menu items
+mJIA0/	New Agent
+horr45	Newsletters
+nPalt1	No AI consumption recorded for this user.
+iH1iv+	No AI provider is configured on this instance.
+OaNsaF	No application found. If you just published it to npm with the "twenty-app" keyword, sync the catalog and try again.
+wgUPZ1	No comment
+RRRePs	No description available for this application
+p3Hivn	No evaluation inputs yet. Add your first test input above.
+ntMCci	No evaluations yet for this turn
+qtoOYG	No limit
+5sf2dF	No logs yet
+JzzHsG	No messages found for this turn
+WGQJB3	No model available
+xo340M	No model is available for this mode.
+20ONq7	No parameters
+orE/ux	No permission defined for this application
+pRxlf6	No provenance attestation was found for this package. Publish it from GitHub Actions with npm trusted publishing, then try claiming again.
+OCektF	No variables to set for this application
+JdLdch	No vetted applications found. {0} non-vetted result(s) available — 
+AjdrYY	Not measured at this effort yet. Showing the base model's reading.
+VngD1z	Nothing to configure for this application
+C1b55F	OAuth credential metadata for this application connection
+JzXn58	Only applications published to npm can be claimed this way.
+kiuQlM	Only enable for steps that are safe to run twice: a failed attempt may already have written data or sent messages.
+aluwJP	Only in {currentLanguageLabel}
+650kGT	Open an email editor to edit block settings.
+Fzfj4N	Operand
+BVmWQT	Optional context shown to recipients on the preferences page.
+I/EsFC	Order in which records are displayed
+J7aOlM	Output cost
+tE6+xk	Ownership is verified through npm trusted publishing: the package must be published from GitHub Actions with provenance. Sign in with a GitHub account that owns the publishing account or organization — when the package is published by an organization, grant this app access to it on GitHub's authorization screen.
+1K7pVq	Package name or universal identifier
+fdjq4c	Padding
+SZgFyi	page layout
+kbnS+K	Page layout
+ckYXHz	Page layouts
+oIhFvf	Page style
+F18WP3	Parameters
+qMTN0w	Per-day AI consumption.
+hx1ePY	Placeholder
+90/XJz	Please check your email for a verification link.
+6nsIo3	Please type "{confirmationValue}" to confirm you want to delete this API Key. Be aware that any script using this key will stop working.
+8B+pY5	Property
+3ixt5E	Public topics appear on the recipient preferences page.
+ibPuCP	Read documentation
+EKsFda	Read the system prompts to understand how the AI works
+0URVx8	Read the system prompts to understand how the AI works (~{0} tokens)
+6pSHJ5	Read-only
+6wOBcu	Read-only {entityTypeLabel} definition shipped by this app
+PG5XPp	Reasoning: {0}
+nVOD/+	Reasoning: Default
+PrI9jr	Reconnect and share
+XsIxsL	Reconnect needed
+hVS0gK	record
+w80YWM	Record
+vpZcGd	Regenerate an API key
+Mwqo5m	Regenerate key
+HpK/8d	Reload
+P1tI9p	Remove block
+WMdA7Y	Response Format
+v39wLo	Resume
+s/LEE/	Retry on failure
+l2yKTq	Role for {agentLabel} agent
+3JjdaA	Run
+QeF0zb	Same value on every side
+IYEdtc	Schema this app contributes to your workspace
+Eq6YVV	Score
+VNmPqQ	Search a tool...
+RpeN29	See function
+dE5jOH	Select a section, columns, button or divider in the email body to edit its settings.
+hVPa4O	Select an option
+tacknv	Select Type
+LFupHB	Sender name
+ULtHaJ	Sending domain
+l6W1lM	Set up forwarding from the source address to this destination.
+9HNKkV	Set your application configuration variables
+bM7Rp3	Share with workspace
+lX0SIS	Share with workspace?
+JTP6zD	Shared email
+Xzq3Vx	Sharing this connection with the workspace requires reconnecting it. You will be redirected to authorize it again.
+zasxcV	Should changing the label also change the API name?
+vbXZ3k	show all
+Cj2Gtd	Size
+OhD7+a	Skill not found
+PCSkw2	Skills
+l9wI00	Speed
+UJNV7l	String
+DTG2nE	Subdomain updated
+NmHVSC	Sync catalog
+PJAeaq	Synchronize Label and API Name
+eDW3Jm	Tab {tabNumber}: {0}
+DBxdLI	Take ownership of an app you published to npm. Enter its exact package name (or universal identifier) to find it.
+NnH3pK	Test
+xeiujy	Text
+3o2gOg	The modes people and agents choose between
+8EkdZh	The name of your Domain
+HMtAtA	The name recipients see for this topic.
+aHFG8a	The name recipients see next to your address. It is set when the channel is created.
+hKKMk0	The shared email you want to use.
+bNY3MH	This action cannot be undone. This will permanently delete your agent.<0/>Please type in the agent name to confirm.
+6R2R80	This app's routes are served from this URL. Add a custom domain to use your own.
+2lDWPO	This application could not be found. It may have been removed from the marketplace catalog.
+dT2Ibb	This application has already been claimed by a workspace.
+vZhnyV	This application has already been claimed.
+LqhE3c	This connection does not exist or is not available for this application.
+fp6HUI	This role is shared with other users or agents and cannot be edited here.
+PJ4qQa	This will disconnect {connectionLabel} from this application.
+soVdWA	Timeline activity type
+YZJ+T0	Timeline activity types
+SrWh42	Tool created
+i5A3/7	Tool deleted
+sFMBP5	Topics
+BxecEJ	Track AI consumption across your workspace.
+n0iUzM	Turn
+qsUXL3	Turn Details
+fFSDTy	Turn evaluated successfully
+8680YN	Turn not found
+NCGTnP	Turn Not Found
+pNo8xt	Twenty fills each level with the best model that meets your requirements
+YIjS4q	Twitter/X Search
+sd9apq	Universal identifier
+Te2H8x	Unnamed API Key
+SMaFdc	Unsubscribe
+fOBEjB	Unsubscribe page
+yxuCkO	Unsubscribers
+jxRjAG	Untitled topic
+UtDm3q	URL copied to clipboard
+5ZehS/	Use filter to see existing skills or create your own
+cVOIgV	Use filter to see existing tools or create your own
+zw/lpB	User Context
+J5T9NW	User Information
+kl33NM	Vetted only
+nK72s8	View all evaluations
+Rxoy7e	We are currently encountering issues with this app, its behavior may be degraded while we work on a fix.
+icGmU/	We could not reach the package registry to verify the package provenance. Please try again in a few minutes.
+cE4SvC	What this API can do: Select a user role to define its permissions.
+leUubq	When the key will be disabled
+AHXN2z	Widget
+aFWU1n	Width
+PHF7zj	Workspace shared
+7QXVrh	Write a description for this agent
+MuS9Gh	You are editing the {currentLanguageLabel} translation. Renaming instead changes the source label, for every language.
+gUv6/H	Your GitHub account does not own the organization that publishes this package. If you are an owner, grant this app access to the organization on GitHub's authorization screen (Organization access section).

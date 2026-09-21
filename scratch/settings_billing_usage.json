@@ -1,0 +1,3024 @@
+[
+  {
+    "id": "lndIq/",
+    "msgid": " billed annually",
+    "currentVal": [
+      " billed annually"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts",
+      "src/modules/settings/billing/hooks/useBillingWording.ts",
+      "src/modules/settings/billing/hooks/useBillingWording.ts",
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "nA/hWD",
+    "msgid": " per {intervalLabel}",
+    "currentVal": [
+      " per ",
+      [
+        "intervalLabel"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx"
+    ]
+  },
+  {
+    "id": "N/lIUf",
+    "msgid": ". The change will be applied the {beautifiedRenewDate}.",
+    "currentVal": [
+      ". The change will be applied the ",
+      [
+        "beautifiedRenewDate"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "TaLmrR",
+    "msgid": "({0} credits)",
+    "currentVal": [
+      "(",
+      [
+        "0"
+      ],
+      " credits)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "i/aRV6",
+    "msgid": "({seats} {seatCountLabel} × ${displayedPerSeatPrice})",
+    "currentVal": [
+      "(",
+      [
+        "seats"
+      ],
+      " ",
+      [
+        "seatCountLabel"
+      ],
+      " × $",
+      [
+        "displayedPerSeatPrice"
+      ],
+      ")"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "lAxYP0",
+    "msgid": "(${currentCreditPriceDisplay}/{intervalLabel})",
+    "currentVal": [
+      "($",
+      [
+        "currentCreditPriceDisplay"
+      ],
+      "/",
+      [
+        "intervalLabel"
+      ],
+      ")"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx"
+    ]
+  },
+  {
+    "id": "dNIJYp",
+    "msgid": "{0} credits",
+    "currentVal": [
+      [
+        "0"
+      ],
+      " credits"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "r4l/MK",
+    "msgid": "{0} used",
+    "currentVal": [
+      [
+        "0"
+      ],
+      " used"
+    ],
+    "fileRefs": [
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "LZWC7x",
+    "msgid": "{currentCreditAmountDisplay} credits ",
+    "currentVal": [
+      [
+        "currentCreditAmountDisplay"
+      ],
+      " credits "
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx"
+    ]
+  },
+  {
+    "id": "Ae2fyu",
+    "msgid": "{grantedCreditsDisplay} credits",
+    "currentVal": [
+      [
+        "grantedCreditsDisplay"
+      ],
+      " credits"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "h5WHNQ",
+    "msgid": "/{intervalLabel}",
+    "currentVal": [
+      "/",
+      [
+        "intervalLabel"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "vOdfPD",
+    "msgid": "/{intervalLabel} after trial",
+    "currentVal": [
+      "/",
+      [
+        "intervalLabel"
+      ],
+      " after trial"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "9lFfqv",
+    "msgid": "/month",
+    "currentVal": [
+      "/month"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "AkYLhr",
+    "msgid": "/month billed yearly",
+    "currentVal": [
+      "/month billed yearly"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "oz9P7U",
+    "msgid": "/user per month",
+    "currentVal": [
+      "/user per month"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTable.tsx"
+    ]
+  },
+  {
+    "id": "6WQdu8",
+    "msgid": "100 per minute",
+    "currentVal": [
+      "100 per minute"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "7SJhyh",
+    "msgid": "30+",
+    "currentVal": [
+      "30+"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "Z2TH0F",
+    "msgid": "50 per minute",
+    "currentVal": [
+      "50 per minute"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "i7ur8L",
+    "msgid": "Activating subscription...",
+    "currentVal": [
+      "Activating subscription..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts"
+    ]
+  },
+  {
+    "id": "rUVyfz",
+    "msgid": "Add a card below to update your billing details and retry your payment.",
+    "currentVal": [
+      "Add a card below to update your billing details and retry your payment."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/UpdatePaymentMethodModal.tsx"
+    ]
+  },
+  {
+    "id": "sFY+gw",
+    "msgid": "Add card",
+    "currentVal": [
+      "Add card"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingTrialNoPaymentMethodBanner.tsx"
+    ]
+  },
+  {
+    "id": "3AphJD",
+    "msgid": "Add credit card",
+    "currentVal": [
+      "Add credit card"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/AddPaymentMethodForm.tsx",
+      "src/modules/settings/billing/components/StartSubscriptionConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "ZEOklT",
+    "msgid": "Add your credit card",
+    "currentVal": [
+      "Add your credit card"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/AddCreditCardModal.tsx",
+      "src/modules/settings/billing/components/StartSubscriptionConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "ZYntTu",
+    "msgid": "Add your credit card below. Once added, your subscription will start automatically.",
+    "currentVal": [
+      "Add your credit card below. Once added, your subscription will start automatically."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/AddCreditCardModal.tsx"
+    ]
+  },
+  {
+    "id": "iEQQyu",
+    "msgid": "Agent",
+    "currentVal": [
+      "Agent"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypeLabels.ts",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/hooks/useWorkflowAiAgentPermissionActions.ts",
+      "src/pages/settings/ai/SettingsAgentForm.tsx",
+      "src/pages/settings/ai/SettingsAgentForm.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "aUn7Ps",
+    "msgid": "AI & Automations",
+    "currentVal": [
+      "AI & Automations"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "HbXHSp",
+    "msgid": "AI agents",
+    "currentVal": [
+      "AI agents"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "V+Qj+q",
+    "msgid": "AI Chat",
+    "currentVal": [
+      "AI Chat"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "TLbVxH",
+    "msgid": "AI Workflow",
+    "currentVal": [
+      "AI Workflow"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "iKzPQM",
+    "msgid": "All agents",
+    "currentVal": [
+      "All agents"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypePoolLabels.ts"
+    ]
+  },
+  {
+    "id": "Aapaa8",
+    "msgid": "All API keys",
+    "currentVal": [
+      "All API keys"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypePoolLabels.ts"
+    ]
+  },
+  {
+    "id": "G6DTnD",
+    "msgid": "All applications",
+    "currentVal": [
+      "All applications"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypePoolLabels.ts"
+    ]
+  },
+  {
+    "id": "FIlQ3z",
+    "msgid": "All logic functions",
+    "currentVal": [
+      "All logic functions"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypePoolLabels.ts"
+    ]
+  },
+  {
+    "id": "UBpkWM",
+    "msgid": "All users",
+    "currentVal": [
+      "All users"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypePoolLabels.ts"
+    ]
+  },
+  {
+    "id": "qf6r3X",
+    "msgid": "All workflows",
+    "currentVal": [
+      "All workflows"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypePoolLabels.ts"
+    ]
+  },
+  {
+    "id": "YkfDoz",
+    "msgid": "Annual",
+    "currentVal": [
+      "Annual"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTable.tsx"
+    ]
+  },
+  {
+    "id": "OZtEcz",
+    "msgid": "API",
+    "currentVal": [
+      "API"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitResourceTypeLabels.ts",
+      "src/modules/settings/mcp-and-apis/components/PlaygroundSetupForm.tsx",
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "30KnZB",
+    "msgid": "API calls",
+    "currentVal": [
+      "API calls"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "IrC12v",
+    "msgid": "Application",
+    "currentVal": [
+      "Application"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderGroups.ts",
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypeLabels.ts",
+      "src/modules/workflow/workflow-steps/workflow-actions/utils/getActionHeaderTypeOrThrow.ts",
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "p98xmP",
+    "msgid": "Applies to",
+    "currentVal": [
+      "Applies to"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx"
+    ]
+  },
+  {
+    "id": "y2W2Hg",
+    "msgid": "Audit logs",
+    "currentVal": [
+      "Audit logs"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "aIkeAd",
+    "msgid": "Billed monthly",
+    "currentVal": [
+      "Billed monthly"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTable.tsx"
+    ]
+  },
+  {
+    "id": "8tzR0k",
+    "msgid": "Billing period",
+    "currentVal": [
+      "Billing period"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTable.tsx",
+      "src/modules/settings/billing/constants/UsageLimitPeriodNameLabels.ts",
+      "src/modules/settings/billing/constants/UsageLimitPeriodUnitLabels.ts"
+    ]
+  },
+  {
+    "id": "xF/NXI",
+    "msgid": "Billing portal session error. Please retry or contact Twenty team",
+    "currentVal": [
+      "Billing portal session error. Please retry or contact Twenty team"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingPortalSession.ts"
+    ]
+  },
+  {
+    "id": "9e+AU2",
+    "msgid": "Call Recording",
+    "currentVal": [
+      "Call Recording"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "J8nuSF",
+    "msgid": "Cancel credit pack switching",
+    "currentVal": [
+      "Cancel credit pack switching"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx"
+    ]
+  },
+  {
+    "id": "ztnpYZ",
+    "msgid": "Cancel credit pack switching?",
+    "currentVal": [
+      "Cancel credit pack switching?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoModals.tsx"
+    ]
+  },
+  {
+    "id": "dV4HC5",
+    "msgid": "Cancel interval switching",
+    "currentVal": [
+      "Cancel interval switching"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCardHeaderActions.tsx"
+    ]
+  },
+  {
+    "id": "M5CqkG",
+    "msgid": "Cancel interval switching?",
+    "currentVal": [
+      "Cancel interval switching?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoModals.tsx"
+    ]
+  },
+  {
+    "id": "rRK/Lf",
+    "msgid": "Cancel Plan",
+    "currentVal": [
+      "Cancel Plan"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingContent.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "8eSMLX",
+    "msgid": "Cancel plan switching",
+    "currentVal": [
+      "Cancel plan switching"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCardHeaderActions.tsx"
+    ]
+  },
+  {
+    "id": "f6KFEf",
+    "msgid": "Cancel plan switching?",
+    "currentVal": [
+      "Cancel plan switching?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoModals.tsx"
+    ]
+  },
+  {
+    "id": "N6gPiD",
+    "msgid": "Cancel your subscription",
+    "currentVal": [
+      "Cancel your subscription"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingContent.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "n1zTaJ",
+    "msgid": "Caps on what your workspace can spend and who they apply to",
+    "currentVal": [
+      "Caps on what your workspace can spend and who they apply to"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx"
+    ]
+  },
+  {
+    "id": "TbCWB7",
+    "msgid": "Card payment is currently unavailable. Please verify your Stripe configuration or contact your workspace admin.",
+    "currentVal": [
+      "Card payment is currently unavailable. Please verify your Stripe configuration or contact your workspace admin."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/AddPaymentMethodForm.tsx",
+      "src/pages/onboarding/UpgradeFreeTrial.tsx"
+    ]
+  },
+  {
+    "id": "9m7pJA",
+    "msgid": "Change to Monthly?",
+    "currentVal": [
+      "Change to Monthly?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoModals.tsx"
+    ]
+  },
+  {
+    "id": "C8G9Mq",
+    "msgid": "Change to Organization Plan?",
+    "currentVal": [
+      "Change to Organization Plan?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlansWithSubscription.tsx"
+    ]
+  },
+  {
+    "id": "t7uUc+",
+    "msgid": "Change to Pro Plan?",
+    "currentVal": [
+      "Change to Pro Plan?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlansWithSubscription.tsx"
+    ]
+  },
+  {
+    "id": "N8mUQE",
+    "msgid": "Change to Yearly?",
+    "currentVal": [
+      "Change to Yearly?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoModals.tsx"
+    ]
+  },
+  {
+    "id": "SxwQE8",
+    "msgid": "Checkout session error. Please retry or contact Twenty team",
+    "currentVal": [
+      "Checkout session error. Please retry or contact Twenty team"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useHandleCheckoutSession.ts",
+      "src/modules/settings/billing/hooks/useHandleCheckoutSession.ts"
+    ]
+  },
+  {
+    "id": "tMOTjD",
+    "msgid": "Choose {intervalAdjective} credits",
+    "currentVal": [
+      "Choose ",
+      [
+        "intervalAdjective"
+      ],
+      " credits"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx"
+    ]
+  },
+  {
+    "id": "sHa2Dg",
+    "msgid": "Choose a spender",
+    "currentVal": [
+      "Choose a spender"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitSpenderSelect.tsx"
+    ]
+  },
+  {
+    "id": "RGUZK1",
+    "msgid": "Choose a usage",
+    "currentVal": [
+      "Choose a usage"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitUsageSelect.tsx"
+    ]
+  },
+  {
+    "id": "qJwqET",
+    "msgid": "Choose a usage first",
+    "currentVal": [
+      "Choose a usage first"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx"
+    ]
+  },
+  {
+    "id": "5EMoSo",
+    "msgid": "Choose plan",
+    "currentVal": [
+      "Choose plan"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlansWithoutSubscription.tsx"
+    ]
+  },
+  {
+    "id": "u8JHrO",
+    "msgid": "Clear filters",
+    "currentVal": [
+      "Clear filters"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/AiChatThreadFilterDropdownRootMenu.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsFilterDropdown.tsx",
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterMenuContent.tsx"
+    ]
+  },
+  {
+    "id": "Gt8ndY",
+    "msgid": "Click a user to see their daily breakdown.",
+    "currentVal": [
+      "Click a user to see their daily breakdown."
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "CTdw8/",
+    "msgid": "ClickHouse Not Configured",
+    "currentVal": [
+      "ClickHouse Not Configured"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "tyxkc0",
+    "msgid": "Code Execution",
+    "currentVal": [
+      "Code Execution"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "awM9hH",
+    "msgid": "Compare plans",
+    "currentVal": [
+      "Compare plans"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTable.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCardHeaderActions.tsx"
+    ]
+  },
+  {
+    "id": "Gdj3Sa",
+    "msgid": "Confirm changing to {selectedCreditAmountDisplay} credits for ${selectedPriceDisplay} per {intervalLabel}.",
+    "currentVal": [
+      "Confirm changing to ",
+      [
+        "selectedCreditAmountDisplay"
+      ],
+      " credits for $",
+      [
+        "selectedPriceDisplay"
+      ],
+      " per ",
+      [
+        "intervalLabel"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx"
+    ]
+  },
+  {
+    "id": "q2rgqr",
+    "msgid": "Confirm changing your current resource credit allocation.",
+    "currentVal": [
+      "Confirm changing your current resource credit allocation."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx"
+    ]
+  },
+  {
+    "id": "kZkFSm",
+    "msgid": "Confirm downgrade",
+    "currentVal": [
+      "Confirm downgrade"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx"
+    ]
+  },
+  {
+    "id": "AOwjMZ",
+    "msgid": "Contact admin",
+    "currentVal": [
+      "Contact admin"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts"
+    ]
+  },
+  {
+    "id": "7iwYAn",
+    "msgid": "Credit consumption over time.",
+    "currentVal": [
+      "Credit consumption over time."
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx"
+    ]
+  },
+  {
+    "id": "CYpB9A",
+    "msgid": "Credit pack switching has been cancelled.",
+    "currentVal": [
+      "Credit pack switching has been cancelled."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "Jnenuz",
+    "msgid": "Credit package",
+    "currentVal": [
+      "Credit package"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx"
+    ]
+  },
+  {
+    "id": "qtEx+T",
+    "msgid": "Credit plan upgraded.",
+    "currentVal": [
+      "Credit plan upgraded."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useCreditUpgradeAction.ts"
+    ]
+  },
+  {
+    "id": "6/q4+J",
+    "msgid": "Credit usage breakdown for your workspace.",
+    "currentVal": [
+      "Credit usage breakdown for your workspace."
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx"
+    ]
+  },
+  {
+    "id": "lDIOek",
+    "msgid": "Credits",
+    "currentVal": [
+      "Credits"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx",
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx",
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/billing/constants/UsageLimitMeterLabels.ts",
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "0o2LpE",
+    "msgid": "Credits are used by workflows, AI chats, agents, and approved apps",
+    "currentVal": [
+      "Credits are used by workflows, AI chats, agents, and approved apps"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "Ydxr+g",
+    "msgid": "credits available (including {extraCreditsDisplay} on top of your plan)",
+    "currentVal": [
+      "credits available (including ",
+      [
+        "extraCreditsDisplay"
+      ],
+      " on top of your plan)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "zaaZ8V",
+    "msgid": "credits available during the trial period",
+    "currentVal": [
+      "credits available during the trial period"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "7CTZ9z",
+    "msgid": "credits used",
+    "currentVal": [
+      "credits used"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "8RWevB",
+    "msgid": "CSV import & export",
+    "currentVal": [
+      "CSV import & export"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "OaTurC",
+    "msgid": "Custom apps",
+    "currentVal": [
+      "Custom apps"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "Vz1Vq2",
+    "msgid": "Custom domain (crm.yourco.com)",
+    "currentVal": [
+      "Custom domain (crm.yourco.com)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "oPwQt4",
+    "msgid": "Custom fields",
+    "currentVal": [
+      "Custom fields"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "prIqWa",
+    "msgid": "Custom layout",
+    "currentVal": [
+      "Custom layout"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "8skTDV",
+    "msgid": "Custom objects",
+    "currentVal": [
+      "Custom objects"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "AbyZbl",
+    "msgid": "Custom views",
+    "currentVal": [
+      "Custom views"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "KXQkvT",
+    "msgid": "Daily Usage",
+    "currentVal": [
+      "Daily Usage"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "dPwNDl",
+    "msgid": "Delete limit",
+    "currentVal": [
+      "Delete limit"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx"
+    ]
+  },
+  {
+    "id": "uvgDyK",
+    "msgid": "Delete this limit?",
+    "currentVal": [
+      "Delete this limit?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx"
+    ]
+  },
+  {
+    "id": "n+SX4g",
+    "msgid": "Developers",
+    "currentVal": [
+      "Developers"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "LE8J+K",
+    "msgid": "Downgrade",
+    "currentVal": [
+      "Downgrade"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx"
+    ]
+  },
+  {
+    "id": "wg8Kjn",
+    "msgid": "Downgrade to monthly",
+    "currentVal": [
+      "Downgrade to monthly"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx"
+    ]
+  },
+  {
+    "id": "74qJhc",
+    "msgid": "Edit limit",
+    "currentVal": [
+      "Edit limit"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx"
+    ]
+  },
+  {
+    "id": "h2KoTu",
+    "msgid": "Edit payment method, see your invoices and more",
+    "currentVal": [
+      "Edit payment method, see your invoices and more"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingContent.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "AoN898",
+    "msgid": "Email and Chat",
+    "currentVal": [
+      "Email and Chat"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "xUDbZ0",
+    "msgid": "Email Send",
+    "currentVal": [
+      "Email Send"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "ObCvfI",
+    "msgid": "Email sharing",
+    "currentVal": [
+      "Email sharing"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "XGd8Wo",
+    "msgid": "Emails & Calendar",
+    "currentVal": [
+      "Emails & Calendar"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "Iy8Gze",
+    "msgid": "Encryption key rotation",
+    "currentVal": [
+      "Encryption key rotation"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "O2tNG0",
+    "msgid": "Ending",
+    "currentVal": [
+      "Ending"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "3dQ6zJ",
+    "msgid": "Environments",
+    "currentVal": [
+      "Environments"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "du6d5C",
+    "msgid": "Error while cancelling credit pack switching.",
+    "currentVal": [
+      "Error while cancelling credit pack switching."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "pt7mmi",
+    "msgid": "Error while cancelling interval switching.",
+    "currentVal": [
+      "Error while cancelling interval switching."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "FS6DQK",
+    "msgid": "Error while cancelling plan switching.",
+    "currentVal": [
+      "Error while cancelling plan switching."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "QmR+2U",
+    "msgid": "Error while ending trial period. Please contact Twenty team.",
+    "currentVal": [
+      "Error while ending trial period. Please contact Twenty team."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts"
+    ]
+  },
+  {
+    "id": "QPJi2W",
+    "msgid": "Error while switching subscription.",
+    "currentVal": [
+      "Error while switching subscription."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/billing/hooks/useSwitchBillingPlan.ts",
+      "src/modules/settings/billing/hooks/useSwitchBillingPlan.ts"
+    ]
+  },
+  {
+    "id": "7xz1r9",
+    "msgid": "Failed to create the limit.",
+    "currentVal": [
+      "Failed to create the limit."
+    ],
+    "fileRefs": [
+      "src/pages/settings/billing/SettingsBillingNewLimit.tsx"
+    ]
+  },
+  {
+    "id": "YVct3Q",
+    "msgid": "Failed to delete the limit.",
+    "currentVal": [
+      "Failed to delete the limit."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx"
+    ]
+  },
+  {
+    "id": "LGNhPn",
+    "msgid": "Failed to load billing plans",
+    "currentVal": [
+      "Failed to load billing plans"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingPageLayout.tsx",
+      "src/modules/settings/billing/components/SettingsBillingPageLayout.tsx"
+    ]
+  },
+  {
+    "id": "j5vd/9",
+    "msgid": "Failed to update resource credits.",
+    "currentVal": [
+      "Failed to update resource credits."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx"
+    ]
+  },
+  {
+    "id": "hADObV",
+    "msgid": "Failed to update the limit.",
+    "currentVal": [
+      "Failed to update the limit."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx"
+    ]
+  },
+  {
+    "id": "204Qo2",
+    "msgid": "Failed to upgrade credit plan.",
+    "currentVal": [
+      "Failed to upgrade credit plan."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useCreditUpgradeAction.ts"
+    ]
+  },
+  {
+    "id": "e6BgMV",
+    "msgid": "Field-level permissions",
+    "currentVal": [
+      "Field-level permissions"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "JIOvqZ",
+    "msgid": "Filter limits",
+    "currentVal": [
+      "Filter limits"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx"
+    ]
+  },
+  {
+    "id": "wdVyxi",
+    "msgid": "Folder/Label import",
+    "currentVal": [
+      "Folder/Label import"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "hdxwWi",
+    "msgid": "Fully customizable",
+    "currentVal": [
+      "Fully customizable"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "y0SPQU",
+    "msgid": "Go to billing",
+    "currentVal": [
+      "Go to billing"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useWaitForPaymentRecovery.tsx",
+      "src/modules/settings/billing/hooks/useWaitForPaymentRecovery.tsx"
+    ]
+  },
+  {
+    "id": "CRzGla",
+    "msgid": "Help center",
+    "currentVal": [
+      "Help center"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "xUNmcx",
+    "msgid": "How credits work",
+    "currentVal": [
+      "How credits work"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "nHmYga",
+    "msgid": "How much can be spent, and how often it resets.",
+    "currentVal": [
+      "How much can be spent, and how often it resets."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx"
+    ]
+  },
+  {
+    "id": "l0JGUk",
+    "msgid": "Impersonate users",
+    "currentVal": [
+      "Impersonate users"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "yHueLx",
+    "msgid": "Implementation partners",
+    "currentVal": [
+      "Implementation partners"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "C4qYgu",
+    "msgid": "Included",
+    "currentVal": [
+      "Included"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTableRow.tsx"
+    ]
+  },
+  {
+    "id": "mtGDyy",
+    "msgid": "Incomplete",
+    "currentVal": [
+      "Incomplete"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "aHdZwP",
+    "msgid": "Incomplete expired",
+    "currentVal": [
+      "Incomplete expired"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "Xltrl0",
+    "msgid": "Increase to ${priceDisplay}",
+    "currentVal": [
+      "Increase to $",
+      [
+        "priceDisplay"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx"
+    ]
+  },
+  {
+    "id": "K8iwJx",
+    "msgid": "Install shared tarball app",
+    "currentVal": [
+      "Install shared tarball app"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "jyjroS",
+    "msgid": "Interval switching has been cancelled.",
+    "currentVal": [
+      "Interval switching has been cancelled."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "2InwTp",
+    "msgid": "Invoice amount may vary if you add members or credits between periods",
+    "currentVal": [
+      "Invoice amount may vary if you add members or credits between periods"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "GAmD3h",
+    "msgid": "Languages",
+    "currentVal": [
+      "Languages"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "uq2BmQ",
+    "msgid": "Last 30 days",
+    "currentVal": [
+      "Last 30 days"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/utils/getPeriodOptions.ts"
+    ]
+  },
+  {
+    "id": "ct2SYD",
+    "msgid": "Last 7 days",
+    "currentVal": [
+      "Last 7 days"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/utils/getPeriodOptions.ts"
+    ]
+  },
+  {
+    "id": "XgOuA7",
+    "msgid": "Last 90 days",
+    "currentVal": [
+      "Last 90 days"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/utils/getPeriodOptions.ts"
+    ]
+  },
+  {
+    "id": "yRkqG9",
+    "msgid": "Limit",
+    "currentVal": [
+      "Limit"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx",
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardRecordTableSettings.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/find-records-action/components/WorkflowEditActionFindRecords.tsx"
+    ]
+  },
+  {
+    "id": "lvAOAE",
+    "msgid": "Limit created.",
+    "currentVal": [
+      "Limit created."
+    ],
+    "fileRefs": [
+      "src/pages/settings/billing/SettingsBillingNewLimit.tsx"
+    ]
+  },
+  {
+    "id": "1r7WdP",
+    "msgid": "Limit deleted.",
+    "currentVal": [
+      "Limit deleted."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx"
+    ]
+  },
+  {
+    "id": "GrFbIR",
+    "msgid": "Limit updated.",
+    "currentVal": [
+      "Limit updated."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx"
+    ]
+  },
+  {
+    "id": "rtN0nI",
+    "msgid": "Limits could not be loaded.",
+    "currentVal": [
+      "Limits could not be loaded."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitsContent.tsx"
+    ]
+  },
+  {
+    "id": "iGG0MA",
+    "msgid": "Limits on members, API keys and apps require the Organization plan.",
+    "currentVal": [
+      "Limits on members, API keys and apps require the Organization plan."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx"
+    ]
+  },
+  {
+    "id": "Pwqkdw",
+    "msgid": "Loading…",
+    "currentVal": [
+      "Loading…"
+    ],
+    "fileRefs": [
+      "src/modules/ai/utils/getAiChatUsageLabel.ts",
+      "src/modules/settings/billing/components/SettingsBillingLimitSpenderSelect.tsx"
+    ]
+  },
+  {
+    "id": "7VBQ2j",
+    "msgid": "Local, Production",
+    "currentVal": [
+      "Local, Production"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "U/kVJF",
+    "msgid": "Logic function",
+    "currentVal": [
+      "Logic function"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "QTVVDd",
+    "msgid": "Logic functions",
+    "currentVal": [
+      "Logic functions"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitResourceTypeLabels.ts",
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx",
+      "src/pages/settings/logic-functions/SettingsLogicFunctionDetail.tsx",
+      "src/pages/settings/logic-functions/SettingsLogicFunctionDetail.tsx"
+    ]
+  },
+  {
+    "id": "nvgUPq",
+    "msgid": "Manage billing information",
+    "currentVal": [
+      "Manage billing information"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingContent.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Zw+Zv+",
+    "msgid": "MCP server",
+    "currentVal": [
+      "MCP server"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "zsKJ2q",
+    "msgid": "Meter",
+    "currentVal": [
+      "Meter"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx"
+    ]
+  },
+  {
+    "id": "L0DCk4",
+    "msgid": "Next charge {totalRenewDate}. Invoice amount may vary if you add members or credits between periods",
+    "currentVal": [
+      "Next charge ",
+      [
+        "totalRenewDate"
+      ],
+      ". Invoice amount may vary if you add members or credits between periods"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "FoID5n",
+    "msgid": "No credit consumption recorded for this user.",
+    "currentVal": [
+      "No credit consumption recorded for this user."
+    ],
+    "fileRefs": [
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "Y9FJQX",
+    "msgid": "No limit matches your search.",
+    "currentVal": [
+      "No limit matches your search."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx"
+    ]
+  },
+  {
+    "id": "5pSj4j",
+    "msgid": "No payment method found. Please update your billing details.",
+    "currentVal": [
+      "No payment method found. Please update your billing details."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/effect-components/EndTrialAfterPaymentMethodEffect.tsx",
+      "src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts"
+    ]
+  },
+  {
+    "id": "WwlPOG",
+    "msgid": "No usage data",
+    "currentVal": [
+      "No usage data"
+    ],
+    "fileRefs": [
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "TayaS7",
+    "msgid": "No usage data yet",
+    "currentVal": [
+      "No usage data yet"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "JQUXsv",
+    "msgid": "Not included",
+    "currentVal": [
+      "Not included"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTableRow.tsx"
+    ]
+  },
+  {
+    "id": "543eQ7",
+    "msgid": "Nothing counted against this scope yet",
+    "currentVal": [
+      "Nothing counted against this scope yet"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx"
+    ]
+  },
+  {
+    "id": "pbmZ7R",
+    "msgid": "Onboarding Packs",
+    "currentVal": [
+      "Onboarding Packs"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "Wfz6Xv",
+    "msgid": "operations",
+    "currentVal": [
+      "operations"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useUsageLimitFormatter.ts"
+    ]
+  },
+  {
+    "id": "B1MDds",
+    "msgid": "Operations",
+    "currentVal": [
+      "Operations"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitMeterLabels.ts"
+    ]
+  },
+  {
+    "id": "cyDPQQ",
+    "msgid": "organization plan",
+    "currentVal": [
+      "organization plan"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/billing/components/SettingsBillingTrialNoPaymentMethodBanner.tsx"
+    ]
+  },
+  {
+    "id": "zi/p7n",
+    "msgid": "Organization plan",
+    "currentVal": [
+      "Organization plan"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitSpenderSelect.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "BFjW8X",
+    "msgid": "Past due",
+    "currentVal": [
+      "Past due"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "URAE3q",
+    "msgid": "Paused",
+    "currentVal": [
+      "Paused"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "twOnMk",
+    "msgid": "Payment method added.",
+    "currentVal": [
+      "Payment method added."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/UpdatePaymentMethodModal.tsx"
+    ]
+  },
+  {
+    "id": "uIMn/N",
+    "msgid": "Payment method added. Retrying your payment...",
+    "currentVal": [
+      "Payment method added. Retrying your payment..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/UpdatePaymentMethodModal.tsx"
+    ]
+  },
+  {
+    "id": "OvqmUS",
+    "msgid": "Payment successful.",
+    "currentVal": [
+      "Payment successful."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useWaitForPaymentRecovery.tsx"
+    ]
+  },
+  {
+    "id": "i9iYjM",
+    "msgid": "Per-day credit consumption.",
+    "currentVal": [
+      "Per-day credit consumption."
+    ],
+    "fileRefs": [
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "NtQvjo",
+    "msgid": "Period",
+    "currentVal": [
+      "Period"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx",
+      "src/modules/settings/event-logs/components/EventLogFilters.tsx"
+    ]
+  },
+  {
+    "id": "XduPHC",
+    "msgid": "Plan switching has been cancelled.",
+    "currentVal": [
+      "Plan switching has been cancelled."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "lWy5a1",
+    "msgid": "Plans",
+    "currentVal": [
+      "Plans"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingTabBar.tsx"
+    ]
+  },
+  {
+    "id": "k62X/2",
+    "msgid": "Priority support",
+    "currentVal": [
+      "Priority support"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "3fPjUY",
+    "msgid": "Pro",
+    "currentVal": [
+      "Pro"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/PlansTags.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/billing/hooks/useBillingWording.ts",
+      "src/modules/settings/billing/hooks/useSwitchBillingPlan.ts"
+    ]
+  },
+  {
+    "id": "977k6M",
+    "msgid": "pro plan",
+    "currentVal": [
+      "pro plan"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/billing/components/SettingsBillingTrialNoPaymentMethodBanner.tsx"
+    ]
+  },
+  {
+    "id": "r5je1s",
+    "msgid": "Pro plan",
+    "currentVal": [
+      "Pro plan"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTable.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "EqCbT9",
+    "msgid": "Read/Edit/Delete permissions",
+    "currentVal": [
+      "Read/Edit/Delete permissions"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "oQjB9l",
+    "msgid": "Renewal date",
+    "currentVal": [
+      "Renewal date"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "t9yxlZ",
+    "msgid": "Reports",
+    "currentVal": [
+      "Reports"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "N0vrR6",
+    "msgid": "Resource credits updated.",
+    "currentVal": [
+      "Resource credits updated."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx"
+    ]
+  },
+  {
+    "id": "oC2l7f",
+    "msgid": "REST & GraphQL API",
+    "currentVal": [
+      "REST & GraphQL API"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "Wdh41P",
+    "msgid": "Row-level permissions",
+    "currentVal": [
+      "Row-level permissions"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "cAUlDL",
+    "msgid": "runs",
+    "currentVal": [
+      "runs"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitQuantityUnitLabels.ts",
+      "src/modules/settings/billing/constants/UsageLimitQuantityUnitLabels.ts"
+    ]
+  },
+  {
+    "id": "nvUgnK",
+    "msgid": "Save 25% when billed yearly",
+    "currentVal": [
+      "Save 25% when billed yearly"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTable.tsx"
+    ]
+  },
+  {
+    "id": "4ba0NE",
+    "msgid": "Scheduled",
+    "currentVal": [
+      "Scheduled"
+    ],
+    "fileRefs": [
+      "src/modules/activities/calendar/components/CalendarEventCallRecorderAvatar.tsx",
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts"
+    ]
+  },
+  {
+    "id": "7oCJuI",
+    "msgid": "Scheduled change",
+    "currentVal": [
+      "Scheduled change"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx"
+    ]
+  },
+  {
+    "id": "aBgwis",
+    "msgid": "Scope",
+    "currentVal": [
+      "Scope"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx",
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx"
+    ]
+  },
+  {
+    "id": "owAIq9",
+    "msgid": "Search a limit",
+    "currentVal": [
+      "Search a limit"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx"
+    ]
+  },
+  {
+    "id": "uHAV+O",
+    "msgid": "Search for a user...",
+    "currentVal": [
+      "Search for a user..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/UsageByUserTableSection.tsx"
+    ]
+  },
+  {
+    "id": "kSEiZD",
+    "msgid": "searches",
+    "currentVal": [
+      "searches"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitQuantityUnitLabels.ts"
+    ]
+  },
+  {
+    "id": "Y00a9G",
+    "msgid": "seat",
+    "currentVal": [
+      "seat"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "MpFIca",
+    "msgid": "seats",
+    "currentVal": [
+      "seats"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "grt0Pu",
+    "msgid": "Seats",
+    "currentVal": [
+      "Seats"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx"
+    ]
+  },
+  {
+    "id": "HVOGoW",
+    "msgid": "Seats limit",
+    "currentVal": [
+      "Seats limit"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "+emzyJ",
+    "msgid": "Select the credit package to add to your {intervalAdjective} bill.",
+    "currentVal": [
+      "Select the credit package to add to your ",
+      [
+        "intervalAdjective"
+      ],
+      " bill."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx"
+    ]
+  },
+  {
+    "id": "oxbT4Q",
+    "msgid": "Something went wrong while contacting our billing service.",
+    "currentVal": [
+      "Something went wrong while contacting our billing service."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingPlansErrorState.tsx"
+    ]
+  },
+  {
+    "id": "wwdak+",
+    "msgid": "Spender",
+    "currentVal": [
+      "Spender"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitsFilterDropdown.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsFilterDropdown.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitSpenderSelect.tsx"
+    ]
+  },
+  {
+    "id": "ctM+rp",
+    "msgid": "Spending stays capped by your plan allowance and the other limits.",
+    "currentVal": [
+      "Spending stays capped by your plan allowance and the other limits."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx"
+    ]
+  },
+  {
+    "id": "p7JFjT",
+    "msgid": "Spending will only be capped by your plan allowance and the other limits.",
+    "currentVal": [
+      "Spending will only be capped by your plan allowance and the other limits."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx"
+    ]
+  },
+  {
+    "id": "s+K73L",
+    "msgid": "Start Your Subscription",
+    "currentVal": [
+      "Start Your Subscription"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoModals.tsx",
+      "src/modules/settings/billing/components/StartSubscriptionConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "rCIXU9",
+    "msgid": "Starting {scheduledChangeStartDate}",
+    "currentVal": [
+      "Starting ",
+      [
+        "scheduledChangeStartDate"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx"
+    ]
+  },
+  {
+    "id": "BrrIs8",
+    "msgid": "Storage",
+    "currentVal": [
+      "Storage"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitResourceTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "Sv4BSp",
+    "msgid": "Subdomain (yourco.twenty.com)",
+    "currentVal": [
+      "Subdomain (yourco.twenty.com)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "ShbDuS",
+    "msgid": "Subscribe Now",
+    "currentVal": [
+      "Subscribe Now"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/AIChatNoMoreBillingCreditsBanner.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCardHeaderActions.tsx"
+    ]
+  },
+  {
+    "id": "uvY7Wk",
+    "msgid": "Subscription activated.",
+    "currentVal": [
+      "Subscription activated."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts"
+    ]
+  },
+  {
+    "id": "0okvpx",
+    "msgid": "Subscription error. Please retry or contact Twenty team",
+    "currentVal": [
+      "Subscription error. Please retry or contact Twenty team"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/AddPaymentMethodForm.tsx",
+      "src/modules/settings/billing/components/AddPaymentMethodForm.tsx",
+      "src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts",
+      "src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts"
+    ]
+  },
+  {
+    "id": "FooJUj",
+    "msgid": "Subscription has been switched to {0} Plan.",
+    "currentVal": [
+      "Subscription has been switched to ",
+      [
+        "0"
+      ],
+      " Plan."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useSwitchBillingPlan.ts"
+    ]
+  },
+  {
+    "id": "WZBvO8",
+    "msgid": "Subscription has been switched to Monthly.",
+    "currentVal": [
+      "Subscription has been switched to Monthly."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "A5YO8f",
+    "msgid": "Subscription has been switched to Yearly.",
+    "currentVal": [
+      "Subscription has been switched to Yearly."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "ulJRqh",
+    "msgid": "Subscription will be switched to {0} Plan the {1}.",
+    "currentVal": [
+      "Subscription will be switched to ",
+      [
+        "0"
+      ],
+      " Plan the ",
+      [
+        "1"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useSwitchBillingPlan.ts"
+    ]
+  },
+  {
+    "id": "7Vg+lX",
+    "msgid": "Subscription will be switched to Monthly the {0}.",
+    "currentVal": [
+      "Subscription will be switched to Monthly the ",
+      [
+        "0"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "GPKudC",
+    "msgid": "Switch to Pro",
+    "currentVal": [
+      "Switch to Pro"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts"
+    ]
+  },
+  {
+    "id": "1EwZPZ",
+    "msgid": "Switch to yearly",
+    "currentVal": [
+      "Switch to yearly"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx"
+    ]
+  },
+  {
+    "id": "3w+Aox",
+    "msgid": "Table, Kanban, Calendar",
+    "currentVal": [
+      "Table, Kanban, Calendar"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "qMTT4Z",
+    "msgid": "The usage this limit applies to.",
+    "currentVal": [
+      "The usage this limit applies to."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx"
+    ]
+  },
+  {
+    "id": "RmDTQ6",
+    "msgid": "The whole workspace",
+    "currentVal": [
+      "The whole workspace"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypePoolLabels.ts"
+    ]
+  },
+  {
+    "id": "kciPHv",
+    "msgid": "This billing period",
+    "currentVal": [
+      "This billing period"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitPeriodSpanLabels.ts"
+    ]
+  },
+  {
+    "id": "oW3yYY",
+    "msgid": "This month",
+    "currentVal": [
+      "This month"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/UsageLimitPeriodSpanLabels.ts"
+    ]
+  },
+  {
+    "id": "h4VeOo",
+    "msgid": "This will cancel the scheduled interval change and keep your current billing interval ({currentIntervalLabel}).",
+    "currentVal": [
+      "This will cancel the scheduled interval change and keep your current billing interval (",
+      [
+        "currentIntervalLabel"
+      ],
+      ")."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "XpARoU",
+    "msgid": "This will cancel the scheduled plan change and keep your current plan ({planKeyWord}).",
+    "currentVal": [
+      "This will cancel the scheduled plan change and keep your current plan (",
+      [
+        "planKeyWord"
+      ],
+      ")."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "lhkaAC",
+    "msgid": "Trial",
+    "currentVal": [
+      "Trial"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/PlansTags.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "KMw9zY",
+    "msgid": "Trial ends {trialEndDate}, please add card details to keep the {planName}",
+    "currentVal": [
+      "Trial ends ",
+      [
+        "trialEndDate"
+      ],
+      ", please add card details to keep the ",
+      [
+        "planName"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingTrialNoPaymentMethodBanner.tsx"
+    ]
+  },
+  {
+    "id": "zHiSsK",
+    "msgid": "Trial ends {trialEndDate}. Please contact your admin to add card details to keep the {planName}",
+    "currentVal": [
+      "Trial ends ",
+      [
+        "trialEndDate"
+      ],
+      ". Please contact your admin to add card details to keep the ",
+      [
+        "planName"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingTrialNoPaymentMethodBanner.tsx"
+    ]
+  },
+  {
+    "id": "7ZOjOO",
+    "msgid": "Trial ends soon. Please contact your admin to add card details to keep the {planName}",
+    "currentVal": [
+      "Trial ends soon. Please contact your admin to add card details to keep the ",
+      [
+        "planName"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingTrialNoPaymentMethodBanner.tsx"
+    ]
+  },
+  {
+    "id": "KDw4GX",
+    "msgid": "Try again",
+    "currentVal": [
+      "Try again"
+    ],
+    "fileRefs": [
+      "src/modules/onboarding/components/upgrade-free-trial/ChooseYourPlanErrorState.tsx",
+      "src/modules/settings/billing/components/SettingsBillingPlansErrorState.tsx"
+    ]
+  },
+  {
+    "id": "EIU345",
+    "msgid": "Two-factor authentication",
+    "currentVal": [
+      "Two-factor authentication"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "jqzUyM",
+    "msgid": "Unavailable",
+    "currentVal": [
+      "Unavailable"
+    ],
+    "fileRefs": [
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx",
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx",
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts"
+    ]
+  },
+  {
+    "id": "NIuIk1",
+    "msgid": "Unlimited",
+    "currentVal": [
+      "Unlimited"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts",
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "7yiFvZ",
+    "msgid": "Unpaid",
+    "currentVal": [
+      "Unpaid"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "9Wwdnk",
+    "msgid": "Unused credits roll over, up to 2× your plan's credits (max {rolloverCapDisplay}).",
+    "currentVal": [
+      "Unused credits roll over, up to 2× your plan's credits (max ",
+      [
+        "rolloverCapDisplay"
+      ],
+      ")."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "EkH9pt",
+    "msgid": "Update",
+    "currentVal": [
+      "Update"
+    ],
+    "fileRefs": [
+      "src/modules/information-banner/components/billing/InformationBannerBillingSubscriptionPaused.tsx",
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationTableRow.tsx"
+    ]
+  },
+  {
+    "id": "XeFxgX",
+    "msgid": "Update payment",
+    "currentVal": [
+      "Update payment"
+    ],
+    "fileRefs": [
+      "src/modules/information-banner/components/billing/InformationBannerFailPaymentInfo.tsx",
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCardHeaderActions.tsx",
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts"
+    ]
+  },
+  {
+    "id": "JlP83A",
+    "msgid": "Update your payment method",
+    "currentVal": [
+      "Update your payment method"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/UpdatePaymentMethodModal.tsx"
+    ]
+  },
+  {
+    "id": "9gm/Oo",
+    "msgid": "Upgrading subscription...",
+    "currentVal": [
+      "Upgrading subscription..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useCreditUpgradeAction.ts"
+    ]
+  },
+  {
+    "id": "21hsGI",
+    "msgid": "Usage Analytics",
+    "currentVal": [
+      "Usage Analytics"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx"
+    ]
+  },
+  {
+    "id": "7Kq6TI",
+    "msgid": "Usage analytics requires ClickHouse. Contact your administrator.",
+    "currentVal": [
+      "Usage analytics requires ClickHouse. Contact your administrator."
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx"
+    ]
+  },
+  {
+    "id": "XglEba",
+    "msgid": "Usage analytics will appear here once you start using credits.",
+    "currentVal": [
+      "Usage analytics will appear here once you start using credits."
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx"
+    ]
+  },
+  {
+    "id": "hYXHVl",
+    "msgid": "Usage by App",
+    "currentVal": [
+      "Usage by App"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx"
+    ]
+  },
+  {
+    "id": "7vRxpC",
+    "msgid": "Usage by Type",
+    "currentVal": [
+      "Usage by Type"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "4C6sMs",
+    "msgid": "Usage by User",
+    "currentVal": [
+      "Usage by User"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx"
+    ]
+  },
+  {
+    "id": "aL1w5Z",
+    "msgid": "Used",
+    "currentVal": [
+      "Used"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx"
+    ]
+  },
+  {
+    "id": "3XIgKU",
+    "msgid": "User roles",
+    "currentVal": [
+      "User roles"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "5r/Ozr",
+    "msgid": "User Usage",
+    "currentVal": [
+      "User Usage"
+    ],
+    "fileRefs": [
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "noHthC",
+    "msgid": "View AI usage breakdown",
+    "currentVal": [
+      "View AI usage breakdown"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx"
+    ]
+  },
+  {
+    "id": "KANz0G",
+    "msgid": "View billing details",
+    "currentVal": [
+      "View billing details"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingContent.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "BAzC1v",
+    "msgid": "View types",
+    "currentVal": [
+      "View types"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/constants/SettingsBillingPlanComparisonRows.ts"
+    ]
+  },
+  {
+    "id": "ZjBqNE",
+    "msgid": "View usage",
+    "currentVal": [
+      "View usage"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx"
+    ]
+  },
+  {
+    "id": "h4KC4F",
+    "msgid": "We couldn't confirm your payment method. Please retry.",
+    "currentVal": [
+      "We couldn't confirm your payment method. Please retry."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/AddPaymentMethodForm.tsx",
+      "src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts"
+    ]
+  },
+  {
+    "id": "TvNBSn",
+    "msgid": "We couldn't load the plans",
+    "currentVal": [
+      "We couldn't load the plans"
+    ],
+    "fileRefs": [
+      "src/modules/onboarding/components/upgrade-free-trial/ChooseYourPlanErrorState.tsx",
+      "src/modules/settings/billing/components/SettingsBillingPlansErrorState.tsx"
+    ]
+  },
+  {
+    "id": "Fui3cz",
+    "msgid": "We will activate your {planName}. Do you want to proceed?",
+    "currentVal": [
+      "We will activate your ",
+      [
+        "planName"
+      ],
+      ". Do you want to proceed?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "c7GQY2",
+    "msgid": "We will activate your ${perSeatPriceDisplay}/user/{intervalUnit} {planName}. Do you want to proceed?",
+    "currentVal": [
+      "We will activate your $",
+      [
+        "perSeatPriceDisplay"
+      ],
+      "/user/",
+      [
+        "intervalUnit"
+      ],
+      " ",
+      [
+        "planName"
+      ],
+      ". Do you want to proceed?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "4pcfmN",
+    "msgid": "We will activate your paid plan. Do you want to proceed?",
+    "currentVal": [
+      "We will activate your paid plan. Do you want to proceed?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/StartSubscriptionConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "LnnVIT",
+    "msgid": "Web Search",
+    "currentVal": [
+      "Web Search"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/SettingsAgentModelCapabilities.tsx",
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "k1illW",
+    "msgid": "Webhook Call",
+    "currentVal": [
+      "Webhook Call"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "UJqqRe",
+    "msgid": "Workflow Execution",
+    "currentVal": [
+      "Workflow Execution"
+    ],
+    "fileRefs": [
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "RDAH2t",
+    "msgid": "You have scheduled a credit pack change. Do you want to cancel it?",
+    "currentVal": [
+      "You have scheduled a credit pack change. Do you want to cancel it?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoModals.tsx"
+    ]
+  },
+  {
+    "id": "z8eKS7",
+    "msgid": "you will be charged ${enterprisePrice} per user per month",
+    "currentVal": [
+      "you will be charged $",
+      [
+        "enterprisePrice"
+      ],
+      " per user per month"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "u3S6u8",
+    "msgid": "You will be charged ${monthlyPrice} per user per month billed monthly. The change will be applied the {beautifiedRenewDate}.",
+    "currentVal": [
+      "You will be charged $",
+      [
+        "monthlyPrice"
+      ],
+      " per user per month billed monthly. The change will be applied the ",
+      [
+        "beautifiedRenewDate"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "/T5zAB",
+    "msgid": "You will be charged ${proPrice} per user per month",
+    "currentVal": [
+      "You will be charged $",
+      [
+        "proPrice"
+      ],
+      " per user per month"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "W3k5LA",
+    "msgid": "You will be charged ${yearlyPrice} per user per year billed annually. A prorata with your current subscription will be applied.",
+    "currentVal": [
+      "You will be charged $",
+      [
+        "yearlyPrice"
+      ],
+      " per user per year billed annually. A prorata with your current subscription will be applied."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "5K1++A",
+    "msgid": "You will be redirected to add your credit card. Once added, your subscription will start automatically.",
+    "currentVal": [
+      "You will be redirected to add your credit card. Once added, your subscription will start automatically."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/StartSubscriptionConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "dtOZU/",
+    "msgid": "Your billing interval will switch to monthly immediately and your trial will continue. When it ends, you will be charged ${monthlyPrice} per user per month billed monthly.",
+    "currentVal": [
+      "Your billing interval will switch to monthly immediately and your trial will continue. When it ends, you will be charged $",
+      [
+        "monthlyPrice"
+      ],
+      " per user per month billed monthly."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "R6FfrK",
+    "msgid": "Your billing interval will switch to yearly immediately and your trial will continue. When it ends, you will be charged ${yearlyPrice} per user per year billed annually.",
+    "currentVal": [
+      "Your billing interval will switch to yearly immediately and your trial will continue. When it ends, you will be charged $",
+      [
+        "yearlyPrice"
+      ],
+      " per user per year billed annually."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "u1O1GV",
+    "msgid": "Your card was saved, but the payment still needs attention.",
+    "currentVal": [
+      "Your card was saved, but the payment still needs attention."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useWaitForPaymentRecovery.tsx"
+    ]
+  },
+  {
+    "id": "8mfOAZ",
+    "msgid": "Your payment details are incomplete. Please review and retry.",
+    "currentVal": [
+      "Your payment details are incomplete. Please review and retry."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/AddPaymentMethodForm.tsx",
+      "src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts"
+    ]
+  },
+  {
+    "id": "IxG5gy",
+    "msgid": "Your plan will switch to Organization immediately and your trial will continue. When it ends, you will be charged ${enterprisePrice} per user per month{suffix}.",
+    "currentVal": [
+      "Your plan will switch to Organization immediately and your trial will continue. When it ends, you will be charged $",
+      [
+        "enterprisePrice"
+      ],
+      " per user per month",
+      [
+        "suffix"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "T2GIPK",
+    "msgid": "Your plan will switch to Pro immediately and your trial will continue. When it ends, you will be charged ${proPrice} per user per month{suffix}.",
+    "currentVal": [
+      "Your plan will switch to Pro immediately and your trial will continue. When it ends, you will be charged $",
+      [
+        "proPrice"
+      ],
+      " per user per month",
+      [
+        "suffix"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/hooks/useBillingWording.ts"
+    ]
+  },
+  {
+    "id": "BqByjB",
+    "msgid": "Your subscription is scheduled to end on {scheduledCancellationDateLabel}. You will keep access until then",
+    "currentVal": [
+      "Your subscription is scheduled to end on ",
+      [
+        "scheduledCancellationDateLabel"
+      ],
+      ". You will keep access until then"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "RhNbPE",
+    "msgid": "Your workspace will be disabled",
+    "currentVal": [
+      "Your workspace will be disabled"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingContent.tsx"
+    ]
+  }
+]

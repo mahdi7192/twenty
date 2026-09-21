@@ -1,0 +1,5067 @@
+[
+  {
+    "id": "ZBGbuw",
+    "msgid": "[empty string]",
+    "currentVal": [
+      "[empty string]"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "XHO5F1",
+    "msgid": "{0, plural, one {# job could not be deleted} other {# jobs could not be deleted}}",
+    "currentVal": [
+      [
+        "0",
+        "plural",
+        {
+          "one": [
+            "#",
+            " job could not be deleted"
+          ],
+          "other": [
+            "#",
+            " jobs could not be deleted"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/hooks/useDeleteJobs.ts"
+    ]
+  },
+  {
+    "id": "AHhuJj",
+    "msgid": "{0, plural, one {# job could not be retried} other {# jobs could not be retried}}",
+    "currentVal": [
+      [
+        "0",
+        "plural",
+        {
+          "one": [
+            "#",
+            " job could not be retried"
+          ],
+          "other": [
+            "#",
+            " jobs could not be retried"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/hooks/useRetryJobs.ts"
+    ]
+  },
+  {
+    "id": "8ob0vY",
+    "msgid": "{0, plural, one {# workspace failed or behind} other {# workspaces failed or behind}}",
+    "currentVal": [
+      [
+        "0",
+        "plural",
+        {
+          "one": [
+            "#",
+            " workspace failed or behind"
+          ],
+          "other": [
+            "#",
+            " workspaces failed or behind"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/utils/getWorkspacesUpgradeHealthText.ts"
+    ]
+  },
+  {
+    "id": "xEqptn",
+    "msgid": "{0, plural, one {credit/period} other {credits/period}}",
+    "currentVal": [
+      [
+        "0",
+        "plural",
+        {
+          "one": [
+            "credit/period"
+          ],
+          "other": [
+            "credits/period"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/utils/formatSubscriptionItemValue.ts"
+    ]
+  },
+  {
+    "id": "AkeiJW",
+    "msgid": "{0, plural, one {seat} other {seats}}",
+    "currentVal": [
+      [
+        "0",
+        "plural",
+        {
+          "one": [
+            "seat"
+          ],
+          "other": [
+            "seats"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/utils/formatSubscriptionItemValue.ts"
+    ]
+  },
+  {
+    "id": "wXviUj",
+    "msgid": "{attemptsMade, plural, one {{attemptsMade} attempt} other {{attemptsMade} attempts}}",
+    "currentVal": [
+      [
+        "attemptsMade",
+        "plural",
+        {
+          "one": [
+            [
+              "attemptsMade"
+            ],
+            " attempt"
+          ],
+          "other": [
+            [
+              "attemptsMade"
+            ],
+            " attempts"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobStateBadge.tsx"
+    ]
+  },
+  {
+    "id": "y9covz",
+    "msgid": "{behindCount, plural, one {# workspace behind} other {# workspaces behind}}",
+    "currentVal": [
+      [
+        "behindCount",
+        "plural",
+        {
+          "one": [
+            "#",
+            " workspace behind"
+          ],
+          "other": [
+            "#",
+            " workspaces behind"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/utils/getWorkspacesUpgradeHealthText.ts",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "0aO0VO",
+    "msgid": "{days, plural, one {{days} day} other {{days} days}}",
+    "currentVal": [
+      [
+        "days",
+        "plural",
+        {
+          "one": [
+            [
+              "days"
+            ],
+            " روز"
+          ],
+          "other": [
+            [
+              "days"
+            ],
+            " days"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "MIIEDl",
+    "msgid": "{deletedCount, plural, one {Successfully deleted {deletedCount} job} other {Successfully deleted {deletedCount} jobs}}",
+    "currentVal": [
+      [
+        "deletedCount",
+        "plural",
+        {
+          "one": [
+            "Successfully deleted ",
+            [
+              "deletedCount"
+            ],
+            " job"
+          ],
+          "other": [
+            "Successfully deleted ",
+            [
+              "deletedCount"
+            ],
+            " jobs"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/hooks/useDeleteJobs.ts",
+      "src/modules/settings/admin-panel/health-status/hooks/useDeleteJobs.ts"
+    ]
+  },
+  {
+    "id": "nRKZKb",
+    "msgid": "{failedCount, plural, one {# workspace failed} other {# workspaces failed}}",
+    "currentVal": [
+      [
+        "failedCount",
+        "plural",
+        {
+          "one": [
+            "#",
+            " workspace failed"
+          ],
+          "other": [
+            "#",
+            " workspaces failed"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/utils/getWorkspacesUpgradeHealthText.ts",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "pEl0a0",
+    "msgid": "{hours, plural, one {{hours} hour} other {{hours} hours}}",
+    "currentVal": [
+      [
+        "hours",
+        "plural",
+        {
+          "one": [
+            [
+              "hours"
+            ],
+            " ساعت"
+          ],
+          "other": [
+            [
+              "hours"
+            ],
+            " hours"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "j9A2IB",
+    "msgid": "{jobCount, plural, one {Delete {jobCount} Job} other {Delete {jobCount} Jobs}}",
+    "currentVal": [
+      [
+        "jobCount",
+        "plural",
+        {
+          "one": [
+            "حذف ",
+            [
+              "jobCount"
+            ],
+            " Job"
+          ],
+          "other": [
+            "حذف ",
+            [
+              "jobCount"
+            ],
+            " Jobs"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminDeleteJobsConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "48w++B",
+    "msgid": "{jobCount, plural, one {Retry {jobCount} Job} other {Retry {jobCount} Jobs}}",
+    "currentVal": [
+      [
+        "jobCount",
+        "plural",
+        {
+          "one": [
+            "تلاش مجدد ",
+            [
+              "jobCount"
+            ],
+            " Job"
+          ],
+          "other": [
+            "تلاش مجدد ",
+            [
+              "jobCount"
+            ],
+            " Jobs"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminRetryJobsConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "X78+Nn",
+    "msgid": "{jobCount, plural, one {This will permanently remove it from the queue. This action cannot be undone.} other {This will permanently remove them from the queue. This action cannot be undone.}}",
+    "currentVal": [
+      [
+        "jobCount",
+        "plural",
+        {
+          "one": [
+            "This will permanently remove it from the queue. This action cannot be undone."
+          ],
+          "other": [
+            "This will permanently remove them from the queue. This action cannot be undone."
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminDeleteJobsConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "QJYN9L",
+    "msgid": "{jobCount, plural, one {This will retry the selected job. It will be re-executed from the beginning.} other {This will retry the selected jobs. They will be re-executed from the beginning.}}",
+    "currentVal": [
+      [
+        "jobCount",
+        "plural",
+        {
+          "one": [
+            "This will retry the selected job. It will be re-executed from the beginning."
+          ],
+          "other": [
+            "This will retry the selected jobs. They will be re-executed from the beginning."
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminRetryJobsConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "5d0hY6",
+    "msgid": "{retriedCount, plural, one {Successfully retried {retriedCount} job} other {Successfully retried {retriedCount} jobs}}",
+    "currentVal": [
+      [
+        "retriedCount",
+        "plural",
+        {
+          "one": [
+            "Successfully retried ",
+            [
+              "retriedCount"
+            ],
+            " job"
+          ],
+          "other": [
+            "Successfully retried ",
+            [
+              "retriedCount"
+            ],
+            " jobs"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/hooks/useRetryJobs.ts",
+      "src/modules/settings/admin-panel/health-status/hooks/useRetryJobs.ts"
+    ]
+  },
+  {
+    "id": "kvVMdH",
+    "msgid": "{selectedCount, plural, one {Delete {selectedCount} Job} other {Delete {selectedCount} Jobs}}",
+    "currentVal": [
+      [
+        "selectedCount",
+        "plural",
+        {
+          "one": [
+            "حذف ",
+            [
+              "selectedCount"
+            ],
+            " Job"
+          ],
+          "other": [
+            "حذف ",
+            [
+              "selectedCount"
+            ],
+            " Jobs"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "1y0QK1",
+    "msgid": "{selectedCount, plural, one {Retry {selectedCount} Job} other {Retry {selectedCount} Jobs}}",
+    "currentVal": [
+      [
+        "selectedCount",
+        "plural",
+        {
+          "one": [
+            "تلاش مجدد ",
+            [
+              "selectedCount"
+            ],
+            " Job"
+          ],
+          "other": [
+            "تلاش مجدد ",
+            [
+              "selectedCount"
+            ],
+            " Jobs"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "hvL8np",
+    "msgid": "{serviceLabel} service is unreachable",
+    "currentVal": [
+      [
+        "serviceLabel"
+      ],
+      " service is unreachable"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "43TqJC",
+    "msgid": "A display name for this provider",
+    "currentVal": [
+      "A display name for this provider"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "DhgC7B",
+    "msgid": "About this user",
+    "currentVal": [
+      "About this user"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "PtK3Kn",
+    "msgid": "About this workspace",
+    "currentVal": [
+      "About this workspace"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx"
+    ]
+  },
+  {
+    "id": "pNW+Rt",
+    "msgid": "Access Key ID",
+    "currentVal": [
+      "Access Key ID"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "QHjErc",
+    "msgid": "Active Sync",
+    "currentVal": [
+      "Active Sync"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthAccountSyncCountersTable.tsx"
+    ]
+  },
+  {
+    "id": "RVp8im",
+    "msgid": "Add custom endpoints, private gateways, or additional regions.",
+    "currentVal": [
+      "Add custom endpoints, private gateways, or additional regions."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "4JviOV",
+    "msgid": "Add Custom Provider",
+    "currentVal": [
+      "Add Custom Provider"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx",
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "q5ruxx",
+    "msgid": "Add Model",
+    "currentVal": [
+      "Add Model"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "05jO4l",
+    "msgid": "Admin Panel - AI",
+    "currentVal": [
+      "Admin Panel - AI"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceChatThread.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "2GX/U+",
+    "msgid": "Admin Panel - Apps",
+    "currentVal": [
+      "Admin Panel - Apps"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDetail.tsx"
+    ]
+  },
+  {
+    "id": "JA5LSq",
+    "msgid": "Admin Panel - Config",
+    "currentVal": [
+      "Admin Panel - Config"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminConfigVariableDetails.tsx"
+    ]
+  },
+  {
+    "id": "6X68yA",
+    "msgid": "Admin Panel - General",
+    "currentVal": [
+      "Admin Panel - General"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "v/zjIb",
+    "msgid": "Admin Panel - Health",
+    "currentVal": [
+      "Admin Panel - Health"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminIndicatorHealthStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "WlItll",
+    "msgid": "After 180 days",
+    "currentVal": [
+      "After 180 days"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "I6lVwB",
+    "msgid": "After 30 days",
+    "currentVal": [
+      "After 30 days"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "yPZL9v",
+    "msgid": "After 60 days",
+    "currentVal": [
+      "After 60 days"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "E5fxqI",
+    "msgid": "After 90 days",
+    "currentVal": [
+      "After 90 days"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "5uLUiv",
+    "msgid": "After a year",
+    "currentVal": [
+      "After a year"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "qiD/6r",
+    "msgid": "AI chat threads for this workspace",
+    "currentVal": [
+      "AI chat threads for this workspace"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "E/lGXl",
+    "msgid": "AI consumption across all workspaces.",
+    "currentVal": [
+      "AI consumption across all workspaces."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "jSHIk0",
+    "msgid": "AI usage analytics across workspaces is available with an Organization key.",
+    "currentVal": [
+      "AI usage analytics across workspaces is available with an Organization key."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "jyqPfh",
+    "msgid": "AI Usage by Workspace",
+    "currentVal": [
+      "AI Usage by Workspace"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "BAiyFV",
+    "msgid": "AKIA...",
+    "currentVal": [
+      "AKIA..."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "s1C/cR",
+    "msgid": "All App Registrations",
+    "currentVal": [
+      "All App Registrations"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "REq7rb",
+    "msgid": "All application registrations across the platform, including orphaned marketplace apps ({totalCount} matching)",
+    "currentVal": [
+      "All application registrations across the platform, including orphaned marketplace apps (",
+      [
+        "totalCount"
+      ],
+      " matching)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "GNJgJf",
+    "msgid": "All failed jobs have been retried",
+    "currentVal": [
+      "All failed jobs have been retried"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/hooks/useRetryJobs.ts"
+    ]
+  },
+  {
+    "id": "BKoJRa",
+    "msgid": "All Groups",
+    "currentVal": [
+      "All Groups"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/SettingsAdminConfigVariables.tsx"
+    ]
+  },
+  {
+    "id": "MLmnB2",
+    "msgid": "All workspaces this user is a member of",
+    "currentVal": [
+      "All workspaces this user is a member of"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "fWQJW/",
+    "msgid": "Allow developers to claim ownership of applications.",
+    "currentVal": [
+      "Allow developers to claim ownership of applications."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "G1r3UJ",
+    "msgid": "Allow filtering records by values inside JSON fields.",
+    "currentVal": [
+      "Allow filtering records by values inside JSON fields."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "irI8Y5",
+    "msgid": "Allow installation",
+    "currentVal": [
+      "Allow installation"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "cLzEjc",
+    "msgid": "Allow sharing individual records with workspace members.",
+    "currentVal": [
+      "Allow sharing individual records with workspace members."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "xfQ2i8",
+    "msgid": "Allow unique indexes to prevent duplicate field values.",
+    "currentVal": [
+      "Allow unique indexes to prevent duplicate field values."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "GqCA/t",
+    "msgid": "Answered",
+    "currentVal": [
+      "Answered"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsPart.tsx"
+    ]
+  },
+  {
+    "id": "Jl+rxL",
+    "msgid": "API key configured",
+    "currentVal": [
+      "API key configured"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "eZ6HbZ",
+    "msgid": "API key is required",
+    "currentVal": [
+      "API key is required"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "FXWLlg",
+    "msgid": "API rate limits v2",
+    "currentVal": [
+      "API rate limits v2"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "gA2ZGo",
+    "msgid": "App claiming",
+    "currentVal": [
+      "App claiming"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "qKnSyT",
+    "msgid": "App deleted successfully",
+    "currentVal": [
+      "App deleted successfully"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "4H6WHS",
+    "msgid": "Asymmetric public keys used to sign and verify access tokens. Revoking a key immediately invalidates every JWT signed with it.",
+    "currentVal": [
+      "Asymmetric public keys used to sign and verify access tokens. Revoking a key immediately invalidates every JWT signed with it."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "rHeTee",
+    "msgid": "Automatically install this app on every newly created workspace",
+    "currentVal": [
+      "Automatically install this app on every newly created workspace"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "b2ghLW",
+    "msgid": "Base credits",
+    "currentVal": [
+      "Base credits"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "9JIIfQ",
+    "msgid": "Base URL",
+    "currentVal": [
+      "Base URL"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "QtMnui",
+    "msgid": "Base URL is required",
+    "currentVal": [
+      "Base URL is required"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "nJGwRf",
+    "msgid": "Billing interval",
+    "currentVal": [
+      "Billing interval"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "041SWy",
+    "msgid": "Browse AI chat threads across all workspaces ({totalCount} matching)",
+    "currentVal": [
+      "Browse AI chat threads across all workspaces (",
+      [
+        "totalCount"
+      ],
+      " matching)"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx"
+    ]
+  },
+  {
+    "id": "IXoy1p",
+    "msgid": "Browse AI chat threads across all workspaces, including onboarding chats",
+    "currentVal": [
+      "Browse AI chat threads across all workspaces, including onboarding chats"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "uvoIrk",
+    "msgid": "Built-in models from this provider. Toggle to enable or disable.",
+    "currentVal": [
+      "Built-in models from this provider. Toggle to enable or disable."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "30JOri",
+    "msgid": "Built-in providers activated by API key. Click to manage models.",
+    "currentVal": [
+      "Built-in providers activated by API key. Click to manage models."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "ZPnTAU",
+    "msgid": "Cache pricing",
+    "currentVal": [
+      "Cache pricing"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "UHhAMv",
+    "msgid": "Cache read",
+    "currentVal": [
+      "Cache read"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "cGlfU4",
+    "msgid": "Cache write",
+    "currentVal": [
+      "Cache write"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "LbIh3Y",
+    "msgid": "Calendar Sync",
+    "currentVal": [
+      "Calendar Sync"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "dC0BTo",
+    "msgid": "Canceled at",
+    "currentVal": [
+      "Canceled at"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "zbbpgB",
+    "msgid": "Cancels at",
+    "currentVal": [
+      "Cancels at"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "2CAby/",
+    "msgid": "Cancels at period end",
+    "currentVal": [
+      "Cancels at period end"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "eKz2ln",
+    "msgid": "Chat conversation",
+    "currentVal": [
+      "Chat conversation"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceChatThread.tsx"
+    ]
+  },
+  {
+    "id": "jTS+KY",
+    "msgid": "Chat Sessions",
+    "currentVal": [
+      "Chat Sessions"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "8Q+lLG",
+    "msgid": "Chats",
+    "currentVal": [
+      "Chats"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "PPf/RT",
+    "msgid": "Choose which fields are used when searching for records.",
+    "currentVal": [
+      "Choose which fields are used when searching for records."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "hom7qf",
+    "msgid": "Claim",
+    "currentVal": [
+      "Claim"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "aHPKtV",
+    "msgid": "Claim ownership",
+    "currentVal": [
+      "Claim ownership"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "wu0RfR",
+    "msgid": "Clear the field or \"X\" to revert to environment/default value.",
+    "currentVal": [
+      "Clear the field or \"X\" to revert to environment/default value."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "b8wwse",
+    "msgid": "Click on the checkmark to apply your changes.",
+    "currentVal": [
+      "Click on the checkmark to apply your changes."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "H86f9p",
+    "msgid": "Collapse",
+    "currentVal": [
+      "Collapse"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "amPBVF",
+    "msgid": "Compensation",
+    "currentVal": [
+      "Compensation"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/CreditGrantTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "6y7/Rf",
+    "msgid": "Completed jobs kept for {completedDuration}, failed jobs kept for {failedDuration} (max {maxCount} each)",
+    "currentVal": [
+      "Completed jobs kept for ",
+      [
+        "completedDuration"
+      ],
+      ", failed jobs kept for ",
+      [
+        "failedDuration"
+      ],
+      " (max ",
+      [
+        "maxCount"
+      ],
+      " each)"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "BglnOD",
+    "msgid": "Computed at",
+    "currentVal": [
+      "Computed at"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkspacesStatusSummaryCard.tsx"
+    ]
+  },
+  {
+    "id": "Vj43Y/",
+    "msgid": "Config Variables",
+    "currentVal": [
+      "Config Variables"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/SettingsAdminConfigVariables.tsx"
+    ]
+  },
+  {
+    "id": "8/+vjg",
+    "msgid": "Configurable search fields",
+    "currentVal": [
+      "Configurable search fields"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "iAL9tI",
+    "msgid": "Configure",
+    "currentVal": [
+      "Configure"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationGeneralTab.tsx"
+    ]
+  },
+  {
+    "id": "M1co/O",
+    "msgid": "Configured",
+    "currentVal": [
+      "Configured"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "LXIm4m",
+    "msgid": "Context window",
+    "currentVal": [
+      "Context window"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/internal/AiChatContextUsageButton.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "uKvqU1",
+    "msgid": "Context window must be a positive integer",
+    "currentVal": [
+      "Context window must be a positive integer"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "4jdeR0",
+    "msgid": "Copy key ID",
+    "currentVal": [
+      "Copy key ID"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "3X5ngu",
+    "msgid": "Cost per million tokens (USD)",
+    "currentVal": [
+      "Cost per million tokens (USD)"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "t+sNce",
+    "msgid": "Cost per million tokens for cached input (USD)",
+    "currentVal": [
+      "Cost per million tokens for cached input (USD)"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "t3sqJR",
+    "msgid": "Created on {0}",
+    "currentVal": [
+      "Created on ",
+      [
+        "0"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "HAzhV7",
+    "msgid": "Credentials",
+    "currentVal": [
+      "Credentials"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "NGOYJs",
+    "msgid": "Credit allowance quotas",
+    "currentVal": [
+      "Credit allowance quotas"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "3hkXRB",
+    "msgid": "Credit balance",
+    "currentVal": [
+      "Credit balance"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "Woqoyp",
+    "msgid": "Credit consumption for the current period",
+    "currentVal": [
+      "Credit consumption for the current period"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "zH6NZT",
+    "msgid": "Credit grant revoked.",
+    "currentVal": [
+      "Credit grant revoked."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "UQ4Hjl",
+    "msgid": "credits",
+    "currentVal": [
+      "credits"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx",
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx"
+    ]
+  },
+  {
+    "id": "x4qjZw",
+    "msgid": "Credits are added on top of the plan allowance and are spent only once it runs out. They carry over in full from one billing period to the next, and stay available until they are used up or, where an expiry is set, until the end of the billing period that expiry falls in.",
+    "currentVal": [
+      "Credits are added on top of the plan allowance and are spent only once it runs out. They carry over in full from one billing period to the next, and stay available until they are used up or, where an expiry is set, until the end of the billing period that expiry falls in."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx"
+    ]
+  },
+  {
+    "id": "nbyiz/",
+    "msgid": "Credits handed out on top of the plan allowance. They stay spendable until used up.",
+    "currentVal": [
+      "Credits handed out on top of the plan allowance. They stay spendable until used up."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "yLljbQ",
+    "msgid": "Credits used",
+    "currentVal": [
+      "Credits used"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "Hp1l6f",
+    "msgid": "Current",
+    "currentVal": [
+      "Current"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx",
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx",
+      "src/modules/settings/billing/components/internal/SubscriptionInfoRowContainer.tsx",
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts"
+    ]
+  },
+  {
+    "id": "nSK0mT",
+    "msgid": "Current period",
+    "currentVal": [
+      "Current period"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "C6vAhD",
+    "msgid": "Current subscription state and line items",
+    "currentVal": [
+      "Current subscription state and line items"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "6YzXhC",
+    "msgid": "Current value from server environment. Set a custom value to override.",
+    "currentVal": [
+      "Current value from server environment. Set a custom value to override."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "Hd06oy",
+    "msgid": "Current version",
+    "currentVal": [
+      "Current version"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminVersionContainer.tsx"
+    ]
+  },
+  {
+    "id": "87ZNeX",
+    "msgid": "Custom model ID",
+    "currentVal": [
+      "Custom model ID"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "sakSHW",
+    "msgid": "Custom provider",
+    "currentVal": [
+      "Custom provider"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "Gh6L3r",
+    "msgid": "Custom Providers",
+    "currentVal": [
+      "Custom Providers"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "79QPp0",
+    "msgid": "Custom providers are complimentary for organizations of up to {0} seats. Above that, an Organization plan is required.",
+    "currentVal": [
+      "Custom providers are complimentary for organizations of up to ",
+      [
+        "0"
+      ],
+      " seats. Above that, an Organization plan is required."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/hooks/useCustomAiProviderAccess.ts"
+    ]
+  },
+  {
+    "id": "dDp+uz",
+    "msgid": "Custom providers are complimentary for organizations of up to {0} seats. This instance has {1} seats, so an Organization plan is required.",
+    "currentVal": [
+      "Custom providers are complimentary for organizations of up to ",
+      [
+        "0"
+      ],
+      " seats. This instance has ",
+      [
+        "1"
+      ],
+      " seats, so an Organization plan is required."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/hooks/useCustomAiProviderAccess.ts"
+    ]
+  },
+  {
+    "id": "FjmF6O",
+    "msgid": "Custom providers are complimentary up to {0} seats. This instance has {1}. Upgrade to add more.",
+    "currentVal": [
+      "Custom providers are complimentary up to ",
+      [
+        "0"
+      ],
+      " seats. This instance has ",
+      [
+        "1"
+      ],
+      ". Upgrade to add more."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/hooks/useCustomAiProviderAccess.ts"
+    ]
+  },
+  {
+    "id": "RzkN1M",
+    "msgid": "Data Residency",
+    "currentVal": [
+      "Data Residency"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "GEMJqo",
+    "msgid": "Database configuration is currently disabled.",
+    "currentVal": [
+      "Database configuration is currently disabled."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "Zrez13",
+    "msgid": "Default Models",
+    "currentVal": [
+      "Default Models"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "pZXwuH",
+    "msgid": "Delayed",
+    "currentVal": [
+      "Delayed"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "JXU6Ex",
+    "msgid": "Delete app",
+    "currentVal": [
+      "Delete app"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "x9/fRy",
+    "msgid": "Delete or transfer this app registration",
+    "currentVal": [
+      "Delete or transfer this app registration"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "crxufE",
+    "msgid": "Detail per workspace",
+    "currentVal": [
+      "Detail per workspace"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "8n9Unw",
+    "msgid": "Direct REST metadata responses",
+    "currentVal": [
+      "Direct REST metadata responses"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "XDeNvP",
+    "msgid": "Disable impersonation",
+    "currentVal": [
+      "Disable impersonation"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "7sBzvW",
+    "msgid": "Display name for the model",
+    "currentVal": [
+      "Display name for the model"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "ljWYXA",
+    "msgid": "Display this app in the NPM packages list",
+    "currentVal": [
+      "Display this app in the NPM packages list"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "vU/Hht",
+    "msgid": "Distribution",
+    "currentVal": [
+      "Distribution"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDetail.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstallStats.tsx",
+      "src/pages/settings/applications/SettingsApplicationRegistrationDetails.tsx"
+    ]
+  },
+  {
+    "id": "8zfXiN",
+    "msgid": "e.g. 1.25",
+    "currentVal": [
+      "e.g. 1.25"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "il+blF",
+    "msgid": "e.g. 10.00",
+    "currentVal": [
+      "e.g. 10.00"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "6bwSBJ",
+    "msgid": "e.g. 16384",
+    "currentVal": [
+      "e.g. 16384"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "8u2elr",
+    "msgid": "e.g. 2.50",
+    "currentVal": [
+      "e.g. 2.50"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "7F0zgN",
+    "msgid": "e.g. 3.75",
+    "currentVal": [
+      "e.g. 3.75"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "u+aOKb",
+    "msgid": "e.g. gpt-4o",
+    "currentVal": [
+      "e.g. gpt-4o"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "c+GbbT",
+    "msgid": "e.g. GPT-4o",
+    "currentVal": [
+      "e.g. GPT-4o"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "Xh9FA2",
+    "msgid": "e.g. My OpenAI Proxy",
+    "currentVal": [
+      "e.g. My OpenAI Proxy"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "88vQqv",
+    "msgid": "e.g. my-workspace",
+    "currentVal": [
+      "e.g. my-workspace"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "XnR4kd",
+    "msgid": "e.g. OpenAI EU",
+    "currentVal": [
+      "e.g. OpenAI EU"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "snb/bC",
+    "msgid": "Email campaigns",
+    "currentVal": [
+      "Email campaigns"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "OMbipf",
+    "msgid": "Empty Array",
+    "currentVal": [
+      "Empty Array"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "3hSGoJ",
+    "msgid": "Empty Object",
+    "currentVal": [
+      "Empty Object"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "vs9cre",
+    "msgid": "Enable email campaigns, lists, and unsubscribe management.",
+    "currentVal": [
+      "Enable email campaigns, lists, and unsubscribe management."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "Tt0V8j",
+    "msgid": "Enable impersonation",
+    "currentVal": [
+      "Enable impersonation"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "IrI9pg",
+    "msgid": "End date",
+    "currentVal": [
+      "End date"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/event-logs/components/EventLogFilters.tsx"
+    ]
+  },
+  {
+    "id": "Fqu/aC",
+    "msgid": "End date must be after start date.",
+    "currentVal": [
+      "End date must be after start date."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "peBb6B",
+    "msgid": "Enter a new secret value",
+    "currentVal": [
+      "Enter a new secret value"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableValueInput.tsx"
+    ]
+  },
+  {
+    "id": "oiVP/+",
+    "msgid": "Enter a value to store in database",
+    "currentVal": [
+      "Enter a value to store in database"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableValueInput.tsx"
+    ]
+  },
+  {
+    "id": "lcPZCR",
+    "msgid": "Enter both keys, or neither to use the instance IAM role",
+    "currentVal": [
+      "Enter both keys, or neither to use the instance IAM role"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "9CjMQ7",
+    "msgid": "Enter JSON array",
+    "currentVal": [
+      "Enter JSON array"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableDatabaseInput.tsx"
+    ]
+  },
+  {
+    "id": "tEWpbi",
+    "msgid": "Enter the workspace subdomain to transfer this app to. You will lose access to manage it.",
+    "currentVal": [
+      "Enter the workspace subdomain to transfer this app to. You will lose access to manage it."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "pubQie",
+    "msgid": "Enter value",
+    "currentVal": [
+      "Enter value"
+    ],
+    "fileRefs": [
+      "src/modules/object-core/workflows/components/CoreWorkflowFilterValueInput.tsx",
+      "src/modules/object-record/advanced-filter/components/AdvancedFilterDropdownTextInput.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/ArrayFieldInput.tsx",
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableDatabaseInput.tsx",
+      "src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterValueInput.tsx",
+      "src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterValueInput.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/code-action/components/WorkflowEditActionCodeFieldLeaf.tsx"
+    ]
+  },
+  {
+    "id": "GDMzJS",
+    "msgid": "Enter your two-factor authentication code to confirm.",
+    "currentVal": [
+      "Enter your two-factor authentication code to confirm."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "gmjkzq",
+    "msgid": "Error deleting app",
+    "currentVal": [
+      "Error deleting app"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "bnJA0G",
+    "msgid": "Error Message",
+    "currentVal": [
+      "Error Message"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx"
+    ]
+  },
+  {
+    "id": "1A3EXy",
+    "msgid": "Expand",
+    "currentVal": [
+      "Expand"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "tKcbYd",
+    "msgid": "Failed Jobs",
+    "currentVal": [
+      "Failed Jobs"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthAccountSyncCountersTable.tsx"
+    ]
+  },
+  {
+    "id": "ZWX/Lk",
+    "msgid": "Failed to add model",
+    "currentVal": [
+      "Failed to add model"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "gU+vGA",
+    "msgid": "Failed to add provider",
+    "currentVal": [
+      "Failed to add provider"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "E2CkaQ",
+    "msgid": "Failed to claim ownership.",
+    "currentVal": [
+      "Failed to claim ownership."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "pUligB",
+    "msgid": "Failed to delete jobs. Please try again later.",
+    "currentVal": [
+      "Failed to delete jobs. Please try again later."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/hooks/useDeleteJobs.ts"
+    ]
+  },
+  {
+    "id": "UYDPfv",
+    "msgid": "Failed to load chats. Please try again.",
+    "currentVal": [
+      "Failed to load chats. Please try again."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsContent.tsx"
+    ]
+  },
+  {
+    "id": "HYRl4P",
+    "msgid": "Failed to load more chats.",
+    "currentVal": [
+      "Failed to load more chats."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/hooks/useAdminChatThreads.ts"
+    ]
+  },
+  {
+    "id": "VxZSi+",
+    "msgid": "Failed to load server administrators.",
+    "currentVal": [
+      "Failed to load server administrators."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdmins.tsx"
+    ]
+  },
+  {
+    "id": "3m7+J/",
+    "msgid": "Failed to refresh upgrade status",
+    "currentVal": [
+      "Failed to refresh upgrade status"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "3YA1cX",
+    "msgid": "Failed to remove model",
+    "currentVal": [
+      "Failed to remove model"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "B6yaak",
+    "msgid": "Failed to remove provider",
+    "currentVal": [
+      "Failed to remove provider"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "SJEIIJ",
+    "msgid": "Failed to retry jobs. Please try again later.",
+    "currentVal": [
+      "Failed to retry jobs. Please try again later."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/hooks/useRetryJobs.ts"
+    ]
+  },
+  {
+    "id": "70UyPr",
+    "msgid": "Failed to revoke signing key. Please try again later.",
+    "currentVal": [
+      "Failed to revoke signing key. Please try again later."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/hooks/useRevokeSigningKey.ts"
+    ]
+  },
+  {
+    "id": "aj02T8",
+    "msgid": "Failed to set maintenance mode.",
+    "currentVal": [
+      "Failed to set maintenance mode."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "OX7bKt",
+    "msgid": "Failed to synchronize the marketplace catalog.",
+    "currentVal": [
+      "Failed to synchronize the marketplace catalog."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "LVcnN8",
+    "msgid": "Failed to transfer ownership. Check that the subdomain is correct.",
+    "currentVal": [
+      "Failed to transfer ownership. Check that the subdomain is correct."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "2D6TRg",
+    "msgid": "Failed to update default model",
+    "currentVal": [
+      "Failed to update default model"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "W7Ff/4",
+    "msgid": "Failed to update model availability",
+    "currentVal": [
+      "Failed to update model availability"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "ahCOdw",
+    "msgid": "Failed to update server administrator access.",
+    "currentVal": [
+      "Failed to update server administrator access."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "K0joU5",
+    "msgid": "Failure Rate",
+    "currentVal": [
+      "Failure Rate"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthAccountSyncCountersTable.tsx"
+    ]
+  },
+  {
+    "id": "+ZqAYI",
+    "msgid": "Feature Flags",
+    "currentVal": [
+      "Feature Flags"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "Xgkhyj",
+    "msgid": "Flags",
+    "currentVal": [
+      "Flags"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTable.tsx"
+    ]
+  },
+  {
+    "id": "aerYcp",
+    "msgid": "full admin panel access",
+    "currentVal": [
+      "full admin panel access"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "CU/Sq6",
+    "msgid": "full server access",
+    "currentVal": [
+      "full server access"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "nE5VAt",
+    "msgid": "Grant",
+    "currentVal": [
+      "Grant"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx"
+    ]
+  },
+  {
+    "id": "P1Rw/Z",
+    "msgid": "Grant access",
+    "currentVal": [
+      "Grant access"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "3xMv4O",
+    "msgid": "Grant admin panel access",
+    "currentVal": [
+      "Grant admin panel access"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "5O8DG6",
+    "msgid": "Grant credits",
+    "currentVal": [
+      "Grant credits"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "FdPN4f",
+    "msgid": "Grant full access",
+    "currentVal": [
+      "Grant full access"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "E0rSFg",
+    "msgid": "Granted",
+    "currentVal": [
+      "Granted"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "Tbxf45",
+    "msgid": "Granted {parsedAmount} credits to this workspace.",
+    "currentVal": [
+      "Granted ",
+      [
+        "parsedAmount"
+      ],
+      " credits to this workspace."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx"
+    ]
+  },
+  {
+    "id": "fqtGOd",
+    "msgid": "Granted credits",
+    "currentVal": [
+      "Granted credits"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "L8fEEm",
+    "msgid": "Group",
+    "currentVal": [
+      "Group"
+    ],
+    "fileRefs": [
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownCustomView.tsx",
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownLayoutContent.tsx",
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownRecordGroupsContent.tsx",
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "fQoUMw",
+    "msgid": "Has error",
+    "currentVal": [
+      "Has error"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "HyaXse",
+    "msgid": "Health of the latest instance command",
+    "currentVal": [
+      "Health of the latest instance command"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "I1IOmb",
+    "msgid": "Health Status",
+    "currentVal": [
+      "Health Status"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "wgmt7A",
+    "msgid": "Hide hidden groups",
+    "currentVal": [
+      "Hide hidden groups"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "k7iMla",
+    "msgid": "How your system is doing",
+    "currentVal": [
+      "How your system is doing"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "xsawDG",
+    "msgid": "https://api.example.com/v1",
+    "currentVal": [
+      "https://api.example.com/v1"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "VNC0Db",
+    "msgid": "IAM credentials",
+    "currentVal": [
+      "IAM credentials"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "bacFcZ",
+    "msgid": "IAM credentials configured",
+    "currentVal": [
+      "IAM credentials configured"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "LlQirF",
+    "msgid": "IAM role",
+    "currentVal": [
+      "IAM role"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "VjDLrJ",
+    "msgid": "IAM role (instance profile)",
+    "currentVal": [
+      "IAM role (instance profile)"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "S0kLOH",
+    "msgid": "ID",
+    "currentVal": [
+      "ID"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "bTDz/2",
+    "msgid": "If there's no link, no button will appear.",
+    "currentVal": [
+      "If there's no link, no button will appear."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "hG89Ed",
+    "msgid": "Image",
+    "currentVal": [
+      "Image"
+    ],
+    "fileRefs": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx",
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "1ZMDWV",
+    "msgid": "impersonation",
+    "currentVal": [
+      "impersonation"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "yImXof",
+    "msgid": "Impersonation is disabled for this workspace",
+    "currentVal": [
+      "Impersonation is disabled for this workspace"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "hG711D",
+    "msgid": "Inferred version",
+    "currentVal": [
+      "Inferred version"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminUpgradeStatusListCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx"
+    ]
+  },
+  {
+    "id": "XU5AOg",
+    "msgid": "Input",
+    "currentVal": [
+      "Input"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx",
+      "src/modules/side-panel/pages/workflow/step/view-run/components/SidePanelWorkflowRunViewStepContent.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/logic-function-action/components/WorkflowEditActionLogicFunction.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx",
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "Xry+oU",
+    "msgid": "Installation",
+    "currentVal": [
+      "Installation"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "x8uKc7",
+    "msgid": "Instance status",
+    "currentVal": [
+      "Instance status"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminUpgradeStatusListCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "FVzmEZ",
+    "msgid": "Job Actions",
+    "currentVal": [
+      "Job Actions"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "TH7loN",
+    "msgid": "Job Data",
+    "currentVal": [
+      "Job Data"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx"
+    ]
+  },
+  {
+    "id": "ruJO57",
+    "msgid": "Job Name",
+    "currentVal": [
+      "Job Name"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "Tof7pX",
+    "msgid": "Jobs",
+    "currentVal": [
+      "Jobs"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "klrZv0",
+    "msgid": "JSON filters",
+    "currentVal": [
+      "JSON filters"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "wCSQOc",
+    "msgid": "Key ID",
+    "currentVal": [
+      "Key ID"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "Gtjqi6",
+    "msgid": "Key ID copied",
+    "currentVal": [
+      "Key ID copied"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "DJokAV",
+    "msgid": "Kickoff prompt",
+    "currentVal": [
+      "Kickoff prompt"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatMessage.tsx"
+    ]
+  },
+  {
+    "id": "w8Rv8T",
+    "msgid": "Label is required",
+    "currentVal": [
+      "Label is required"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "DU27lO",
+    "msgid": "Last 1 hour",
+    "currentVal": [
+      "Last 1 hour"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/constants/WorkerQueueMetricsSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "YoKFgq",
+    "msgid": "Last 10 users created. Click to impersonate.",
+    "currentVal": [
+      "Last 10 users created. Click to impersonate."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "XUlP/Y",
+    "msgid": "Last 12 hours",
+    "currentVal": [
+      "Last 12 hours"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/constants/WorkerQueueMetricsSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "n7EOpf",
+    "msgid": "Last 12 Hours (oldest → newest)",
+    "currentVal": [
+      "Last 12 Hours (oldest → newest)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "j5nqnO",
+    "msgid": "Last 24 Hours (oldest → newest)",
+    "currentVal": [
+      "Last 24 Hours (oldest → newest)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "gdAJ4I",
+    "msgid": "Last 4 hours",
+    "currentVal": [
+      "Last 4 hours"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/constants/WorkerQueueMetricsSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "MjAVB0",
+    "msgid": "Last 4 Hours (oldest → newest)",
+    "currentVal": [
+      "Last 4 Hours (oldest → newest)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "GQgBSj",
+    "msgid": "Last 7 Days (oldest → newest)",
+    "currentVal": [
+      "Last 7 Days (oldest → newest)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "IpCCj8",
+    "msgid": "Last command",
+    "currentVal": [
+      "Last command"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "cdB4EG",
+    "msgid": "Last command result",
+    "currentVal": [
+      "Last command result"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "wW6NCp",
+    "msgid": "Last error",
+    "currentVal": [
+      "Last error"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "zUzYWu",
+    "msgid": "Latest version",
+    "currentVal": [
+      "Latest version"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminVersionContainer.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx"
+    ]
+  },
+  {
+    "id": "Sn1jT8",
+    "msgid": "Legacy",
+    "currentVal": [
+      "Legacy"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "KZ7vMS",
+    "msgid": "Legacy HS256 verifications across all tokens",
+    "currentVal": [
+      "Legacy HS256 verifications across all tokens"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "OuYGr9",
+    "msgid": "Limit the rate of outgoing webhook deliveries.",
+    "currentVal": [
+      "Limit the rate of outgoing webhook deliveries."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "6BDqha",
+    "msgid": "Limits",
+    "currentVal": [
+      "Limits"
+    ],
+    "fileRefs": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsContent.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx",
+      "src/modules/settings/billing/components/SettingsBillingTabBar.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/billing/SettingsBillingNewLimit.tsx"
+    ]
+  },
+  {
+    "id": "yzF66j",
+    "msgid": "Link",
+    "currentVal": [
+      "Link"
+    ],
+    "fileRefs": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemMainMenu.tsx",
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx",
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts",
+      "src/modules/side-panel/components/SidePanelLinkInfo.tsx"
+    ]
+  },
+  {
+    "id": "Ap948/",
+    "msgid": "Listed",
+    "currentVal": [
+      "Listed"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "58V8TX",
+    "msgid": "Loading apps...",
+    "currentVal": [
+      "Loading apps..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "UDL15Z",
+    "msgid": "Loading chats...",
+    "currentVal": [
+      "Loading chats..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsContent.tsx"
+    ]
+  },
+  {
+    "id": "IFQsdb",
+    "msgid": "Loading jobs...",
+    "currentVal": [
+      "Loading jobs..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "s1MstR",
+    "msgid": "Loading metrics data...",
+    "currentVal": [
+      "Loading metrics data..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "nDnbEe",
+    "msgid": "Loading retention configuration...",
+    "currentVal": [
+      "Loading retention configuration..."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "6Dd2PM",
+    "msgid": "Maintenance",
+    "currentVal": [
+      "Maintenance"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "/hmUGb",
+    "msgid": "Maintenance mode",
+    "currentVal": [
+      "Maintenance mode"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "Dt05oz",
+    "msgid": "Manage feature flags for this workspace",
+    "currentVal": [
+      "Manage feature flags for this workspace"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "WJEtVC",
+    "msgid": "Manage the marketplace application catalog",
+    "currentVal": [
+      "Manage the marketplace application catalog"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "fI1Tll",
+    "msgid": "Mark this app as reviewed and approved",
+    "currentVal": [
+      "Mark this app as reviewed and approved"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "qPiqVD",
+    "msgid": "Marketplace catalog synchronization started.",
+    "currentVal": [
+      "Marketplace catalog synchronization started."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "S8w4XA",
+    "msgid": "Max output",
+    "currentVal": [
+      "Max output"
+    ],
+    "fileRefs": [
+      "src/modules/settings/ai/components/SettingsAiModelHoverCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "D0Z4Jd",
+    "msgid": "Max output must be a positive integer",
+    "currentVal": [
+      "Max output must be a positive integer"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "jBzu2R",
+    "msgid": "Message and calendar target reads",
+    "currentVal": [
+      "Message and calendar target reads"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "elpx6r",
+    "msgid": "Message Sync",
+    "currentVal": [
+      "Message Sync"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "i2zgN4",
+    "msgid": "Message Sync and Calendar Sync are not available because the service is down",
+    "currentVal": [
+      "Message Sync and Calendar Sync are not available because the service is down"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "VRi9O8",
+    "msgid": "Message Sync is not available because the service is down",
+    "currentVal": [
+      "Message Sync is not available because the service is down"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "t7TeQU",
+    "msgid": "Messages",
+    "currentVal": [
+      "Messages"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "bC/dq9",
+    "msgid": "Model \"{0}\" added",
+    "currentVal": [
+      "Model \"",
+      [
+        "0"
+      ],
+      "\" added"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "dpLl7b",
+    "msgid": "Model \"{0}\" removed",
+    "currentVal": [
+      "Model \"",
+      [
+        "0"
+      ],
+      "\" removed"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "IzB3v0",
+    "msgid": "Model ID",
+    "currentVal": [
+      "Model ID"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "9I618z",
+    "msgid": "Model ID is required",
+    "currentVal": [
+      "Model ID is required"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "tNFUgB",
+    "msgid": "Models for this provider. Toggle to enable or disable.",
+    "currentVal": [
+      "Models for this provider. Toggle to enable or disable."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "8g3Cgz",
+    "msgid": "Monitor the execution of your calendar events sync job",
+    "currentVal": [
+      "Monitor the execution of your calendar events sync job"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "IL/nIb",
+    "msgid": "Monitor the execution of your emails sync job",
+    "currentVal": [
+      "Monitor the execution of your emails sync job"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "XXzjfC",
+    "msgid": "Msgs",
+    "currentVal": [
+      "Msgs"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTable.tsx"
+    ]
+  },
+  {
+    "id": "cT1jbf",
+    "msgid": "Multiple answers",
+    "currentVal": [
+      "Multiple answers"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsQuestion.tsx"
+    ]
+  },
+  {
+    "id": "fj5byd",
+    "msgid": "N/A",
+    "currentVal": [
+      "N/A"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkspacesStatusSummaryCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "qqeAJM",
+    "msgid": "Never",
+    "currentVal": [
+      "Never"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts",
+      "src/modules/settings/developers/utils/formatExpiration.ts"
+    ]
+  },
+  {
+    "id": "JJFwWE",
+    "msgid": "New AI Provider",
+    "currentVal": [
+      "New AI Provider"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "ROxeMs",
+    "msgid": "New Model",
+    "currentVal": [
+      "New Model"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "oPoLg+",
+    "msgid": "No access",
+    "currentVal": [
+      "No access"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "glQp+P",
+    "msgid": "No active subscription.",
+    "currentVal": [
+      "No active subscription."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "42kV9p",
+    "msgid": "No AI usage data recorded yet.",
+    "currentVal": [
+      "No AI usage data recorded yet."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "pfRh+M",
+    "msgid": "No apps found",
+    "currentVal": [
+      "No apps found"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "8whThc",
+    "msgid": "No billing data is available for this workspace.",
+    "currentVal": [
+      "No billing data is available for this workspace."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "NjIy4U",
+    "msgid": "No chat threads found.",
+    "currentVal": [
+      "No chat threads found."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "nU13WY",
+    "msgid": "No chats found",
+    "currentVal": [
+      "No chats found"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsContent.tsx"
+    ]
+  },
+  {
+    "id": "YFLMyY",
+    "msgid": "No config variables match your current filters. Try adjusting your filters or search criteria.",
+    "currentVal": [
+      "No config variables match your current filters. Try adjusting your filters or search criteria."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/SettingsAdminConfigVariables.tsx"
+    ]
+  },
+  {
+    "id": "afg3OQ",
+    "msgid": "No credentials",
+    "currentVal": [
+      "No credentials"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "gIrKyO",
+    "msgid": "No input",
+    "currentVal": [
+      "No input"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "lj3GoP",
+    "msgid": "No jobs found",
+    "currentVal": [
+      "No jobs found"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "PtRwQi",
+    "msgid": "No jobs were deleted{errorDetails}",
+    "currentVal": [
+      "No jobs were deleted",
+      [
+        "errorDetails"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/hooks/useDeleteJobs.ts"
+    ]
+  },
+  {
+    "id": "ULhEV8",
+    "msgid": "No jobs were retried{errorDetails}",
+    "currentVal": [
+      "No jobs were retried",
+      [
+        "errorDetails"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/hooks/useRetryJobs.ts"
+    ]
+  },
+  {
+    "id": "OcMef3",
+    "msgid": "No latest version found",
+    "currentVal": [
+      "No latest version found"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminVersionContainer.tsx"
+    ]
+  },
+  {
+    "id": "IohPnt",
+    "msgid": "No messages found.",
+    "currentVal": [
+      "No messages found."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatThreadMessageList.tsx"
+    ]
+  },
+  {
+    "id": "XRc1G9",
+    "msgid": "No output",
+    "currentVal": [
+      "No output"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/TerminalOutput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx"
+    ]
+  },
+  {
+    "id": "JkPTT8",
+    "msgid": "No server administrators found.",
+    "currentVal": [
+      "No server administrators found."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdmins.tsx"
+    ]
+  },
+  {
+    "id": "YrBAQE",
+    "msgid": "No usage data is available for this workspace.",
+    "currentVal": [
+      "No usage data is available for this workspace."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "ywC9IM",
+    "msgid": "No user reply",
+    "currentVal": [
+      "No user reply"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "EsP4NW",
+    "msgid": "No users found matching your search criteria.",
+    "currentVal": [
+      "No users found matching your search criteria."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "A5XQ/A",
+    "msgid": "No variables found",
+    "currentVal": [
+      "No variables found"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/SettingsAdminConfigVariables.tsx"
+    ]
+  },
+  {
+    "id": "Q4dFjT",
+    "msgid": "No workspace behind",
+    "currentVal": [
+      "No workspace behind"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "apOMfI",
+    "msgid": "No workspace failed",
+    "currentVal": [
+      "No workspace failed"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "TiRphK",
+    "msgid": "No workspaces found matching your search criteria.",
+    "currentVal": [
+      "No workspaces found matching your search criteria."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "SDND4q",
+    "msgid": "Not configured",
+    "currentVal": [
+      "Not configured"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "i/2ImT",
+    "msgid": "Not listed",
+    "currentVal": [
+      "Not listed"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "b/j06W",
+    "msgid": "OAuth",
+    "currentVal": [
+      "OAuth"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDetail.tsx",
+      "src/pages/settings/applications/SettingsApplicationRegistrationDetails.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "gukxZ5",
+    "msgid": "Onboarding",
+    "currentVal": [
+      "Onboarding"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTableRow.tsx"
+    ]
+  },
+  {
+    "id": "uahNQ+",
+    "msgid": "Onboarding only",
+    "currentVal": [
+      "Onboarding only"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "wxvgdv",
+    "msgid": "Onboarding reward",
+    "currentVal": [
+      "Onboarding reward"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/CreditGrantTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "8m1COB",
+    "msgid": "Operational",
+    "currentVal": [
+      "Operational"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatusRightContainer.tsx"
+    ]
+  },
+  {
+    "id": "gUeG+X",
+    "msgid": "Optional — uses IAM role if empty",
+    "currentVal": [
+      "Optional — uses IAM role if empty"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "yL8XdR",
+    "msgid": "Outage",
+    "currentVal": [
+      "Outage"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatusRightContainer.tsx"
+    ]
+  },
+  {
+    "id": "gh06VD",
+    "msgid": "Output",
+    "currentVal": [
+      "Output"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/CodeExecutionDisplay.tsx",
+      "src/modules/ai/components/TerminalOutput.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/logic-functions/components/LogicFunctionExecutionResult.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/side-panel/pages/workflow/step/view-run/components/SidePanelWorkflowRunViewStepContent.tsx",
+      "src/modules/workflow/components/WorkflowStepExecutionResult.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "LtI9AS",
+    "msgid": "Owner",
+    "currentVal": [
+      "Owner"
+    ],
+    "fileRefs": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelEditOwnerSection.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationClaims.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx",
+      "src/pages/settings/applications/SettingsApplicationRegistrationDetails.tsx"
+    ]
+  },
+  {
+    "id": "oDAEQq",
+    "msgid": "Ownership",
+    "currentVal": [
+      "Ownership"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationClaims.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx"
+    ]
+  },
+  {
+    "id": "9J0yW0",
+    "msgid": "Ownership claimed successfully",
+    "currentVal": [
+      "Ownership claimed successfully"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "RWJnRQ",
+    "msgid": "Ownership transferred successfully",
+    "currentVal": [
+      "Ownership transferred successfully"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "6WdDG7",
+    "msgid": "Page",
+    "currentVal": [
+      "Page"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "CcK+Ft",
+    "msgid": "PDF",
+    "currentVal": [
+      "PDF"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "GdgCoi",
+    "msgid": "Plan",
+    "currentVal": [
+      "Plan"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "QLv09h",
+    "msgid": "Planned for {formattedStartDate}",
+    "currentVal": [
+      "Planned for ",
+      [
+        "formattedStartDate"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx",
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "osUElx",
+    "msgid": "Please type \"{confirmationValue}\" to confirm you want to delete this app. All workspace installations linked to it will lose their OAuth credentials.",
+    "currentVal": [
+      "Please type \"",
+      [
+        "confirmationValue"
+      ],
+      "\" to confirm you want to delete this app. All workspace installations linked to it will lose their OAuth credentials."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "iVFTRM",
+    "msgid": "Pre-install on new workspaces",
+    "currentVal": [
+      "Pre-install on new workspaces"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "q+Xhwx",
+    "msgid": "Pre-installed only",
+    "currentVal": [
+      "Pre-installed only"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "HslPhm",
+    "msgid": "Prebuilt logic functions",
+    "currentVal": [
+      "Prebuilt logic functions"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "aHCEmh",
+    "msgid": "Pricing",
+    "currentVal": [
+      "Pricing"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "rW8PxS",
+    "msgid": "Prioritized",
+    "currentVal": [
+      "Prioritized"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "aemBRq",
+    "msgid": "Provider",
+    "currentVal": [
+      "Provider"
+    ],
+    "fileRefs": [
+      "src/modules/settings/ai/components/SettingsAiModelHoverCard.tsx",
+      "src/modules/settings/ai/components/SettingsAiModelsTable.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx",
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "d7tyJ/",
+    "msgid": "Provider \"{0}\" added",
+    "currentVal": [
+      "Provider \"",
+      [
+        "0"
+      ],
+      "\" added"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "Bkg47g",
+    "msgid": "Provider \"{0}\" removed",
+    "currentVal": [
+      "Provider \"",
+      [
+        "0"
+      ],
+      "\" removed"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "jerYcl",
+    "msgid": "Providers",
+    "currentVal": [
+      "Providers"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "enzGAL",
+    "msgid": "Questions",
+    "currentVal": [
+      "Questions"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsPart.tsx"
+    ]
+  },
+  {
+    "id": "e9OqcR",
+    "msgid": "Queue performance",
+    "currentVal": [
+      "Queue performance"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerQueueMetricsSection.tsx"
+    ]
+  },
+  {
+    "id": "Qsq82i",
+    "msgid": "Queue: {queueName}",
+    "currentVal": [
+      "Queue: ",
+      [
+        "queueName"
+      ]
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "VJScHU",
+    "msgid": "Reason",
+    "currentVal": [
+      "Reason"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterDropdown.tsx",
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterMenuContent.tsx",
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx"
+    ]
+  },
+  {
+    "id": "wUf2OL",
+    "msgid": "Reasoning",
+    "currentVal": [
+      "Reasoning"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatMessagePartRenderer.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "ZVr1+K",
+    "msgid": "Recent Events (oldest → newest)",
+    "currentVal": [
+      "Recent Events (oldest → newest)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "WEYdDv",
+    "msgid": "Recommended",
+    "currentVal": [
+      "Recommended"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/AiChatQuestionCard.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsQuestion.tsx"
+    ]
+  },
+  {
+    "id": "zod7Md",
+    "msgid": "Record creation form",
+    "currentVal": [
+      "Record creation form"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "dmU8dH",
+    "msgid": "Record sharing",
+    "currentVal": [
+      "Record sharing"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "pTGa/J",
+    "msgid": "Refresh status",
+    "currentVal": [
+      "Refresh status"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "uJ+Ve2",
+    "msgid": "Region",
+    "currentVal": [
+      "Region"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "bPJyAg",
+    "msgid": "Region is required for Bedrock",
+    "currentVal": [
+      "Region is required for Bedrock"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "qeXMXz",
+    "msgid": "Region where inference data is processed (optional)",
+    "currentVal": [
+      "Region where inference data is processed (optional)"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "FeQ/sf",
+    "msgid": "Remove model \"{0}\"",
+    "currentVal": [
+      "Remove model \"",
+      [
+        "0"
+      ],
+      "\""
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "bKJVLZ",
+    "msgid": "Remove provider",
+    "currentVal": [
+      "Remove provider"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "hJ4+Zq",
+    "msgid": "Remove provider \"{0}\"",
+    "currentVal": [
+      "Remove provider \"",
+      [
+        "0"
+      ],
+      "\""
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "yBC05U",
+    "msgid": "Remove this provider and disconnect all its models",
+    "currentVal": [
+      "Remove this provider and disconnect all its models"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "N8UzTV",
+    "msgid": "Replies",
+    "currentVal": [
+      "Replies"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTable.tsx"
+    ]
+  },
+  {
+    "id": "ex8PR1",
+    "msgid": "Retry All Failed",
+    "currentVal": [
+      "Retry All Failed"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "AF7Zfa",
+    "msgid": "Return metadata directly instead of wrapping it in the legacy response envelope.",
+    "currentVal": [
+      "Return metadata directly instead of wrapping it in the legacy response envelope."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "ZbpKL+",
+    "msgid": "Return Value",
+    "currentVal": [
+      "Return Value"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx"
+    ]
+  },
+  {
+    "id": "GXsAby",
+    "msgid": "Revoke",
+    "currentVal": [
+      "Revoke"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantRowDropdownMenu.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminRevokeSigningKeyConfirmationModal.tsx",
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "cg+Poy",
+    "msgid": "Revoke access",
+    "currentVal": [
+      "Revoke access"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "iu5Egq",
+    "msgid": "Revoke admin panel access",
+    "currentVal": [
+      "Revoke admin panel access"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "CCR+qC",
+    "msgid": "Revoke credit grant",
+    "currentVal": [
+      "Revoke credit grant"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "rJrWw4",
+    "msgid": "Revoke signing key",
+    "currentVal": [
+      "Revoke signing key"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminRevokeSigningKeyConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "xGiT1z",
+    "msgid": "Revoked",
+    "currentVal": [
+      "Revoked"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx",
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "lrTLOv",
+    "msgid": "Revoking this key will invalidate every JWT signed with it. Users with active tokens signed by this key will be logged out.",
+    "currentVal": [
+      "Revoking this key will invalidate every JWT signed with it. Users with active tokens signed by this key will be logged out."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminRevokeSigningKeyConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "Q6o/eX",
+    "msgid": "Rollover",
+    "currentVal": [
+      "Rollover"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/CreditGrantTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "8KjW3W",
+    "msgid": "Run logic functions from prebuilt application bundles.",
+    "currentVal": [
+      "Run logic functions from prebuilt application bundles."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "mUv9U4",
+    "msgid": "Sales",
+    "currentVal": [
+      "Sales"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/CreditGrantTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "Ys/D8h",
+    "msgid": "Schedule a maintenance window and notify all users",
+    "currentVal": [
+      "Schedule a maintenance window and notify all users"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "pUfoQJ",
+    "msgid": "Schema name",
+    "currentVal": [
+      "Schema name"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx"
+    ]
+  },
+  {
+    "id": "hJjXGo",
+    "msgid": "SDK",
+    "currentVal": [
+      "SDK"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "8J0e5B",
+    "msgid": "Search a model...",
+    "currentVal": [
+      "Search a model..."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "MS72xQ",
+    "msgid": "Search by workspace, user email or thread id...",
+    "currentVal": [
+      "Search by workspace, user email or thread id..."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx"
+    ]
+  },
+  {
+    "id": "3UPqHL",
+    "msgid": "Search config variables",
+    "currentVal": [
+      "Search config variables"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableSearchInput.tsx"
+    ]
+  },
+  {
+    "id": "wCw+0a",
+    "msgid": "Search registrations...",
+    "currentVal": [
+      "Search registrations..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "llJ0OR",
+    "msgid": "Secret Access Key",
+    "currentVal": [
+      "Secret Access Key"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "rHNnAT",
+    "msgid": "Select a known model or add a custom one",
+    "currentVal": [
+      "Select a known model or add a custom one"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "d/tbM2",
+    "msgid": "Select a known provider or create a custom one",
+    "currentVal": [
+      "Select a known provider or create a custom one"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "llc/hA",
+    "msgid": "Select Group",
+    "currentVal": [
+      "Select Group"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "n0WCk8",
+    "msgid": "Select options",
+    "currentVal": [
+      "Select options"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableDatabaseInput.tsx"
+    ]
+  },
+  {
+    "id": "UKCiEd",
+    "msgid": "Select Source",
+    "currentVal": [
+      "Select Source"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "hjUUtd",
+    "msgid": "Server access",
+    "currentVal": [
+      "Server access"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "4Fpy78",
+    "msgid": "Server administrator access updated.",
+    "currentVal": [
+      "Server administrator access updated."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "fMPkxb",
+    "msgid": "Show more",
+    "currentVal": [
+      "Show more"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstalledWorkspaces.tsx"
+    ]
+  },
+  {
+    "id": "X1zsRT",
+    "msgid": "Signing key revoked",
+    "currentVal": [
+      "Signing key revoked"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/hooks/useRevokeSigningKey.ts"
+    ]
+  },
+  {
+    "id": "Gzr66P",
+    "msgid": "Signing Keys",
+    "currentVal": [
+      "Signing Keys"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "Nbjq/v",
+    "msgid": "sk-...",
+    "currentVal": [
+      "sk-..."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "wdxz7K",
+    "msgid": "Source",
+    "currentVal": [
+      "Source"
+    ],
+    "fileRefs": [
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardRecordTableSettings.tsx",
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx"
+    ]
+  },
+  {
+    "id": "uavm+q",
+    "msgid": "Stack Trace",
+    "currentVal": [
+      "Stack Trace"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx"
+    ]
+  },
+  {
+    "id": "WAjFYI",
+    "msgid": "Start date",
+    "currentVal": [
+      "Start date"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx",
+      "src/modules/settings/event-logs/components/EventLogFilters.tsx"
+    ]
+  },
+  {
+    "id": "zHJ27S",
+    "msgid": "Stripe customer",
+    "currentVal": [
+      "Stripe customer"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "Zk8585",
+    "msgid": "Stripe customer linked to this workspace",
+    "currentVal": [
+      "Stripe customer linked to this workspace"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "Yiplcx",
+    "msgid": "Stripe subscription",
+    "currentVal": [
+      "Stripe subscription"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "WVzGc2",
+    "msgid": "Subscription",
+    "currentVal": [
+      "Subscription"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "omBFwv",
+    "msgid": "Supported input types",
+    "currentVal": [
+      "Supported input types"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "Gw5WrN",
+    "msgid": "Supports reasoning",
+    "currentVal": [
+      "Supports reasoning"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "2XrCFd",
+    "msgid": "Synchronize catalog",
+    "currentVal": [
+      "Synchronize catalog"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "qmwHSv",
+    "msgid": "Target workspace subdomain",
+    "currentVal": [
+      "Target workspace subdomain"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "oVH0Mt",
+    "msgid": "The API endpoint for your OpenAI-compatible provider",
+    "currentVal": [
+      "The API endpoint for your OpenAI-compatible provider"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "qjNojw",
+    "msgid": "The AWS region for Bedrock",
+    "currentVal": [
+      "The AWS region for Bedrock"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "4m3QoL",
+    "msgid": "The model behind each mode for every workspace. Workspaces can pin their own.",
+    "currentVal": [
+      "The model behind each mode for every workspace. Workspaces can pin their own."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "HiI1Lo",
+    "msgid": "The model identifier used by the provider API",
+    "currentVal": [
+      "The model identifier used by the provider API"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "bEXHAZ",
+    "msgid": "The workspace that claimed this app registration",
+    "currentVal": [
+      "The workspace that claimed this app registration"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationClaims.tsx"
+    ]
+  },
+  {
+    "id": "9rY+8P",
+    "msgid": "This app has no owner workspace. Claiming it will assign ownership to your current workspace, and you will be able to manage it.",
+    "currentVal": [
+      "This app has no owner workspace. Claiming it will assign ownership to your current workspace, and you will be able to manage it."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "SLIRqz",
+    "msgid": "This database value overrides environment settings. ",
+    "currentVal": [
+      "This database value overrides environment settings. "
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "6IcJ94",
+    "msgid": "This instance's plan could not be verified. Reload the page to try again.",
+    "currentVal": [
+      "This instance's plan could not be verified. Reload the page to try again."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/hooks/useCustomAiProviderAccess.ts"
+    ]
+  },
+  {
+    "id": "xrVx9A",
+    "msgid": "This is the current signing key. Revoking it will invalidate every JWT signed with it and users may need to sign in again. A new signing key will be generated automatically on the next request.",
+    "currentVal": [
+      "This is the current signing key. Revoking it will invalidate every JWT signed with it and users may need to sign in again. A new signing key will be generated automatically on the next request."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminRevokeSigningKeyConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "Wuvfgw",
+    "msgid": "This model will be removed from the provider. You can re-add it later.",
+    "currentVal": [
+      "This model will be removed from the provider. You can re-add it later."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "R/PuIn",
+    "msgid": "This provider doesn't have a native SDK yet — it will use OpenAI-compatible mode. Need native support? Reach out to us.",
+    "currentVal": [
+      "This provider doesn't have a native SDK yet — it will use OpenAI-compatible mode. Need native support? Reach out to us."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "C/wr0z",
+    "msgid": "This setting can only be configured through environment variables.",
+    "currentVal": [
+      "This setting can only be configured through environment variables."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "iAubP2",
+    "msgid": "This should never happen",
+    "currentVal": [
+      "This should never happen"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "ddMLFL",
+    "msgid": "This takes {0} credits back off this workspace straight away. Revoking cannot be undone.",
+    "currentVal": [
+      "This takes ",
+      [
+        "0"
+      ],
+      " credits back off this workspace straight away. Revoking cannot be undone."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "MMGDfe",
+    "msgid": "This value will be saved to the database.",
+    "currentVal": [
+      "This value will be saved to the database."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "yByRxz",
+    "msgid": "This week",
+    "currentVal": [
+      "This week"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/constants/WorkerQueueMetricsSelectOptions.ts",
+      "src/modules/settings/billing/constants/UsageLimitPeriodSpanLabels.ts"
+    ]
+  },
+  {
+    "id": "0+L84I",
+    "msgid": "This will disconnect all models from this provider. Models will no longer be available until a new provider is configured.",
+    "currentVal": [
+      "This will disconnect all models from this provider. Models will no longer be available until a new provider is configured."
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "XZWXeK",
+    "msgid": "This will grant {0} to {userLabel}.",
+    "currentVal": [
+      "This will grant ",
+      [
+        "0"
+      ],
+      " to ",
+      [
+        "userLabel"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "Dg+3bR",
+    "msgid": "This will revoke {0} for {userLabel}.",
+    "currentVal": [
+      "This will revoke ",
+      [
+        "0"
+      ],
+      " for ",
+      [
+        "userLabel"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "IHtFjq",
+    "msgid": "Token limits for context and output",
+    "currentVal": [
+      "Token limits for context and output"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "v7vAuj",
+    "msgid": "Total Jobs",
+    "currentVal": [
+      "Total Jobs"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthAccountSyncCountersTable.tsx"
+    ]
+  },
+  {
+    "id": "zPGNJm",
+    "msgid": "Transfer",
+    "currentVal": [
+      "Transfer"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "KSnRfc",
+    "msgid": "Transfer ownership",
+    "currentVal": [
+      "Transfer ownership"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "67waeA",
+    "msgid": "Trial period",
+    "currentVal": [
+      "Trial period"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "D38O1A",
+    "msgid": "Types of content this model can process besides text",
+    "currentVal": [
+      "Types of content this model can process besides text"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "2lF8Zj",
+    "msgid": "Unanswered",
+    "currentVal": [
+      "Unanswered"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsPart.tsx"
+    ]
+  },
+  {
+    "id": "EUHN7i",
+    "msgid": "Undefined",
+    "currentVal": [
+      "Undefined"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableValueInput.tsx"
+    ]
+  },
+  {
+    "id": "7S4EZE",
+    "msgid": "Uninstall this app from all workspaces before deleting it",
+    "currentVal": [
+      "Uninstall this app from all workspaces before deleting it"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "NXfWhP",
+    "msgid": "Unique indexes",
+    "currentVal": [
+      "Unique indexes"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "Ef7StM",
+    "msgid": "Unknown",
+    "currentVal": [
+      "Unknown"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminVersionContainer.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminUpgradeStatusRightContainer.tsx",
+      "src/modules/settings/admin-panel/utils/getUpgradeHealthStatusBadge.ts",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/unsubscribers/utils/getMessageSuppressionReasonBadge.ts",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/emailing-domains/utils/getEmailingDomainStatusText.ts"
+    ]
+  },
+  {
+    "id": "m/o1+r",
+    "msgid": "Unknown workspace",
+    "currentVal": [
+      "Unknown workspace"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkspacesByHealthAccordion.tsx"
+    ]
+  },
+  {
+    "id": "a3Hy65",
+    "msgid": "Unnamed product",
+    "currentVal": [
+      "Unnamed product"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "wja8aL",
+    "msgid": "Untitled",
+    "currentVal": [
+      "Untitled"
+    ],
+    "fileRefs": [
+      "src/modules/ai/components/AiChatThreadListItem.tsx",
+      "src/modules/ai/components/ChatReferenceChip.tsx",
+      "src/modules/ai/components/ChatReferenceChip.tsx",
+      "src/modules/ai/components/internal/AgentChatFilePreview.tsx",
+      "src/modules/mention/components/MentionRecordChip.tsx",
+      "src/modules/object-core/components/cells/CoreObjectNameCell.tsx",
+      "src/modules/object-record/components/RecordChip.tsx",
+      "src/modules/object-record/components/RecordChip.tsx",
+      "src/modules/object-record/record-title-cell/components/RecordTitleCellTextFieldDisplay.tsx",
+      "src/modules/object-record/record-title-cell/components/RecordTitleFullNameFieldDisplay.tsx",
+      "src/modules/page-layout/hooks/usePageLayoutAddTabStrategy.ts",
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTableRow.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/side-panel/components/SidePanelContextChip.tsx",
+      "src/modules/ui/field/display/components/ActorDisplay.tsx",
+      "src/modules/ui/field/display/components/ArrayDisplay.tsx",
+      "src/modules/ui/field/display/components/GlobalFilePreviewModal.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceChatThread.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "j5CWO4",
+    "msgid": "Up to date",
+    "currentVal": [
+      "Up to date"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/utils/getUpgradeHealthStatusBadge.ts"
+    ]
+  },
+  {
+    "id": "IEtN5Y",
+    "msgid": "Upgrade health",
+    "currentVal": [
+      "Upgrade health"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkspacesStatusSummaryCard.tsx"
+    ]
+  },
+  {
+    "id": "88ZkNH",
+    "msgid": "Upgrade health across all workspaces",
+    "currentVal": [
+      "Upgrade health across all workspaces"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "5UfQvA",
+    "msgid": "Upgrade Status",
+    "currentVal": [
+      "Upgrade Status"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "WUREiw",
+    "msgid": "us-east-1",
+    "currentVal": [
+      "us-east-1"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "6SbZqO",
+    "msgid": "Usage period",
+    "currentVal": [
+      "Usage period"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "MNOlLY",
+    "msgid": "Use a dedicated form when creating records.",
+    "currentVal": [
+      "Use a dedicated form when creating records."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "c2ES/s",
+    "msgid": "Use target relations to find messages and calendar events linked to records.",
+    "currentVal": [
+      "Use target relations to find messages and calendar events linked to records."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "40bRe+",
+    "msgid": "Use the dedicated workflow index page to browse workflows and their versions.",
+    "currentVal": [
+      "Use the dedicated workflow index page to browse workflows and their versions."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "tNT8wT",
+    "msgid": "User Info",
+    "currentVal": [
+      "User Info"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "UIOjSC",
+    "msgid": "Uses (last {verifyWindowDays}d)",
+    "currentVal": [
+      "Uses (last ",
+      [
+        "verifyWindowDays"
+      ],
+      "d)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "vUr1/5",
+    "msgid": "Using default application value. Configure via environment variables.",
+    "currentVal": [
+      "Using default application value. Configure via environment variables."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "8Drj7i",
+    "msgid": "Using default value. Set a custom value to override.",
+    "currentVal": [
+      "Using default value. Set a custom value to override."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "UZHvVi",
+    "msgid": "Value is set in the server environment, it may be a different value on the worker.",
+    "currentVal": [
+      "Value is set in the server environment, it may be a different value on the worker."
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "Shfac6",
+    "msgid": "Vetted",
+    "currentVal": [
+      "Vetted"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "vSJd18",
+    "msgid": "Video",
+    "currentVal": [
+      "Video"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "lFgRxz",
+    "msgid": "View all chats",
+    "currentVal": [
+      "View all chats"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "lh5BED",
+    "msgid": "View Jobs",
+    "currentVal": [
+      "View Jobs"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerQueueMetricsSection.tsx"
+    ]
+  },
+  {
+    "id": "uUehLT",
+    "msgid": "Waiting",
+    "currentVal": [
+      "Waiting"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "iKFXyT",
+    "msgid": "Waiting Children",
+    "currentVal": [
+      "Waiting Children"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "PAbCsV",
+    "msgid": "Whether this model supports chain-of-thought reasoning",
+    "currentVal": [
+      "Whether this model supports chain-of-thought reasoning"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "3J7l5w",
+    "msgid": "Worker",
+    "currentVal": [
+      "Worker"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "91e2Af",
+    "msgid": "Workflow index page",
+    "currentVal": [
+      "Workflow index page"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "J22jAC",
+    "msgid": "Workspace Info",
+    "currentVal": [
+      "Workspace Info"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx"
+    ]
+  },
+  {
+    "id": "Ce7yfm",
+    "msgid": "Workspace lists by upgrade status",
+    "currentVal": [
+      "Workspace lists by upgrade status"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "wtxjAY",
+    "msgid": "Workspace members",
+    "currentVal": [
+      "Workspace members"
+    ],
+    "fileRefs": [
+      "src/modules/settings/event-logs/components/EventLogFilters.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "Smg70n",
+    "msgid": "Workspace upgrade health",
+    "currentVal": [
+      "Workspace upgrade health"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx"
+    ]
+  },
+  {
+    "id": "33fb3H",
+    "msgid": "Workspaces status",
+    "currentVal": [
+      "Workspaces status"
+    ],
+    "fileRefs": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminUpgradeStatusListCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "MxZ8eH",
+    "msgid": "Your provider API key for authentication",
+    "currentVal": [
+      "Your provider API key for authentication"
+    ],
+    "fileRefs": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  }
+]

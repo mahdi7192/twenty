@@ -1,0 +1,6775 @@
+[
+  {
+    "id": "+K1Lj4",
+    "msgid": "Unknown file",
+    "ast": [
+      "Unknown file"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AgentChatFilePreview.tsx"
+    ]
+  },
+  {
+    "id": "+ZqAYI",
+    "msgid": "Feature Flags",
+    "ast": [
+      "Feature Flags"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "+qygei",
+    "msgid": "Answers",
+    "ast": [
+      "Answers"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatQuestionStatusRenderer.tsx"
+    ]
+  },
+  {
+    "id": "+woNYv",
+    "msgid": "Variable Name",
+    "ast": [
+      "Variable Name"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx"
+    ]
+  },
+  {
+    "id": "/+U0Y/",
+    "msgid": "Filter chats",
+    "ast": [
+      "Filter chats"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatThreadFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "//nm2/",
+    "msgid": "Models",
+    "ast": [
+      "Models"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/ai/components/SettingsAiModelsTab.tsx",
+      "src/pages/settings/ai/SettingsAI.tsx"
+    ]
+  },
+  {
+    "id": "/IoK74",
+    "msgid": "Skill deleted",
+    "ast": [
+      "Skill deleted"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSkillsTab.tsx"
+    ]
+  },
+  {
+    "id": "/OdOC/",
+    "msgid": "Input (Prompt)",
+    "ast": [
+      "Input (Prompt)"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPromptTab.tsx"
+    ]
+  },
+  {
+    "id": "/b72oP",
+    "msgid": "Draft an email to this company about ",
+    "ast": [
+      "Draft an email to this company about "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "/cSHSG",
+    "msgid": "A verification email has been sent to",
+    "ast": [
+      "A verification email has been sent to"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "/hmUGb",
+    "msgid": "Maintenance mode",
+    "ast": [
+      "Maintenance mode"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "/kXBrK",
+    "msgid": "Total time",
+    "ast": [
+      "Total time"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "/vXJ9Y",
+    "msgid": "Context and usage",
+    "ast": [
+      "Context and usage"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageButton.tsx",
+      "src/modules/ai/components/internal/AiChatContextUsageButton.tsx"
+    ]
+  },
+  {
+    "id": "0+L84I",
+    "msgid": "This will disconnect all models from this provider. Models will no longer be available until a new provider is configured.",
+    "ast": [
+      "This will disconnect all models from this provider. Models will no longer be available until a new provider is configured."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "00icDW",
+    "msgid": "Email verified.",
+    "ast": [
+      "Email verified."
+    ],
+    "files": [
+      "src/modules/auth/components/VerifyEmailEffect.tsx"
+    ]
+  },
+  {
+    "id": "02qdT/",
+    "msgid": "Add CC",
+    "ast": [
+      "Add CC"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "05jO4l",
+    "msgid": "Admin Panel - AI",
+    "ast": [
+      "Admin Panel - AI"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceChatThread.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "0Cs5HS",
+    "msgid": "Are you sure you want to delete this tool? This action cannot be undone.",
+    "ast": [
+      "Are you sure you want to delete this tool? This action cannot be undone."
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsToolDetail.tsx"
+    ]
+  },
+  {
+    "id": "0KAL3W",
+    "msgid": "Update records",
+    "ast": [
+      "Update records"
+    ],
+    "files": [
+      "src/modules/object-record/record-update-multiple/components/UpdateMultipleRecordsContainer.tsx",
+      "src/modules/side-panel/components/SidePanelMultipleRecordsInfo.tsx",
+      "src/modules/side-panel/hooks/useOpenUpdateMultipleRecordsPageInSidePanel.tsx"
+    ]
+  },
+  {
+    "id": "0Ni6nR",
+    "msgid": "Primary Email",
+    "ast": [
+      "Primary Email"
+    ],
+    "files": [
+      "src/modules/object-record/record-field/ui/form-types/components/FormEmailsFieldInput.tsx",
+      "src/modules/object-record/record-field/ui/form-types/components/FormEmailsFieldInput.tsx"
+    ]
+  },
+  {
+    "id": "0WPnTI",
+    "msgid": "Watch AI demo",
+    "ast": [
+      "Watch AI demo"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAI.tsx"
+    ]
+  },
+  {
+    "id": "0Wy3/1",
+    "msgid": "Unknown speaker",
+    "ast": [
+      "Unknown speaker"
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/call-recording-transcript/components/CallRecordingTranscriptEntryListItem.tsx",
+      "src/modules/page-layout/widgets/call-recording-transcript/utils/buildCallRecordingTranscriptPlainText.ts"
+    ]
+  },
+  {
+    "id": "0X71SU",
+    "msgid": "No response body",
+    "ast": [
+      "No response body"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowRunStepLogsHttpRequestDetail.tsx"
+    ]
+  },
+  {
+    "id": "0y3gMf",
+    "msgid": "Ran code",
+    "ast": [
+      "Ran code"
+    ],
+    "files": [
+      "src/modules/ai/utils/tool-display/get-tool-display-message.ts"
+    ]
+  },
+  {
+    "id": "16Z+3L",
+    "msgid": "Failed to update unsubscribe topic.",
+    "ast": [
+      "Failed to update unsubscribe topic."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "174gCJ",
+    "msgid": "CRUD",
+    "ast": [
+      "CRUD"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPermissionList.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPermissionsCrudList.tsx"
+    ]
+  },
+  {
+    "id": "1A3EXy",
+    "msgid": "Expand",
+    "ast": [
+      "Expand"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "1XzvEM",
+    "msgid": "Learning tools...",
+    "ast": [
+      "Learning tools..."
+    ],
+    "files": [
+      "src/modules/ai/utils/tool-display/get-tool-display-message.ts"
+    ]
+  },
+  {
+    "id": "1hGdwj",
+    "msgid": "Breakdown across AI models.",
+    "ast": [
+      "Breakdown across AI models."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "1qZ7C3",
+    "msgid": "Draft an email",
+    "ast": [
+      "Draft an email"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "1rXqkB",
+    "msgid": "Unschedule Campaign",
+    "ast": [
+      "Unschedule Campaign"
+    ],
+    "files": [
+      "src/modules/command-menu-item/engine-command/record/single-record/message-campaign/components/CancelMessageCampaignSingleRecordCommand.tsx",
+      "src/modules/command-menu-item/engine-command/record/single-record/message-campaign/components/CancelMessageCampaignSingleRecordCommand.tsx"
+    ]
+  },
+  {
+    "id": "20ONq7",
+    "msgid": "No parameters",
+    "ast": [
+      "No parameters"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsToolParameterTable.tsx"
+    ]
+  },
+  {
+    "id": "2D6TRg",
+    "msgid": "Failed to update default model",
+    "ast": [
+      "Failed to update default model"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "2GX/U+",
+    "msgid": "Admin Panel - Apps",
+    "ast": [
+      "Admin Panel - Apps"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDetail.tsx"
+    ]
+  },
+  {
+    "id": "2l+PSH",
+    "msgid": "Sending starts right away and cannot be undone.",
+    "ast": [
+      "Sending starts right away and cannot be undone."
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/utils/buildCampaignDeliveryHint.ts"
+    ]
+  },
+  {
+    "id": "2wBR2/",
+    "msgid": "Verifying your email",
+    "ast": [
+      "Verifying your email"
+    ],
+    "files": [
+      "src/modules/auth/components/VerifyEmail.tsx"
+    ]
+  },
+  {
+    "id": "2wxgft",
+    "msgid": "Rename",
+    "ast": [
+      "Rename"
+    ],
+    "files": [
+      "src/modules/activities/files/components/AttachmentDropdown.tsx",
+      "src/modules/ai/components/AiChatThreadItemMenu.tsx",
+      "src/modules/navigation-menu-item/display/folder/components/NavigationMenuItemFolderNavigationDrawerItemDropdown.tsx",
+      "src/modules/page-layout/widgets/fields/components/FieldsConfigurationGroupDropdown.tsx"
+    ]
+  },
+  {
+    "id": "30JOri",
+    "msgid": "Built-in providers activated by API key. Click to manage models.",
+    "ast": [
+      "Built-in providers activated by API key. Click to manage models."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "3EF9HN",
+    "msgid": "Enter the system prompt that defines this agent's behavior and capabilities",
+    "ast": [
+      "Enter the system prompt that defines this agent's behavior and capabilities"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "3J7l5w",
+    "msgid": "Worker",
+    "ast": [
+      "Worker"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "3JjdaA",
+    "msgid": "Run",
+    "ast": [
+      "Run"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentEvalsTab.tsx"
+    ]
+  },
+  {
+    "id": "3RwJHq",
+    "msgid": "New Email",
+    "ast": [
+      "New Email"
+    ],
+    "files": [
+      "src/modules/side-panel/hooks/useOpenComposeEmailInSidePanel.ts"
+    ]
+  },
+  {
+    "id": "3YA1cX",
+    "msgid": "Failed to remove model",
+    "ast": [
+      "Failed to remove model"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "3hSGoJ",
+    "msgid": "Empty Object",
+    "ast": [
+      "Empty Object"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "3ixt5E",
+    "msgid": "Public topics appear on the recipient preferences page.",
+    "ast": [
+      "Public topics appear on the recipient preferences page."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceNewUnsubscribeTopic.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "3o2gOg",
+    "msgid": "The modes people and agents choose between",
+    "ast": [
+      "The modes people and agents choose between"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx"
+    ]
+  },
+  {
+    "id": "3u/3zO",
+    "msgid": "Last payment failed. Please update your billing details.",
+    "ast": [
+      "Last payment failed. Please update your billing details."
+    ],
+    "files": [
+      "src/modules/information-banner/components/billing/InformationBannerFailPaymentInfo.tsx"
+    ]
+  },
+  {
+    "id": "42kV9p",
+    "msgid": "No AI usage data recorded yet.",
+    "ast": [
+      "No AI usage data recorded yet."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "45fXTY",
+    "msgid": "This page isn't available.",
+    "ast": [
+      "This page isn't available."
+    ],
+    "files": [
+      "src/modules/app/routing/components/WorkspaceRouteUnavailable.tsx"
+    ]
+  },
+  {
+    "id": "4AKv0+",
+    "msgid": "Last activity",
+    "ast": [
+      "Last activity"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatThreadFilterDropdownLastActivityMenu.tsx",
+      "src/modules/ai/components/AiChatThreadFilterDropdownRootMenu.tsx"
+    ]
+  },
+  {
+    "id": "4ASb34",
+    "msgid": "Evals",
+    "ast": [
+      "Evals"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentFormContent.tsx"
+    ]
+  },
+  {
+    "id": "4CHeVx",
+    "msgid": "Are you sure you want to delete this evaluation input?",
+    "ast": [
+      "Are you sure you want to delete this evaluation input?"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentEvalsTab.tsx"
+    ]
+  },
+  {
+    "id": "4Ck4YQ",
+    "msgid": "Navigated in the app",
+    "ast": [
+      "Navigated in the app"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "4FBXVy",
+    "msgid": "Context building (agent)",
+    "ast": [
+      "Context building (agent)"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "4JviOV",
+    "msgid": "Add Custom Provider",
+    "ast": [
+      "Add Custom Provider"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx",
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "4Li0Pw",
+    "msgid": "Are you sure you want to delete this skill? This action cannot be undone.",
+    "ast": [
+      "Are you sure you want to delete this skill? This action cannot be undone."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "4NR4Ja",
+    "msgid": "Extra Fast",
+    "ast": [
+      "Extra Fast"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelTierLabel.ts"
+    ]
+  },
+  {
+    "id": "4m3QoL",
+    "msgid": "The model behind each mode for every workspace. Workspaces can pin their own.",
+    "ast": [
+      "The model behind each mode for every workspace. Workspaces can pin their own."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "4ptK68",
+    "msgid": "Web searches",
+    "ast": [
+      "Web searches"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "4xlcyV",
+    "msgid": "Delete email channel",
+    "ast": [
+      "Delete email channel"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "51G4/+",
+    "msgid": "Not shared",
+    "ast": [
+      "Not shared"
+    ],
+    "files": [
+      "src/modules/activities/calendar/components/CalendarEventNotSharedContent.tsx",
+      "src/modules/activities/emails/components/EmailThreadNotShared.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/ForbiddenFieldDisplay.tsx"
+    ]
+  },
+  {
+    "id": "55MeVT",
+    "msgid": "AI usage analytics is available with an Organization key.",
+    "ast": [
+      "AI usage analytics is available with an Organization key."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "5Vg0Q7",
+    "msgid": "Found connected accounts",
+    "ast": [
+      "Found connected accounts"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "5ZehS/",
+    "msgid": "Use filter to see existing skills or create your own",
+    "ast": [
+      "Use filter to see existing skills or create your own"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSkillsTab.tsx"
+    ]
+  },
+  {
+    "id": "5r/Ozr",
+    "msgid": "User Usage",
+    "ast": [
+      "User Usage"
+    ],
+    "files": [
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "5sf2dF",
+    "msgid": "No logs yet",
+    "ast": [
+      "No logs yet"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "5wIe5g",
+    "msgid": "Listed on the unsubscribe page",
+    "ast": [
+      "Listed on the unsubscribe page"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceNewUnsubscribeTopic.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "5xxrhm",
+    "msgid": "Add a note",
+    "ast": [
+      "Add a note"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "650kGT",
+    "msgid": "Open an email editor to edit block settings.",
+    "ast": [
+      "Open an email editor to edit block settings."
+    ],
+    "files": [
+      "src/modules/side-panel/pages/email-block-settings/components/SidePanelEmailBlockSettingsPage.tsx"
+    ]
+  },
+  {
+    "id": "65dxv8",
+    "msgid": "Send email",
+    "ast": [
+      "Send email"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsEmailDetail.tsx"
+    ]
+  },
+  {
+    "id": "6Dd2PM",
+    "msgid": "Maintenance",
+    "ast": [
+      "Maintenance"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "6IcJ94",
+    "msgid": "This instance's plan could not be verified. Reload the page to try again.",
+    "ast": [
+      "This instance's plan could not be verified. Reload the page to try again."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/hooks/useCustomAiProviderAccess.ts"
+    ]
+  },
+  {
+    "id": "6PsaMr",
+    "msgid": "Rename chat",
+    "ast": [
+      "Rename chat"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatThreadListItem.tsx"
+    ]
+  },
+  {
+    "id": "6RDwJM",
+    "msgid": "Tokens",
+    "ast": [
+      "Tokens"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "6SbwJa",
+    "msgid": "Agent execution",
+    "ast": [
+      "Agent execution"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "6Tl23V",
+    "msgid": "Add test input for evaluation (e.g., \"Find all customers in NY\")",
+    "ast": [
+      "Add test input for evaluation (e.g., \"Find all customers in NY\")"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentEvalsTab.tsx"
+    ]
+  },
+  {
+    "id": "6U8nJN",
+    "msgid": "Pin a specific model",
+    "ast": [
+      "Pin a specific model"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelPicker.tsx"
+    ]
+  },
+  {
+    "id": "6Ux0ik",
+    "msgid": "(No name)",
+    "ast": [
+      "(No name)"
+    ],
+    "files": [
+      "src/modules/ui/navigation/navigation-drawer/components/MultiWorkspaceDropdown/internal/components/AvailableWorkspaceItem.tsx",
+      "src/modules/ui/navigation/navigation-drawer/components/MultiWorkspaceDropdown/internal/MultiWorkspaceDropdownDefaultComponents.tsx"
+    ]
+  },
+  {
+    "id": "6X68yA",
+    "msgid": "Admin Panel - General",
+    "ast": [
+      "Admin Panel - General"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "6cOXRd",
+    "msgid": "Finish editing the layout to open Settings",
+    "ast": [
+      "Finish editing the layout to open Settings"
+    ],
+    "files": [
+      "src/modules/navigation/components/MainNavigationDrawerModeSwitcher.tsx"
+    ]
+  },
+  {
+    "id": "6eMAkI",
+    "msgid": "We encountered an issue verifying",
+    "ast": [
+      "We encountered an issue verifying"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "6pSHJ5",
+    "msgid": "Read-only",
+    "ast": [
+      "Read-only"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiPrompts.tsx",
+      "src/pages/settings/ai/SettingsAiPrompts.tsx"
+    ]
+  },
+  {
+    "id": "6x8lJe",
+    "msgid": "You’ve reached your AI usage limit.",
+    "ast": [
+      "You’ve reached your AI usage limit."
+    ],
+    "files": [
+      "src/modules/ai/components/AIChatNoMoreBillingCreditsBanner.tsx"
+    ]
+  },
+  {
+    "id": "77QeTr",
+    "msgid": "Instructions Editor",
+    "ast": [
+      "Instructions Editor"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "7A0K1Y",
+    "msgid": "Empty tab",
+    "ast": [
+      "Empty tab"
+    ],
+    "files": [
+      "src/modules/page-layout/components/PageLayoutTabListNewTabDropdownContent.tsx",
+      "src/pages/settings/layout/SettingsLayoutPageLayoutDetail.tsx"
+    ]
+  },
+  {
+    "id": "7FaY4u",
+    "msgid": "Usage",
+    "ast": [
+      "Usage"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageButton.tsx",
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsFilterDropdown.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsFilterDropdown.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitUsageSelect.tsx",
+      "src/modules/settings/usage/components/UsageByUserTableSection.tsx",
+      "src/pages/settings/ai/SettingsAI.tsx",
+      "src/pages/settings/billing/SettingsUsage.tsx",
+      "src/pages/settings/billing/SettingsUsage.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "7K4Hxr",
+    "msgid": "Add In-Reply-To",
+    "ast": [
+      "Add In-Reply-To"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "7OGvrU",
+    "msgid": "Deactivate \"Synchronize Label and API Name\" to set a custom API name",
+    "ast": [
+      "Deactivate \"Synchronize Label and API Name\" to set a custom API name"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "7QXVrh",
+    "msgid": "Write a description for this agent",
+    "ast": [
+      "Write a description for this agent"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "7YK6ap",
+    "msgid": "Loading thread",
+    "ast": [
+      "Loading thread"
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/email-thread/components/EmailThreadWidget.tsx"
+    ]
+  },
+  {
+    "id": "7YdkgZ",
+    "msgid": "Add Output Field",
+    "ast": [
+      "Add Output Field"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx"
+    ]
+  },
+  {
+    "id": "7s3WlU",
+    "msgid": "Blocks",
+    "ast": [
+      "Blocks"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx"
+    ]
+  },
+  {
+    "id": "7sMeHQ",
+    "msgid": "Key",
+    "ast": [
+      "Key"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/KeyValuePairInput.tsx"
+    ]
+  },
+  {
+    "id": "7vRxpC",
+    "msgid": "Usage by Type",
+    "ast": [
+      "Usage by Type"
+    ],
+    "files": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "7wCciB",
+    "msgid": "Addresses your workspace uses to send and receive email from shared inboxes",
+    "ast": [
+      "Addresses your workspace uses to send and receive email from shared inboxes"
+    ],
+    "files": [
+      "src/modules/settings/workspace/components/SettingsWorkspaceEmailGroupSection.tsx"
+    ]
+  },
+  {
+    "id": "7wDgAB",
+    "msgid": "Token usage",
+    "ast": [
+      "Token usage"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "80c4+P",
+    "msgid": "Code copied to clipboard",
+    "ast": [
+      "Code copied to clipboard"
+    ],
+    "files": [
+      "src/modules/ai/components/MarkdownCodeBlock.tsx"
+    ]
+  },
+  {
+    "id": "81EMVN",
+    "msgid": "Call recordings are not available on this record.",
+    "ast": [
+      "Call recordings are not available on this record."
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/call-recording/components/CallRecordingWidgetUnavailableDisplay.tsx"
+    ]
+  },
+  {
+    "id": "8680YN",
+    "msgid": "Turn not found",
+    "ast": [
+      "Turn not found"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "89aQ3n",
+    "msgid": "Send Test Email",
+    "ast": [
+      "Send Test Email"
+    ],
+    "files": [
+      "src/modules/side-panel/hooks/useOpenSendCampaignTestInSidePanel.ts"
+    ]
+  },
+  {
+    "id": "8CWirf",
+    "msgid": "MCP Server",
+    "ast": [
+      "MCP Server"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "8GG+Pa",
+    "msgid": "Minimal",
+    "ast": [
+      "Minimal"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelEffortLabel.ts"
+    ]
+  },
+  {
+    "id": "8J0e5B",
+    "msgid": "Search a model...",
+    "ast": [
+      "Search a model..."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "8NbHF7",
+    "msgid": "Locale",
+    "ast": [
+      "Locale"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiPrompts.tsx"
+    ]
+  },
+  {
+    "id": "8Q+lLG",
+    "msgid": "Chats",
+    "ast": [
+      "Chats"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "8X+jbk",
+    "msgid": "Empty Inbox",
+    "ast": [
+      "Empty Inbox"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/EmptyInboxPlaceholder.tsx"
+    ]
+  },
+  {
+    "id": "8ibXh3",
+    "msgid": "Expand chat",
+    "ast": [
+      "Expand chat"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/ask-ai/hooks/useExpandAskAiSidePanelPage.ts"
+    ]
+  },
+  {
+    "id": "8jgO3g",
+    "msgid": "Model agents use when they run on their own",
+    "ast": [
+      "Model agents use when they run on their own"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelsTab.tsx"
+    ]
+  },
+  {
+    "id": "8m1COB",
+    "msgid": "Operational",
+    "ast": [
+      "Operational"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatusRightContainer.tsx"
+    ]
+  },
+  {
+    "id": "96G6Re",
+    "msgid": "New folder",
+    "ast": [
+      "New folder"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemMainMenu.tsx",
+      "src/modules/navigation-menu-item/edit/side-panel/hooks/useAddFolderToNavigationMenu.ts",
+      "src/modules/side-panel/components/SidePanelFolderInfo.tsx"
+    ]
+  },
+  {
+    "id": "9BFd/R",
+    "msgid": "This account is connected, but we don't have permission to draft emails on your behalf yet. You'll be redirected to approve this access.",
+    "ast": [
+      "This account is connected, but we don't have permission to draft emails on your behalf yet. You'll be redirected to approve this access."
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "9Ch1Ry",
+    "msgid": "Person ID",
+    "ast": [
+      "Person ID"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/useCampaignEmailEditorVariables.ts"
+    ]
+  },
+  {
+    "id": "9JIIfQ",
+    "msgid": "Base URL",
+    "ast": [
+      "Base URL"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "9QwrMz",
+    "msgid": "Stop dictation",
+    "ast": [
+      "Stop dictation"
+    ],
+    "files": [
+      "src/modules/ai/dictation/components/AiChatDictationButton.tsx"
+    ]
+  },
+  {
+    "id": "9ryUyP",
+    "msgid": "Failed to save workspace instructions",
+    "ast": [
+      "Failed to save workspace instructions"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "AHXN2z",
+    "msgid": "Widget",
+    "ast": [
+      "Widget"
+    ],
+    "files": [
+      "src/modules/side-panel/components/hooks/usePageLayoutHeaderInfo.ts",
+      "src/pages/settings/layout/SettingsLayoutPageLayoutDetail.tsx"
+    ]
+  },
+  {
+    "id": "APPcP6",
+    "msgid": "Sending email",
+    "ast": [
+      "Sending email"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "AQbgLJ",
+    "msgid": "Recents",
+    "ast": [
+      "Recents"
+    ],
+    "files": [
+      "src/modules/ai/components/NavigationDrawerAiChatContent.tsx"
+    ]
+  },
+  {
+    "id": "AUV+TY",
+    "msgid": "Thinking",
+    "ast": [
+      "Thinking"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatThinkingRow.tsx"
+    ]
+  },
+  {
+    "id": "AUprM8",
+    "msgid": "Failed to delete tool",
+    "ast": [
+      "Failed to delete tool"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsToolDetail.tsx"
+    ]
+  },
+  {
+    "id": "AXveCw",
+    "msgid": "Failed to delete email channel.",
+    "ast": [
+      "Failed to delete email channel."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "AjdrYY",
+    "msgid": "Not measured at this effort yet. Showing the base model's reading.",
+    "ast": [
+      "Not measured at this effort yet. Showing the base model's reading."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx"
+    ]
+  },
+  {
+    "id": "AnRu/j",
+    "msgid": "Cancel reply",
+    "ast": [
+      "Cancel reply"
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/email-thread/components/EmailThreadComposer.tsx"
+    ]
+  },
+  {
+    "id": "AwAGI4",
+    "msgid": "Check your Emails",
+    "ast": [
+      "Check your Emails"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "AyoeWR",
+    "msgid": "Searching the web",
+    "ast": [
+      "Searching the web"
+    ],
+    "files": [
+      "src/modules/ai/utils/tool-display/get-tool-display-message.ts"
+    ]
+  },
+  {
+    "id": "B2Tpo0",
+    "msgid": "Invalid email",
+    "ast": [
+      "Invalid email"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/hooks/useHandleResendEmailVerificationToken.ts",
+      "src/modules/auth/sign-in-up/hooks/useHandleResetPassword.ts"
+    ]
+  },
+  {
+    "id": "B2Zb/F",
+    "msgid": "JSON",
+    "ast": [
+      "JSON"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentResponseFormat.tsx"
+    ]
+  },
+  {
+    "id": "B6ANJW",
+    "msgid": "Log a new deal (company, amount, stage, expected close). Details: ",
+    "ast": [
+      "Log a new deal (company, amount, stage, expected close). Details: "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "B6yaak",
+    "msgid": "Failed to remove provider",
+    "ast": [
+      "Failed to remove provider"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "BEZcuL",
+    "msgid": "Unsubscribe topic",
+    "ast": [
+      "Unsubscribe topic"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignDetailsFields.tsx",
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx"
+    ]
+  },
+  {
+    "id": "BKYXUk",
+    "msgid": "Add a step to this workflow that ",
+    "ast": [
+      "Add a step to this workflow that "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "BTFMKE",
+    "msgid": "Add these records at your DNS provider. Twenty checks them automatically.",
+    "ast": [
+      "Add these records at your DNS provider. Twenty checks them automatically."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "BVmWQT",
+    "msgid": "Optional context shown to recipients on the preferences page.",
+    "ast": [
+      "Optional context shown to recipients on the preferences page."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceNewUnsubscribeTopic.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "BYrMT0",
+    "msgid": "Workspace Instructions",
+    "ast": [
+      "Workspace Instructions"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "BxecEJ",
+    "msgid": "Track AI consumption across your workspace.",
+    "ast": [
+      "Track AI consumption across your workspace."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "C4uQHu",
+    "msgid": "Cancel Campaign",
+    "ast": [
+      "Cancel Campaign"
+    ],
+    "files": [
+      "src/modules/command-menu-item/engine-command/record/single-record/message-campaign/components/CancelMessageCampaignSingleRecordCommand.tsx",
+      "src/modules/command-menu-item/engine-command/record/single-record/message-campaign/components/CancelMessageCampaignSingleRecordCommand.tsx"
+    ]
+  },
+  {
+    "id": "CTdw8/",
+    "msgid": "ClickHouse Not Configured",
+    "ast": [
+      "ClickHouse Not Configured"
+    ],
+    "files": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "CZDwqQ",
+    "msgid": "Add a new company we're in touch with (e.g. name, website, industry). Details: ",
+    "ast": [
+      "Add a new company we're in touch with (e.g. name, website, industry). Details: "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "Cj2Gtd",
+    "msgid": "Size",
+    "ast": [
+      "Size"
+    ],
+    "files": [
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "Clr4qp",
+    "msgid": "Validate Data",
+    "ast": [
+      "Validate Data"
+    ],
+    "files": [
+      "src/modules/spreadsheet-import/steps/components/SpreadsheetImportStepperContainer.tsx"
+    ]
+  },
+  {
+    "id": "DWUicC",
+    "msgid": "Finding connected accounts",
+    "ast": [
+      "Finding connected accounts"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "DbAw4C",
+    "msgid": "Draft email",
+    "ast": [
+      "Draft email"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsEmailDetail.tsx"
+    ]
+  },
+  {
+    "id": "DgHnjS",
+    "msgid": "Delete this agent",
+    "ast": [
+      "Delete this agent"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "Dgsw8A",
+    "msgid": "Cc/Bcc",
+    "ast": [
+      "Cc/Bcc"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/EmailComposerFields.tsx"
+    ]
+  },
+  {
+    "id": "DhgC7B",
+    "msgid": "About this user",
+    "ast": [
+      "About this user"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "Dnn2XG",
+    "msgid": "Automatic",
+    "ast": [
+      "Automatic"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelPicker.tsx",
+      "src/pages/settings/ai/components/SettingsAiModelsTab.tsx"
+    ]
+  },
+  {
+    "id": "Dt05oz",
+    "msgid": "Manage feature flags for this workspace",
+    "ast": [
+      "Manage feature flags for this workspace"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "E/lGXl",
+    "msgid": "AI consumption across all workspaces.",
+    "ast": [
+      "AI consumption across all workspaces."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "E6zx5y",
+    "msgid": "Model information",
+    "ast": [
+      "Model information"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierInformationButton.tsx"
+    ]
+  },
+  {
+    "id": "EKsFda",
+    "msgid": "Read the system prompts to understand how the AI works",
+    "ast": [
+      "Read the system prompts to understand how the AI works"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiSystemPromptsSection.tsx"
+    ]
+  },
+  {
+    "id": "EWPtMO",
+    "msgid": "Code",
+    "ast": [
+      "Code"
+    ],
+    "files": [
+      "src/modules/ai/components/CodeExecutionDisplay.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/code-action/components/WorkflowEditActionCode.tsx"
+    ]
+  },
+  {
+    "id": "Eb/I7b",
+    "msgid": "Routing decision",
+    "ast": [
+      "Routing decision"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "EhjVw/",
+    "msgid": "Delete unsubscribe topic",
+    "ast": [
+      "Delete unsubscribe topic"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "EnJuK0",
+    "msgid": "Conversations",
+    "ast": [
+      "Conversations"
+    ],
+    "files": [
+      "src/modules/ai/components/MobileHomeAiChatSection.tsx",
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "Eq6YVV",
+    "msgid": "Score",
+    "ast": [
+      "Score"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx",
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "ErLA3E",
+    "msgid": "Define what this tool does",
+    "ast": [
+      "Define what this tool does"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsToolDetail.tsx"
+    ]
+  },
+  {
+    "id": "Et23WT",
+    "msgid": "Get more credits",
+    "ast": [
+      "Get more credits"
+    ],
+    "files": [
+      "src/modules/ai/components/AIChatNoMoreBillingCreditsBanner.tsx",
+      "src/modules/information-banner/components/billing/InformationBannerNoMoreCredits.tsx"
+    ]
+  },
+  {
+    "id": "Ev2r9A",
+    "msgid": "No results",
+    "ast": [
+      "No results"
+    ],
+    "files": [
+      "src/modules/activities/emails/recipients/components/EmailRecipientSuggestionsDropdownContent.tsx",
+      "src/modules/object-record/object-filter-dropdown/components/ObjectFilterDropdownCountrySelect.tsx",
+      "src/modules/object-record/object-filter-dropdown/components/ObjectFilterDropdownCurrencySelect.tsx",
+      "src/modules/object-record/object-filter-dropdown/components/ObjectFilterDropdownOptionSelect.tsx",
+      "src/modules/object-record/record-table/record-table-header/components/RecordTableHeaderPlusButtonContent.tsx",
+      "src/modules/object-record/select/components/MultipleSelectDropdown.tsx",
+      "src/modules/page-layout/widgets/timeline/components/WidgetActionTimelineFilter.tsx",
+      "src/modules/ui/input/components/internal/currency/components/CurrencyPickerDropdownSelect.tsx",
+      "src/modules/ui/input/components/internal/phone/components/PhoneCountryPickerDropdownSelect.tsx",
+      "src/modules/views/components/ViewFieldsSearchDropdownSection.tsx"
+    ]
+  },
+  {
+    "id": "F+BB7w",
+    "msgid": "Recipient count unavailable",
+    "ast": [
+      "Recipient count unavailable"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "F18WP3",
+    "msgid": "Parameters",
+    "ast": [
+      "Parameters"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsToolDetail.tsx"
+    ]
+  },
+  {
+    "id": "FDRUdE",
+    "msgid": "Evaluating",
+    "ast": [
+      "Evaluating"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "FG3LyE",
+    "msgid": "Filter this view",
+    "ast": [
+      "Filter this view"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "FHPe8O",
+    "msgid": "System Prompt",
+    "ast": [
+      "System Prompt"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSettingsTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiSystemPromptsSection.tsx",
+      "src/pages/settings/ai/SettingsAiPrompts.tsx",
+      "src/pages/settings/ai/SettingsAiPrompts.tsx",
+      "src/pages/settings/ai/SettingsAiPrompts.tsx"
+    ]
+  },
+  {
+    "id": "FKV3nW",
+    "msgid": "Cached read",
+    "ast": [
+      "Cached read"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "FOcBn3",
+    "msgid": "Detach",
+    "ast": [
+      "Detach"
+    ],
+    "files": [
+      "src/modules/object-record/record-field-list/record-detail-section/relation/components/RecordDetailRelationRecordsListItem.tsx"
+    ]
+  },
+  {
+    "id": "Fe5cbB",
+    "msgid": "Preview Not Available",
+    "ast": [
+      "Preview Not Available"
+    ],
+    "files": [
+      "src/modules/activities/files/components/UnavailableFilePreview.tsx"
+    ]
+  },
+  {
+    "id": "FiEQ3l",
+    "msgid": "Email verification failed",
+    "ast": [
+      "Email verification failed"
+    ],
+    "files": [
+      "src/modules/auth/components/VerifyEmailEffect.tsx"
+    ]
+  },
+  {
+    "id": "Fnq2K7",
+    "msgid": "Corner radius",
+    "ast": [
+      "Corner radius"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorContainerAppearanceSettings.ts",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailBodyThemeFields.ts"
+    ]
+  },
+  {
+    "id": "FoID5n",
+    "msgid": "No credit consumption recorded for this user.",
+    "ast": [
+      "No credit consumption recorded for this user."
+    ],
+    "files": [
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "Fqu/aC",
+    "msgid": "End date must be after start date.",
+    "ast": [
+      "End date must be after start date."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "Fzfj4N",
+    "msgid": "Operand",
+    "ast": [
+      "Operand"
+    ],
+    "files": [
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "G42SNI",
+    "msgid": "Resend email",
+    "ast": [
+      "Resend email"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx",
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "GUpZQM",
+    "msgid": "Python Code Execution",
+    "ast": [
+      "Python Code Execution"
+    ],
+    "files": [
+      "src/modules/ai/components/CodeExecutionDisplay.tsx"
+    ]
+  },
+  {
+    "id": "GV0ZB5",
+    "msgid": "Counted again when the campaign sends, so this can change.",
+    "ast": [
+      "Counted again when the campaign sends, so this can change."
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "GXEku+",
+    "msgid": "Skill name",
+    "ast": [
+      "Skill name"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx",
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "GXLHVG",
+    "msgid": "Email Editor",
+    "ast": [
+      "Email Editor"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "GXNLgO",
+    "msgid": "System skills",
+    "ast": [
+      "System skills"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSkillsTab.tsx"
+    ]
+  },
+  {
+    "id": "Gh6L3r",
+    "msgid": "Custom Providers",
+    "ast": [
+      "Custom Providers"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "GhTFTJ",
+    "msgid": "e.g., summary, status, count",
+    "ast": [
+      "e.g., summary, status, count"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx"
+    ]
+  },
+  {
+    "id": "GnoLfm",
+    "msgid": "Tool calls made",
+    "ast": [
+      "Tool calls made"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "GpNLad",
+    "msgid": "Failed to send campaign",
+    "ast": [
+      "Failed to send campaign"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/useSendMessageCampaign.ts"
+    ]
+  },
+  {
+    "id": "Gt8ndY",
+    "msgid": "Click a user to see their daily breakdown.",
+    "ast": [
+      "Click a user to see their daily breakdown."
+    ],
+    "files": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "GtJbUa",
+    "msgid": "Background",
+    "ast": [
+      "Background"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorContainerAppearanceSettings.ts",
+      "src/modules/error-handler/components/AppRootErrorFallback.tsx",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailBodyThemeFields.ts",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailPageThemeFields.ts"
+    ]
+  },
+  {
+    "id": "GxkJXS",
+    "msgid": "Uploading...",
+    "ast": [
+      "Uploading..."
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/FilesFieldInput.tsx"
+    ]
+  },
+  {
+    "id": "Gzw2pq",
+    "msgid": "Intelligence",
+    "ast": [
+      "Intelligence"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierInformationButton.tsx",
+      "src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx"
+    ]
+  },
+  {
+    "id": "H86f9p",
+    "msgid": "Collapse",
+    "ast": [
+      "Collapse"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "HAzhV7",
+    "msgid": "Credentials",
+    "ast": [
+      "Credentials"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "HMtAtA",
+    "msgid": "The name recipients see for this topic.",
+    "ast": [
+      "The name recipients see for this topic."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceNewUnsubscribeTopic.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "HUBJsk",
+    "msgid": "Failed to delete unsubscribe topic.",
+    "ast": [
+      "Failed to delete unsubscribe topic."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "HUKGLi",
+    "msgid": "Start dictation",
+    "ast": [
+      "Start dictation"
+    ],
+    "files": [
+      "src/modules/ai/dictation/components/AiChatDictationButton.tsx"
+    ]
+  },
+  {
+    "id": "Hd06oy",
+    "msgid": "Current version",
+    "ast": [
+      "Current version"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminVersionContainer.tsx"
+    ]
+  },
+  {
+    "id": "Hfiz9B",
+    "msgid": "Paste a link to a hosted image",
+    "ast": [
+      "Paste a link to a hosted image"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx"
+    ]
+  },
+  {
+    "id": "Hp1l6f",
+    "msgid": "Current",
+    "ast": [
+      "Current"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx",
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx",
+      "src/modules/settings/billing/components/internal/SubscriptionInfoRowContainer.tsx",
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts"
+    ]
+  },
+  {
+    "id": "HwujXK",
+    "msgid": "Manage unsubscribe",
+    "ast": [
+      "Manage unsubscribe"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunications.tsx"
+    ]
+  },
+  {
+    "id": "I/EsFC",
+    "msgid": "Order in which records are displayed",
+    "ast": [
+      "Order in which records are displayed"
+    ],
+    "files": [
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "I/scZd",
+    "msgid": "An error occurred while processing your message",
+    "ast": [
+      "An error occurred while processing your message"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatErrorMessage.tsx"
+    ]
+  },
+  {
+    "id": "I3QpvQ",
+    "msgid": "Recipient",
+    "ast": [
+      "Recipient"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign-test/components/SidePanelSendCampaignTestPage.tsx"
+    ]
+  },
+  {
+    "id": "I99Miw",
+    "msgid": "Cost",
+    "ast": [
+      "Cost"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "IFNYKF",
+    "msgid": "Download File",
+    "ast": [
+      "Download File"
+    ],
+    "files": [
+      "src/modules/activities/files/components/UnavailableFilePreview.tsx"
+    ]
+  },
+  {
+    "id": "IHLoUB",
+    "msgid": "When a new lead is created with source \"Website\", assign it to the sales rep whose territory (by region/country) matches the lead's address; if no match, assign to the team lead.",
+    "ast": [
+      "When a new lead is created with source \"Website\", assign it to the sales rep whose territory (by region/country) matches the lead's address; if no match, assign to the team lead."
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "IQ3gAw",
+    "msgid": "Upload File",
+    "ast": [
+      "Upload File"
+    ],
+    "files": [
+      "src/modules/blocknote-editor/blocks/FileBlock.tsx",
+      "src/modules/spreadsheet-import/steps/components/SpreadsheetImportStepperContainer.tsx"
+    ]
+  },
+  {
+    "id": "ITWxKI",
+    "msgid": "Failed to create unsubscribe topic.",
+    "ast": [
+      "Failed to create unsubscribe topic."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceNewUnsubscribeTopic.tsx"
+    ]
+  },
+  {
+    "id": "IU3aCs",
+    "msgid": "Unknown field",
+    "ast": [
+      "Unknown field"
+    ],
+    "files": [
+      "src/modules/ai/hooks/useBrowsingContext.ts"
+    ]
+  },
+  {
+    "id": "IXoy1p",
+    "msgid": "Browse AI chat threads across all workspaces, including onboarding chats",
+    "ast": [
+      "Browse AI chat threads across all workspaces, including onboarding chats"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "Iaw5/y",
+    "msgid": "Pinned to a specific model",
+    "ast": [
+      "Pinned to a specific model"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelPicker.tsx"
+    ]
+  },
+  {
+    "id": "IfvM+Z",
+    "msgid": "Conditions applied to records before they appear in this view",
+    "ast": [
+      "Conditions applied to records before they appear in this view"
+    ],
+    "files": [
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "Ii6BOL",
+    "msgid": "Vs Balanced mode",
+    "ast": [
+      "Vs Balanced mode"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierInformationButton.tsx"
+    ]
+  },
+  {
+    "id": "ImOQa9",
+    "msgid": "Reply",
+    "ast": [
+      "Reply"
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/email-thread/components/EmailThreadComposer.tsx",
+      "src/modules/side-panel/hooks/useOpenComposeEmailInSidePanel.ts"
+    ]
+  },
+  {
+    "id": "IoAuJG",
+    "msgid": "Sending...",
+    "ast": [
+      "Sending..."
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx",
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "Iotuxe",
+    "msgid": "Debug Info",
+    "ast": [
+      "Debug Info"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "IrI9pg",
+    "msgid": "End date",
+    "ast": [
+      "End date"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/event-logs/components/EventLogFilters.tsx"
+    ]
+  },
+  {
+    "id": "Itn+J7",
+    "msgid": "What can I help you with?",
+    "ast": [
+      "What can I help you with?"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/AiChatSuggestedPrompts.tsx"
+    ]
+  },
+  {
+    "id": "Ix/CMz",
+    "msgid": "Data residency",
+    "ast": [
+      "Data residency"
+    ],
+    "files": [
+      "src/modules/settings/ai/components/SettingsAiModelHoverCard.tsx"
+    ]
+  },
+  {
+    "id": "J5T9NW",
+    "msgid": "User Information",
+    "ast": [
+      "User Information"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiPrompts.tsx"
+    ]
+  },
+  {
+    "id": "J7aOlM",
+    "msgid": "Output cost",
+    "ast": [
+      "Output cost"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx"
+    ]
+  },
+  {
+    "id": "J7vly7",
+    "msgid": "Failed to update records. Please try again.",
+    "ast": [
+      "Failed to update records. Please try again."
+    ],
+    "files": [
+      "src/modules/object-record/record-update-multiple/components/UpdateMultipleRecordsContainer.tsx"
+    ]
+  },
+  {
+    "id": "JA5LSq",
+    "msgid": "Admin Panel - Config",
+    "ast": [
+      "Admin Panel - Config"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminConfigVariableDetails.tsx"
+    ]
+  },
+  {
+    "id": "JEzhsu",
+    "msgid": "Block Settings",
+    "ast": [
+      "Block Settings"
+    ],
+    "files": [
+      "src/modules/side-panel/hooks/useOpenEmailBlockSettingsInSidePanel.ts"
+    ]
+  },
+  {
+    "id": "JTP6zD",
+    "msgid": "Shared email",
+    "ast": [
+      "Shared email"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "JUrq94",
+    "msgid": "mySkill",
+    "ast": [
+      "mySkill"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "JizhXE",
+    "msgid": "Scheduled at",
+    "ast": [
+      "Scheduled at"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx"
+    ]
+  },
+  {
+    "id": "Jk5UrD",
+    "msgid": "Create a task for this company: ",
+    "ast": [
+      "Create a task for this company: "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "Jl+rxL",
+    "msgid": "API key configured",
+    "ast": [
+      "API key configured"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "JzzHsG",
+    "msgid": "No messages found for this turn",
+    "ast": [
+      "No messages found for this turn"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "K3NJnJ",
+    "msgid": "A payment method is needed to keep your workspace active.",
+    "ast": [
+      "A payment method is needed to keep your workspace active."
+    ],
+    "files": [
+      "src/modules/information-banner/components/billing/InformationBannerFailPaymentInfo.tsx"
+    ]
+  },
+  {
+    "id": "KBnkoU",
+    "msgid": "Function run",
+    "ast": [
+      "Function run"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/code-action/components/WorkflowRunStepLogsCodeDetail.tsx"
+    ]
+  },
+  {
+    "id": "KLyZ6L",
+    "msgid": "AI User Usage",
+    "ast": [
+      "AI User Usage"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "KR7n/y",
+    "msgid": "Enter Message-ID to reply to",
+    "ast": [
+      "Enter Message-ID to reply to"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "KXQkvT",
+    "msgid": "Daily Usage",
+    "ast": [
+      "Daily Usage"
+    ],
+    "files": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "KgAAyO",
+    "msgid": "AI usage analytics will appear here once you start using AI features.",
+    "ast": [
+      "AI usage analytics will appear here once you start using AI features."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "KhCAL1",
+    "msgid": "Searching the help center",
+    "ast": [
+      "Searching the help center"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "KoXi44",
+    "msgid": "Choose the default modes for people and agents",
+    "ast": [
+      "Choose the default modes for people and agents"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelsTab.tsx"
+    ]
+  },
+  {
+    "id": "KsP4Tg",
+    "msgid": "Choose automatically",
+    "ast": [
+      "Choose automatically"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelsTab.tsx"
+    ]
+  },
+  {
+    "id": "KziH2K",
+    "msgid": "Fast",
+    "ast": [
+      "Fast"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelTierLabel.ts"
+    ]
+  },
+  {
+    "id": "LFupHB",
+    "msgid": "Sender name",
+    "ast": [
+      "Sender name"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "LQdi+H",
+    "msgid": "Try with another email",
+    "ast": [
+      "Try with another email"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "LTC198",
+    "msgid": "Running...",
+    "ast": [
+      "Running..."
+    ],
+    "files": [
+      "src/modules/ai/components/CodeExecutionDisplay.tsx"
+    ]
+  },
+  {
+    "id": "LXIm4m",
+    "msgid": "Context window",
+    "ast": [
+      "Context window"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageButton.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "LbCV38",
+    "msgid": "Cached creation",
+    "ast": [
+      "Cached creation"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "LfkDyR",
+    "msgid": "Ask a workspace admin to raise the limit.",
+    "ast": [
+      "Ask a workspace admin to raise the limit."
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatErrorRenderer.tsx"
+    ]
+  },
+  {
+    "id": "LlQirF",
+    "msgid": "IAM role",
+    "ast": [
+      "IAM role"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "LnnVIT",
+    "msgid": "Web Search",
+    "ast": [
+      "Web Search"
+    ],
+    "files": [
+      "src/modules/ai/components/SettingsAgentModelCapabilities.tsx",
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "Lo/GQ5",
+    "msgid": "Failed to send email",
+    "ast": [
+      "Failed to send email"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/useSendEmail.ts",
+      "src/modules/activities/emails/hooks/useSendEmail.ts"
+    ]
+  },
+  {
+    "id": "LxqS9I",
+    "msgid": "Failed to save the campaign",
+    "ast": [
+      "Failed to save the campaign"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/usePersistedCampaignDraft.ts"
+    ]
+  },
+  {
+    "id": "M0vOQ6",
+    "msgid": "Follows the workspace default for agents",
+    "ast": [
+      "Follows the workspace default for agents"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelPicker.tsx"
+    ]
+  },
+  {
+    "id": "M1co/O",
+    "msgid": "Configured",
+    "ast": [
+      "Configured"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "M3G9ZD",
+    "msgid": "Numbered list",
+    "ast": [
+      "Numbered list"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx",
+      "src/modules/advanced-text-editor/extensions/slash-command/DefaultSlashCommands.ts"
+    ]
+  },
+  {
+    "id": "M73whl",
+    "msgid": "Context",
+    "ast": [
+      "Context"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/settings/ai/components/SettingsAiModelHoverCard.tsx"
+    ]
+  },
+  {
+    "id": "MDy8Vw",
+    "msgid": "Dictation is not supported in this browser.",
+    "ast": [
+      "Dictation is not supported in this browser."
+    ],
+    "files": [
+      "src/modules/ai/dictation/utils/getDictationFailureMessage.ts"
+    ]
+  },
+  {
+    "id": "MGaW9O",
+    "msgid": "Schedule campaign",
+    "ast": [
+      "Schedule campaign"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/utils/buildCampaignSendButtonTitle.ts"
+    ]
+  },
+  {
+    "id": "MHsVk5",
+    "msgid": "Automatically selected by Twenty for this mode.",
+    "ast": [
+      "Automatically selected by Twenty for this mode."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx"
+    ]
+  },
+  {
+    "id": "MJoxIi",
+    "msgid": "Enter email subject",
+    "ast": [
+      "Enter email subject"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "MLmnB2",
+    "msgid": "All workspaces this user is a member of",
+    "ast": [
+      "All workspaces this user is a member of"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "MRB7nI",
+    "msgid": "Direction",
+    "ast": [
+      "Direction"
+    ],
+    "files": [
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "N7m8E+",
+    "msgid": "Attach files",
+    "ast": [
+      "Attach files"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/EmailComposerFields.tsx",
+      "src/modules/ai/components/internal/AgentChatFileUploadButton.tsx",
+      "src/modules/page-layout/widgets/email-thread/components/EmailThreadComposer.tsx",
+      "src/modules/side-panel/pages/compose-email/components/SidePanelComposeEmailPage.tsx"
+    ]
+  },
+  {
+    "id": "NBdIgR",
+    "msgid": "Comment",
+    "ast": [
+      "Comment"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "NCGTnP",
+    "msgid": "Turn Not Found",
+    "ast": [
+      "Turn Not Found"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "NKMrde",
+    "msgid": "Add Credit Card",
+    "ast": [
+      "Add Credit Card"
+    ],
+    "files": [
+      "src/modules/ai/components/AIChatNoMoreBillingCreditsBanner.tsx",
+      "src/modules/information-banner/components/billing/InformationBannerEndTrialPeriod.tsx"
+    ]
+  },
+  {
+    "id": "NWZxCM",
+    "msgid": "Speech recognition could not be reached. Check your connection.",
+    "ast": [
+      "Speech recognition could not be reached. Check your connection."
+    ],
+    "files": [
+      "src/modules/ai/dictation/utils/getDictationFailureMessage.ts"
+    ]
+  },
+  {
+    "id": "NjIy4U",
+    "msgid": "No chat threads found.",
+    "ast": [
+      "No chat threads found."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "Nl33Ds",
+    "msgid": "Agent tokens",
+    "ast": [
+      "Agent tokens"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "NmPNJJ",
+    "msgid": "Copy code",
+    "ast": [
+      "Copy code"
+    ],
+    "files": [
+      "src/modules/ai/components/CodeExecutionDisplay.tsx",
+      "src/modules/ai/components/MarkdownCodeBlock.tsx"
+    ]
+  },
+  {
+    "id": "NpEm3p",
+    "msgid": "Send now",
+    "ast": [
+      "Send now"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "Nu4DdT",
+    "msgid": "Sync",
+    "ast": [
+      "Sync"
+    ],
+    "files": [
+      "src/modules/settings/workspace/components/SettingsWorkspaceEmailSyncSection.tsx"
+    ]
+  },
+  {
+    "id": "NxHkkp",
+    "msgid": "Instructions",
+    "ast": [
+      "Instructions"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "O9Sink",
+    "msgid": "Finish editing the layout to expand chat",
+    "ast": [
+      "Finish editing the layout to expand chat"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/ask-ai/hooks/useExpandAskAiSidePanelPage.ts"
+    ]
+  },
+  {
+    "id": "OFJYGS",
+    "msgid": "Deactivate or delete this skill",
+    "ast": [
+      "Deactivate or delete this skill"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "OJx3wK",
+    "msgid": "Not available",
+    "ast": [
+      "Not available"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierInformationButton.tsx",
+      "src/modules/ai/components/AiModelTierInformationButton.tsx",
+      "src/modules/ai/components/AiModelTierInformationButton.tsx",
+      "src/modules/ai/components/internal/AiChatContextUsageButton.tsx",
+      "src/modules/ai/utils/getAiChatUsageLabel.ts"
+    ]
+  },
+  {
+    "id": "OMbipf",
+    "msgid": "Empty Array",
+    "ast": [
+      "Empty Array"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "OW4ZDC",
+    "msgid": "Create a task",
+    "ast": [
+      "Create a task"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts",
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "OZJeTZ",
+    "msgid": "Skill",
+    "ast": [
+      "Skill"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx",
+      "src/pages/settings/ai/SettingsSkillForm.tsx",
+      "src/pages/settings/ai/SettingsSkillForm.tsx"
+    ]
+  },
+  {
+    "id": "OcMef3",
+    "msgid": "No latest version found",
+    "ast": [
+      "No latest version found"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminVersionContainer.tsx"
+    ]
+  },
+  {
+    "id": "OhD7+a",
+    "msgid": "Skill not found",
+    "ast": [
+      "Skill not found"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsSkillForm.tsx"
+    ]
+  },
+  {
+    "id": "OlFf9i",
+    "msgid": "Request",
+    "ast": [
+      "Request"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowRunStepLogsHttpRequestDetail.tsx"
+    ]
+  },
+  {
+    "id": "OvFVjH",
+    "msgid": "Tool execution failed",
+    "ast": [
+      "Tool execution failed"
+    ],
+    "files": [
+      "src/modules/ai/components/ToolStepRenderer.tsx"
+    ]
+  },
+  {
+    "id": "OvqmUS",
+    "msgid": "Payment successful.",
+    "ast": [
+      "Payment successful."
+    ],
+    "files": [
+      "src/modules/settings/billing/hooks/useWaitForPaymentRecovery.tsx"
+    ]
+  },
+  {
+    "id": "P/885a",
+    "msgid": "Failed to execute evaluation input",
+    "ast": [
+      "Failed to execute evaluation input"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentEvalsTab.tsx"
+    ]
+  },
+  {
+    "id": "P/e64M",
+    "msgid": "Enter agent name*",
+    "ast": [
+      "Enter agent name*"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "P1tI9p",
+    "msgid": "Remove block",
+    "ast": [
+      "Remove block"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/email-block-settings/components/SidePanelEmailBlockSettingsPage.tsx"
+    ]
+  },
+  {
+    "id": "P9IeiA",
+    "msgid": "Microphone access is blocked. Allow it in your browser settings to dictate.",
+    "ast": [
+      "Microphone access is blocked. Allow it in your browser settings to dictate."
+    ],
+    "files": [
+      "src/modules/ai/dictation/utils/getDictationFailureMessage.ts"
+    ]
+  },
+  {
+    "id": "PFS3WB",
+    "msgid": "Dictation did not respond in this browser. Try Safari, or type instead.",
+    "ast": [
+      "Dictation did not respond in this browser. Try Safari, or type instead."
+    ],
+    "files": [
+      "src/modules/ai/dictation/utils/getDictationFailureMessage.ts"
+    ]
+  },
+  {
+    "id": "PFohi3",
+    "msgid": "BCC",
+    "ast": [
+      "BCC"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "PJAeaq",
+    "msgid": "Synchronize Label and API Name",
+    "ast": [
+      "Synchronize Label and API Name"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "PMPun8",
+    "msgid": "Untitled list",
+    "ast": [
+      "Untitled list"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignDetailsFields.tsx"
+    ]
+  },
+  {
+    "id": "PW100g",
+    "msgid": "Sent email",
+    "ast": [
+      "Sent email"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "PaKTa7",
+    "msgid": "Check this workflow's recent runs and tell me whether any failed and why.",
+    "ast": [
+      "Check this workflow's recent runs and tell me whether any failed and why."
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "Pfwdl3",
+    "msgid": "Enter BCC emails, comma-separated",
+    "ast": [
+      "Enter BCC emails, comma-separated"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "PlVbP6",
+    "msgid": "No context was provided for this request",
+    "ast": [
+      "No context was provided for this request"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "PmknJS",
+    "msgid": "HTTP request",
+    "ast": [
+      "HTTP request"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowRunStepLogsHttpRequestDetail.tsx"
+    ]
+  },
+  {
+    "id": "PpLJq1",
+    "msgid": "There is a billing issue. Please contact your admin.",
+    "ast": [
+      "There is a billing issue. Please contact your admin."
+    ],
+    "files": [
+      "src/modules/information-banner/components/billing/InformationBannerFailPaymentInfo.tsx"
+    ]
+  },
+  {
+    "id": "Psyj/F",
+    "msgid": "Very High",
+    "ast": [
+      "Very High"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelEffortLabel.ts"
+    ]
+  },
+  {
+    "id": "Pwqkdw",
+    "msgid": "Loading…",
+    "ast": [
+      "Loading…"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiChatUsageLabel.ts",
+      "src/modules/settings/billing/components/SettingsBillingLimitSpenderSelect.tsx"
+    ]
+  },
+  {
+    "id": "QVL/hg",
+    "msgid": "Asking questions...",
+    "ast": [
+      "Asking questions..."
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatQuestionStatusRenderer.tsx"
+    ]
+  },
+  {
+    "id": "QeF0zb",
+    "msgid": "Same value on every side",
+    "ast": [
+      "Same value on every side"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/email-block-settings/components/EmailBoxSidesInput.tsx"
+    ]
+  },
+  {
+    "id": "Qi4JMf",
+    "msgid": "Add BCC",
+    "ast": [
+      "Add BCC"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "QyUT/d",
+    "msgid": "Effort",
+    "ast": [
+      "Effort"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierInformationButton.tsx"
+    ]
+  },
+  {
+    "id": "R+LCkB",
+    "msgid": "Manage unsubscribers, opt-out topics, and the page recipients see",
+    "ast": [
+      "Manage unsubscribers, opt-out topics, and the page recipients see"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunications.tsx"
+    ]
+  },
+  {
+    "id": "R0dp36",
+    "msgid": "Cost index",
+    "ast": [
+      "Cost index"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierInformationButton.tsx"
+    ]
+  },
+  {
+    "id": "R4iTSf",
+    "msgid": "Failed to update sender name.",
+    "ast": [
+      "Failed to update sender name."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "RFmRvm",
+    "msgid": "Click on \"Add Output Field\" below to define the structure of your AI agent's response. These fields will be used to format and validate the AI's output when the workflow is executed, and can be referenced by subsequent workflow steps.",
+    "ast": [
+      "Click on \"Add Output Field\" below to define the structure of your AI agent's response. These fields will be used to format and validate the AI's output when the workflow is executed, and can be referenced by subsequent workflow steps."
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx"
+    ]
+  },
+  {
+    "id": "RQCK56",
+    "msgid": "Overrides the mode above until you switch back to automatic",
+    "ast": [
+      "Overrides the mode above until you switch back to automatic"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelPicker.tsx"
+    ]
+  },
+  {
+    "id": "RUBcco",
+    "msgid": "No microphone is available. Connect one and try again.",
+    "ast": [
+      "No microphone is available. Connect one and try again."
+    ],
+    "files": [
+      "src/modules/ai/dictation/utils/getDictationFailureMessage.ts"
+    ]
+  },
+  {
+    "id": "RVp8im",
+    "msgid": "Add custom endpoints, private gateways, or additional regions.",
+    "ast": [
+      "Add custom endpoints, private gateways, or additional regions."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "Rdhzdv",
+    "msgid": "Control what the workspace imports from connected mailboxes and calendars",
+    "ast": [
+      "Control what the workspace imports from connected mailboxes and calendars"
+    ],
+    "files": [
+      "src/modules/settings/workspace/components/SettingsWorkspaceEmailSyncSection.tsx"
+    ]
+  },
+  {
+    "id": "RlSr4h",
+    "msgid": "Whatsapp",
+    "ast": [
+      "Whatsapp"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunications.tsx"
+    ]
+  },
+  {
+    "id": "RmmhAh",
+    "msgid": "Send later",
+    "ast": [
+      "Send later"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "RpeN29",
+    "msgid": "See function",
+    "ast": [
+      "See function"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsToolParameterTable.tsx"
+    ]
+  },
+  {
+    "id": "RzkN1M",
+    "msgid": "Data Residency",
+    "ast": [
+      "Data Residency"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "S0enzB",
+    "msgid": "was restored by",
+    "ast": [
+      "was restored by"
+    ],
+    "files": [
+      "src/modules/activities/timeline-activities/rows/main-object/components/EventRowMainObject.tsx"
+    ]
+  },
+  {
+    "id": "S0kLOH",
+    "msgid": "ID",
+    "ast": [
+      "ID"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "S147dq",
+    "msgid": "Send at",
+    "ast": [
+      "Send at"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "S8w4XA",
+    "msgid": "Max output",
+    "ast": [
+      "Max output"
+    ],
+    "files": [
+      "src/modules/settings/ai/components/SettingsAiModelHoverCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "SILT51",
+    "msgid": "Type your own answer here",
+    "ast": [
+      "Type your own answer here"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatQuestionOtherOption.tsx"
+    ]
+  },
+  {
+    "id": "SMaFdc",
+    "msgid": "Unsubscribe",
+    "ast": [
+      "Unsubscribe"
+    ],
+    "files": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceCommunications.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceNewUnsubscribeTopic.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribe.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribe.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "SXCuo2",
+    "msgid": "View Docs",
+    "ast": [
+      "View Docs"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatApiKeyNotConfiguredMessage.tsx"
+    ]
+  },
+  {
+    "id": "SZgFyi",
+    "msgid": "page layout",
+    "ast": [
+      "page layout"
+    ],
+    "files": [
+      "src/modules/metadata-error-handler/hooks/useMetadataErrorHandler.ts",
+      "src/pages/settings/layout/SettingsLayoutPageLayoutDetail.tsx"
+    ]
+  },
+  {
+    "id": "ShUrwO",
+    "msgid": "Daily AI Usage",
+    "ast": [
+      "Daily AI Usage"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "ShbDuS",
+    "msgid": "Subscribe Now",
+    "ast": [
+      "Subscribe Now"
+    ],
+    "files": [
+      "src/modules/ai/components/AIChatNoMoreBillingCreditsBanner.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCardHeaderActions.tsx"
+    ]
+  },
+  {
+    "id": "SknniY",
+    "msgid": "AI Usage by Model",
+    "ast": [
+      "AI Usage by Model"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "SrWh42",
+    "msgid": "Tool created",
+    "ast": [
+      "Tool created"
+    ],
+    "files": [
+      "src/pages/settings/ai/hooks/useCreateTool.ts"
+    ]
+  },
+  {
+    "id": "Sz0Ftu",
+    "msgid": "Routing tokens",
+    "ast": [
+      "Routing tokens"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "T1yaeQ",
+    "msgid": "Pick a send time in the future.",
+    "ast": [
+      "Pick a send time in the future."
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/utils/buildCampaignDeliveryHint.ts"
+    ]
+  },
+  {
+    "id": "T9fLSG",
+    "msgid": "Create a task for this record: ",
+    "ast": [
+      "Create a task for this record: "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "TFf85Z",
+    "msgid": "Forwarding address copied to clipboard",
+    "ast": [
+      "Forwarding address copied to clipboard"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "TH7loN",
+    "msgid": "Job Data",
+    "ast": [
+      "Job Data"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx"
+    ]
+  },
+  {
+    "id": "TRQdC1",
+    "msgid": "Enter emails, comma-separated",
+    "ast": [
+      "Enter emails, comma-separated"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionCreateCalendarEvent.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "TayaS7",
+    "msgid": "No usage data yet",
+    "ast": [
+      "No usage data yet"
+    ],
+    "files": [
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "TdQd9Q",
+    "msgid": "Waiting for output...",
+    "ast": [
+      "Waiting for output..."
+    ],
+    "files": [
+      "src/modules/ai/components/TerminalOutput.tsx"
+    ]
+  },
+  {
+    "id": "Tof7pX",
+    "msgid": "Jobs",
+    "ast": [
+      "Jobs"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "U26cMX",
+    "msgid": "Read system prompts",
+    "ast": [
+      "Read system prompts"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiSystemPromptsSection.tsx"
+    ]
+  },
+  {
+    "id": "U2F/HK",
+    "msgid": "AI usage analytics requires ClickHouse. Contact your administrator.",
+    "ast": [
+      "AI usage analytics requires ClickHouse. Contact your administrator."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "U76pXW",
+    "msgid": "Add as person",
+    "ast": [
+      "Add as person"
+    ],
+    "files": [
+      "src/modules/activities/emails/recipients/components/EmailRecipientChipMenuContent.tsx"
+    ]
+  },
+  {
+    "id": "UJNV7l",
+    "msgid": "String",
+    "ast": [
+      "String"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentResponseFormat.tsx"
+    ]
+  },
+  {
+    "id": "UKdZ7G",
+    "msgid": "Evaluate",
+    "ast": [
+      "Evaluate"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "ULtHaJ",
+    "msgid": "Sending domain",
+    "ast": [
+      "Sending domain"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "URVUmK",
+    "msgid": "Missing email draft permission.",
+    "ast": [
+      "Missing email draft permission."
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "UZQ5eW",
+    "msgid": "Email copied to clipboard",
+    "ast": [
+      "Email copied to clipboard"
+    ],
+    "files": [
+      "src/modules/activities/emails/recipients/components/EmailRecipientChipMenuContent.tsx",
+      "src/modules/object-record/record-field/ui/hooks/useGetSecondaryFieldButton.ts",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/EmailsFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/EmailsFieldInput.tsx"
+    ]
+  },
+  {
+    "id": "UcEfIM",
+    "msgid": "Summarize this record",
+    "ast": [
+      "Summarize this record"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "UjjqZc",
+    "msgid": "Summarize the records in this view and point out anything that needs attention.",
+    "ast": [
+      "Summarize the records in this view and point out anything that needs attention."
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "Ukrbw5",
+    "msgid": "Failed to get response",
+    "ast": [
+      "Failed to get response"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatErrorMessage.tsx"
+    ]
+  },
+  {
+    "id": "UvEQr6",
+    "msgid": "Delete this tool",
+    "ast": [
+      "Delete this tool"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsToolDetail.tsx"
+    ]
+  },
+  {
+    "id": "V/RzSE",
+    "msgid": "No body",
+    "ast": [
+      "No body"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsEmailDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/BodyInput.tsx"
+    ]
+  },
+  {
+    "id": "VBIlvI",
+    "msgid": "Copy output",
+    "ast": [
+      "Copy output"
+    ],
+    "files": [
+      "src/modules/ai/components/TerminalOutput.tsx"
+    ]
+  },
+  {
+    "id": "VJ5blF",
+    "msgid": "Emails already handed to the provider cannot be recalled. This stops everything still waiting to be sent.",
+    "ast": [
+      "Emails already handed to the provider cannot be recalled. This stops everything still waiting to be sent."
+    ],
+    "files": [
+      "src/modules/command-menu-item/engine-command/record/single-record/message-campaign/components/CancelMessageCampaignSingleRecordCommand.tsx"
+    ]
+  },
+  {
+    "id": "VJKLVq",
+    "msgid": "Explain this workflow",
+    "ast": [
+      "Explain this workflow"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "VNC0Db",
+    "msgid": "IAM credentials",
+    "ast": [
+      "IAM credentials"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "VNmPqQ",
+    "msgid": "Search a tool...",
+    "ast": [
+      "Search a tool..."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentToolsTab.tsx"
+    ]
+  },
+  {
+    "id": "VT4irJ",
+    "msgid": "Current date",
+    "ast": [
+      "Current date"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiPrompts.tsx"
+    ]
+  },
+  {
+    "id": "VWAD0p",
+    "msgid": "Navigating in the app",
+    "ast": [
+      "Navigating in the app"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "Vae65A",
+    "msgid": "Research this company",
+    "ast": [
+      "Research this company"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "VjDLrJ",
+    "msgid": "IAM role (instance profile)",
+    "ast": [
+      "IAM role (instance profile)"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "VmBcTm",
+    "msgid": "Input parameters accepted by this tool",
+    "ast": [
+      "Input parameters accepted by this tool"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsToolDetail.tsx"
+    ]
+  },
+  {
+    "id": "VyUuZb",
+    "msgid": "Image URL",
+    "ast": [
+      "Image URL"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx"
+    ]
+  },
+  {
+    "id": "W+ApAD",
+    "msgid": "Reauthorize",
+    "ast": [
+      "Reauthorize"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionCreateCalendarEvent.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "W7Ff/4",
+    "msgid": "Failed to update model availability",
+    "ast": [
+      "Failed to update model availability"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "W9uQXX",
+    "msgid": "Prompt",
+    "ast": [
+      "Prompt"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowEditActionAiAgent.tsx"
+    ]
+  },
+  {
+    "id": "WAjFYI",
+    "msgid": "Start date",
+    "ast": [
+      "Start date"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx",
+      "src/modules/settings/event-logs/components/EventLogFilters.tsx"
+    ]
+  },
+  {
+    "id": "WEYdDv",
+    "msgid": "Recommended",
+    "ast": [
+      "Recommended"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatQuestionCard.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsQuestion.tsx"
+    ]
+  },
+  {
+    "id": "WGQJB3",
+    "msgid": "No model available",
+    "ast": [
+      "No model available"
+    ],
+    "files": [
+      "src/modules/settings/ai/utils/getAiModelModeDescription.ts"
+    ]
+  },
+  {
+    "id": "WMdA7Y",
+    "msgid": "Response Format",
+    "ast": [
+      "Response Format"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentResponseFormat.tsx"
+    ]
+  },
+  {
+    "id": "WRLt0i",
+    "msgid": "Send campaign",
+    "ast": [
+      "Send campaign"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/utils/buildCampaignSendButtonTitle.ts"
+    ]
+  },
+  {
+    "id": "WT0Ie4",
+    "msgid": "Add email channel",
+    "ast": [
+      "Add email channel"
+    ],
+    "files": [
+      "src/modules/settings/workspace/components/SettingsWorkspaceEmailGroupSection.tsx"
+    ]
+  },
+  {
+    "id": "WrQ+BN",
+    "msgid": "Agent interactions will appear here once the agent is used in conversations",
+    "ast": [
+      "Agent interactions will appear here once the agent is used in conversations"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "Wuvfgw",
+    "msgid": "This model will be removed from the provider. You can re-add it later.",
+    "ast": [
+      "This model will be removed from the provider. You can re-add it later."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "WwlPOG",
+    "msgid": "No usage data",
+    "ast": [
+      "No usage data"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "X2afmM",
+    "msgid": "AI Usage by User",
+    "ast": [
+      "AI Usage by User"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "XBRyA1",
+    "msgid": "Control whether recipients can find and manage this topic.",
+    "ast": [
+      "Control whether recipients can find and manage this topic."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceNewUnsubscribeTopic.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "XILg0L",
+    "msgid": "Invalid email address",
+    "ast": [
+      "Invalid email address"
+    ],
+    "files": [
+      "src/modules/activities/emails/recipients/components/EmailRecipientsFieldChip.tsx"
+    ]
+  },
+  {
+    "id": "XO2NLh",
+    "msgid": "3d",
+    "ast": [
+      "3d"
+    ],
+    "files": [
+      "src/modules/ai/constants/AgentChatThreadLastActivityFilterLabels.ts"
+    ]
+  },
+  {
+    "id": "XRc1G9",
+    "msgid": "No output",
+    "ast": [
+      "No output"
+    ],
+    "files": [
+      "src/modules/ai/components/TerminalOutput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx"
+    ]
+  },
+  {
+    "id": "XdZeJk",
+    "msgid": "CC",
+    "ast": [
+      "CC"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "XeFxgX",
+    "msgid": "Update payment",
+    "ast": [
+      "Update payment"
+    ],
+    "files": [
+      "src/modules/information-banner/components/billing/InformationBannerFailPaymentInfo.tsx",
+      "src/modules/settings/billing/components/internal/ResourceCreditPriceSelector.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCardHeaderActions.tsx",
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts"
+    ]
+  },
+  {
+    "id": "Xl929X",
+    "msgid": "Email sent successfully",
+    "ast": [
+      "Email sent successfully"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/useSendEmail.ts"
+    ]
+  },
+  {
+    "id": "Xn2Nlq",
+    "msgid": "Create a workflow",
+    "ast": [
+      "Create a workflow"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "XxzXhf",
+    "msgid": "#",
+    "ast": [
+      "#"
+    ],
+    "files": [
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "Y3MReI",
+    "msgid": "Evaluations",
+    "ast": [
+      "Evaluations"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "Y64TrM",
+    "msgid": "Extra Smart",
+    "ast": [
+      "Extra Smart"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelTierLabel.ts"
+    ]
+  },
+  {
+    "id": "Y9Y+x3",
+    "msgid": "Failed to cancel campaign",
+    "ast": [
+      "Failed to cancel campaign"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/useCancelMessageCampaign.ts"
+    ]
+  },
+  {
+    "id": "YDLN0O",
+    "msgid": "Tool calls",
+    "ast": [
+      "Tool calls"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "YFpLoV",
+    "msgid": "Delete chat",
+    "ast": [
+      "Delete chat"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatThreadDeleteConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "YIjS4q",
+    "msgid": "Twitter/X Search",
+    "ast": [
+      "Twitter/X Search"
+    ],
+    "files": [
+      "src/modules/ai/components/SettingsAgentModelCapabilities.tsx"
+    ]
+  },
+  {
+    "id": "YLozFb",
+    "msgid": "No request body",
+    "ast": [
+      "No request body"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowRunStepLogsHttpRequestDetail.tsx"
+    ]
+  },
+  {
+    "id": "YMNj8z",
+    "msgid": "Delete Agent",
+    "ast": [
+      "Delete Agent"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentDeleteConfirmationModal.tsx",
+      "src/pages/settings/ai/components/SettingsAgentDeleteConfirmationModal.tsx",
+      "src/pages/settings/ai/components/SettingsAgentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "YfW6FA",
+    "msgid": "Tool generation",
+    "ast": [
+      "Tool generation"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "YfXPCQ",
+    "msgid": "AI usage limit reached. Ask an admin to upgrade the plan.",
+    "ast": [
+      "AI usage limit reached. Ask an admin to upgrade the plan."
+    ],
+    "files": [
+      "src/modules/ai/components/AIChatNoMoreBillingCreditsBanner.tsx"
+    ]
+  },
+  {
+    "id": "YkYui1",
+    "msgid": "Select a sender",
+    "ast": [
+      "Select a sender"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignDetailsFields.tsx"
+    ]
+  },
+  {
+    "id": "Ylz+jb",
+    "msgid": "No sender",
+    "ast": [
+      "No sender"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx",
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "YmLrjz",
+    "msgid": "Running code",
+    "ast": [
+      "Running code"
+    ],
+    "files": [
+      "src/modules/ai/utils/tool-display/get-tool-display-message.ts"
+    ]
+  },
+  {
+    "id": "Ys/D8h",
+    "msgid": "Schedule a maintenance window and notify all users",
+    "ast": [
+      "Schedule a maintenance window and notify all users"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "YyNOE7",
+    "msgid": "Conversation",
+    "ast": [
+      "Conversation"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx"
+    ]
+  },
+  {
+    "id": "Z9Z9PX",
+    "msgid": "Cost per 1M tokens",
+    "ast": [
+      "Cost per 1M tokens"
+    ],
+    "files": [
+      "src/modules/settings/ai/components/SettingsAiModelHoverCard.tsx"
+    ]
+  },
+  {
+    "id": "ZBGbuw",
+    "msgid": "[empty string]",
+    "ast": [
+      "[empty string]"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/RoutingDebugDisplay.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/display/components/JsonFieldDisplay.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/RawJsonFieldInput.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJsonDataIndicatorHealthStatus.tsx",
+      "src/modules/settings/event-logs/components/EventLogJsonCell.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepInputDetail.tsx",
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "ZITKtg",
+    "msgid": "Create a role to define permissions for this agent.",
+    "ast": [
+      "Create a role to define permissions for this agent."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentRoleTab.tsx"
+    ]
+  },
+  {
+    "id": "ZKXQ0a",
+    "msgid": "Smart",
+    "ast": [
+      "Smart"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelTierLabel.ts"
+    ]
+  },
+  {
+    "id": "ZbpKL+",
+    "msgid": "Return Value",
+    "ast": [
+      "Return Value"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx"
+    ]
+  },
+  {
+    "id": "ZlCDf+",
+    "msgid": "Response",
+    "ast": [
+      "Response"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/HttpRequestExecutionResult.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowRunStepLogsHttpRequestDetail.tsx"
+    ]
+  },
+  {
+    "id": "Zrez13",
+    "msgid": "Default Models",
+    "ast": [
+      "Default Models"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "ZwR0Vd",
+    "msgid": "Edit each side",
+    "ast": [
+      "Edit each side"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/email-block-settings/components/EmailBoxSidesInput.tsx"
+    ]
+  },
+  {
+    "id": "a0w0iQ",
+    "msgid": "Subtitle",
+    "ast": [
+      "Subtitle"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx"
+    ]
+  },
+  {
+    "id": "aFWU1n",
+    "msgid": "Width",
+    "ast": [
+      "Width"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailBodyThemeFields.ts"
+    ]
+  },
+  {
+    "id": "aH/q8K",
+    "msgid": "Failed to send test email",
+    "ast": [
+      "Failed to send test email"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/useSendMessageCampaignTest.ts"
+    ]
+  },
+  {
+    "id": "aHFG8a",
+    "msgid": "The name recipients see next to your address. It is set when the channel is created.",
+    "ast": [
+      "The name recipients see next to your address. It is set when the channel is created."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "aTTshK",
+    "msgid": "Navigation modes",
+    "ast": [
+      "Navigation modes"
+    ],
+    "files": [
+      "src/modules/navigation/components/MainNavigationDrawerModeSwitcher.tsx"
+    ]
+  },
+  {
+    "id": "aYtHO6",
+    "msgid": "Add permission",
+    "ast": [
+      "Add permission"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPermissionsTab.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowEditActionAiAgent.tsx"
+    ]
+  },
+  {
+    "id": "afg3OQ",
+    "msgid": "No credentials",
+    "ast": [
+      "No credentials"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAiProviderListCard.tsx"
+    ]
+  },
+  {
+    "id": "agPptk",
+    "msgid": "Medium",
+    "ast": [
+      "Medium"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelEffortLabel.ts"
+    ]
+  },
+  {
+    "id": "ahn0Ti",
+    "msgid": "Call recording is not available in this workspace.",
+    "ast": [
+      "Call recording is not available in this workspace."
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/call-recording/components/CallRecordingWidgetUnavailableDisplay.tsx"
+    ]
+  },
+  {
+    "id": "aj02T8",
+    "msgid": "Failed to set maintenance mode.",
+    "ast": [
+      "Failed to set maintenance mode."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "atYgRD",
+    "msgid": "Context size",
+    "ast": [
+      "Context size"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "b2B7Ze",
+    "msgid": "Invalid email verification link.",
+    "ast": [
+      "Invalid email verification link."
+    ],
+    "files": [
+      "src/modules/auth/components/VerifyEmailEffect.tsx"
+    ]
+  },
+  {
+    "id": "b7hiQs",
+    "msgid": "Send Campaign",
+    "ast": [
+      "Send Campaign"
+    ],
+    "files": [
+      "src/modules/side-panel/hooks/useOpenSendCampaignInSidePanel.ts"
+    ]
+  },
+  {
+    "id": "bEXHAZ",
+    "msgid": "The workspace that claimed this app registration",
+    "ast": [
+      "The workspace that claimed this app registration"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationClaims.tsx"
+    ]
+  },
+  {
+    "id": "bKJVLZ",
+    "msgid": "Remove provider",
+    "ast": [
+      "Remove provider"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "bNY3MH",
+    "msgid": "This action cannot be undone. This will permanently delete your agent.<0/>Please type in the agent name to confirm.",
+    "ast": [
+      "This action cannot be undone. This will permanently delete your agent.<0/>Please type in the agent name to confirm."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentDeleteConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "bOwPjT",
+    "msgid": "Boolean",
+    "ast": [
+      "Boolean"
+    ],
+    "files": [
+      "src/modules/ai/constants/OutputFieldTypeOptions.ts"
+    ]
+  },
+  {
+    "id": "bTDz/2",
+    "msgid": "If there's no link, no button will appear.",
+    "ast": [
+      "If there's no link, no button will appear."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx"
+    ]
+  },
+  {
+    "id": "bacFcZ",
+    "msgid": "IAM credentials configured",
+    "ast": [
+      "IAM credentials configured"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "bmwWKk",
+    "msgid": "Failed to delete skill",
+    "ast": [
+      "Failed to delete skill"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSkillsTab.tsx"
+    ]
+  },
+  {
+    "id": "bnJA0G",
+    "msgid": "Error Message",
+    "ast": [
+      "Error Message"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx"
+    ]
+  },
+  {
+    "id": "boSDrg",
+    "msgid": "See what I can do",
+    "ast": [
+      "See what I can do"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "bzSI52",
+    "msgid": "Discard",
+    "ast": [
+      "Discard"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/compose-calendar-event/components/SidePanelComposeCalendarEventPage.tsx",
+      "src/modules/side-panel/pages/compose-email/components/SidePanelComposeEmailPage.tsx"
+    ]
+  },
+  {
+    "id": "c5zxSg",
+    "msgid": "Last message",
+    "ast": [
+      "Last message"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx"
+    ]
+  },
+  {
+    "id": "c6P+Xe",
+    "msgid": "Custom instructions appended to every system prompt",
+    "ast": [
+      "Custom instructions appended to every system prompt"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "cI6f7l",
+    "msgid": "30d",
+    "ast": [
+      "30d"
+    ],
+    "files": [
+      "src/modules/ai/constants/AgentChatThreadLastActivityFilterLabels.ts"
+    ]
+  },
+  {
+    "id": "cVOIgV",
+    "msgid": "Use filter to see existing tools or create your own",
+    "ast": [
+      "Use filter to see existing tools or create your own"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentToolsTab.tsx"
+    ]
+  },
+  {
+    "id": "cheWPw",
+    "msgid": "Duplicates",
+    "ast": [
+      "Duplicates"
+    ],
+    "files": [
+      "src/modules/object-record/record-field-list/record-detail-section/duplicate/components/RecordDetailDuplicatesSection.tsx"
+    ]
+  },
+  {
+    "id": "cjbZw+",
+    "msgid": "Input tokens",
+    "ast": [
+      "Input tokens"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx",
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx"
+    ]
+  },
+  {
+    "id": "cmkudK",
+    "msgid": "Ask anything, @ a record or / a skill...",
+    "ast": [
+      "Ask anything, @ a record or / a skill..."
+    ],
+    "files": [
+      "src/modules/ai/hooks/useAiChatEditor.ts"
+    ]
+  },
+  {
+    "id": "d/bvvp",
+    "msgid": "Assistant",
+    "ast": [
+      "Assistant"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "d14J3J",
+    "msgid": "No chat",
+    "ast": [
+      "No chat"
+    ],
+    "files": [
+      "src/modules/ai/components/NavigationDrawerAiChatContent.tsx"
+    ]
+  },
+  {
+    "id": "d2c8f+",
+    "msgid": "Merge preview",
+    "ast": [
+      "Merge preview"
+    ],
+    "files": [
+      "src/modules/object-record/record-merge/hooks/useMergeRecordsContainerTabs.ts"
+    ]
+  },
+  {
+    "id": "dCIGNG",
+    "msgid": "Border",
+    "ast": [
+      "Border"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorContainerAppearanceSettings.ts",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailBodyThemeFields.ts"
+    ]
+  },
+  {
+    "id": "dE5jOH",
+    "msgid": "Select a section, columns, button or divider in the email body to edit its settings.",
+    "ast": [
+      "Select a section, columns, button or divider in the email body to edit its settings."
+    ],
+    "files": [
+      "src/modules/side-panel/pages/email-block-settings/components/EmailPageStyleSection.tsx"
+    ]
+  },
+  {
+    "id": "dGjQL8",
+    "msgid": "Add an API key to enable AI.",
+    "ast": [
+      "Add an API key to enable AI."
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatApiKeyNotConfiguredMessage.tsx"
+    ]
+  },
+  {
+    "id": "dJl485",
+    "msgid": "Loading skills...",
+    "ast": [
+      "Loading skills..."
+    ],
+    "files": [
+      "src/modules/ai/utils/tool-display/get-tool-display-message.ts"
+    ]
+  },
+  {
+    "id": "dRi20n",
+    "msgid": "No sending address. Connect a verified domain in Settings.",
+    "ast": [
+      "No sending address. Connect a verified domain in Settings."
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignDetailsFields.tsx"
+    ]
+  },
+  {
+    "id": "doZzL7",
+    "msgid": "Send test email",
+    "ast": [
+      "Send test email"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign-test/components/SidePanelSendCampaignTestPage.tsx"
+    ]
+  },
+  {
+    "id": "dq5Wx1",
+    "msgid": "Set up MCP",
+    "ast": [
+      "Set up MCP"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "dqEkUR",
+    "msgid": "Failed to evaluate turn",
+    "ast": [
+      "Failed to evaluate turn"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "drC+Tq",
+    "msgid": "What's installed and being used in your workspace",
+    "ast": [
+      "What's installed and being used in your workspace"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "eMc2xs",
+    "msgid": "Add a step",
+    "ast": [
+      "Add a step"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts",
+      "src/modules/workflow/workflow-diagram/components/WorkflowDiagramCreateStepElement.tsx"
+    ]
+  },
+  {
+    "id": "eeoVfm",
+    "msgid": "No subject",
+    "ast": [
+      "No subject"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx",
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "efhuJR",
+    "msgid": "Columns shown in this view, in display order",
+    "ast": [
+      "Columns shown in this view, in display order"
+    ],
+    "files": [
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "ehjYr9",
+    "msgid": "AI Usage by Type",
+    "ast": [
+      "AI Usage by Type"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "ew1iNU",
+    "msgid": "Drafting email",
+    "ast": [
+      "Drafting email"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "f8HOUp",
+    "msgid": "Thought",
+    "ast": [
+      "Thought"
+    ],
+    "files": [
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx"
+    ]
+  },
+  {
+    "id": "fFSDTy",
+    "msgid": "Turn evaluated successfully",
+    "ast": [
+      "Turn evaluated successfully"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "fMTdkD",
+    "msgid": "Loaded skills",
+    "ast": [
+      "Loaded skills"
+    ],
+    "files": [
+      "src/modules/ai/utils/tool-display/get-tool-display-message.ts"
+    ]
+  },
+  {
+    "id": "fOBEjB",
+    "msgid": "Unsubscribe page",
+    "ast": [
+      "Unsubscribe page"
+    ],
+    "files": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribe.tsx"
+    ]
+  },
+  {
+    "id": "fQFALn",
+    "msgid": "Create a new contact and link them to a company. Details: ",
+    "ast": [
+      "Create a new contact and link them to a company. Details: "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "fdUFex",
+    "msgid": "Drafted",
+    "ast": [
+      "Drafted"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsEmailDetail.tsx"
+    ]
+  },
+  {
+    "id": "fdjq4c",
+    "msgid": "Padding",
+    "ast": [
+      "Padding"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorContainerAppearanceSettings.ts",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailBodyThemeFields.ts",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailPageThemeFields.ts"
+    ]
+  },
+  {
+    "id": "feCRNv",
+    "msgid": "Change email",
+    "ast": [
+      "Change email"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "fiPYZo",
+    "msgid": "Reply...",
+    "ast": [
+      "Reply..."
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/email-thread/components/EmailThreadComposer.tsx"
+    ]
+  },
+  {
+    "id": "fp6HUI",
+    "msgid": "This role is shared with other users or agents and cannot be edited here.",
+    "ast": [
+      "This role is shared with other users or agents and cannot be edited here."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentRoleTab.tsx"
+    ]
+  },
+  {
+    "id": "fyA3o0",
+    "msgid": "Use this email",
+    "ast": [
+      "Use this email"
+    ],
+    "files": [
+      "src/modules/activities/emails/recipients/hooks/useEmailRecipientSuggestions.ts"
+    ]
+  },
+  {
+    "id": "g+5exC",
+    "msgid": "Describe what you want the AI to do...",
+    "ast": [
+      "Describe what you want the AI to do..."
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPromptTab.tsx"
+    ]
+  },
+  {
+    "id": "gDLior",
+    "msgid": "Match Columns",
+    "ast": [
+      "Match Columns"
+    ],
+    "files": [
+      "src/modules/spreadsheet-import/steps/components/SpreadsheetImportStepperContainer.tsx"
+    ]
+  },
+  {
+    "id": "gFkY/T",
+    "msgid": "Context records",
+    "ast": [
+      "Context records"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "gIrKyO",
+    "msgid": "No input",
+    "ast": [
+      "No input"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "gL6+M4",
+    "msgid": "Campaign unscheduled and back in your drafts",
+    "ast": [
+      "Campaign unscheduled and back in your drafts"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/useCancelMessageCampaign.ts"
+    ]
+  },
+  {
+    "id": "gZo0V9",
+    "msgid": "Enable model-specific features",
+    "ast": [
+      "Enable model-specific features"
+    ],
+    "files": [
+      "src/modules/ai/components/SettingsAgentModelCapabilities.tsx"
+    ]
+  },
+  {
+    "id": "gf2eXy",
+    "msgid": "Delete Evaluation Input",
+    "ast": [
+      "Delete Evaluation Input"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentEvalsTab.tsx"
+    ]
+  },
+  {
+    "id": "gpmbqk",
+    "msgid": "Variables",
+    "ast": [
+      "Variables"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx"
+    ]
+  },
+  {
+    "id": "h47p9L",
+    "msgid": "—",
+    "ast": [
+      "—"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsEmailDetail.tsx"
+    ]
+  },
+  {
+    "id": "h4t38o",
+    "msgid": "Skill activated",
+    "ast": [
+      "Skill activated"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSkillsTab.tsx"
+    ]
+  },
+  {
+    "id": "hAAsm/",
+    "msgid": "View role",
+    "ast": [
+      "View role"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowEditActionAiAgent.tsx"
+    ]
+  },
+  {
+    "id": "hG89Ed",
+    "msgid": "Image",
+    "ast": [
+      "Image"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx",
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "hJjXGo",
+    "msgid": "SDK",
+    "ast": [
+      "SDK"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "hKKMk0",
+    "msgid": "The shared email you want to use.",
+    "ast": [
+      "The shared email you want to use."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "hVockd",
+    "msgid": "In-Reply-To",
+    "ast": [
+      "In-Reply-To"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "haFWB2",
+    "msgid": "When any deal with amount over $100,000 has its stage or amount updated, send a notification to the sales channel with the deal name, company, new stage, amount and owner.",
+    "ast": [
+      "When any deal with amount over $100,000 has its stage or amount updated, send a notification to the sales channel with the deal name, company, new stage, amount and owner."
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "hg5QeV",
+    "msgid": "Total cost",
+    "ast": [
+      "Total cost"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "hjUUtd",
+    "msgid": "Server access",
+    "ast": [
+      "Server access"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "hmxr83",
+    "msgid": "Cached input",
+    "ast": [
+      "Cached input"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx",
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx"
+    ]
+  },
+  {
+    "id": "hn6Eox",
+    "msgid": "Email Verification Failed",
+    "ast": [
+      "Email Verification Failed"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "horr45",
+    "msgid": "Newsletters",
+    "ast": [
+      "Newsletters"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceNewUnsubscribeTopic.tsx"
+    ]
+  },
+  {
+    "id": "i1+tKD",
+    "msgid": "Output tokens",
+    "ast": [
+      "Output tokens"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx",
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx"
+    ]
+  },
+  {
+    "id": "i5A3/7",
+    "msgid": "Tool deleted",
+    "ast": [
+      "Tool deleted"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsToolDetail.tsx"
+    ]
+  },
+  {
+    "id": "i9iYjM",
+    "msgid": "Per-day credit consumption.",
+    "ast": [
+      "Per-day credit consumption."
+    ],
+    "files": [
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "iEQQyu",
+    "msgid": "Agent",
+    "ast": [
+      "Agent"
+    ],
+    "files": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypeLabels.ts",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/hooks/useWorkflowAiAgentPermissionActions.ts",
+      "src/pages/settings/ai/SettingsAgentForm.tsx",
+      "src/pages/settings/ai/SettingsAgentForm.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "iH1iv+",
+    "msgid": "No AI provider is configured on this instance.",
+    "ast": [
+      "No AI provider is configured on this instance."
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatEditorSection.tsx",
+      "src/modules/ai/hooks/useAgentChat.ts",
+      "src/pages/settings/ai/components/SettingsAgentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "iOkPjn",
+    "msgid": "Searched the web",
+    "ast": [
+      "Searched the web"
+    ],
+    "files": [
+      "src/modules/ai/utils/tool-display/get-tool-display-message.ts"
+    ]
+  },
+  {
+    "id": "iaXnN5",
+    "msgid": "Information about the current user (auto-generated and included in each request)",
+    "ast": [
+      "Information about the current user (auto-generated and included in each request)"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiPrompts.tsx"
+    ]
+  },
+  {
+    "id": "iaurWj",
+    "msgid": "Model used when you chat with Twenty",
+    "ast": [
+      "Model used when you chat with Twenty"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelsTab.tsx"
+    ]
+  },
+  {
+    "id": "ijLc3m",
+    "msgid": "Bullet list",
+    "ast": [
+      "Bullet list"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx"
+    ]
+  },
+  {
+    "id": "ivJ1Xk",
+    "msgid": "What can you do?",
+    "ast": [
+      "What can you do?"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "j85EUk",
+    "msgid": "Create a new record in this view. Details: ",
+    "ast": [
+      "Create a new record in this view. Details: "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "j8Bj7e",
+    "msgid": "Include emails where all participants share the same domain.",
+    "ast": [
+      "Include emails where all participants share the same domain."
+    ],
+    "files": [
+      "src/modules/settings/workspace/components/SettingsWorkspaceEmailSyncSection.tsx"
+    ]
+  },
+  {
+    "id": "jSHIk0",
+    "msgid": "AI usage analytics across workspaces is available with an Organization key.",
+    "ast": [
+      "AI usage analytics across workspaces is available with an Organization key."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "jTS+KY",
+    "msgid": "Chat Sessions",
+    "ast": [
+      "Chat Sessions"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "jerYcl",
+    "msgid": "Providers",
+    "ast": [
+      "Providers"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "jhr7if",
+    "msgid": "Summarize this record and its recent activity.",
+    "ast": [
+      "Summarize this record and its recent activity."
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "jqzUyM",
+    "msgid": "Unavailable",
+    "ast": [
+      "Unavailable"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx",
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx",
+      "src/modules/settings/billing/hooks/useBillingPlanActions.ts"
+    ]
+  },
+  {
+    "id": "jwOWhc",
+    "msgid": "AI request prep",
+    "ast": [
+      "AI request prep"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "jxRjAG",
+    "msgid": "Untitled topic",
+    "ast": [
+      "Untitled topic"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignDetailsFields.tsx",
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx",
+      "src/modules/settings/unsubscribe-topics/components/SettingsWorkspaceUnsubscribeTopicSection.tsx",
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterDropdown.tsx",
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx",
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx",
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribeTopicDetail.tsx"
+    ]
+  },
+  {
+    "id": "jyqPfh",
+    "msgid": "AI Usage by Workspace",
+    "ast": [
+      "AI Usage by Workspace"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "kJygHz",
+    "msgid": "Balanced",
+    "ast": [
+      "Balanced"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelTierLabel.ts"
+    ]
+  },
+  {
+    "id": "kbL7ds",
+    "msgid": "Learned tools",
+    "ast": [
+      "Learned tools"
+    ],
+    "files": [
+      "src/modules/ai/utils/tool-display/get-tool-display-message.ts"
+    ]
+  },
+  {
+    "id": "kkfXGh",
+    "msgid": "AI consumption over time.",
+    "ast": [
+      "AI consumption over time."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx"
+    ]
+  },
+  {
+    "id": "l6W1lM",
+    "msgid": "Set up forwarding from the source address to this destination.",
+    "ast": [
+      "Set up forwarding from the source address to this destination."
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "l9wI00",
+    "msgid": "Speed",
+    "ast": [
+      "Speed"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierInformationButton.tsx",
+      "src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx"
+    ]
+  },
+  {
+    "id": "lDDIEl",
+    "msgid": "Context building (routing)",
+    "ast": [
+      "Context building (routing)"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "lDIOek",
+    "msgid": "Credits",
+    "ast": [
+      "Credits"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx",
+      "src/modules/ai/components/internal/AiChatContextUsageDetails.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx",
+      "src/modules/settings/billing/components/SettingsBillingCreditsSection.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitForm.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/billing/constants/UsageLimitMeterLabels.ts",
+      "src/modules/settings/usage/components/SettingsUsageAnalyticsSection.tsx",
+      "src/pages/settings/billing/SettingsUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "lFgRxz",
+    "msgid": "View all chats",
+    "ast": [
+      "View all chats"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/ai/components/SettingsAdminAI.tsx"
+    ]
+  },
+  {
+    "id": "lJNEce",
+    "msgid": "Search a skill...",
+    "ast": [
+      "Search a skill..."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSkillsTab.tsx"
+    ]
+  },
+  {
+    "id": "lRpmgk",
+    "msgid": "Add payment method",
+    "ast": [
+      "Add payment method"
+    ],
+    "files": [
+      "src/modules/information-banner/components/billing/InformationBannerFailPaymentInfo.tsx"
+    ]
+  },
+  {
+    "id": "lfFsZ4",
+    "msgid": "Channels",
+    "ast": [
+      "Channels"
+    ],
+    "files": [
+      "src/modules/settings/workspace/components/SettingsWorkspaceEmailGroupSection.tsx"
+    ]
+  },
+  {
+    "id": "lkz6PL",
+    "msgid": "Duration",
+    "ast": [
+      "Duration"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/code-action/components/WorkflowRunStepLogsCodeDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsEmailDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowRunStepLogsHttpRequestDetail.tsx"
+    ]
+  },
+  {
+    "id": "m60AP0",
+    "msgid": "1 widget",
+    "ast": [
+      "1 widget"
+    ],
+    "files": [
+      "src/pages/settings/layout/SettingsLayoutPageLayoutDetail.tsx"
+    ]
+  },
+  {
+    "id": "m7GziZ",
+    "msgid": "When a deal's stage changes to Closed Won, create a task assigned to the deal owner, due 7 days after the close date, with title \"Post-sale check-in\" and the company name in the description.",
+    "ast": [
+      "When a deal's stage changes to Closed Won, create a task assigned to the deal owner, due 7 days after the close date, with title \"Post-sale check-in\" and the company name in the description."
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "mDXkHu",
+    "msgid": "Agent not found",
+    "ast": [
+      "Agent not found"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentForm.tsx"
+    ]
+  },
+  {
+    "id": "mDyyo1",
+    "msgid": "Failed to update model settings",
+    "ast": [
+      "Failed to update model settings"
+    ],
+    "files": [
+      "src/pages/settings/ai/hooks/useSettingsAiModelsActions.ts"
+    ]
+  },
+  {
+    "id": "mINrlz",
+    "msgid": "No email exchange has occurred with this record yet.",
+    "ast": [
+      "No email exchange has occurred with this record yet."
+    ],
+    "files": [
+      "src/modules/activities/emails/components/EmptyInboxPlaceholder.tsx"
+    ]
+  },
+  {
+    "id": "mJIA0/",
+    "msgid": "New Agent",
+    "ast": [
+      "New Agent"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentFormContent.tsx"
+    ]
+  },
+  {
+    "id": "mPsuKh",
+    "msgid": "Enter CC emails, comma-separated",
+    "ast": [
+      "Enter CC emails, comma-separated"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "mVkP/D",
+    "msgid": "Wait for files to finish uploading before answering.",
+    "ast": [
+      "Wait for files to finish uploading before answering."
+    ],
+    "files": [
+      "src/modules/ai/hooks/useSubmitQuestionAnswer.ts"
+    ]
+  },
+  {
+    "id": "mia08l",
+    "msgid": "Insert image",
+    "ast": [
+      "Insert image"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx"
+    ]
+  },
+  {
+    "id": "n0iUzM",
+    "msgid": "Turn",
+    "ast": [
+      "Turn"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "n1Nbbe",
+    "msgid": "Create a record",
+    "ast": [
+      "Create a record"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts",
+      "src/modules/ai/components/suggested-prompts/default-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "n2fhCy",
+    "msgid": "AI chat",
+    "ast": [
+      "AI chat"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelsTab.tsx"
+    ]
+  },
+  {
+    "id": "n5pcaT",
+    "msgid": "Choose a model mode",
+    "ast": [
+      "Choose a model mode"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierDropdown.tsx"
+    ]
+  },
+  {
+    "id": "nDnbEe",
+    "msgid": "Loading retention configuration...",
+    "ast": [
+      "Loading retention configuration..."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx"
+    ]
+  },
+  {
+    "id": "nK72s8",
+    "msgid": "View all evaluations",
+    "ast": [
+      "View all evaluations"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "nLqMRA",
+    "msgid": "Team member",
+    "ast": [
+      "Team member"
+    ],
+    "files": [
+      "src/modules/activities/emails/recipients/components/EmailRecipientChipMenuContent.tsx",
+      "src/modules/activities/emails/recipients/hooks/useEmailRecipientSuggestions.ts"
+    ]
+  },
+  {
+    "id": "nPalt1",
+    "msgid": "No AI consumption recorded for this user.",
+    "ast": [
+      "No AI consumption recorded for this user."
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "nTWWCZ",
+    "msgid": "Low",
+    "ast": [
+      "Low"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelEffortLabel.ts"
+    ]
+  },
+  {
+    "id": "nVOD/+",
+    "msgid": "Reasoning: Default",
+    "ast": [
+      "Reasoning: Default"
+    ],
+    "files": [
+      "src/modules/settings/ai/components/AiModelPinSelect.tsx"
+    ]
+  },
+  {
+    "id": "nivaRq",
+    "msgid": "No list",
+    "ast": [
+      "No list"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignSentEnvelope.tsx",
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "nm91BR",
+    "msgid": "Forwarding address",
+    "ast": [
+      "Forwarding address"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx"
+    ]
+  },
+  {
+    "id": "ntMCci",
+    "msgid": "No evaluations yet for this turn",
+    "ast": [
+      "No evaluations yet for this turn"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "o/S4BG",
+    "msgid": "Border color",
+    "ast": [
+      "Border color"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorContainerAppearanceSettings.ts",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailBodyThemeFields.ts"
+    ]
+  },
+  {
+    "id": "oD38t2",
+    "msgid": "Available tools",
+    "ast": [
+      "Available tools"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "oI7HO0",
+    "msgid": "AI agent run",
+    "ast": [
+      "AI agent run"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "oIhFvf",
+    "msgid": "Page style",
+    "ast": [
+      "Page style"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/email-block-settings/components/EmailPageStyleSection.tsx"
+    ]
+  },
+  {
+    "id": "oOi11l",
+    "msgid": "Scroll to bottom",
+    "ast": [
+      "Scroll to bottom"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatScrollToBottomButton.tsx"
+    ]
+  },
+  {
+    "id": "oSORjU",
+    "msgid": "Use only letters, numbers, underscores, dots or hyphens (max 64 characters).",
+    "ast": [
+      "Use only letters, numbers, underscores, dots or hyphens (max 64 characters)."
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx"
+    ]
+  },
+  {
+    "id": "oa2dNe",
+    "msgid": "Check recent runs",
+    "ast": [
+      "Check recent runs"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "ooA+hm",
+    "msgid": "At a glance",
+    "ast": [
+      "At a glance"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "ospBFm",
+    "msgid": "Manually selected for this mode.",
+    "ast": [
+      "Manually selected for this mode."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx"
+    ]
+  },
+  {
+    "id": "p1M9l4",
+    "msgid": "Untitled Workflow",
+    "ast": [
+      "Untitled Workflow"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/code-action/components/WorkflowEditActionCode.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "p3Hivn",
+    "msgid": "No evaluation inputs yet. Add your first test input above.",
+    "ast": [
+      "No evaluation inputs yet. Add your first test input above."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentEvalsTab.tsx"
+    ]
+  },
+  {
+    "id": "p5P8NB",
+    "msgid": "E.g., \"We are a B2B SaaS company. Always use formal language...\"",
+    "ast": [
+      "E.g., \"We are a B2B SaaS company. Always use formal language...\""
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "p8GO5h",
+    "msgid": "recipient@example.com",
+    "ast": [
+      "recipient@example.com"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign-test/components/SidePanelSendCampaignTestPage.tsx"
+    ]
+  },
+  {
+    "id": "p8KUPY",
+    "msgid": "Explain what this workflow does, step by step.",
+    "ast": [
+      "Explain what this workflow does, step by step."
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "pNo8xt",
+    "msgid": "Twenty fills each level with the best model that meets your requirements",
+    "ast": [
+      "Twenty fills each level with the best model that meets your requirements"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelsTab.tsx"
+    ]
+  },
+  {
+    "id": "pZZH4Q",
+    "msgid": "Open Gmail",
+    "ast": [
+      "Open Gmail"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "q5ruxx",
+    "msgid": "Add Model",
+    "ast": [
+      "Add Model"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "qDsMss",
+    "msgid": "Brief explanation of this output field",
+    "ast": [
+      "Brief explanation of this output field"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx"
+    ]
+  },
+  {
+    "id": "qIaOZk",
+    "msgid": "Loading emails",
+    "ast": [
+      "Loading emails"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/EmailLoader.tsx"
+    ]
+  },
+  {
+    "id": "qMTN0w",
+    "msgid": "Per-day AI consumption.",
+    "ast": [
+      "Per-day AI consumption."
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "qXiOAF",
+    "msgid": "Dictation failed. Try again.",
+    "ast": [
+      "Dictation failed. Try again."
+    ],
+    "files": [
+      "src/modules/ai/dictation/utils/getDictationFailureMessage.ts"
+    ]
+  },
+  {
+    "id": "qiD/6r",
+    "msgid": "AI chat threads for this workspace",
+    "ast": [
+      "AI chat threads for this workspace"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "qrGMTi",
+    "msgid": "Person created",
+    "ast": [
+      "Person created"
+    ],
+    "files": [
+      "src/modules/activities/emails/recipients/components/EmailRecipientChipMenuContent.tsx"
+    ]
+  },
+  {
+    "id": "qsUXL3",
+    "msgid": "Turn Details",
+    "ast": [
+      "Turn Details"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "qtoOYG",
+    "msgid": "No limit",
+    "ast": [
+      "No limit"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiChatUsageLabel.ts",
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardRecordTableSettings.tsx"
+    ]
+  },
+  {
+    "id": "qzD6hf",
+    "msgid": "Type anything...",
+    "ast": [
+      "Type anything..."
+    ],
+    "files": [
+      "src/modules/side-panel/components/SidePanelTopBar.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowAiAgentPermissionsTab.tsx"
+    ]
+  },
+  {
+    "id": "r38Vo4",
+    "msgid": "Reschedule campaign",
+    "ast": [
+      "Reschedule campaign"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/utils/buildCampaignSendButtonTitle.ts"
+    ]
+  },
+  {
+    "id": "rQiOWg",
+    "msgid": "Delete Tool",
+    "ast": [
+      "Delete Tool"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsToolDetail.tsx"
+    ]
+  },
+  {
+    "id": "rV71K7",
+    "msgid": "Pick an address to send from or set a workspace member as variable",
+    "ast": [
+      "Pick an address to send from or set a workspace member as variable"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "rYRNgS",
+    "msgid": "Compose email",
+    "ast": [
+      "Compose email"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/useComposeEmailRelatedRecordAction.ts"
+    ]
+  },
+  {
+    "id": "rlwve5",
+    "msgid": "Chat actions",
+    "ast": [
+      "Chat actions"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatPageThreadHeader.tsx",
+      "src/modules/ai/components/AiChatThreadItemMenu.tsx"
+    ]
+  },
+  {
+    "id": "rvJGTw",
+    "msgid": "Delete Skill",
+    "ast": [
+      "Delete Skill"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "rz6LK0",
+    "msgid": "Copy email",
+    "ast": [
+      "Copy email"
+    ],
+    "files": [
+      "src/modules/activities/emails/recipients/components/EmailRecipientChipMenuContent.tsx"
+    ]
+  },
+  {
+    "id": "sFMBP5",
+    "msgid": "Topics",
+    "ast": [
+      "Topics"
+    ],
+    "files": [
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribe.tsx"
+    ]
+  },
+  {
+    "id": "saaSLd",
+    "msgid": "Only the subject is shared",
+    "ast": [
+      "Only the subject is shared"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/EmailThreadNotShared.tsx"
+    ]
+  },
+  {
+    "id": "scu3wk",
+    "msgid": "Model",
+    "ast": [
+      "Model"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierInformationButton.tsx",
+      "src/modules/ai/components/AiModelTierSlider.tsx"
+    ]
+  },
+  {
+    "id": "sdlhyk",
+    "msgid": "Inactive Skill Options",
+    "ast": [
+      "Inactive Skill Options"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillInactiveMenuDropDown.tsx"
+    ]
+  },
+  {
+    "id": "si+vZD",
+    "msgid": "Delivery",
+    "ast": [
+      "Delivery"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "svTijF",
+    "msgid": "Email verification link resent!",
+    "ast": [
+      "Email verification link resent!"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/hooks/useHandleResendEmailVerificationToken.ts"
+    ]
+  },
+  {
+    "id": "t0t36i",
+    "msgid": "No tools were called",
+    "ast": [
+      "No tools were called"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "t7TeQU",
+    "msgid": "Messages",
+    "ast": [
+      "Messages"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx",
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "tDlhkF",
+    "msgid": "Chat name",
+    "ast": [
+      "Chat name"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatPageThreadHeader.tsx",
+      "src/modules/ai/components/NavigationDrawerAiChatThreadItem.tsx"
+    ]
+  },
+  {
+    "id": "tKTq/b",
+    "msgid": "Counting recipients...",
+    "ast": [
+      "Counting recipients..."
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx"
+    ]
+  },
+  {
+    "id": "tNFUgB",
+    "msgid": "Models for this provider. Toggle to enable or disable.",
+    "ast": [
+      "Models for this provider. Toggle to enable or disable."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "tNT8wT",
+    "msgid": "User Info",
+    "ast": [
+      "User Info"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "tTItk7",
+    "msgid": "No output available",
+    "ast": [
+      "No output available"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/components/WorkflowRunStepOutputDetail.tsx"
+    ]
+  },
+  {
+    "id": "tVKt7G",
+    "msgid": "Sync Internal Emails",
+    "ast": [
+      "Sync Internal Emails"
+    ],
+    "files": [
+      "src/modules/settings/workspace/components/SettingsWorkspaceEmailSyncSection.tsx"
+    ]
+  },
+  {
+    "id": "tc328m",
+    "msgid": "Instruction for AI",
+    "ast": [
+      "Instruction for AI"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx"
+    ]
+  },
+  {
+    "id": "tzhisR",
+    "msgid": "AI Usage",
+    "ast": [
+      "AI Usage"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiUsageTab.tsx",
+      "src/pages/settings/ai/SettingsAiUsageUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "u1O1GV",
+    "msgid": "Your card was saved, but the payment still needs attention.",
+    "ast": [
+      "Your card was saved, but the payment still needs attention."
+    ],
+    "files": [
+      "src/modules/settings/billing/hooks/useWaitForPaymentRecovery.tsx"
+    ]
+  },
+  {
+    "id": "u5nAtE",
+    "msgid": "Set for this agent only",
+    "ast": [
+      "Set for this agent only"
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelPicker.tsx"
+    ]
+  },
+  {
+    "id": "u8JHrO",
+    "msgid": "Clear filters",
+    "ast": [
+      "Clear filters"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatThreadFilterDropdownRootMenu.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsFilterDropdown.tsx",
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterMenuContent.tsx"
+    ]
+  },
+  {
+    "id": "uHpu1c",
+    "msgid": "was deleted by",
+    "ast": [
+      "was deleted by"
+    ],
+    "files": [
+      "src/modules/activities/timeline-activities/rows/main-object/components/EventRowMainObject.tsx"
+    ]
+  },
+  {
+    "id": "uJ+Ve2",
+    "msgid": "Region",
+    "ast": [
+      "Region"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "uN7gsS",
+    "msgid": "Summarize this view",
+    "ast": [
+      "Summarize this view"
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "uavm+q",
+    "msgid": "Stack Trace",
+    "ast": [
+      "Stack Trace"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminJobDetailsExpandable.tsx"
+    ]
+  },
+  {
+    "id": "ukH0aS",
+    "msgid": "Alignment",
+    "ast": [
+      "Alignment"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorTypographySettings.ts",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailBodyThemeFields.ts"
+    ]
+  },
+  {
+    "id": "uvoIrk",
+    "msgid": "Built-in models from this provider. Toggle to enable or disable.",
+    "ast": [
+      "Built-in models from this provider. Toggle to enable or disable."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "uxfv+n",
+    "msgid": "Unsupported image format",
+    "ast": [
+      "Unsupported image format"
+    ],
+    "files": [
+      "src/modules/activities/emails/hooks/useUploadEmailImage.ts"
+    ]
+  },
+  {
+    "id": "uza/B9",
+    "msgid": "Add a note to this record: ",
+    "ast": [
+      "Add a note to this record: "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "v/zjIb",
+    "msgid": "Admin Panel - Health",
+    "ast": [
+      "Admin Panel - Health"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminIndicatorHealthStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminQueueDetail.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "vH3ZQY",
+    "msgid": "Link label",
+    "ast": [
+      "Link label"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/display/dnd/hooks/useHandleAddToNavigationDrop.ts",
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelEditLinkItemView.tsx",
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemMainMenu.tsx",
+      "src/modules/navigation-menu-item/edit/side-panel/hooks/useAddLinkToNavigationMenu.ts",
+      "src/modules/side-panel/components/SidePanelLinkInfo.tsx",
+      "src/modules/side-panel/components/SidePanelLinkInfo.tsx"
+    ]
+  },
+  {
+    "id": "vJiM7T",
+    "msgid": "Failed to activate skill",
+    "ast": [
+      "Failed to activate skill"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSkillsTab.tsx"
+    ]
+  },
+  {
+    "id": "vK0RL8",
+    "msgid": "No topic",
+    "ast": [
+      "No topic"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignDetailsFields.tsx"
+    ]
+  },
+  {
+    "id": "vPCRNy",
+    "msgid": "Connect AI assistants like Claude or Cursor to your workspace via the Model Context Protocol",
+    "ast": [
+      "Connect AI assistants like Claude or Cursor to your workspace via the Model Context Protocol"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx"
+    ]
+  },
+  {
+    "id": "vV85hO",
+    "msgid": "No logs were recorded for this step.",
+    "ast": [
+      "No logs were recorded for this step."
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsDetail.tsx"
+    ]
+  },
+  {
+    "id": "vXM54W",
+    "msgid": "Drafted email",
+    "ast": [
+      "Drafted email"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "w+ywgn",
+    "msgid": "Sending starts right away, ahead of the time this campaign is holding.",
+    "ast": [
+      "Sending starts right away, ahead of the time this campaign is holding."
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/utils/buildCampaignDeliveryHint.ts"
+    ]
+  },
+  {
+    "id": "w3oYcQ",
+    "msgid": "Searched the help center",
+    "ast": [
+      "Searched the help center"
+    ],
+    "files": [
+      "src/modules/ai/constants/action-tool-status-labels.constant.ts"
+    ]
+  },
+  {
+    "id": "wBA/cx",
+    "msgid": "AI usage limit reached. Contact support to upgrade.",
+    "ast": [
+      "AI usage limit reached. Contact support to upgrade."
+    ],
+    "files": [
+      "src/modules/ai/components/AIChatNoMoreBillingCreditsBanner.tsx"
+    ]
+  },
+  {
+    "id": "wH8/eh",
+    "msgid": "7d",
+    "ast": [
+      "7d"
+    ],
+    "files": [
+      "src/modules/ai/constants/AgentChatThreadLastActivityFilterLabels.ts"
+    ]
+  },
+  {
+    "id": "wUf2OL",
+    "msgid": "Reasoning",
+    "ast": [
+      "Reasoning"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatMessagePartRenderer.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx"
+    ]
+  },
+  {
+    "id": "wW3b68",
+    "msgid": "Network error",
+    "ast": [
+      "Network error"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowRunStepLogsHttpRequestDetail.tsx"
+    ]
+  },
+  {
+    "id": "waFx9W",
+    "msgid": "Managed",
+    "ast": [
+      "Managed"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentToolsTab.tsx"
+    ]
+  },
+  {
+    "id": "wgUPZ1",
+    "msgid": "No comment",
+    "ast": [
+      "No comment"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAgentTurnDetail.tsx"
+    ]
+  },
+  {
+    "id": "wja8aL",
+    "msgid": "Untitled",
+    "ast": [
+      "Untitled"
+    ],
+    "files": [
+      "src/modules/ai/components/AiChatThreadListItem.tsx",
+      "src/modules/ai/components/ChatReferenceChip.tsx",
+      "src/modules/ai/components/ChatReferenceChip.tsx",
+      "src/modules/ai/components/internal/AgentChatFilePreview.tsx",
+      "src/modules/mention/components/MentionRecordChip.tsx",
+      "src/modules/object-core/components/cells/CoreObjectNameCell.tsx",
+      "src/modules/object-record/components/RecordChip.tsx",
+      "src/modules/object-record/components/RecordChip.tsx",
+      "src/modules/object-record/record-title-cell/components/RecordTitleCellTextFieldDisplay.tsx",
+      "src/modules/object-record/record-title-cell/components/RecordTitleFullNameFieldDisplay.tsx",
+      "src/modules/page-layout/hooks/usePageLayoutAddTabStrategy.ts",
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTableRow.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/side-panel/components/SidePanelContextChip.tsx",
+      "src/modules/ui/field/display/components/ActorDisplay.tsx",
+      "src/modules/ui/field/display/components/ArrayDisplay.tsx",
+      "src/modules/ui/field/display/components/GlobalFilePreviewModal.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceChatThread.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "wk1eMj",
+    "msgid": "1d",
+    "ast": [
+      "1d"
+    ],
+    "files": [
+      "src/modules/ai/constants/AgentChatThreadLastActivityFilterLabels.ts"
+    ]
+  },
+  {
+    "id": "wtxjAY",
+    "msgid": "Workspace members",
+    "ast": [
+      "Workspace members"
+    ],
+    "files": [
+      "src/modules/settings/event-logs/components/EventLogFilters.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx"
+    ]
+  },
+  {
+    "id": "wu9eMO",
+    "msgid": "Generated Files",
+    "ast": [
+      "Generated Files"
+    ],
+    "files": [
+      "src/modules/ai/components/CodeExecutionDisplay.tsx"
+    ]
+  },
+  {
+    "id": "x4BdSX",
+    "msgid": "Advanced options",
+    "ast": [
+      "Advanced options"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionEmailBase.tsx"
+    ]
+  },
+  {
+    "id": "x4Xp3c",
+    "msgid": "updated",
+    "ast": [
+      "updated"
+    ],
+    "files": [
+      "src/modules/activities/timeline-activities/rows/main-object/components/EventRowMainObjectUpdated.tsx",
+      "src/modules/activities/timeline-activities/rows/main-object/components/EventRowMainObjectUpdated.tsx"
+    ]
+  },
+  {
+    "id": "x97ifc",
+    "msgid": "Previous 7 days",
+    "ast": [
+      "Previous 7 days"
+    ],
+    "files": [
+      "src/modules/ai/utils/groupThreadsByDate.ts"
+    ]
+  },
+  {
+    "id": "xGd6Ih",
+    "msgid": "Open Outlook",
+    "ast": [
+      "Open Outlook"
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/components/EmailVerificationSent.tsx"
+    ]
+  },
+  {
+    "id": "xQXPRn",
+    "msgid": "Define the name and instructions for this skill",
+    "ast": [
+      "Define the name and instructions for this skill"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "xdA/+p",
+    "msgid": "Tools",
+    "ast": [
+      "Tools"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentToolsTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx",
+      "src/pages/settings/ai/SettingsAI.tsx"
+    ]
+  },
+  {
+    "id": "xeiujy",
+    "msgid": "Text",
+    "ast": [
+      "Text"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx",
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx",
+      "src/modules/advanced-text-editor/extensions/slash-command/DefaultSlashCommands.ts",
+      "src/modules/ai/constants/OutputFieldTypeOptions.ts",
+      "src/modules/side-panel/pages/email-block-settings/constants/EmailBodyThemeFields.ts",
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/BodyInput.tsx"
+    ]
+  },
+  {
+    "id": "xitJ93",
+    "msgid": "Filter this view to only show ",
+    "ast": [
+      "Filter this view to only show "
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "xo340M",
+    "msgid": "No model is available for this mode.",
+    "ast": [
+      "No model is available for this mode."
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx"
+    ]
+  },
+  {
+    "id": "xu7RPQ",
+    "msgid": "Less",
+    "ast": [
+      "Less"
+    ],
+    "files": [
+      "src/modules/ai/components/internal/AiChatContextUsageButton.tsx"
+    ]
+  },
+  {
+    "id": "y0SPQU",
+    "msgid": "Go to billing",
+    "ast": [
+      "Go to billing"
+    ],
+    "files": [
+      "src/modules/settings/billing/hooks/useWaitForPaymentRecovery.tsx",
+      "src/modules/settings/billing/hooks/useWaitForPaymentRecovery.tsx"
+    ]
+  },
+  {
+    "id": "y3HaQk",
+    "msgid": "Timing",
+    "ast": [
+      "Timing"
+    ],
+    "files": [
+      "src/modules/ai/components/RoutingDebugDisplay.tsx"
+    ]
+  },
+  {
+    "id": "yBC05U",
+    "msgid": "Remove this provider and disconnect all its models",
+    "ast": [
+      "Remove this provider and disconnect all its models"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx"
+    ]
+  },
+  {
+    "id": "yBYKk1",
+    "msgid": "Nothing has gone out yet. The campaign returns to your drafts and you can edit or schedule it again.",
+    "ast": [
+      "Nothing has gone out yet. The campaign returns to your drafts and you can edit or schedule it again."
+    ],
+    "files": [
+      "src/modules/command-menu-item/engine-command/record/single-record/message-campaign/components/CancelMessageCampaignSingleRecordCommand.tsx"
+    ]
+  },
+  {
+    "id": "yHwG3y",
+    "msgid": "Soon",
+    "ast": [
+      "Soon"
+    ],
+    "files": [
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownCalendarViewContent.tsx",
+      "src/modules/settings/components/SettingsCard.tsx",
+      "src/modules/ui/navigation/navigation-drawer/components/NavigationDrawerItem.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceCommunications.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceCommunications.tsx"
+    ]
+  },
+  {
+    "id": "yImXof",
+    "msgid": "Impersonation is disabled for this workspace",
+    "ast": [
+      "Impersonation is disabled for this workspace"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminUserDetail.tsx"
+    ]
+  },
+  {
+    "id": "yJoako",
+    "msgid": "Finish editing the layout to open AI",
+    "ast": [
+      "Finish editing the layout to open AI"
+    ],
+    "files": [
+      "src/modules/navigation/components/MainNavigationDrawerModeSwitcher.tsx"
+    ]
+  },
+  {
+    "id": "yL8XdR",
+    "msgid": "Outage",
+    "ast": [
+      "Outage"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatusRightContainer.tsx"
+    ]
+  },
+  {
+    "id": "yLvOxg",
+    "msgid": "This key should be set through body input",
+    "ast": [
+      "This key should be set through body input"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/KeyValuePairInput.tsx"
+    ]
+  },
+  {
+    "id": "yPrbsy",
+    "msgid": "Recipients",
+    "ast": [
+      "Recipients"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/send-campaign/components/SendCampaignForm.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowRunStepLogsEmailDetail.tsx"
+    ]
+  },
+  {
+    "id": "ycHL5x",
+    "msgid": "Research this company and summarize what they do, how big they are and any recent news.",
+    "ast": [
+      "Research this company and summarize what they do, how big they are and any recent news."
+    ],
+    "files": [
+      "src/modules/ai/components/suggested-prompts/contextual-suggested-prompts.ts"
+    ]
+  },
+  {
+    "id": "yx/fMc",
+    "msgid": "High",
+    "ast": [
+      "High"
+    ],
+    "files": [
+      "src/modules/ai/utils/getAiModelEffortLabel.ts"
+    ]
+  },
+  {
+    "id": "yxuCkO",
+    "msgid": "Unsubscribers",
+    "ast": [
+      "Unsubscribers"
+    ],
+    "files": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx",
+      "src/pages/settings/communications/SettingsWorkspaceUnsubscribe.tsx"
+    ]
+  },
+  {
+    "id": "z9jSP/",
+    "msgid": "Call Recording Unavailable",
+    "ast": [
+      "Call Recording Unavailable"
+    ],
+    "files": [
+      "src/modules/page-layout/widgets/call-recording/components/CallRecordingWidgetUnavailableDisplay.tsx"
+    ]
+  },
+  {
+    "id": "zFSQY3",
+    "msgid": "was created by",
+    "ast": [
+      "was created by"
+    ],
+    "files": [
+      "src/modules/activities/timeline-activities/rows/main-object/components/EventRowMainObject.tsx"
+    ]
+  },
+  {
+    "id": "zJsHrW",
+    "msgid": "Untitled field",
+    "ast": [
+      "Untitled field"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx"
+    ]
+  },
+  {
+    "id": "zLXWou",
+    "msgid": "Not measured at this effort yet, so these are the base model's readings.",
+    "ast": [
+      "Not measured at this effort yet, so these are the base model's readings."
+    ],
+    "files": [
+      "src/modules/ai/components/AiModelTierInformationButton.tsx"
+    ]
+  },
+  {
+    "id": "zasxcV",
+    "msgid": "Should changing the label also change the API name?",
+    "ast": [
+      "Should changing the label also change the API name?"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsSkillFormContent.tsx"
+    ]
+  },
+  {
+    "id": "zgPjoD",
+    "msgid": "Heading",
+    "ast": [
+      "Heading"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/components/AdvancedTextEditorInsertRail.tsx"
+    ]
+  },
+  {
+    "id": "zsslJv",
+    "msgid": "No content",
+    "ast": [
+      "No content"
+    ],
+    "files": [
+      "src/modules/activities/emails/components/CampaignSentPreview.tsx"
+    ]
+  },
+  {
+    "id": "zw/lpB",
+    "msgid": "User Context",
+    "ast": [
+      "User Context"
+    ],
+    "files": [
+      "src/pages/settings/ai/SettingsAiPrompts.tsx"
+    ]
+  },
+  {
+    "id": "zwWKhA",
+    "msgid": "Learn more",
+    "ast": [
+      "Learn more"
+    ],
+    "files": [
+      "src/modules/information-banner/components/maintenance/InformationBannerMaintenance.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/form-action/components/WorkflowEditActionFormBuilder.tsx"
+    ]
+  },
+  {
+    "id": "zz/Wd/",
+    "msgid": "Mode",
+    "ast": [
+      "Mode"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx"
+    ]
+  }
+]

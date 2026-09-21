@@ -1,0 +1,3806 @@
+[
+  {
+    "id": "+Fb+7w",
+    "msgid": "Webhook ID is required for updates",
+    "ast": [
+      "Webhook ID is required for updates"
+    ],
+    "files": [
+      "src/modules/settings/developers/hooks/useWebhookForm.ts"
+    ]
+  },
+  {
+    "id": "+Gi3x1",
+    "msgid": "Upgrading...",
+    "ast": [
+      "Upgrading..."
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationActionButton.tsx"
+    ]
+  },
+  {
+    "id": "+K0AvT",
+    "msgid": "Disconnect",
+    "ast": [
+      "Disconnect"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "+b7T3G",
+    "msgid": "Updated",
+    "ast": [
+      "Updated"
+    ],
+    "files": [
+      "src/modules/settings/components/SettingsDatabaseEventsForm.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceDetail.tsx",
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "+gFBV8",
+    "msgid": "Require authentication",
+    "ast": [
+      "Require authentication"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx",
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "+n2jpB",
+    "msgid": "Open Cursor's MCP installer with the Twenty remote server config.",
+    "ast": [
+      "Open Cursor's MCP installer with the Twenty remote server config."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "+rVpsA",
+    "msgid": "Configuration of this timeline activity type",
+    "ast": [
+      "Configuration of this timeline activity type"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "+tE2x9",
+    "msgid": "Application successfully uninstalled.",
+    "ast": [
+      "Application successfully uninstalled."
+    ],
+    "files": [
+      "src/modules/settings/applications/hooks/useUninstallApplication.ts"
+    ]
+  },
+  {
+    "id": "/OyhlM",
+    "msgid": "Add the Twenty MCP server to your LibreChat configuration file.",
+    "ast": [
+      "Add the Twenty MCP server to your LibreChat configuration file."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "/P/oME",
+    "msgid": "Copy this secret as it will not be visible again",
+    "ast": [
+      "Copy this secret as it will not be visible again"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "/WlFSf",
+    "msgid": "Create an application",
+    "ast": [
+      "Create an application"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsDeveloperTab.tsx"
+    ]
+  },
+  {
+    "id": "/XvL19",
+    "msgid": "No workspaces found",
+    "ast": [
+      "No workspaces found"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstalledWorkspaces.tsx"
+    ]
+  },
+  {
+    "id": "/YalkJ",
+    "msgid": "GraphQL API Playground",
+    "ast": [
+      "GraphQL API Playground"
+    ],
+    "files": [
+      "src/pages/settings/developers/playground/SettingsGraphQLPlayground.tsx"
+    ]
+  },
+  {
+    "id": "/nv0ml",
+    "msgid": "Auto-upgrade",
+    "ast": [
+      "Auto-upgrade"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationGeneralSection.tsx"
+    ]
+  },
+  {
+    "id": "/oEL03",
+    "msgid": "Triggers the function when a record changes",
+    "ast": [
+      "Triggers the function when a record changes"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionDatabaseEventTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "0RAaKu",
+    "msgid": "Install link",
+    "ast": [
+      "Install link"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "0XIngj",
+    "msgid": "View screenshot in full screen",
+    "ast": [
+      "View screenshot in full screen"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationScreenshotGallery.tsx"
+    ]
+  },
+  {
+    "id": "0pC/y6",
+    "msgid": "Event",
+    "ast": [
+      "Event"
+    ],
+    "files": [
+      "src/modules/settings/event-logs/utils/getColumnsForEventLogTable.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "0yRnXS",
+    "msgid": "https://example.com/webhook",
+    "ast": [
+      "https://example.com/webhook"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "1262aG",
+    "msgid": "Applications - Developer",
+    "ast": [
+      "Applications - Developer"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationRegistrationDetails.tsx"
+    ]
+  },
+  {
+    "id": "14PdY0",
+    "msgid": "Config",
+    "ast": [
+      "Config"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/hooks/useSettingsAdminTabs.ts",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDetail.tsx",
+      "src/pages/settings/applications/SettingsApplicationRegistrationDetails.tsx"
+    ]
+  },
+  {
+    "id": "1JBTZV",
+    "msgid": "Expression",
+    "ast": [
+      "Expression"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionCronTriggerSection.tsx",
+      "src/modules/workflow/workflow-trigger/components/WorkflowEditTriggerCronForm.tsx"
+    ]
+  },
+  {
+    "id": "1K7pVq",
+    "msgid": "Package name or universal identifier",
+    "ast": [
+      "Package name or universal identifier"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "1Un+Rf",
+    "msgid": "https://example.com/callback",
+    "ast": [
+      "https://example.com/callback"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx"
+    ]
+  },
+  {
+    "id": "2FBgnq",
+    "msgid": "Rotate secret",
+    "ast": [
+      "Rotate secret"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "2UWdFd",
+    "msgid": "This function has no trigger configured, so it can only be invoked from the Test tab or by other functions.",
+    "ast": [
+      "This function has no trigger configured, so it can only be invoked from the Test tab or by other functions."
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTriggersTab.tsx"
+    ]
+  },
+  {
+    "id": "2X4ecw",
+    "msgid": "Webhook deleted successfully",
+    "ast": [
+      "Webhook deleted successfully"
+    ],
+    "files": [
+      "src/modules/settings/developers/hooks/useWebhookForm.ts"
+    ]
+  },
+  {
+    "id": "2lDWPO",
+    "msgid": "This application could not be found. It may have been removed from the marketplace catalog.",
+    "ast": [
+      "This application could not be found. It may have been removed from the marketplace catalog."
+    ],
+    "files": [
+      "src/pages/settings/applications/utils/getClaimErrorContent.ts"
+    ]
+  },
+  {
+    "id": "2rtIq8",
+    "msgid": "Short label",
+    "ast": [
+      "Short label"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "34nxyb",
+    "msgid": "Triggers",
+    "ast": [
+      "Triggers"
+    ],
+    "files": [
+      "src/pages/settings/logic-functions/SettingsLogicFunctionDetail.tsx"
+    ]
+  },
+  {
+    "id": "3d1wCB",
+    "msgid": "yes",
+    "ast": [
+      "yes"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationActionButton.tsx",
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx",
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "3hNFUc",
+    "msgid": "Sample input",
+    "ast": [
+      "Sample input"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionTriggerPayloadFormat.tsx"
+    ]
+  },
+  {
+    "id": "3nWPN6",
+    "msgid": "Test your function",
+    "ast": [
+      "Test your function"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx"
+    ]
+  },
+  {
+    "id": "3o+CgI",
+    "msgid": "See app page",
+    "ast": [
+      "See app page"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationShareLinkButtons.tsx"
+    ]
+  },
+  {
+    "id": "3pJ7V5",
+    "msgid": "Component name",
+    "ast": [
+      "Component name"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "45Gm/K",
+    "msgid": "All the applications currently installed on this workspace",
+    "ast": [
+      "All the applications currently installed on this workspace"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationsTable.tsx"
+    ]
+  },
+  {
+    "id": "4D/zWv",
+    "msgid": "Add Twenty as a Streamable HTTP extension in Goose.",
+    "ast": [
+      "Add Twenty as a Streamable HTTP extension in Goose."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "4XlFx/",
+    "msgid": "Commands copied to clipboard",
+    "ast": [
+      "Commands copied to clipboard"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsDeveloperTab.tsx"
+    ]
+  },
+  {
+    "id": "4b3oEV",
+    "msgid": "Content",
+    "ast": [
+      "Content"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationDetails.tsx",
+      "src/pages/settings/applications/SettingsAvailableApplicationDetails.tsx"
+    ]
+  },
+  {
+    "id": "5PWKlr",
+    "msgid": "Could not run the lookup",
+    "ast": [
+      "Could not run the lookup"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "5UjiOC",
+    "msgid": "Manage this application's OAuth connection.",
+    "ast": [
+      "Manage this application's OAuth connection."
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "5Vy8D1",
+    "msgid": "Error uninstalling application.",
+    "ast": [
+      "Error uninstalling application."
+    ],
+    "files": [
+      "src/modules/settings/applications/hooks/useUninstallApplication.ts",
+      "src/modules/settings/applications/hooks/useUninstallApplication.ts"
+    ]
+  },
+  {
+    "id": "5qU4Mu",
+    "msgid": "Watch API demo",
+    "ast": [
+      "Watch API demo"
+    ],
+    "files": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "64tOpZ",
+    "msgid": "Try our REST or GraphQL API playgrounds",
+    "ast": [
+      "Try our REST or GraphQL API playgrounds"
+    ],
+    "files": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "6Ef36Q",
+    "msgid": "Headless",
+    "ast": [
+      "Headless"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "6K6XSi",
+    "msgid": "JetBrains AI / Junie",
+    "ast": [
+      "JetBrains AI / Junie"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "6NCseM",
+    "msgid": "Search by workspace name or version...",
+    "ast": [
+      "Search by workspace name or version..."
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstalledWorkspaces.tsx"
+    ]
+  },
+  {
+    "id": "6Oaeoc",
+    "msgid": "Cron",
+    "ast": [
+      "Cron"
+    ],
+    "files": [
+      "src/modules/logic-functions/utils/getLogicFunctionTriggerLabel.ts",
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx",
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionCronTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "6R2R80",
+    "msgid": "This app's routes are served from this URL. Add a custom domain to use your own.",
+    "ast": [
+      "This app's routes are served from this URL. Add a custom domain to use your own."
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFunctionDomainSection.tsx"
+    ]
+  },
+  {
+    "id": "6TG/SY",
+    "msgid": "Failed to update the timeline activity type.",
+    "ast": [
+      "Failed to update the timeline activity type."
+    ],
+    "files": [
+      "src/pages/settings/applications/hooks/useApplicationTimelineActivityTypes.ts"
+    ]
+  },
+  {
+    "id": "6TRVUO",
+    "msgid": "Augment Code",
+    "ast": [
+      "Augment Code"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "6uKe4W",
+    "msgid": "Client secret rotated. Copy it now — it won't be shown again.",
+    "ast": [
+      "Client secret rotated. Copy it now — it won't be shown again."
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "6vFykI",
+    "msgid": "Replit install links require an HTTPS MCP URL.",
+    "ast": [
+      "Replit install links require an HTTPS MCP URL."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "6wi9Nf",
+    "msgid": "Could not open the API playground",
+    "ast": [
+      "Could not open the API playground"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/hooks/useOpenPlayground.ts"
+    ]
+  },
+  {
+    "id": "7P8Mbj",
+    "msgid": "CLI config",
+    "ast": [
+      "CLI config"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "7aDnUb",
+    "msgid": "Developer",
+    "ast": [
+      "Developer"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplications.tsx"
+    ]
+  },
+  {
+    "id": "7skoga",
+    "msgid": "Front component",
+    "ast": [
+      "Front component"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationFrontComponentDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "87NUzq",
+    "msgid": "URI",
+    "ast": [
+      "URI"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsTable.tsx"
+    ]
+  },
+  {
+    "id": "8B+pY5",
+    "msgid": "Property",
+    "ast": [
+      "Property"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx",
+      "src/pages/settings/layout/components/SettingsLayoutDetailScaffold.tsx"
+    ]
+  },
+  {
+    "id": "8RmQki",
+    "msgid": "Authorizing...",
+    "ast": [
+      "Authorizing..."
+    ],
+    "files": [
+      "src/modules/applications/components/AuthorizeActionButtons.tsx"
+    ]
+  },
+  {
+    "id": "8VEDbV",
+    "msgid": "Secret",
+    "ast": [
+      "Secret"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "8bfORM",
+    "msgid": "Webhook ID is required for deletion",
+    "ast": [
+      "Webhook ID is required for deletion"
+    ],
+    "files": [
+      "src/modules/settings/developers/hooks/useWebhookForm.ts"
+    ]
+  },
+  {
+    "id": "9HNKkV",
+    "msgid": "Set your application configuration variables",
+    "ast": [
+      "Set your application configuration variables"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailEnvironmentVariablesTable.tsx"
+    ]
+  },
+  {
+    "id": "9UHNQc",
+    "msgid": "Maximum execution time in seconds (1-900)",
+    "ast": [
+      "Maximum execution time in seconds (1-900)"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/SettingsLogicFunctionNewForm.tsx"
+    ]
+  },
+  {
+    "id": "AHOl4W",
+    "msgid": "Function name",
+    "ast": [
+      "Function name"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/SettingsLogicFunctionLabelContainer.tsx"
+    ]
+  },
+  {
+    "id": "B6GVe3",
+    "msgid": "Claim an application",
+    "ast": [
+      "Claim an application"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "BJgDIM",
+    "msgid": "Automation, AI, and access this app provides",
+    "ast": [
+      "Automation, AI, and access this app provides"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "BWTzAb",
+    "msgid": "Manual",
+    "ast": [
+      "Manual"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/side-panel/pages/page-layout/hooks/useGraphGroupBySortOptionLabels.ts",
+      "src/modules/side-panel/pages/page-layout/hooks/useGraphXSortOptionLabels.ts"
+    ]
+  },
+  {
+    "id": "BZGmTs",
+    "msgid": "Fill with sample input from",
+    "ast": [
+      "Fill with sample input from"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx"
+    ]
+  },
+  {
+    "id": "BhYbva",
+    "msgid": "GitHub authorization failed or was denied. Please connect your GitHub account again.",
+    "ast": [
+      "GitHub authorization failed or was denied. Please connect your GitHub account again."
+    ],
+    "files": [
+      "src/pages/settings/applications/utils/getClaimErrorContent.ts"
+    ]
+  },
+  {
+    "id": "C1b55F",
+    "msgid": "OAuth credential metadata for this application connection",
+    "ast": [
+      "OAuth credential metadata for this application connection"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "C51ilI",
+    "msgid": "When the API key will expire.",
+    "ast": [
+      "When the API key will expire."
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeysNew.tsx"
+    ]
+  },
+  {
+    "id": "C5bVie",
+    "msgid": "Live URL",
+    "ast": [
+      "Live URL"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx",
+      "src/modules/workflow/workflow-trigger/components/WorkflowEditTriggerWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "C6xZqR",
+    "msgid": "A role must be selected for the API key",
+    "ast": [
+      "A role must be selected for the API key"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "C8lmDv",
+    "msgid": "Description provided by the application",
+    "ast": [
+      "Description provided by the application"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx",
+      "src/pages/settings/layout/components/SettingsLayoutDetailScaffold.tsx"
+    ]
+  },
+  {
+    "id": "C9y8dR",
+    "msgid": "Import or add the MCP configuration from JetBrains settings.",
+    "ast": [
+      "Import or add the MCP configuration from JetBrains settings."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "CMrq4R",
+    "msgid": "Connect additional MCP clients using install links or client docs.",
+    "ast": [
+      "Connect additional MCP clients using install links or client docs."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "CcCy4C",
+    "msgid": "Configure the remote MCP server through Warp's agent settings.",
+    "ast": [
+      "Configure the remote MCP server through Warp's agent settings."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "D+Mv78",
+    "msgid": "Regenerate Key",
+    "ast": [
+      "Regenerate Key"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "DBxdLI",
+    "msgid": "Take ownership of an app you published to npm. Enter its exact package name (or universal identifier) to find it.",
+    "ast": [
+      "Take ownership of an app you published to npm. Enter its exact package name (or universal identifier) to find it."
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "Dlxuac",
+    "msgid": "Insert a JSON input, then press \"Run Function\".",
+    "ast": [
+      "Insert a JSON input, then press \"Run Function\"."
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx"
+    ]
+  },
+  {
+    "id": "EIrE3l",
+    "msgid": "Index",
+    "ast": [
+      "Index"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/WebhookEntitySelect.tsx"
+    ]
+  },
+  {
+    "id": "EcjwmO",
+    "msgid": "Choose whether this activity type appears in record timelines",
+    "ast": [
+      "Choose whether this activity type appears in record timelines"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "Ej5euX",
+    "msgid": "Copy this key as it will not be visible again",
+    "ast": [
+      "Copy this key as it will not be visible again"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "EkH9pt",
+    "msgid": "Update",
+    "ast": [
+      "Update"
+    ],
+    "files": [
+      "src/modules/information-banner/components/billing/InformationBannerBillingSubscriptionPaused.tsx",
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationTableRow.tsx"
+    ]
+  },
+  {
+    "id": "Es0ros",
+    "msgid": "Copy commands",
+    "ast": [
+      "Copy commands"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsDeveloperTab.tsx"
+    ]
+  },
+  {
+    "id": "EzsAEI",
+    "msgid": "Apps you're the developer of",
+    "ast": [
+      "Apps you're the developer of"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsDeveloperTab.tsx"
+    ]
+  },
+  {
+    "id": "FKGcEL",
+    "msgid": "Add the Twenty MCP server as a remote context server in Zed.",
+    "ast": [
+      "Add the Twenty MCP server as a remote context server in Zed."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "Fc64QW",
+    "msgid": "Amazon Q Developer CLI",
+    "ast": [
+      "Amazon Q Developer CLI"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "FuiRGf",
+    "msgid": "Redirect URIs updated",
+    "ast": [
+      "Redirect URIs updated"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "GHKxvg",
+    "msgid": "Error deleting api key.",
+    "ast": [
+      "Error deleting api key."
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "GJewTO",
+    "msgid": "Your handler receives this object. The body is empty because GET requests carry no payload.",
+    "ast": [
+      "Your handler receives this object. The body is empty because GET requests carry no payload."
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "GbtYRD",
+    "msgid": "Please type \"yes\" to confirm you want to delete this webhook.",
+    "ast": [
+      "Please type \"yes\" to confirm you want to delete this webhook."
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "HKH+W+",
+    "msgid": "Data",
+    "ast": [
+      "Data"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemMainMenu.tsx",
+      "src/modules/side-panel/pages/page-layout/constants/ChartSettingsHeadings.ts",
+      "src/modules/side-panel/pages/workflow/action/components/SidePanelWorkflowSelectAction.tsx",
+      "src/modules/side-panel/pages/workflow/trigger-type/components/SidePanelWorkflowSelectTriggerTypeContent.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "HUu++U",
+    "msgid": "Warp",
+    "ast": [
+      "Warp"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "HfdWGA",
+    "msgid": "About your app",
+    "ast": [
+      "About your app"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx"
+    ]
+  },
+  {
+    "id": "Hhnssf",
+    "msgid": "Seeded",
+    "ast": [
+      "Seeded"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationTableRow.tsx"
+    ]
+  },
+  {
+    "id": "I6gXOa",
+    "msgid": "Path",
+    "ast": [
+      "Path"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "IEcsBR",
+    "msgid": "VS Code",
+    "ast": [
+      "VS Code"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "IF4QNM",
+    "msgid": "Access your workspace data from your favorite MCP client like Claude, Codex or Cursor.",
+    "ast": [
+      "Access your workspace data from your favorite MCP client like Claude, Codex or Cursor."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/components/SettingsMcpSetup.tsx"
+    ]
+  },
+  {
+    "id": "IYEdtc",
+    "msgid": "Schema this app contributes to your workspace",
+    "ast": [
+      "Schema this app contributes to your workspace"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "IagMXz",
+    "msgid": "Goose",
+    "ast": [
+      "Goose"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "Ip9rQi",
+    "msgid": "Copy sharing link",
+    "ast": [
+      "Copy sharing link"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationShareLinkButtons.tsx"
+    ]
+  },
+  {
+    "id": "IrC12v",
+    "msgid": "Application",
+    "ast": [
+      "Application"
+    ],
+    "files": [
+      "src/modules/settings/billing/constants/UsageLimitSpenderGroups.ts",
+      "src/modules/settings/billing/constants/UsageLimitSpenderTypeLabels.ts",
+      "src/modules/workflow/workflow-steps/workflow-actions/utils/getActionHeaderTypeOrThrow.ts",
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "ItfvBz",
+    "msgid": "Uninstalling...",
+    "ast": [
+      "Uninstalling..."
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationActionButton.tsx"
+    ]
+  },
+  {
+    "id": "IvIKDS",
+    "msgid": "Front components",
+    "ast": [
+      "Front components"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationFrontComponentDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "IxKj9Y",
+    "msgid": "OAuth 2.0",
+    "ast": [
+      "OAuth 2.0"
+    ],
+    "files": [
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts"
+    ]
+  },
+  {
+    "id": "J709SW",
+    "msgid": "Version installed",
+    "ast": [
+      "Version installed"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstalledWorkspaces.tsx"
+    ]
+  },
+  {
+    "id": "JLxMta",
+    "msgid": "Establish Webhook endpoints for notifications on asynchronous events.",
+    "ast": [
+      "Establish Webhook endpoints for notifications on asynchronous events."
+    ],
+    "files": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "JXiMtM",
+    "msgid": "Install Stats",
+    "ast": [
+      "Install Stats"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralStats.tsx"
+    ]
+  },
+  {
+    "id": "JzXn58",
+    "msgid": "Only applications published to npm can be claimed this way.",
+    "ast": [
+      "Only applications published to npm can be claimed this way."
+    ],
+    "files": [
+      "src/pages/settings/applications/utils/getClaimErrorContent.ts"
+    ]
+  },
+  {
+    "id": "K0DXoj",
+    "msgid": "Add the Twenty remote server with LM Studio's install link.",
+    "ast": [
+      "Add the Twenty remote server with LM Studio's install link."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "K4HbuR",
+    "msgid": "We will send a POST request to this endpoint for each new event in application/json format.",
+    "ast": [
+      "We will send a POST request to this endpoint for each new event in application/json format."
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "KFatQ9",
+    "msgid": "MCP client configuration",
+    "ast": [
+      "MCP client configuration"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/components/SettingsMcpSetup.tsx"
+    ]
+  },
+  {
+    "id": "KIfYq0",
+    "msgid": "We will send a POST request to this endpoint for each new event in application/json format",
+    "ast": [
+      "We will send a POST request to this endpoint for each new event in application/json format"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "KSOhjo",
+    "msgid": "Delete this webhook",
+    "ast": [
+      "Delete this webhook"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "Kh6fBo",
+    "msgid": "Exposes the function as a tool that AI agents can call",
+    "ast": [
+      "Exposes the function as a tool that AI agents can call"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionToolTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "Kkq3xr",
+    "msgid": "Open a maintained integration or prefill clients that accept MCP install links.",
+    "ast": [
+      "Open a maintained integration or prefill clients that accept MCP install links."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "KqRGF3",
+    "msgid": "Claiming is not configured on this server. Ask an administrator to set up the GitHub OAuth app.",
+    "ast": [
+      "Claiming is not configured on this server. Ask an administrator to set up the GitHub OAuth app."
+    ],
+    "files": [
+      "src/pages/settings/applications/utils/getClaimErrorContent.ts"
+    ]
+  },
+  {
+    "id": "Kvzc1B",
+    "msgid": "YAML config",
+    "ast": [
+      "YAML config"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "L3dKdL",
+    "msgid": "Credentials and scopes for OAuth authorization flows",
+    "ast": [
+      "Credentials and scopes for OAuth authorization flows"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "LPBy3P",
+    "msgid": "Name and describe your function",
+    "ast": [
+      "Name and describe your function"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/SettingsLogicFunctionNewForm.tsx"
+    ]
+  },
+  {
+    "id": "LUTGt0",
+    "msgid": "HTTP",
+    "ast": [
+      "HTTP"
+    ],
+    "files": [
+      "src/modules/logic-functions/utils/getLogicFunctionTriggerLabel.ts",
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx",
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "LpyyAM",
+    "msgid": "Could not complete the claim. Please try again.",
+    "ast": [
+      "Could not complete the claim. Please try again."
+    ],
+    "files": [
+      "src/pages/settings/applications/utils/getClaimErrorContent.ts"
+    ]
+  },
+  {
+    "id": "LqhE3c",
+    "msgid": "This connection does not exist or is not available for this application.",
+    "ast": [
+      "This connection does not exist or is not available for this application."
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "LtI9AS",
+    "msgid": "Owner",
+    "ast": [
+      "Owner"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelEditOwnerSection.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationClaims.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx",
+      "src/pages/settings/applications/SettingsApplicationRegistrationDetails.tsx"
+    ]
+  },
+  {
+    "id": "LxRNPw",
+    "msgid": "Expiration",
+    "ast": [
+      "Expiration"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsApiKeysTable.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "LynXsl",
+    "msgid": "Activity visibility",
+    "ast": [
+      "Activity visibility"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "MY7CDs",
+    "msgid": "Catalog sync started. Try your lookup again in a moment.",
+    "ast": [
+      "Catalog sync started. Try your lookup again in a moment."
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "MkDC2z",
+    "msgid": "Granted OAuth scopes",
+    "ast": [
+      "Granted OAuth scopes"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "Mkh9C8",
+    "msgid": "1 scope",
+    "ast": [
+      "1 scope"
+    ],
+    "files": [
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts"
+    ]
+  },
+  {
+    "id": "Mue4oc",
+    "msgid": "Active API keys created by you or your team.",
+    "ast": [
+      "Active API keys created by you or your team."
+    ],
+    "files": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "Mwqo5m",
+    "msgid": "Regenerate key",
+    "ast": [
+      "Regenerate key"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "N/rFzD",
+    "msgid": "Scopes",
+    "ast": [
+      "Scopes"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "NYFASA",
+    "msgid": "Unclaimed",
+    "ast": [
+      "Unclaimed"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx"
+    ]
+  },
+  {
+    "id": "NYwqoV",
+    "msgid": "Last signed in",
+    "ast": [
+      "Last signed in"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "NaBPMD",
+    "msgid": "LibreChat",
+    "ast": [
+      "LibreChat"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "Nf7oXL",
+    "msgid": "Handle",
+    "ast": [
+      "Handle"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "NmHVSC",
+    "msgid": "Sync catalog",
+    "ast": [
+      "Sync catalog"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "NnH3pK",
+    "msgid": "Test",
+    "ast": [
+      "Test"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionCodeEditorTab.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/code-action/components/WorkflowEditActionCode.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/code-action/components/WorkflowEditActionCode.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowEditActionHttpRequest.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowEditActionHttpRequest.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/logic-function-action/components/WorkflowEditActionLogicFunction.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/logic-function-action/components/WorkflowEditActionLogicFunction.tsx",
+      "src/pages/settings/logic-functions/SettingsLogicFunctionDetail.tsx"
+    ]
+  },
+  {
+    "id": "NwnQoz",
+    "msgid": "Preset link",
+    "ast": [
+      "Preset link"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "NyIsOu",
+    "msgid": "Sharing link copied to clipboard",
+    "ast": [
+      "Sharing link copied to clipboard"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationShareLinkButtons.tsx"
+    ]
+  },
+  {
+    "id": "OCektF",
+    "msgid": "No variables to set for this application",
+    "ast": [
+      "No variables to set for this application"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailEnvironmentVariablesTable.tsx"
+    ]
+  },
+  {
+    "id": "OJCJh9",
+    "msgid": "My apps",
+    "ast": [
+      "My apps"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsDeveloperTab.tsx"
+    ]
+  },
+  {
+    "id": "OMxM9j",
+    "msgid": "Installed apps",
+    "ast": [
+      "Installed apps"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationsTable.tsx"
+    ]
+  },
+  {
+    "id": "OZtEcz",
+    "msgid": "API",
+    "ast": [
+      "API"
+    ],
+    "files": [
+      "src/modules/settings/billing/constants/UsageLimitResourceTypeLabels.ts",
+      "src/modules/settings/mcp-and-apis/components/PlaygroundSetupForm.tsx",
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "OaNsaF",
+    "msgid": "No application found. If you just published it to npm with the \"twenty-app\" keyword, sync the catalog and try again.",
+    "ast": [
+      "No application found. If you just published it to npm with the \"twenty-app\" keyword, sync the catalog and try again."
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "Od1X93",
+    "msgid": "No permissions configured for this application.",
+    "ast": [
+      "No permissions configured for this application."
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationPermissionsTab.tsx"
+    ]
+  },
+  {
+    "id": "OduKuG",
+    "msgid": "Npm package",
+    "ast": [
+      "Npm package"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationAboutSidebar.tsx"
+    ]
+  },
+  {
+    "id": "On0aF2",
+    "msgid": "Website",
+    "ast": [
+      "Website"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationAboutSidebar.tsx"
+    ]
+  },
+  {
+    "id": "Oos8fo",
+    "msgid": "Copy command",
+    "ast": [
+      "Copy command"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx"
+    ]
+  },
+  {
+    "id": "P1iyUf",
+    "msgid": "Show this activity type in record timelines",
+    "ast": [
+      "Show this activity type in record timelines"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "PCSkw2",
+    "msgid": "Skills",
+    "ast": [
+      "Skills"
+    ],
+    "files": [
+      "src/pages/settings/ai/components/SettingsAgentSkillsTab.tsx",
+      "src/pages/settings/ai/components/SettingsAiOverviewTab.tsx",
+      "src/pages/settings/ai/SettingsAI.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "PHF7zj",
+    "msgid": "Workspace shared",
+    "ast": [
+      "Workspace shared"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationConnectionsSection.tsx"
+    ]
+  },
+  {
+    "id": "PLbVix",
+    "msgid": "Conditional availability",
+    "ast": [
+      "Conditional availability"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "PfAip2",
+    "msgid": "Error regenerating api key.",
+    "ast": [
+      "Error regenerating api key."
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "PrI9jr",
+    "msgid": "Reconnect and share",
+    "ast": [
+      "Reconnect and share"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "PzqcRM",
+    "msgid": "Claim with GitHub",
+    "ast": [
+      "Claim with GitHub"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "Q3LOVJ",
+    "msgid": "Report an issue",
+    "ast": [
+      "Report an issue"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationAboutSidebar.tsx"
+    ]
+  },
+  {
+    "id": "QHcLEN",
+    "msgid": "Connected",
+    "ast": [
+      "Connected"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationConnectionsSection.tsx"
+    ]
+  },
+  {
+    "id": "QJ8HBJ",
+    "msgid": "Schema",
+    "ast": [
+      "Schema"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/components/PlaygroundSetupForm.tsx"
+    ]
+  },
+  {
+    "id": "QTVVDd",
+    "msgid": "Logic functions",
+    "ast": [
+      "Logic functions"
+    ],
+    "files": [
+      "src/modules/settings/billing/constants/UsageLimitResourceTypeLabels.ts",
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx",
+      "src/pages/settings/logic-functions/SettingsLogicFunctionDetail.tsx",
+      "src/pages/settings/logic-functions/SettingsLogicFunctionDetail.tsx"
+    ]
+  },
+  {
+    "id": "QVVmxi",
+    "msgid": "E.g. backoffice integration",
+    "ast": [
+      "E.g. backoffice integration"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/ApiKeyNameInput.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeysNew.tsx"
+    ]
+  },
+  {
+    "id": "Qtg9Qc",
+    "msgid": "Uninstall Application?",
+    "ast": [
+      "Uninstall Application?"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationActionButton.tsx"
+    ]
+  },
+  {
+    "id": "RRRePs",
+    "msgid": "No description available for this application",
+    "ast": [
+      "No description available for this application"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailAboutTab.tsx"
+    ]
+  },
+  {
+    "id": "Rop0cs",
+    "msgid": "Add connection",
+    "ast": [
+      "Add connection"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationConnectionsSection.tsx"
+    ]
+  },
+  {
+    "id": "Rq/8BA",
+    "msgid": "Other clients",
+    "ast": [
+      "Other clients"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "Rxoy7e",
+    "msgid": "We are currently encountering issues with this app, its behavior may be degraded while we work on a fix.",
+    "ast": [
+      "We are currently encountering issues with this app, its behavior may be degraded while we work on a fix."
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationDetails.tsx"
+    ]
+  },
+  {
+    "id": "SGsgDO",
+    "msgid": "Core",
+    "ast": [
+      "Core"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/constants/SettingsPlaygroundFormSchemaSelectOptions.ts",
+      "src/modules/side-panel/pages/workflow/action/components/SidePanelWorkflowSelectAction.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/utils/getActionHeaderTypeOrThrow.ts"
+    ]
+  },
+  {
+    "id": "SOHptZ",
+    "msgid": "Most installed version",
+    "ast": [
+      "Most installed version"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstallStats.tsx"
+    ]
+  },
+  {
+    "id": "SiPp29",
+    "msgid": "Create webhook",
+    "ast": [
+      "Create webhook"
+    ],
+    "files": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "Sjy8hC",
+    "msgid": "Claude install links require an HTTPS MCP URL.",
+    "ast": [
+      "Claude install links require an HTTPS MCP URL."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "SkXfL0",
+    "msgid": "Expiration Date",
+    "ast": [
+      "Expiration Date"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeysNew.tsx"
+    ]
+  },
+  {
+    "id": "Ssdrw4",
+    "msgid": "Deprecated",
+    "ast": [
+      "Deprecated"
+    ],
+    "files": [
+      "src/modules/settings/ai/components/SettingsAiModelsTable.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationVariableLabelRow.tsx"
+    ]
+  },
+  {
+    "id": "SwLZ5l",
+    "msgid": "e.g. my-twenty-app",
+    "ast": [
+      "e.g. my-twenty-app"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "T3juzf",
+    "msgid": "Endpoint URL",
+    "ast": [
+      "Endpoint URL"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "T6S2Ns",
+    "msgid": "Delete this integration",
+    "ast": [
+      "Delete this integration"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "T6liqF",
+    "msgid": "URI is already in redirect URIs list",
+    "ast": [
+      "URI is already in redirect URIs list"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx"
+    ]
+  },
+  {
+    "id": "T8ACay",
+    "msgid": "Could not claim this application",
+    "ast": [
+      "Could not claim this application"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "TKQ7K+",
+    "msgid": "Install",
+    "ast": [
+      "Install"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationActionButton.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/pages/onboarding/InstallAppsContent.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationShareLinkButtons.tsx"
+    ]
+  },
+  {
+    "id": "TMahs7",
+    "msgid": "Look up",
+    "ast": [
+      "Look up"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "TU+LOV",
+    "msgid": "Couldn't load installed workspaces",
+    "ast": [
+      "Couldn't load installed workspaces"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstalledWorkspaces.tsx"
+    ]
+  },
+  {
+    "id": "TauHgw",
+    "msgid": "Disconnect connection?",
+    "ast": [
+      "Disconnect connection?"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "TbjyhA",
+    "msgid": "Docs",
+    "ast": [
+      "Docs"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx",
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "Te2H8x",
+    "msgid": "Unnamed API Key",
+    "ast": [
+      "Unnamed API Key"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsApiKeysFieldItemTableRow.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "U1DAok",
+    "msgid": "New Webhook",
+    "ast": [
+      "New Webhook"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "UNwpjb",
+    "msgid": "Failed to update auto-upgrade setting.",
+    "ast": [
+      "Failed to update auto-upgrade setting."
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationGeneralSection.tsx"
+    ]
+  },
+  {
+    "id": "UPaWvi",
+    "msgid": "Run Function",
+    "ast": [
+      "Run Function"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx"
+    ]
+  },
+  {
+    "id": "UcBL9G",
+    "msgid": "Windsurf / Cascade",
+    "ast": [
+      "Windsurf / Cascade"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "UpNpMK",
+    "msgid": "Just for me",
+    "ast": [
+      "Just for me"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationConnectionsSection.tsx"
+    ]
+  },
+  {
+    "id": "UtDm3q",
+    "msgid": "URL copied to clipboard",
+    "ast": [
+      "URL copied to clipboard"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationFunctionDomainSection.tsx"
+    ]
+  },
+  {
+    "id": "V7TecA",
+    "msgid": "See on marketplace",
+    "ast": [
+      "See on marketplace"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationShareLinkButtons.tsx"
+    ]
+  },
+  {
+    "id": "VFf6Bm",
+    "msgid": "Post-install",
+    "ast": [
+      "Post-install"
+    ],
+    "files": [
+      "src/modules/logic-functions/utils/getLogicFunctionTriggerLabel.ts"
+    ]
+  },
+  {
+    "id": "VngD1z",
+    "msgid": "Nothing to configure for this application",
+    "ast": [
+      "Nothing to configure for this application"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationDetails.tsx"
+    ]
+  },
+  {
+    "id": "W/OU4i",
+    "msgid": "1 tab",
+    "ast": [
+      "1 tab"
+    ],
+    "files": [
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts"
+    ]
+  },
+  {
+    "id": "W88dRa",
+    "msgid": "Pre-install",
+    "ast": [
+      "Pre-install"
+    ],
+    "files": [
+      "src/modules/logic-functions/utils/getLogicFunctionTriggerLabel.ts"
+    ]
+  },
+  {
+    "id": "WC32k6",
+    "msgid": "How records, pages, and navigation are displayed",
+    "ast": [
+      "How records, pages, and navigation are displayed"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "WCa/7U",
+    "msgid": "This component runs without a UI and renders nothing here.",
+    "ast": [
+      "This component runs without a UI and renders nothing here."
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentPreviewTab.tsx"
+    ]
+  },
+  {
+    "id": "WHiaOl",
+    "msgid": "REST",
+    "ast": [
+      "REST"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/components/PlaygroundSetupForm.tsx",
+      "src/pages/settings/developers/playground/SettingsRestPlayground.tsx"
+    ]
+  },
+  {
+    "id": "WmhhWd",
+    "msgid": "Quick install",
+    "ast": [
+      "Quick install"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "X5Mx4I",
+    "msgid": "AI tool",
+    "ast": [
+      "AI tool"
+    ],
+    "files": [
+      "src/modules/logic-functions/utils/getLogicFunctionTriggerLabel.ts",
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx",
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionToolTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "X7w5n6",
+    "msgid": "This application's registration is claimed by your workspace",
+    "ast": [
+      "This application's registration is claimed by your workspace"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx"
+    ]
+  },
+  {
+    "id": "XFGV21",
+    "msgid": "Automatically upgrade this application when a new version is published",
+    "ast": [
+      "Automatically upgrade this application when a new version is published"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationGeneralSection.tsx"
+    ]
+  },
+  {
+    "id": "XU5AOg",
+    "msgid": "Input",
+    "ast": [
+      "Input"
+    ],
+    "files": [
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx",
+      "src/modules/side-panel/pages/workflow/step/view-run/components/SidePanelWorkflowRunViewStepContent.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/logic-function-action/components/WorkflowEditActionLogicFunction.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx",
+      "src/pages/settings/ai/components/SettingsAgentLogsTab.tsx"
+    ]
+  },
+  {
+    "id": "XYeKcu",
+    "msgid": "Connection not found",
+    "ast": [
+      "Connection not found"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "XiyvRh",
+    "msgid": "Configure the Twenty MCP server manually in Cline.",
+    "ast": [
+      "Configure the Twenty MCP server manually in Cline."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "XnwceV",
+    "msgid": "Add URI",
+    "ast": [
+      "Add URI"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx"
+    ]
+  },
+  {
+    "id": "XsIxsL",
+    "msgid": "Reconnect needed",
+    "ast": [
+      "Reconnect needed"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationConnectionsSection.tsx"
+    ]
+  },
+  {
+    "id": "XyOToQ",
+    "msgid": "An error occurred.",
+    "ast": [
+      "An error occurred."
+    ],
+    "files": [
+      "src/modules/auth/sign-in-up/hooks/useHandleResendEmailVerificationToken.ts",
+      "src/modules/auth/sign-in-up/hooks/useHandleResetPassword.ts",
+      "src/modules/command-menu-item/edit/hooks/useResetCommandMenuItemToDefault.ts",
+      "src/modules/error-handler/utils/getToastOptionsFromError.tsx",
+      "src/modules/logic-functions/hooks/usePersistLogicFunction.ts",
+      "src/modules/logic-functions/hooks/usePersistLogicFunction.ts",
+      "src/modules/logic-functions/hooks/usePersistLogicFunction.ts",
+      "src/modules/object-metadata/hooks/useCreateOneFieldMetadataItem.ts",
+      "src/modules/object-metadata/hooks/useCreateOneIndexMetadataItem.ts",
+      "src/modules/object-metadata/hooks/useCreateOneObjectMetadataItem.ts",
+      "src/modules/object-metadata/hooks/useDeleteOneFieldMetadataItem.ts",
+      "src/modules/object-metadata/hooks/useDeleteOneIndexMetadataItem.ts",
+      "src/modules/object-metadata/hooks/useDeleteOneObjectMetadataItem.ts",
+      "src/modules/object-metadata/hooks/useUpdateOneFieldMetadataItem.ts",
+      "src/modules/object-metadata/hooks/useUpdateOneObjectMetadataItem.ts",
+      "src/modules/page-layout/hooks/useResetPageLayoutTabToDefault.ts",
+      "src/modules/page-layout/hooks/useResetPageLayoutToDefault.ts",
+      "src/modules/page-layout/hooks/useResetPageLayoutWidgetToDefault.ts",
+      "src/modules/page-layout/hooks/useUpdatePageLayoutWithTabsAndWidgets.ts",
+      "src/modules/ui/feedback/toast/components/__tests__/AppToaster.test.tsx",
+      "src/modules/views/hooks/internal/usePerformViewApiUpdate.ts",
+      "src/modules/views/hooks/internal/usePerformViewEntityApiPersistOperation.ts",
+      "src/utils/get-error-message-from-apollo-error.util.ts",
+      "src/utils/get-error-message-from-apollo-error.util.ts"
+    ]
+  },
+  {
+    "id": "Xzq3Vx",
+    "msgid": "Sharing this connection with the workspace requires reconnecting it. You will be redirected to authorize it again.",
+    "ast": [
+      "Sharing this connection with the workspace requires reconnecting it. You will be redirected to authorize it again."
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "YZJ+T0",
+    "msgid": "Timeline activity types",
+    "ast": [
+      "Timeline activity types"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationTimelineActivityTypeDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "YdQqyX",
+    "msgid": "Triggers the function with an HTTP request",
+    "ast": [
+      "Triggers the function with an HTTP request"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "Yu3v/5",
+    "msgid": "Could not sync the catalog",
+    "ast": [
+      "Could not sync the catalog"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "ZCTuAQ",
+    "msgid": "No trigger is configured for this function.",
+    "ast": [
+      "No trigger is configured for this function."
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTriggersTab.tsx"
+    ]
+  },
+  {
+    "id": "ZEP8tT",
+    "msgid": "Launch",
+    "ast": [
+      "Launch"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/components/PlaygroundSetupForm.tsx"
+    ]
+  },
+  {
+    "id": "ZGbFnN",
+    "msgid": "Zed",
+    "ast": [
+      "Zed"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "ZkHcxG",
+    "msgid": "Restore the activity type settings defined by the application",
+    "ast": [
+      "Restore the activity type settings defined by the application"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "ZlXhiU",
+    "msgid": "Applications below are not vetted. Use at your own risk.",
+    "ast": [
+      "Applications below are not vetted. Use at your own risk."
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsAvailableTab.tsx"
+    ]
+  },
+  {
+    "id": "Zt5PUS",
+    "msgid": "Marketplace",
+    "ast": [
+      "Marketplace"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplications.tsx"
+    ]
+  },
+  {
+    "id": "aNI1bz",
+    "msgid": "Your handler receives this object. The body holds the parsed JSON sent by the client.",
+    "ast": [
+      "Your handler receives this object. The body holds the parsed JSON sent by the client."
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "aemBRq",
+    "msgid": "Provider",
+    "ast": [
+      "Provider"
+    ],
+    "files": [
+      "src/modules/settings/ai/components/SettingsAiModelHoverCard.tsx",
+      "src/modules/settings/ai/components/SettingsAiModelsTable.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx",
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "ais8E1",
+    "msgid": "Configuration of this command menu item",
+    "ast": [
+      "Configuration of this command menu item"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "b/j06W",
+    "msgid": "OAuth",
+    "ast": [
+      "OAuth"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDetail.tsx",
+      "src/pages/settings/applications/SettingsApplicationRegistrationDetails.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "bKJYIa",
+    "msgid": "Code your function",
+    "ast": [
+      "Code your function"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionCodeEditorTab.tsx"
+    ]
+  },
+  {
+    "id": "bM7Rp3",
+    "msgid": "Share with workspace",
+    "ast": [
+      "Share with workspace"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "cDbmRz",
+    "msgid": "Manual configuration",
+    "ast": [
+      "Manual configuration"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/components/SettingsMcpSetup.tsx"
+    ]
+  },
+  {
+    "id": "cE4SvC",
+    "msgid": "What this API can do: Select a user role to define its permissions.",
+    "ast": [
+      "What this API can do: Select a user role to define its permissions."
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeysNew.tsx"
+    ]
+  },
+  {
+    "id": "cNBqH+",
+    "msgid": "Auth failed at",
+    "ast": [
+      "Auth failed at"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "cZPDyy",
+    "msgid": "View Field",
+    "ast": [
+      "View Field"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/WebhookEntitySelect.tsx"
+    ]
+  },
+  {
+    "id": "cj9UFG",
+    "msgid": "Command copied to clipboard",
+    "ast": [
+      "Command copied to clipboard"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx"
+    ]
+  },
+  {
+    "id": "ckYXHz",
+    "msgid": "Page layouts",
+    "ast": [
+      "Page layouts"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx",
+      "src/pages/settings/layout/SettingsLayoutPageLayoutDetail.tsx"
+    ]
+  },
+  {
+    "id": "cpGsq/",
+    "msgid": "Error rotating client secret",
+    "ast": [
+      "Error rotating client secret"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "dAZObA",
+    "msgid": "Redirect URIs",
+    "ast": [
+      "Redirect URIs"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "dT2Ibb",
+    "msgid": "This application has already been claimed by a workspace.",
+    "ast": [
+      "This application has already been claimed by a workspace."
+    ],
+    "files": [
+      "src/pages/settings/applications/utils/getClaimErrorContent.ts"
+    ]
+  },
+  {
+    "id": "e1v+J3",
+    "msgid": "Secret (optional)",
+    "ast": [
+      "Secret (optional)"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "e4FdDl",
+    "msgid": "Gemini CLI",
+    "ast": [
+      "Gemini CLI"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "eQ/LA/",
+    "msgid": "Workflow action",
+    "ast": [
+      "Workflow action"
+    ],
+    "files": [
+      "src/modules/logic-functions/utils/getLogicFunctionTriggerLabel.ts",
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionWorkflowActionTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "eQkgKV",
+    "msgid": "Installed",
+    "ast": [
+      "Installed"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationActionButton.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx",
+      "src/pages/settings/applications/SettingsApplications.tsx"
+    ]
+  },
+  {
+    "id": "exgCw+",
+    "msgid": "Server variables are applied to all workspace installations.",
+    "ast": [
+      "Server variables are applied to all workspace installations."
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationConfigTab.tsx"
+    ]
+  },
+  {
+    "id": "exyUec",
+    "msgid": "Connection",
+    "ast": [
+      "Connection"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationConnectionsSection.tsx"
+    ]
+  },
+  {
+    "id": "f2qxNx",
+    "msgid": "Build checksum",
+    "ast": [
+      "Build checksum"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "fGTI3o",
+    "msgid": "Search an application",
+    "ast": [
+      "Search an application"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationsTable.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationsAvailableTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationsDeveloperTab.tsx"
+    ]
+  },
+  {
+    "id": "fHVf32",
+    "msgid": "Server Variables",
+    "ast": [
+      "Server Variables"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationConfigTab.tsx"
+    ]
+  },
+  {
+    "id": "fMPkxb",
+    "msgid": "Show more",
+    "ast": [
+      "Show more"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstalledWorkspaces.tsx"
+    ]
+  },
+  {
+    "id": "fMyWEp",
+    "msgid": "Universal ID",
+    "ast": [
+      "Universal ID"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx"
+    ]
+  },
+  {
+    "id": "fQYyhK",
+    "msgid": "Error updating redirect URIs",
+    "ast": [
+      "Error updating redirect URIs"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "fS/QXs",
+    "msgid": "Loading applications...",
+    "ast": [
+      "Loading applications..."
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsAvailableTab.tsx"
+    ]
+  },
+  {
+    "id": "fVo75D",
+    "msgid": "This app is not fully configured. Users won't be able to install it until all required server variables are set, and — for apps exposing a server route — until the app is claimed and installed on its owner workspace.",
+    "ast": [
+      "This app is not fully configured. Users won't be able to install it until all required server variables are set, and — for apps exposing a server route — until the app is claimed and installed on its owner workspace."
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationGeneralTab.tsx"
+    ]
+  },
+  {
+    "id": "fcgvCA",
+    "msgid": "Claude",
+    "ast": [
+      "Claude"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "fiPesM",
+    "msgid": "Method",
+    "ast": [
+      "Method"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionHttpTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "fo0VXg",
+    "msgid": "Uninstall",
+    "ast": [
+      "Uninstall"
+    ],
+    "files": [
+      "src/modules/logic-functions/utils/getLogicFunctionTriggerLabel.ts",
+      "src/modules/settings/applications/components/SettingsApplicationActionButton.tsx",
+      "src/modules/settings/applications/components/SettingsApplicationActionButton.tsx"
+    ]
+  },
+  {
+    "id": "g/fpDP",
+    "msgid": "No trigger is enabled. Toggle one of the options above to choose how this function gets invoked.",
+    "ast": [
+      "No trigger is enabled. Toggle one of the options above to choose how this function gets invoked."
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTriggersTab.tsx"
+    ]
+  },
+  {
+    "id": "g1/8jH",
+    "msgid": "Configure the Twenty MCP server manually in Cascade.",
+    "ast": [
+      "Configure the Twenty MCP server manually in Cascade."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "gBiL6J",
+    "msgid": "GraphQL",
+    "ast": [
+      "GraphQL"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/components/PlaygroundSetupForm.tsx"
+    ]
+  },
+  {
+    "id": "gUv6/H",
+    "msgid": "Your GitHub account does not own the organization that publishes this package. If you are an owner, grant this app access to the organization on GitHub's authorization screen (Organization access section).",
+    "ast": [
+      "Your GitHub account does not own the organization that publishes this package. If you are an owner, grant this app access to the organization on GitHub's authorization screen (Organization access section)."
+    ],
+    "files": [
+      "src/pages/settings/applications/utils/getClaimErrorContent.ts"
+    ]
+  },
+  {
+    "id": "gaJRur",
+    "msgid": "Share your app to other workspaces without pushing it on the marketplace",
+    "ast": [
+      "Share your app to other workspaces without pushing it on the marketplace"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx"
+    ]
+  },
+  {
+    "id": "gh06VD",
+    "msgid": "Output",
+    "ast": [
+      "Output"
+    ],
+    "files": [
+      "src/modules/ai/components/CodeExecutionDisplay.tsx",
+      "src/modules/ai/components/TerminalOutput.tsx",
+      "src/modules/ai/components/ThinkingStepsDisplay.tsx",
+      "src/modules/ai/components/ToolStepRenderer.tsx",
+      "src/modules/logic-functions/components/LogicFunctionExecutionResult.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminChatToolCallPart.tsx",
+      "src/modules/side-panel/pages/workflow/step/view-run/components/SidePanelWorkflowRunViewStepContent.tsx",
+      "src/modules/workflow/components/WorkflowStepExecutionResult.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowOutputSchemaBuilder.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsAiAgentDetail.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/ai-agent-action/components/WorkflowRunStepLogsToolCallRow.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "gzokj+",
+    "msgid": "On suspended workspaces",
+    "ast": [
+      "On suspended workspaces"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstallStats.tsx"
+    ]
+  },
+  {
+    "id": "h0xgxg",
+    "msgid": "Terms / Privacy",
+    "ast": [
+      "Terms / Privacy"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationAboutSidebar.tsx"
+    ]
+  },
+  {
+    "id": "h5/VA5",
+    "msgid": "Command menu item",
+    "ast": [
+      "Command menu item"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationCommandMenuItemDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "h5NDR9",
+    "msgid": "Fields added to other objects",
+    "ast": [
+      "Fields added to other objects"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "hGfWDm",
+    "msgid": "Delete API key",
+    "ast": [
+      "Delete API key"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "hIGwzP",
+    "msgid": "App URL",
+    "ast": [
+      "App URL"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFunctionDomainSection.tsx"
+    ]
+  },
+  {
+    "id": "hR/4+8",
+    "msgid": "Select entity",
+    "ast": [
+      "Select entity"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/WebhookEntitySelect.tsx"
+    ]
+  },
+  {
+    "id": "hY8F2i",
+    "msgid": "Optional secret used to compute the HMAC signature for webhook payloads",
+    "ast": [
+      "Optional secret used to compute the HMAC signature for webhook payloads"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "iA2nHX",
+    "msgid": "Add the Twenty MCP server from Augment Code settings.",
+    "ast": [
+      "Add the Twenty MCP server from Augment Code settings."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "iAL9tI",
+    "msgid": "Configure",
+    "ast": [
+      "Configure"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminAiProviderDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationGeneralTab.tsx"
+    ]
+  },
+  {
+    "id": "iXw832",
+    "msgid": "Running function",
+    "ast": [
+      "Running function"
+    ],
+    "files": [
+      "src/modules/logic-functions/components/LogicFunctionExecutionResult.tsx"
+    ]
+  },
+  {
+    "id": "iaIm91",
+    "msgid": "Usage across all non-deleted workspaces on this server",
+    "ast": [
+      "Usage across all non-deleted workspaces on this server"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralStats.tsx"
+    ]
+  },
+  {
+    "id": "ibPuCP",
+    "msgid": "Read documentation",
+    "ast": [
+      "Read documentation"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationsDeveloperTab.tsx"
+    ]
+  },
+  {
+    "id": "icGmU/",
+    "msgid": "We could not reach the package registry to verify the package provenance. Please try again in a few minutes.",
+    "ast": [
+      "We could not reach the package registry to verify the package provenance. Please try again in a few minutes."
+    ],
+    "files": [
+      "src/pages/settings/applications/utils/getClaimErrorContent.ts"
+    ]
+  },
+  {
+    "id": "iibZbD",
+    "msgid": "You can either create a private app or share it to others",
+    "ast": [
+      "You can either create a private app or share it to others"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsDeveloperTab.tsx"
+    ]
+  },
+  {
+    "id": "inpQ46",
+    "msgid": "Watch apps demo",
+    "ast": [
+      "Watch apps demo"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplications.tsx"
+    ]
+  },
+  {
+    "id": "is6uow",
+    "msgid": "Failed to reset the timeline activity type.",
+    "ast": [
+      "Failed to reset the timeline activity type."
+    ],
+    "files": [
+      "src/pages/settings/applications/hooks/useApplicationTimelineActivityTypes.ts"
+    ]
+  },
+  {
+    "id": "j6G/yI",
+    "msgid": "Add the Twenty MCP server in Gemini CLI settings.",
+    "ast": [
+      "Add the Twenty MCP server in Gemini CLI settings."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "jEw0Mr",
+    "msgid": "Please enter a valid URL",
+    "ast": [
+      "Please enter a valid URL"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardIframeSettings.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx"
+    ]
+  },
+  {
+    "id": "jRptK+",
+    "msgid": "Navigation menu items",
+    "ast": [
+      "Navigation menu items"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "jvneza",
+    "msgid": "Email support",
+    "ast": [
+      "Email support"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationAboutSidebar.tsx"
+    ]
+  },
+  {
+    "id": "k7xxm/",
+    "msgid": "Previous screenshot",
+    "ast": [
+      "Previous screenshot"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationScreenshotLightbox.tsx"
+    ]
+  },
+  {
+    "id": "kNiQp6",
+    "msgid": "Pinned",
+    "ast": [
+      "Pinned"
+    ],
+    "files": [
+      "src/modules/command-menu-item/display/components/SidePanelCommandMenuItemDisplayPage.tsx",
+      "src/modules/command-menu-item/edit/components/SidePanelCommandMenuItemEditPage.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "kNqMMd",
+    "msgid": "Folder",
+    "ast": [
+      "Folder"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemMainMenu.tsx",
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts",
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts",
+      "src/modules/side-panel/components/SidePanelFolderInfo.tsx"
+    ]
+  },
+  {
+    "id": "kbnS+K",
+    "msgid": "Page layout",
+    "ast": [
+      "Page layout"
+    ],
+    "files": [
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts",
+      "src/pages/settings/layout/SettingsLayoutPageLayoutDetail.tsx"
+    ]
+  },
+  {
+    "id": "kc9VIS",
+    "msgid": "Installs",
+    "ast": [
+      "Installs"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstallStats.tsx"
+    ]
+  },
+  {
+    "id": "ke+vxJ",
+    "msgid": "Claimed by this workspace",
+    "ast": [
+      "Claimed by this workspace"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx"
+    ]
+  },
+  {
+    "id": "kl33NM",
+    "msgid": "Vetted only",
+    "ast": [
+      "Vetted only"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsAvailableTab.tsx"
+    ]
+  },
+  {
+    "id": "l+NzAk",
+    "msgid": "Add the Twenty MCP server from Raycast's MCP commands or settings.",
+    "ast": [
+      "Add the Twenty MCP server from Raycast's MCP commands or settings."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "l/T809",
+    "msgid": "Application not listed on the marketplace. It was shared via a direct link",
+    "ast": [
+      "Application not listed on the marketplace. It was shared via a direct link"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsAvailableApplicationDetails.tsx"
+    ]
+  },
+  {
+    "id": "lD6WqE",
+    "msgid": "Install the remote MCP server into a VS Code profile.",
+    "ast": [
+      "Install the remote MCP server into a VS Code profile."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "lP42oc",
+    "msgid": "Database event",
+    "ast": [
+      "Database event"
+    ],
+    "files": [
+      "src/modules/logic-functions/utils/getLogicFunctionTriggerLabel.ts",
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionTestTab.tsx",
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionDatabaseEventTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "lX0SIS",
+    "msgid": "Share with workspace?",
+    "ast": [
+      "Share with workspace?"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "lX3Yil",
+    "msgid": "Error updating role",
+    "ast": [
+      "Error updating role"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "lXkUEV",
+    "msgid": "Availability",
+    "ast": [
+      "Availability"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-trigger/components/WorkflowEditTriggerManual.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "lYc235",
+    "msgid": "No workspaces match this search",
+    "ast": [
+      "No workspaces match this search"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstalledWorkspaces.tsx"
+    ]
+  },
+  {
+    "id": "lZw9AX",
+    "msgid": "Show all",
+    "ast": [
+      "Show all"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstalledWorkspaces.tsx"
+    ]
+  },
+  {
+    "id": "leFkCA",
+    "msgid": "Your handler receives this event object. \"after\" holds the new state, \"before\" the previous one (null for created), and \"updatedFields\" lists the field names that changed on update.",
+    "ast": [
+      "Your handler receives this event object. \"after\" holds the new state, \"before\" the previous one (null for created), and \"updatedFields\" lists the field names that changed on update."
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionDatabaseEventTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "leUV74",
+    "msgid": "Exposes the function as a step in the workflow builder",
+    "ast": [
+      "Exposes the function as a step in the workflow builder"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionWorkflowActionTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "leUubq",
+    "msgid": "When the key will be disabled",
+    "ast": [
+      "When the key will be disabled"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "mGYa19",
+    "msgid": "Package",
+    "ast": [
+      "Package"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx"
+    ]
+  },
+  {
+    "id": "mO0Peh",
+    "msgid": "Cursor",
+    "ast": [
+      "Cursor"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "mnudjQ",
+    "msgid": "Uses SDK client",
+    "ast": [
+      "Uses SDK client"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "n/YqqB",
+    "msgid": "Raycast",
+    "ast": [
+      "Raycast"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "n0vVgf",
+    "msgid": "Open Claude with the Twenty connector name and MCP URL prefilled.",
+    "ast": [
+      "Open Claude with the Twenty connector name and MCP URL prefilled."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "nA8kxD",
+    "msgid": "MCP",
+    "ast": [
+      "MCP"
+    ],
+    "files": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "nKkohy",
+    "msgid": "Failed to load webhook",
+    "ast": [
+      "Failed to load webhook"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "oDAEQq",
+    "msgid": "Ownership",
+    "ast": [
+      "Ownership"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationClaims.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx"
+    ]
+  },
+  {
+    "id": "oEpvJo",
+    "msgid": "Headless component",
+    "ast": [
+      "Headless component"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentPreviewTab.tsx"
+    ]
+  },
+  {
+    "id": "orE/ux",
+    "msgid": "No permission defined for this application",
+    "ast": [
+      "No permission defined for this application"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationDetails.tsx"
+    ]
+  },
+  {
+    "id": "p75IO8",
+    "msgid": "Could not start the GitHub claim",
+    "ast": [
+      "Could not start the GitHub claim"
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "pHIR4s",
+    "msgid": "Configure the remote server in Amazon Q Developer's MCP settings.",
+    "ast": [
+      "Configure the remote server in Amazon Q Developer's MCP settings."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "pN5hZf",
+    "msgid": "Build and runtime metadata for this component",
+    "ast": [
+      "Build and runtime metadata for this component"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "pRxlf6",
+    "msgid": "No provenance attestation was found for this package. Publish it from GitHub Actions with npm trusted publishing, then try claiming again.",
+    "ast": [
+      "No provenance attestation was found for this package. Publish it from GitHub Actions with npm trusted publishing, then try claiming again."
+    ],
+    "files": [
+      "src/pages/settings/applications/utils/getClaimErrorContent.ts"
+    ]
+  },
+  {
+    "id": "q170S2",
+    "msgid": "Open Replit with the Twenty remote server config.",
+    "ast": [
+      "Open Replit with the Twenty remote server config."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "qqeAJM",
+    "msgid": "Never",
+    "ast": [
+      "Never"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts",
+      "src/modules/settings/developers/utils/formatExpiration.ts"
+    ]
+  },
+  {
+    "id": "r+NRG6",
+    "msgid": "API Key copied to clipboard",
+    "ast": [
+      "API Key copied to clipboard"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/ApiKeyInput.tsx"
+    ]
+  },
+  {
+    "id": "rV1+uS",
+    "msgid": "Cron triggers pass no payload — the handler is called with an empty object.",
+    "ast": [
+      "Cron triggers pass no payload — the handler is called with an empty object."
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionCronTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "rxBnh8",
+    "msgid": "No applications available",
+    "ast": [
+      "No applications available"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsAvailableTab.tsx"
+    ]
+  },
+  {
+    "id": "s+MGs7",
+    "msgid": "Resources",
+    "ast": [
+      "Resources"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationAboutSidebar.tsx"
+    ]
+  },
+  {
+    "id": "s1X4Cm",
+    "msgid": "Official app",
+    "ast": [
+      "Official app"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "sBd/cl",
+    "msgid": "Open Twenty's official ChatGPT integration for your workspace.",
+    "ast": [
+      "Open Twenty's official ChatGPT integration for your workspace."
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "sb6i1L",
+    "msgid": "API key name cannot be empty",
+    "ast": [
+      "API key name cannot be empty"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "sbBqyy",
+    "msgid": "Connection providers",
+    "ast": [
+      "Connection providers"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "sd9apq",
+    "msgid": "Universal identifier",
+    "ast": [
+      "Universal identifier"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationCommandMenuItemSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationFrontComponentSettingsTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx",
+      "src/pages/settings/layout/SettingsLayoutPageLayoutDetail.tsx",
+      "src/pages/settings/layout/SettingsLayoutViewDetail.tsx"
+    ]
+  },
+  {
+    "id": "sgXsd0",
+    "msgid": "Auth failure reason",
+    "ast": [
+      "Auth failure reason"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "snMaH4",
+    "msgid": "Delete webhook",
+    "ast": [
+      "Delete webhook"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "soVdWA",
+    "msgid": "Timeline activity type",
+    "ast": [
+      "Timeline activity type"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationTimelineActivityTypeDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationTimelineActivityTypeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "tE6+xk",
+    "msgid": "Ownership is verified through npm trusted publishing: the package must be published from GitHub Actions with provenance. Sign in with a GitHub account that owns the publishing account or organization — when the package is published by an organization, grant this app access to it on GitHub's authorization screen.",
+    "ast": [
+      "Ownership is verified through npm trusted publishing: the package must be published from GitHub Actions with provenance. Sign in with a GitHub account that owns the publishing account or organization — when the package is published by an organization, grant this app access to it on GitHub's authorization screen."
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "tgnDjk",
+    "msgid": "Next screenshot",
+    "ast": [
+      "Next screenshot"
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationScreenshotLightbox.tsx"
+    ]
+  },
+  {
+    "id": "u9zl2y",
+    "msgid": "Core Objects",
+    "ast": [
+      "Core Objects"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/WebhookEntitySelect.tsx"
+    ]
+  },
+  {
+    "id": "uBAxNB",
+    "msgid": "Editor",
+    "ast": [
+      "Editor"
+    ],
+    "files": [
+      "src/modules/side-panel/pages/page-layout/components/dropdown-content/FieldWidgetLayoutDropdownContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-page/SidePanelRecordPageFieldSettings.tsx",
+      "src/pages/settings/logic-functions/SettingsLogicFunctionDetail.tsx"
+    ]
+  },
+  {
+    "id": "uFEgGd",
+    "msgid": "Replit Agent",
+    "ast": [
+      "Replit Agent"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "uPb/1Y",
+    "msgid": "Last refreshed",
+    "ast": [
+      "Last refreshed"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationConnectionDetail.tsx"
+    ]
+  },
+  {
+    "id": "uXGLuq",
+    "msgid": "Create API key",
+    "ast": [
+      "Create API key"
+    ],
+    "files": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "ufrtI9",
+    "msgid": "LM Studio",
+    "ast": [
+      "LM Studio"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "vQrTaX",
+    "msgid": "Rotate client secret",
+    "ast": [
+      "Rotate client secret"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "vU/Hht",
+    "msgid": "Distribution",
+    "ast": [
+      "Distribution"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDetail.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationInstallStats.tsx",
+      "src/pages/settings/applications/SettingsApplicationRegistrationDetails.tsx"
+    ]
+  },
+  {
+    "id": "vZhnyV",
+    "msgid": "This application has already been claimed.",
+    "ast": [
+      "This application has already been claimed."
+    ],
+    "files": [
+      "src/pages/settings/applications/components/SettingsClaimApplicationSection.tsx"
+    ]
+  },
+  {
+    "id": "vbXZ3k",
+    "msgid": "show all",
+    "ast": [
+      "show all"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationsAvailableTab.tsx"
+    ]
+  },
+  {
+    "id": "vdieHo",
+    "msgid": "Application details",
+    "ast": [
+      "Application details"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationDetails.tsx",
+      "src/pages/settings/applications/SettingsAvailableApplicationDetails.tsx"
+    ]
+  },
+  {
+    "id": "vj+OHl",
+    "msgid": "Allowed redirect URIs for OAuth flows",
+    "ast": [
+      "Allowed redirect URIs for OAuth flows"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationOAuthTab.tsx"
+    ]
+  },
+  {
+    "id": "vpZcGd",
+    "msgid": "Regenerate an API key",
+    "ast": [
+      "Regenerate an API key"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx"
+    ]
+  },
+  {
+    "id": "w80YWM",
+    "msgid": "Record",
+    "ast": [
+      "Record"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/display/object/components/NavigationDrawerItemForObjectMetadataItem.tsx",
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemMainMenu.tsx",
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts",
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts",
+      "src/modules/side-panel/pages/page-layout/components/dropdown-content/ChartGroupByFieldSelectionTargetObjectFieldsView.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionDeleteRecord.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/components/WorkflowEditActionUpdateRecord.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/utils/getActionHeaderTypeOrThrow.ts"
+    ]
+  },
+  {
+    "id": "wJJ+Wy",
+    "msgid": "Installing...",
+    "ast": [
+      "Installing..."
+    ],
+    "files": [
+      "src/modules/settings/applications/components/SettingsApplicationActionButton.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationShareLinkButtons.tsx"
+    ]
+  },
+  {
+    "id": "wdxz7K",
+    "msgid": "Source",
+    "ast": [
+      "Source"
+    ],
+    "files": [
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardRecordTableSettings.tsx",
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx"
+    ]
+  },
+  {
+    "id": "wuCnq1",
+    "msgid": "Logic",
+    "ast": [
+      "Logic"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "xMJhWJ",
+    "msgid": "Format: [Minute] [Hour] [Day of Month] [Month] [Day of Week]",
+    "ast": [
+      "Format: [Minute] [Hour] [Day of Month] [Month] [Day of Week]"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionCronTriggerSection.tsx"
+    ]
+  },
+  {
+    "id": "xY9s5E",
+    "msgid": "Timeout",
+    "ast": [
+      "Timeout"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/SettingsLogicFunctionNewForm.tsx"
+    ]
+  },
+  {
+    "id": "xraglu",
+    "msgid": "Select the events you wish to send to this endpoint",
+    "ast": [
+      "Select the events you wish to send to this endpoint"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/SettingsDevelopersWebhookForm.tsx"
+    ]
+  },
+  {
+    "id": "yIVrHZ",
+    "msgid": "Authorize",
+    "ast": [
+      "Authorize"
+    ],
+    "files": [
+      "src/modules/applications/components/AuthorizeActionButtons.tsx"
+    ]
+  },
+  {
+    "id": "yJ8MIx",
+    "msgid": "Cline",
+    "ast": [
+      "Cline"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "yOaaWk",
+    "msgid": "ChatGPT",
+    "ast": [
+      "ChatGPT"
+    ],
+    "files": [
+      "src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx"
+    ]
+  },
+  {
+    "id": "yVBJNs",
+    "msgid": "Command menu items",
+    "ast": [
+      "Command menu items"
+    ],
+    "files": [
+      "src/pages/settings/applications/SettingsApplicationCommandMenuItemDetail.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailContentTab.tsx"
+    ]
+  },
+  {
+    "id": "ypSiuQ",
+    "msgid": "All Metadata",
+    "ast": [
+      "All Metadata"
+    ],
+    "files": [
+      "src/modules/settings/developers/components/WebhookEntitySelect.tsx"
+    ]
+  },
+  {
+    "id": "ywFj2D",
+    "msgid": "Configuration",
+    "ast": [
+      "Configuration"
+    ],
+    "files": [
+      "src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/WorkflowEditActionHttpRequest.tsx",
+      "src/pages/settings/applications/tabs/SettingsApplicationDetailEnvironmentVariablesTable.tsx"
+    ]
+  },
+  {
+    "id": "yzF66j",
+    "msgid": "Link",
+    "ast": [
+      "Link"
+    ],
+    "files": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelNewSidebarItemMainMenu.tsx",
+      "src/modules/settings/admin-panel/health-status/maintenance-mode/components/SettingsAdminMaintenanceMode.tsx",
+      "src/modules/settings/applications/hooks/useComputeApplicationContentForLayoutAndLogic.ts",
+      "src/modules/side-panel/components/SidePanelLinkInfo.tsx"
+    ]
+  },
+  {
+    "id": "z+6jaZ",
+    "msgid": "Name of your API key",
+    "ast": [
+      "Name of your API key"
+    ],
+    "files": [
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeyDetail.tsx",
+      "src/pages/settings/developers/api-keys/SettingsDevelopersApiKeysNew.tsx"
+    ]
+  },
+  {
+    "id": "zSYgxW",
+    "msgid": "Publish your app to the marketplace so others can install it",
+    "ast": [
+      "Publish your app to the marketplace so others can install it"
+    ],
+    "files": [
+      "src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx"
+    ]
+  },
+  {
+    "id": "zUzYWu",
+    "msgid": "Latest version",
+    "ast": [
+      "Latest version"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminVersionContainer.tsx",
+      "src/pages/settings/applications/components/SettingsApplicationRegistrationGeneralInfo.tsx"
+    ]
+  },
+  {
+    "id": "zeCIJi",
+    "msgid": "Write your function (in typescript) below",
+    "ast": [
+      "Write your function (in typescript) below"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/tabs/SettingsLogicFunctionCodeEditorTab.tsx"
+    ]
+  },
+  {
+    "id": "zk64Yo",
+    "msgid": "Triggers the function at regular intervals",
+    "ast": [
+      "Triggers the function at regular intervals"
+    ],
+    "files": [
+      "src/modules/settings/logic-functions/components/triggers/SettingsLogicFunctionCronTriggerSection.tsx"
+    ]
+  }
+]

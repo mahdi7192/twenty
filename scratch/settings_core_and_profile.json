@@ -1,0 +1,3562 @@
+[
+  {
+    "id": "Qvm3VE",
+    "msgid": "{0, plural, one {# Object} other {# Objects}}",
+    "currentVal": [
+      [
+        "0",
+        "plural",
+        {
+          "one": [
+            "#",
+            " شیء"
+          ],
+          "other": [
+            "#",
+            " اشیاء"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsMorphRelationMultiSelect.tsx",
+      "src/modules/settings/components/SettingsMorphRelationMultiSelect.tsx"
+    ]
+  },
+  {
+    "id": "peiknr",
+    "msgid": "{0} shown",
+    "currentVal": [
+      [
+        "0"
+      ],
+      " shown"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/hooks/useRecordTableSettingsDescriptions.ts",
+      "src/modules/side-panel/pages/page-layout/hooks/useRecordTableSettingsDescriptions.ts",
+      "src/modules/side-panel/pages/page-layout/hooks/useRecordTableSettingsDescriptions.ts"
+    ]
+  },
+  {
+    "id": "XWd9bY",
+    "msgid": "{agentCount, plural, one {{agentCount} agent} other {{agentCount} agents}}",
+    "currentVal": [
+      [
+        "agentCount",
+        "plural",
+        {
+          "one": [
+            [
+              "agentCount"
+            ],
+            " agent"
+          ],
+          "other": [
+            [
+              "agentCount"
+            ],
+            " agents"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettingsDeleteRoleConfirmationModalSubtitle.tsx"
+    ]
+  },
+  {
+    "id": "WhHyQh",
+    "msgid": "{apiKeyCount, plural, one {{apiKeyCount} API key} other {{apiKeyCount} API keys}}",
+    "currentVal": [
+      [
+        "apiKeyCount",
+        "plural",
+        {
+          "one": [
+            [
+              "apiKeyCount"
+            ],
+            " کلید API"
+          ],
+          "other": [
+            [
+              "apiKeyCount"
+            ],
+            " کلیدهای API"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettingsDeleteRoleConfirmationModalSubtitle.tsx"
+    ]
+  },
+  {
+    "id": "u1mVnV",
+    "msgid": "{appDisplayName} would like to:",
+    "currentVal": [
+      [
+        "appDisplayName"
+      ],
+      " would like to:"
+    ],
+    "fileRefs": [
+      "src/modules/marketplace/components/SettingsApplicationInstallPermissionValidationModal.tsx"
+    ]
+  },
+  {
+    "id": "SWRSbi",
+    "msgid": "{browser} on {operatingSystem}",
+    "currentVal": [
+      [
+        "browser"
+      ],
+      " on ",
+      [
+        "operatingSystem"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/profile/devices/components/SettingsProfileDevicesSection.tsx"
+    ]
+  },
+  {
+    "id": "M9lDqR",
+    "msgid": "{count, plural, one {E.g. {example} for # decimal} other {E.g. {example} for # decimals}}",
+    "currentVal": [
+      [
+        "count",
+        "plural",
+        {
+          "one": [
+            "E.g. ",
+            [
+              "example"
+            ],
+            " for ",
+            "#",
+            " decimal"
+          ],
+          "other": [
+            "E.g. ",
+            [
+              "example"
+            ],
+            " for ",
+            "#",
+            " decimals"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/data-model/fields/forms/number/components/SettingsDataModelFieldNumberForm.tsx"
+    ]
+  },
+  {
+    "id": "7o03+8",
+    "msgid": "{decimals, plural, one {E.g. {example} for # decimal} other {E.g. {example} for # decimals}}",
+    "currentVal": [
+      [
+        "decimals",
+        "plural",
+        {
+          "one": [
+            "E.g. ",
+            [
+              "example"
+            ],
+            " for ",
+            "#",
+            " decimal"
+          ],
+          "other": [
+            "E.g. ",
+            [
+              "example"
+            ],
+            " for ",
+            "#",
+            " decimals"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/data-model/fields/forms/currency/components/SettingsDataModelFieldCurrencyForm.tsx"
+    ]
+  },
+  {
+    "id": "bv2QCV",
+    "msgid": "{filterRulesCount, plural, one {{filterRulesCount} rule} other {{filterRulesCount} rules}}",
+    "currentVal": [
+      [
+        "filterRulesCount",
+        "plural",
+        {
+          "one": [
+            [
+              "filterRulesCount"
+            ],
+            " rule"
+          ],
+          "other": [
+            [
+              "filterRulesCount"
+            ],
+            " rules"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/hooks/useChartSettingsValues.ts"
+    ]
+  },
+  {
+    "id": "YF/a2j",
+    "msgid": "{grantedBy, plural, one {Granted for {grantedBy} object} other {Granted for {grantedBy} objects}}",
+    "currentVal": [
+      [
+        "grantedBy",
+        "plural",
+        {
+          "one": [
+            "Granted for ",
+            [
+              "grantedBy"
+            ],
+            " شیء"
+          ],
+          "other": [
+            "Granted for ",
+            [
+              "grantedBy"
+            ],
+            " اشیاء"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsTableRow.tsx"
+    ]
+  },
+  {
+    "id": "1DrH/j",
+    "msgid": "{memberCount, plural, one {{memberCount} member} other {{memberCount} members}}",
+    "currentVal": [
+      [
+        "memberCount",
+        "plural",
+        {
+          "one": [
+            [
+              "memberCount"
+            ],
+            " عضو"
+          ],
+          "other": [
+            [
+              "memberCount"
+            ],
+            " اعضا"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettingsDeleteRoleConfirmationModalSubtitle.tsx"
+    ]
+  },
+  {
+    "id": "HpUf/k",
+    "msgid": "{positionLabel} record holds priority",
+    "currentVal": [
+      [
+        "positionLabel"
+      ],
+      " record holds priority"
+    ],
+    "fileRefs": [
+      "src/modules/object-record/record-merge/components/MergeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "hcRYEH",
+    "msgid": "{revokedBy, plural, one {Revoked for {revokedBy} object} other {Revoked for {revokedBy} objects}}",
+    "currentVal": [
+      [
+        "revokedBy",
+        "plural",
+        {
+          "one": [
+            "Revoked for ",
+            [
+              "revokedBy"
+            ],
+            " شیء"
+          ],
+          "other": [
+            "Revoked for ",
+            [
+              "revokedBy"
+            ],
+            " اشیاء"
+          ]
+        }
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-permissions/objects-permissions/components/SettingsRolePermissionsObjectsTableRow.tsx"
+    ]
+  },
+  {
+    "id": "OeIgEg",
+    "msgid": "{roleLabel} can {humanReadableAction} {objectLabel} records",
+    "currentVal": [
+      [
+        "roleLabel"
+      ],
+      " can ",
+      [
+        "humanReadableAction"
+      ],
+      " ",
+      [
+        "objectLabel"
+      ],
+      " records"
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelOverrideCell.tsx"
+    ]
+  },
+  {
+    "id": "D0C09b",
+    "msgid": "{roleLabel} can't {humanReadableAction} {objectLabel} records",
+    "currentVal": [
+      [
+        "roleLabel"
+      ],
+      " can't ",
+      [
+        "humanReadableAction"
+      ],
+      " ",
+      [
+        "objectLabel"
+      ],
+      " records"
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/components/SettingsRolePermissionsObjectLevelOverrideCell.tsx"
+    ]
+  },
+  {
+    "id": "uHZWwU",
+    "msgid": "{roleTargetName} will be assigned to the \"{newRoleName}\" role.",
+    "currentVal": [
+      [
+        "roleTargetName"
+      ],
+      " will be assigned to the \"",
+      [
+        "newRoleName"
+      ],
+      "\" role."
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "Bzjg0/",
+    "msgid": "{stepNumber}. Calendar",
+    "currentVal": [
+      [
+        "stepNumber"
+      ],
+      ". Calendar"
+    ],
+    "fileRefs": [
+      "src/pages/settings/accounts/SettingsAccountsConfigurationStepCalendar.tsx"
+    ]
+  },
+  {
+    "id": "XdG+hI",
+    "msgid": "{totalFieldsCount} visible fields",
+    "currentVal": [
+      [
+        "totalFieldsCount"
+      ],
+      " visible fields"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/record-page/SidePanelRecordPageFieldsSettings.tsx"
+    ]
+  },
+  {
+    "id": "WjjsAL",
+    "msgid": "{visibleFieldsCount} visible fields",
+    "currentVal": [
+      [
+        "visibleFieldsCount"
+      ],
+      " visible fields"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/record-page/SidePanelRecordPageFieldSettings.tsx"
+    ]
+  },
+  {
+    "id": "WN9tFl",
+    "msgid": "{workspaceMemberName} will be unassigned from the following role:",
+    "currentVal": [
+      [
+        "workspaceMemberName"
+      ],
+      " will be unassigned from the following role:"
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentConfirmationModalSubtitle.tsx"
+    ]
+  },
+  {
+    "id": "hziCGA",
+    "msgid": "2FA Method has been deleted successfully.",
+    "currentVal": [
+      "2FA Method has been deleted successfully."
+    ],
+    "fileRefs": [
+      "src/modules/settings/two-factor-authentication/components/DeleteTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "cNBo/E",
+    "msgid": "2FA Method Reset",
+    "currentVal": [
+      "2FA Method Reset"
+    ],
+    "fileRefs": [
+      "src/modules/settings/two-factor-authentication/components/DeleteTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "eU1E2J",
+    "msgid": "A payment on your subscription failed. Your premium features stay active while we retry it.",
+    "currentVal": [
+      "A payment on your subscription failed. Your premium features stay active while we retry it."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "nJJAYH",
+    "msgid": "Accepted and signed DPAs for this workspace, with their template version and date.",
+    "currentVal": [
+      "Accepted and signed DPAs for this workspace, with their template version and date."
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpa.tsx"
+    ]
+  },
+  {
+    "id": "BXMLsb",
+    "msgid": "Acme GmbH",
+    "currentVal": [
+      "Acme GmbH"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "8xkU9e",
+    "msgid": "Activate Organization Key",
+    "currentVal": [
+      "Activate Organization Key"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "jSZacs",
+    "msgid": "Activating...",
+    "currentVal": [
+      "Activating..."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Mue4oc",
+    "msgid": "Active API keys created by you or your team.",
+    "currentVal": [
+      "Active API keys created by you or your team."
+    ],
+    "fileRefs": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "QXX2VR",
+    "msgid": "Add \"{trimmedName}\" to options",
+    "currentVal": [
+      "Add \"",
+      [
+        "trimmedName"
+      ],
+      "\" to options"
+    ],
+    "fileRefs": [
+      "src/modules/settings/data-model/fields/forms/select/components/AddSelectOptionMenuItem.tsx"
+    ]
+  },
+  {
+    "id": "hKNhfF",
+    "msgid": "Add topic",
+    "currentVal": [
+      "Add topic"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribe-topics/components/SettingsWorkspaceUnsubscribeTopicSection.tsx"
+    ]
+  },
+  {
+    "id": "8zCitC",
+    "msgid": "Add widget above",
+    "currentVal": [
+      "Add widget above"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsPlacementSection.tsx"
+    ]
+  },
+  {
+    "id": "yy7F6M",
+    "msgid": "Add widget below",
+    "currentVal": [
+      "Add widget below"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsPlacementSection.tsx"
+    ]
+  },
+  {
+    "id": "vLO+NG",
+    "msgid": "Added {beautifiedCreatedAt}",
+    "currentVal": [
+      "Added ",
+      [
+        "beautifiedCreatedAt"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/hooks/useGetAddedRelativeDateDescription.ts"
+    ]
+  },
+  {
+    "id": "9iIYOy",
+    "msgid": "Added to blocklist",
+    "currentVal": [
+      "Added to blocklist"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistTable.tsx"
+    ]
+  },
+  {
+    "id": "cBdysG",
+    "msgid": "Advanced Encryption",
+    "currentVal": [
+      "Advanced Encryption"
+    ],
+    "fileRefs": [
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "WGLEBU",
+    "msgid": "All emails",
+    "currentVal": [
+      "All emails"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx"
+    ]
+  },
+  {
+    "id": "dJn2LR",
+    "msgid": "All emails and events linked to this account ({accountHandle}) will be deleted",
+    "currentVal": [
+      "All emails and events linked to this account (",
+      [
+        "accountHandle"
+      ],
+      ") will be deleted"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "dtwyLS",
+    "msgid": "All messages",
+    "currentVal": [
+      "All messages"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/__stories__/SettingsRadioCards.stories.tsx"
+    ]
+  },
+  {
+    "id": "gqXMNe",
+    "msgid": "All reasons",
+    "currentVal": [
+      "All reasons"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "xYbZZH",
+    "msgid": "All topics",
+    "currentVal": [
+      "All topics"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "VwwcyO",
+    "msgid": "Allow editing",
+    "currentVal": [
+      "Allow editing"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardRecordTableSettings.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-page/SidePanelRecordPageFieldSettings.tsx"
+    ]
+  },
+  {
+    "id": "GMx1K0",
+    "msgid": "Allow logins through Google's single sign-on functionality.",
+    "currentVal": [
+      "Allow logins through Google's single sign-on functionality."
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "U6bnfj",
+    "msgid": "Allow Support Team Access",
+    "currentVal": [
+      "Allow Support Team Access"
+    ],
+    "fileRefs": [
+      "src/modules/settings/workspace/components/ImpersonationSwitch.tsx"
+    ]
+  },
+  {
+    "id": "g6Wfbf",
+    "msgid": "An error occurred while removing the picture.",
+    "currentVal": [
+      "An error occurred while removing the picture."
+    ],
+    "fileRefs": [
+      "src/modules/settings/workspace-member/components/WorkspaceMemberPictureUploader.tsx"
+    ]
+  },
+  {
+    "id": "kDx/lV",
+    "msgid": "An error occurred while uploading the picture.",
+    "currentVal": [
+      "An error occurred while uploading the picture."
+    ],
+    "fileRefs": [
+      "src/modules/settings/workspace-member/components/WorkspaceMemberPictureUploader.tsx"
+    ]
+  },
+  {
+    "id": "QsDjlD",
+    "msgid": "Apple",
+    "currentVal": [
+      "Apple"
+    ],
+    "fileRefs": [
+      "src/modules/auth/sign-in-up/components/internal/SignInUpWorkspaceCreationForm.tsx",
+      "src/modules/settings/workspace/components/NameField.tsx",
+      "src/pages/onboarding/CreateProfile.tsx"
+    ]
+  },
+  {
+    "id": "9JFf0y",
+    "msgid": "Are you sure you want to update the role of this user from \"{oldRoleLabel}\" to \"{newRoleLabel}\"?",
+    "currentVal": [
+      "Are you sure you want to update the role of this user from \"",
+      [
+        "oldRoleLabel"
+      ],
+      "\" to \"",
+      [
+        "newRoleLabel"
+      ],
+      "\"?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/members/components/MemberPermissionsTab.tsx"
+    ]
+  },
+  {
+    "id": "OBqG7p",
+    "msgid": "Assign {roleTargetName}?",
+    "currentVal": [
+      "Assign ",
+      [
+        "roleTargetName"
+      ],
+      "?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "7qh2Hx",
+    "msgid": "Assigned {roleTargetDisplayName}",
+    "currentVal": [
+      "Assigned ",
+      [
+        "roleTargetDisplayName"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentTable.tsx"
+    ]
+  },
+  {
+    "id": "EPEFrH",
+    "msgid": "Audit Logs",
+    "currentVal": [
+      "Audit Logs"
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx",
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "3yzHpm",
+    "msgid": "Authorized signatory name",
+    "currentVal": [
+      "Authorized signatory name"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "li9In6",
+    "msgid": "Axis name",
+    "currentVal": [
+      "Axis name"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "9aZHfH",
+    "msgid": "Back to settings",
+    "currentVal": [
+      "Back to settings"
+    ],
+    "fileRefs": [
+      "src/modules/marketplace/components/SettingsApplicationInstallPermissionValidationModal.tsx"
+    ]
+  },
+  {
+    "id": "dSjFxR",
+    "msgid": "Billing history",
+    "currentVal": [
+      "Billing history"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "MNHZwz",
+    "msgid": "Bounce",
+    "currentVal": [
+      "Bounce"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/utils/getMessageSuppressionReasonBadge.ts"
+    ]
+  },
+  {
+    "id": "hKAV/O",
+    "msgid": "Browse partners",
+    "currentVal": [
+      "Browse partners"
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "GixROH",
+    "msgid": "CalDAV Configuration",
+    "currentVal": [
+      "CalDAV Configuration"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "+x0fpb",
+    "msgid": "caldav.example.com",
+    "currentVal": [
+      "caldav.example.com"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "alkXJ5",
+    "msgid": "Calendar view",
+    "currentVal": [
+      "Calendar view"
+    ],
+    "fileRefs": [
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownCustomView.tsx",
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownLayoutContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardRecordTableSettings.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-table-settings/WidgetViewLayoutSettingsRows.tsx"
+    ]
+  },
+  {
+    "id": "y4uH7j",
+    "msgid": "Cancelling",
+    "currentVal": [
+      "Cancelling"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "WbPx+C",
+    "msgid": "Cancels on",
+    "currentVal": [
+      "Cancels on"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "kryGs+",
+    "msgid": "Card",
+    "currentVal": [
+      "Card"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/dropdown-content/FieldWidgetLayoutDropdownContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-page/SidePanelRecordPageFieldSettings.tsx"
+    ]
+  },
+  {
+    "id": "GptGxg",
+    "msgid": "Change password",
+    "currentVal": [
+      "Change password"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsPasswordController.tsx"
+    ]
+  },
+  {
+    "id": "NaiAqg",
+    "msgid": "Choose folders to sync",
+    "currentVal": [
+      "Choose folders to sync"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/__stories__/SettingsRadioCards.stories.tsx"
+    ]
+  },
+  {
+    "id": "ss6vFU",
+    "msgid": "Click-through acceptance",
+    "currentVal": [
+      "Click-through acceptance"
+    ],
+    "fileRefs": [
+      "src/modules/settings/legal/components/SettingsDpaAgreementRow.tsx"
+    ]
+  },
+  {
+    "id": "1HfW/F",
+    "msgid": "Colors",
+    "currentVal": [
+      "Colors"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "j1828V",
+    "msgid": "Complaint",
+    "currentVal": [
+      "Complaint"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/utils/getMessageSuppressionReasonBadge.ts"
+    ]
+  },
+  {
+    "id": "Bh4GBD",
+    "msgid": "Configure your emails and calendar settings.",
+    "currentVal": [
+      "Configure your emails and calendar settings."
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsSettingsSection.tsx"
+    ]
+  },
+  {
+    "id": "SU6Tym",
+    "msgid": "Confirm deletion of {roleName} role? This cannot be undone.",
+    "currentVal": [
+      "Confirm deletion of ",
+      [
+        "roleName"
+      ],
+      " role? This cannot be undone."
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettingsDeleteRoleConfirmationModalSubtitle.tsx"
+    ]
+  },
+  {
+    "id": "W7S+Tm",
+    "msgid": "Confirm deletion of {roleName} role? This cannot be undone. {reassignSubject} will be reassigned to the default role.",
+    "currentVal": [
+      "Confirm deletion of ",
+      [
+        "roleName"
+      ],
+      " role? This cannot be undone. ",
+      [
+        "reassignSubject"
+      ],
+      " will be reassigned to the default role."
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-settings/components/SettingsRoleSettingsDeleteRoleConfirmationModalSubtitle.tsx"
+    ]
+  },
+  {
+    "id": "OeMn6m",
+    "msgid": "Confirm your preferences:",
+    "currentVal": [
+      "Confirm your preferences:"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx"
+    ]
+  },
+  {
+    "id": "IOfqM8",
+    "msgid": "Connect with Microsoft",
+    "currentVal": [
+      "Connect with Microsoft"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsListEmptyStateCard.tsx"
+    ]
+  },
+  {
+    "id": "9TzudL",
+    "msgid": "Connected accounts",
+    "currentVal": [
+      "Connected accounts"
+    ],
+    "fileRefs": [
+      "src/pages/settings/accounts/SettingsAccounts.tsx"
+    ]
+  },
+  {
+    "id": "FxVG/l",
+    "msgid": "Copied to clipboard",
+    "currentVal": [
+      "Copied to clipboard"
+    ],
+    "fileRefs": [
+      "src/hooks/useCopyToClipboard.tsx",
+      "src/modules/settings/components/SettingsDnsRecordsTable.tsx",
+      "src/modules/settings/components/SettingsDnsRecordsTable.tsx",
+      "src/modules/settings/components/SettingsDnsRecordsTable.tsx"
+    ]
+  },
+  {
+    "id": "HvB+os",
+    "msgid": "Copy paste the code below",
+    "currentVal": [
+      "Copy paste the code below"
+    ],
+    "fileRefs": [
+      "src/pages/settings/profile/SettingsTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "E5v5TK",
+    "msgid": "Could not download the document.",
+    "currentVal": [
+      "Could not download the document."
+    ],
+    "fileRefs": [
+      "src/modules/settings/legal/components/SettingsDpaAgreementsTable.tsx"
+    ]
+  },
+  {
+    "id": "NonvA5",
+    "msgid": "Could not generate the signed DPA. Please try again.",
+    "currentVal": [
+      "Could not generate the signed DPA. Please try again."
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "pd1EEy",
+    "msgid": "Could not open billing portal. Please check your Organization key is present, or contact support.",
+    "currentVal": [
+      "Could not open billing portal. Please check your Organization key is present, or contact support."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "ZuI4Sl",
+    "msgid": "Could not open Stripe. Please contact support.",
+    "currentVal": [
+      "Could not open Stripe. Please contact support."
+    ],
+    "fileRefs": [
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "w1HkE9",
+    "msgid": "Could not refresh validity token - reverted the instance type change.",
+    "currentVal": [
+      "Could not refresh validity token - reverted the instance type change."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "sJS35p",
+    "msgid": "Could not refresh validity token and could not revert the instance type change.",
+    "currentVal": [
+      "Could not refresh validity token and could not revert the instance type change."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "wVw4Am",
+    "msgid": "Could not refresh validity token. Please contact support.",
+    "currentVal": [
+      "Could not refresh validity token. Please contact support."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "rGxoIq",
+    "msgid": "Could not transfer the Organization key. Please contact support.",
+    "currentVal": [
+      "Could not transfer the Organization key. Please contact support."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "xsKD3e",
+    "msgid": "Could not update the instance type",
+    "currentVal": [
+      "Could not update the instance type"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "J1QT+3",
+    "msgid": "Cumulative",
+    "currentVal": [
+      "Cumulative"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "nxnCld",
+    "msgid": "Data and display",
+    "currentVal": [
+      "Data and display"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/record-page/SidePanelRecordPageFieldSettings.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-page/SidePanelRecordPageFieldsSettings.tsx"
+    ]
+  },
+  {
+    "id": "xpZXLn",
+    "msgid": "Data labels",
+    "currentVal": [
+      "Data labels"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "fM466x",
+    "msgid": "Data on display",
+    "currentVal": [
+      "Data on display"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts",
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts",
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts",
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "QIIAIQ",
+    "msgid": "Date field",
+    "currentVal": [
+      "Date field"
+    ],
+    "fileRefs": [
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownCalendarFieldsContent.tsx",
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownCustomView.tsx",
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownLayoutContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardRecordTableSettings.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-table-settings/WidgetViewLayoutSettingsRows.tsx",
+      "src/modules/views/view-picker/components/ViewPickerContentCreateMode.tsx"
+    ]
+  },
+  {
+    "id": "jPvFKE",
+    "msgid": "Delete Two-Factor Authentication Method",
+    "currentVal": [
+      "Delete Two-Factor Authentication Method"
+    ],
+    "fileRefs": [
+      "src/modules/settings/two-factor-authentication/components/DeleteTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "tWD0z0",
+    "msgid": "Delete widget",
+    "currentVal": [
+      "Delete widget"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsFooter.tsx",
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsManageSection.tsx"
+    ]
+  },
+  {
+    "id": "wIAG+H",
+    "msgid": "Deleting this method will remove it permanently from your account.",
+    "currentVal": [
+      "Deleting this method will remove it permanently from your account."
+    ],
+    "fileRefs": [
+      "src/modules/settings/two-factor-authentication/components/DeleteTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "YI3c7h",
+    "msgid": "Destroy {objectLabelPlural}",
+    "currentVal": [
+      "Destroy ",
+      [
+        "objectLabelPlural"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevel.tsx"
+    ]
+  },
+  {
+    "id": "b9bH06",
+    "msgid": "Development instance",
+    "currentVal": [
+      "Development instance"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "fAlSRz",
+    "msgid": "Discovery on {defaultDomain}",
+    "currentVal": [
+      "Discovery on ",
+      [
+        "defaultDomain"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "Ldgs6e",
+    "msgid": "Display \"More fields\" button",
+    "currentVal": [
+      "Display \"More fields\" button"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/record-page/SidePanelRecordPageFieldsSettings.tsx"
+    ]
+  },
+  {
+    "id": "jDRt4n",
+    "msgid": "Do you want to unsubscribe?",
+    "currentVal": [
+      "Do you want to unsubscribe?"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx"
+    ]
+  },
+  {
+    "id": "7Zdnlq",
+    "msgid": "Document",
+    "currentVal": [
+      "Document"
+    ],
+    "fileRefs": [
+      "src/modules/settings/legal/components/SettingsDpaAgreementsTable.tsx"
+    ]
+  },
+  {
+    "id": "mMsEuG",
+    "msgid": "Duplicate widget",
+    "currentVal": [
+      "Duplicate widget"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsFooter.tsx"
+    ]
+  },
+  {
+    "id": "79hamt",
+    "msgid": "Each slice represents",
+    "currentVal": [
+      "Each slice represents"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "+hvIFU",
+    "msgid": "eddy@gmail.com, @apple.com",
+    "currentVal": [
+      "ali@gmail.com, @company.com"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsBlocklistInput.tsx"
+    ]
+  },
+  {
+    "id": "9B436y",
+    "msgid": "Edit Account",
+    "currentVal": [
+      "Edit Account"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsEditImapSmtpCaldavConnection.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsEditImapSmtpCaldavConnection.tsx"
+    ]
+  },
+  {
+    "id": "JTcEch",
+    "msgid": "Edit Graph",
+    "currentVal": [
+      "Edit Graph"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/hooks/useOpenWidgetSettingsInSidePanel.ts"
+    ]
+  },
+  {
+    "id": "WXPnsc",
+    "msgid": "Edit iFrame",
+    "currentVal": [
+      "Edit iFrame"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/hooks/useOpenWidgetSettingsInSidePanel.ts"
+    ]
+  },
+  {
+    "id": "19vPbj",
+    "msgid": "Edit Record Table",
+    "currentVal": [
+      "Edit Record Table"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/hooks/useOpenWidgetSettingsInSidePanel.ts"
+    ]
+  },
+  {
+    "id": "6o1M/Q",
+    "msgid": "Edit your subdomain name or set a custom domain.",
+    "currentVal": [
+      "Edit your subdomain name or set a custom domain."
+    ],
+    "fileRefs": [
+      "src/pages/settings/general/SettingsGeneral.tsx"
+    ]
+  },
+  {
+    "id": "ATGYL1",
+    "msgid": "Email address",
+    "currentVal": [
+      "Email address"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx"
+    ]
+  },
+  {
+    "id": "Pvk9fk",
+    "msgid": "Email addresses that will no longer receive campaign emails",
+    "currentVal": [
+      "Email addresses that will no longer receive campaign emails"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx"
+    ]
+  },
+  {
+    "id": "ioPfqt",
+    "msgid": "Email categories recipients can opt out of",
+    "currentVal": [
+      "Email categories recipients can opt out of"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribe-topics/components/SettingsWorkspaceUnsubscribeTopicSection.tsx"
+    ]
+  },
+  {
+    "id": "6iUnle",
+    "msgid": "Enjoy a 30-day free trial",
+    "currentVal": [
+      "Enjoy a 30-day free trial"
+    ],
+    "fileRefs": [
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "8PrrNJ",
+    "msgid": "Entity ID copied to clipboard",
+    "currentVal": [
+      "Entity ID copied to clipboard"
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "BlLvRP",
+    "msgid": "Erasure of soft-deleted records",
+    "currentVal": [
+      "Erasure of soft-deleted records"
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "MC9SGH",
+    "msgid": "Error activating Organization license",
+    "currentVal": [
+      "Error activating Organization license"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Mox63G",
+    "msgid": "Error opening billing portal",
+    "currentVal": [
+      "Error opening billing portal"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "e/eieW",
+    "msgid": "Error opening Stripe",
+    "currentVal": [
+      "Error opening Stripe"
+    ],
+    "fileRefs": [
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "zRXcyv",
+    "msgid": "Error refreshing validity token. Please contact support.",
+    "currentVal": [
+      "Error refreshing validity token. Please contact support."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "XuMw6C",
+    "msgid": "Error resetting variable",
+    "currentVal": [
+      "Error resetting variable"
+    ],
+    "fileRefs": [
+      "src/modules/settings/config-variables/components/ConfigVariableEdit.tsx"
+    ]
+  },
+  {
+    "id": "2AvJlR",
+    "msgid": "Error transferring the Organization key",
+    "currentVal": [
+      "Error transferring the Organization key"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "s+iV3f",
+    "msgid": "Error updating variable",
+    "currentVal": [
+      "Error updating variable"
+    ],
+    "fileRefs": [
+      "src/modules/settings/config-variables/components/ConfigVariableEdit.tsx"
+    ]
+  },
+  {
+    "id": "JLxMta",
+    "msgid": "Establish Webhook endpoints for notifications on asynchronous events.",
+    "currentVal": [
+      "Establish Webhook endpoints for notifications on asynchronous events."
+    ],
+    "fileRefs": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "aCFYU+",
+    "msgid": "Exclude the following people and domains from the email and calendar sync of every workspace member",
+    "currentVal": [
+      "Exclude the following people and domains from the email and calendar sync of every workspace member"
+    ],
+    "fileRefs": [
+      "src/modules/settings/workspace/components/SettingsWorkspaceBlocklistSection.tsx"
+    ]
+  },
+  {
+    "id": "g3jaWB",
+    "msgid": "Executed copies",
+    "currentVal": [
+      "Executed copies"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpa.tsx"
+    ]
+  },
+  {
+    "id": "0zoYr3",
+    "msgid": "Failed to activate Organization license. Please check your key or contact support.",
+    "currentVal": [
+      "Failed to activate Organization license. Please check your key or contact support."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "ERoMSu",
+    "msgid": "Failed to log out this device",
+    "currentVal": [
+      "Failed to log out this device"
+    ],
+    "fileRefs": [
+      "src/modules/settings/profile/devices/components/SettingsDeviceSessionRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "T4nt+1",
+    "msgid": "Failed to remove picture",
+    "currentVal": [
+      "Failed to remove picture"
+    ],
+    "fileRefs": [
+      "src/modules/settings/workspace-member/components/WorkspaceMemberPictureUploader.tsx"
+    ]
+  },
+  {
+    "id": "Lx8/KQ",
+    "msgid": "Failed to upload picture",
+    "currentVal": [
+      "Failed to upload picture"
+    ],
+    "fileRefs": [
+      "src/modules/onboarding/components/OnboardingProfilePictureUploader.tsx",
+      "src/modules/settings/workspace-member/components/WorkspaceMemberPictureUploader.tsx"
+    ]
+  },
+  {
+    "id": "PpZkda",
+    "msgid": "Features",
+    "currentVal": [
+      "Features"
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "WHjLqG",
+    "msgid": "Features active until",
+    "currentVal": [
+      "Features active until"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "lcNTiF",
+    "msgid": "Field widget",
+    "currentVal": [
+      "Field widget"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/hooks/useOpenWidgetSettingsInSidePanel.ts",
+      "src/modules/side-panel/pages/page-layout/utils/getPageLayoutPageTitle.ts"
+    ]
+  },
+  {
+    "id": "Tnz22x",
+    "msgid": "Fields conflicts",
+    "currentVal": [
+      "Fields conflicts"
+    ],
+    "fileRefs": [
+      "src/modules/object-record/record-merge/components/MergeSettingsTab.tsx"
+    ]
+  },
+  {
+    "id": "j/O9Sh",
+    "msgid": "Filter unsubscribers",
+    "currentVal": [
+      "Filter unsubscribers"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "8BwQeU",
+    "msgid": "Finish Setup",
+    "currentVal": [
+      "Finish Setup"
+    ],
+    "fileRefs": [
+      "src/pages/settings/accounts/SettingsAccountsConfigurationStepCalendar.tsx"
+    ]
+  },
+  {
+    "id": "tVgANq",
+    "msgid": "Fix the payment issue to keep your premium features active.",
+    "currentVal": [
+      "Fix the payment issue to keep your premium features active."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "SdIdBz",
+    "msgid": "Fix the payment issue to restore your premium features.",
+    "currentVal": [
+      "Fix the payment issue to restore your premium features."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "HSh8u/",
+    "msgid": "Folders",
+    "currentVal": [
+      "Folders"
+    ],
+    "fileRefs": [
+      "src/modules/navigation-menu-item/edit/side-panel/components/SidePanelEditFolderPickerSubPage.tsx",
+      "src/modules/settings/accounts/components/message-folders/SettingsAccountsMessageFoldersCard.tsx"
+    ]
+  },
+  {
+    "id": "I7Exsw",
+    "msgid": "Follow us on X",
+    "currentVal": [
+      "Follow us on X"
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "q3il6U",
+    "msgid": "Font size",
+    "currentVal": [
+      "Font size"
+    ],
+    "fileRefs": [
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorTypographySettings.ts"
+    ]
+  },
+  {
+    "id": "abDZwc",
+    "msgid": "Format e.g. d-MMM-y (qqq''yy)",
+    "currentVal": [
+      "Format e.g. d-MMM-y (qqq'yy)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/data-model/fields/forms/date/components/SettingsDataModelFieldDateForm.tsx"
+    ]
+  },
+  {
+    "id": "ziAjHi",
+    "msgid": "Generate",
+    "currentVal": [
+      "Generate"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "H3rta9",
+    "msgid": "Generate DPA",
+    "currentVal": [
+      "Generate DPA"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpa.tsx",
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "AvbPI1",
+    "msgid": "Get Organization",
+    "currentVal": [
+      "Get Organization"
+    ],
+    "fileRefs": [
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "MZe3+J",
+    "msgid": "Get Organization Key",
+    "currentVal": [
+      "Get Organization Key"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Hb4Cgz",
+    "msgid": "Go to billing portal",
+    "currentVal": [
+      "Go to billing portal"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "CQwSng",
+    "msgid": "Google OIDC",
+    "currentVal": [
+      "Google OIDC"
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/sso/SettingsSsoIdentitiesProvidersForm.tsx"
+    ]
+  },
+  {
+    "id": "6eo66Q",
+    "msgid": "Grant access to your workspace so we can troubleshoot problems.",
+    "currentVal": [
+      "Grant access to your workspace so we can troubleshoot problems."
+    ],
+    "fileRefs": [
+      "src/modules/settings/workspace/components/ImpersonationSwitch.tsx"
+    ]
+  },
+  {
+    "id": "Gpb1xF",
+    "msgid": "Head of Legal",
+    "currentVal": [
+      "Head of Legal"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "oK+1Wj",
+    "msgid": "Hidden Fields",
+    "currentVal": [
+      "Hidden Fields"
+    ],
+    "fileRefs": [
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownFieldsContent.tsx",
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownHiddenFieldsContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-table-settings/RecordTableFieldsDropdownHiddenFieldsContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-table-settings/RecordTableFieldsDropdownVisibleFieldsContent.tsx"
+    ]
+  },
+  {
+    "id": "MuEcPp",
+    "msgid": "Hide empty category",
+    "currentVal": [
+      "Hide empty category"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "HS8BG/",
+    "msgid": "Hide empty groups",
+    "currentVal": [
+      "Hide empty groups"
+    ],
+    "fileRefs": [
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownRecordGroupsContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardRecordTableSettings.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-table-settings/WidgetViewLayoutSettingsRows.tsx"
+    ]
+  },
+  {
+    "id": "1ETc0T",
+    "msgid": "Hire a partner to help you implement and customize Twenty.",
+    "currentVal": [
+      "Hire a partner to help you implement and customize Twenty."
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "yhVtER",
+    "msgid": "https://example.com/embed",
+    "currentVal": [
+      "https://example.com/embed"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardIframeSettings.tsx"
+    ]
+  },
+  {
+    "id": "+8jOVa",
+    "msgid": "imap.example.com",
+    "currentVal": [
+      "imap.example.com"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "XOHdRf",
+    "msgid": "Install {appDisplayName} on your workspace",
+    "currentVal": [
+      "Install ",
+      [
+        "appDisplayName"
+      ],
+      " on your workspace"
+    ],
+    "fileRefs": [
+      "src/modules/marketplace/components/SettingsApplicationInstallPermissionValidationModal.tsx"
+    ]
+  },
+  {
+    "id": "GfnKOF",
+    "msgid": "Interface",
+    "currentVal": [
+      "Interface"
+    ],
+    "fileRefs": [
+      "src/pages/settings/profile/appearance/components/SettingsExperience.tsx"
+    ]
+  },
+  {
+    "id": "ggS/0k",
+    "msgid": "Invalid 2FA information.",
+    "currentVal": [
+      "Invalid 2FA information."
+    ],
+    "fileRefs": [
+      "src/modules/settings/two-factor-authentication/components/DeleteTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "9TgH9p",
+    "msgid": "Invalid auth bypass provider",
+    "currentVal": [
+      "Invalid auth bypass provider"
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "4D6/HO",
+    "msgid": "Invalid file: {0}",
+    "currentVal": [
+      "Invalid file: ",
+      [
+        "0"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/sso/SettingsSsoSamlForm.tsx"
+    ]
+  },
+  {
+    "id": "VEKoJx",
+    "msgid": "Invalid verification code. Please try again.",
+    "currentVal": [
+      "Invalid verification code. Please try again."
+    ],
+    "fileRefs": [
+      "src/modules/auth/sign-in-up/components/internal/SignInUpTwoFactorAuthenticationVerification.tsx",
+      "src/modules/settings/two-factor-authentication/hooks/useTwoFactorVerificationForSettings.ts"
+    ]
+  },
+  {
+    "id": "IhCN5p",
+    "msgid": "Issuer URI",
+    "currentVal": [
+      "Issuer URI"
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "A1CyH/",
+    "msgid": "Jane Doe",
+    "currentVal": [
+      "Jane Doe"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "C5FAaq",
+    "msgid": "john.doe",
+    "currentVal": [
+      "john.doe"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx",
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "wrLOeW",
+    "msgid": "john.doe@example.com",
+    "currentVal": [
+      "ali@example.com"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "31TuIx",
+    "msgid": "Join our Discord",
+    "currentVal": [
+      "Join our Discord"
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "cIo6Vk",
+    "msgid": "Join the community",
+    "currentVal": [
+      "Join the community"
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "aOedjo",
+    "msgid": "Key in use on another server",
+    "currentVal": [
+      "Key in use on another server"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "B9/B0O",
+    "msgid": "Label (plural)",
+    "currentVal": [
+      "Label (plural)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/translations/components/SidePanelSettingsMetadataTranslationsPage.tsx"
+    ]
+  },
+  {
+    "id": "J8GEvd",
+    "msgid": "Label (singular)",
+    "currentVal": [
+      "Label (singular)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/translations/components/SidePanelSettingsMetadataTranslationsPage.tsx"
+    ]
+  },
+  {
+    "id": "PEi+K2",
+    "msgid": "Languages without their own translation show the source text.",
+    "currentVal": [
+      "Languages without their own translation show the source text."
+    ],
+    "fileRefs": [
+      "src/modules/settings/translations/components/SidePanelSettingsMetadataTranslationsPage.tsx"
+    ]
+  },
+  {
+    "id": "8QyoLb",
+    "msgid": "Leave blank if you don't need calendar sync.",
+    "currentVal": [
+      "Leave blank if you don't need calendar sync."
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "EY3IAD",
+    "msgid": "Leave blank if you don't need to import emails.",
+    "currentVal": [
+      "Leave blank if you don't need to import emails."
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "vifyyw",
+    "msgid": "Legal",
+    "currentVal": [
+      "Legal"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpa.tsx",
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "nc/jNe",
+    "msgid": "Legal entity name",
+    "currentVal": [
+      "Legal entity name"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "MP1v+1",
+    "msgid": "Legend",
+    "currentVal": [
+      "Legend"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "vhRvfF",
+    "msgid": "Letter spacing",
+    "currentVal": [
+      "Letter spacing"
+    ],
+    "fileRefs": [
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorTypographySettings.ts"
+    ]
+  },
+  {
+    "id": "3qg5Ro",
+    "msgid": "Licensee",
+    "currentVal": [
+      "Licensee"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Wqh8xb",
+    "msgid": "Line height",
+    "currentVal": [
+      "Line height"
+    ],
+    "fileRefs": [
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorTypographySettings.ts"
+    ]
+  },
+  {
+    "id": "ILNASD",
+    "msgid": "Logged out all other devices",
+    "currentVal": [
+      "Logged out all other devices"
+    ],
+    "fileRefs": [
+      "src/modules/settings/profile/devices/components/SettingsProfileDevicesSection.tsx"
+    ]
+  },
+  {
+    "id": "FyFNsd",
+    "msgid": "Manage your internet accounts.",
+    "currentVal": [
+      "Manage your internet accounts."
+    ],
+    "fileRefs": [
+      "src/pages/settings/accounts/SettingsAccounts.tsx"
+    ]
+  },
+  {
+    "id": "2ICF9k",
+    "msgid": "Max range",
+    "currentVal": [
+      "Max range"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "nA8kxD",
+    "msgid": "MCP",
+    "currentVal": [
+      "MCP"
+    ],
+    "fileRefs": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "JBisyL",
+    "msgid": "Min range",
+    "currentVal": [
+      "Min range"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "bAvovP",
+    "msgid": "Move Down",
+    "currentVal": [
+      "Move Down"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsPlacementSection.tsx"
+    ]
+  },
+  {
+    "id": "iSLA/r",
+    "msgid": "Move left",
+    "currentVal": [
+      "Move left"
+    ],
+    "fileRefs": [
+      "src/modules/object-record/record-group/hooks/useRecordGroupActions.ts",
+      "src/modules/object-record/record-table/record-table-header/components/RecordTableColumnHeadDropdownMenu.tsx",
+      "src/modules/side-panel/pages/page-layout/utils/getTabSettingsPlacementItems.ts"
+    ]
+  },
+  {
+    "id": "Ubl2by",
+    "msgid": "Move right",
+    "currentVal": [
+      "Move right"
+    ],
+    "fileRefs": [
+      "src/modules/object-record/record-group/hooks/useRecordGroupActions.ts",
+      "src/modules/object-record/record-table/record-table-header/components/RecordTableColumnHeadDropdownMenu.tsx",
+      "src/modules/side-panel/pages/page-layout/utils/getTabSettingsPlacementItems.ts"
+    ]
+  },
+  {
+    "id": "TH+XKl",
+    "msgid": "Move to another tab",
+    "currentVal": [
+      "Move to another tab"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsPlacementSection.tsx"
+    ]
+  },
+  {
+    "id": "Bpglf1",
+    "msgid": "Move Up",
+    "currentVal": [
+      "Move Up"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsPlacementSection.tsx"
+    ]
+  },
+  {
+    "id": "J7w8lI",
+    "msgid": "Name of your workspace",
+    "currentVal": [
+      "Name of your workspace"
+    ],
+    "fileRefs": [
+      "src/pages/settings/general/SettingsGeneral.tsx"
+    ]
+  },
+  {
+    "id": "ErO8dj",
+    "msgid": "Never shown at sign-in. Members use the workspace URL.",
+    "currentVal": [
+      "Never shown at sign-in. Members use the workspace URL."
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx"
+    ]
+  },
+  {
+    "id": "C7WtCv",
+    "msgid": "New SSO provider",
+    "currentVal": [
+      "New SSO provider"
+    ],
+    "fileRefs": [
+      "src/pages/settings/security/SettingsSecuritySsoIdentifyProvider.tsx"
+    ]
+  },
+  {
+    "id": "Zpgvun",
+    "msgid": "No copy has been generated yet. This is the agreement that applies to your deployment — generate a signed copy from the top-right.",
+    "currentVal": [
+      "No copy has been generated yet. This is the agreement that applies to your deployment — generate a signed copy from the top-right."
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpa.tsx"
+    ]
+  },
+  {
+    "id": "lAfu/q",
+    "msgid": "No default configuration available for this tab",
+    "currentVal": [
+      "No default configuration available for this tab"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/RegularTabSettingsContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/SingleWidgetTabSettingsContent.tsx"
+    ]
+  },
+  {
+    "id": "B8I32S",
+    "msgid": "No default configuration available for this widget",
+    "currentVal": [
+      "No default configuration available for this widget"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsManageSection.tsx"
+    ]
+  },
+  {
+    "id": "OLsGjz",
+    "msgid": "No unsubscribers found",
+    "currentVal": [
+      "No unsubscribers found"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx"
+    ]
+  },
+  {
+    "id": "rPAZRd",
+    "msgid": "No workspace selected",
+    "currentVal": [
+      "No workspace selected"
+    ],
+    "fileRefs": [
+      "src/modules/settings/lab/hooks/useLabPublicFeatureFlags.ts"
+    ]
+  },
+  {
+    "id": "1WZTTl",
+    "msgid": "One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats.",
+    "currentVal": [
+      "One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "b8dX3V",
+    "msgid": "Organization key transferred to this server",
+    "currentVal": [
+      "Organization key transferred to this server"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "MoJjhq",
+    "msgid": "Organization License",
+    "currentVal": [
+      "Organization License"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "6alGoe",
+    "msgid": "Organization license activated successfully",
+    "currentVal": [
+      "Organization license activated successfully"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "9LV44m",
+    "msgid": "Other security settings",
+    "currentVal": [
+      "Other security settings"
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/SettingsSecuritySettings.tsx"
+    ]
+  },
+  {
+    "id": "9PPBpT",
+    "msgid": "Page {0} of {pageCount}",
+    "currentVal": [
+      "Page ",
+      [
+        "0"
+      ],
+      " of ",
+      [
+        "pageCount"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsPaginationControls.tsx"
+    ]
+  },
+  {
+    "id": "mPkInZ",
+    "msgid": "Partners",
+    "currentVal": [
+      "Partners"
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "M01WeF",
+    "msgid": "Paste your Organization key below to activate. Keep a copy of this key somewhere safe: the same key is reused to set up a development instance or to move your license to a replacement server.",
+    "currentVal": [
+      "Paste your Organization key below to activate. Keep a copy of this key somewhere safe: the same key is reused to set up a development instance or to move your license to a replacement server."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Jkg0nj",
+    "msgid": "Paste your Organization key here",
+    "currentVal": [
+      "Paste your Organization key here"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "QmXBEc",
+    "msgid": "Payment issue",
+    "currentVal": [
+      "Payment issue"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "KiuPPj",
+    "msgid": "Permissions · {objectLabelSingular}",
+    "currentVal": [
+      "Permissions · ",
+      [
+        "objectLabelSingular"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectForm.tsx",
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectForm.tsx"
+    ]
+  },
+  {
+    "id": "3pU8e+",
+    "msgid": "Pin tab",
+    "currentVal": [
+      "Pin tab"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/utils/getTabSettingsPlacementItems.ts"
+    ]
+  },
+  {
+    "id": "MFTZK8",
+    "msgid": "Placement",
+    "currentVal": [
+      "Placement"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/TabSettingsPlacementSection.tsx",
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsPlacementSection.tsx"
+    ]
+  },
+  {
+    "id": "rNqTKZ",
+    "msgid": "Prefix",
+    "currentVal": [
+      "Prefix"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "GRQhAg",
+    "msgid": "Preview of the page recipients see when they unsubscribe",
+    "currentVal": [
+      "Preview of the page recipients see when they unsubscribe"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx"
+    ]
+  },
+  {
+    "id": "1hKEom",
+    "msgid": "Priority",
+    "currentVal": [
+      "Priority"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsDnsRecordsTable.tsx"
+    ]
+  },
+  {
+    "id": "GVxbU6",
+    "msgid": "Provide your OIDC provider details",
+    "currentVal": [
+      "Provide your OIDC provider details"
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/sso/SettingsSsoOidcForm.tsx"
+    ]
+  },
+  {
+    "id": "iaocTt",
+    "msgid": "Ratio",
+    "currentVal": [
+      "Ratio"
+    ],
+    "fileRefs": [
+      "src/modules/page-layout/widgets/graph/graph-widget-aggregate-chart/utils/getAggregateChartOperationLabel.ts",
+      "src/modules/page-layout/widgets/graph/hooks/useGraphWidgetAggregateQuery.ts",
+      "src/modules/page-layout/widgets/graph/hooks/useGraphWidgetAggregateQuery.ts",
+      "src/modules/side-panel/pages/page-layout/hooks/useChartSettingsValues.ts"
+    ]
+  },
+  {
+    "id": "549d7o",
+    "msgid": "Read changelog",
+    "currentVal": [
+      "Read changelog"
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "BT7pY+",
+    "msgid": "Receive an email containing password set link",
+    "currentVal": [
+      "Receive an email containing password set link"
+    ],
+    "fileRefs": [
+      "src/modules/settings/profile/components/SetOrChangePassword.tsx"
+    ]
+  },
+  {
+    "id": "XNF6El",
+    "msgid": "Recipients can only unsubscribe from everything. Add a public topic to let them choose what they keep receiving.",
+    "currentVal": [
+      "Recipients can only unsubscribe from everything. Add a public topic to let them choose what they keep receiving."
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx"
+    ]
+  },
+  {
+    "id": "E1qk3l",
+    "msgid": "Register as development instance",
+    "currentVal": [
+      "Register as development instance"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "ARGZDy",
+    "msgid": "Registered as a development instance. This instance will not be billed.",
+    "currentVal": [
+      "Registered as a development instance. This instance will not be billed."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "R/mKm6",
+    "msgid": "Release & transfer",
+    "currentVal": [
+      "Release & transfer"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "KXrI7W",
+    "msgid": "Release & transfer Organization key",
+    "currentVal": [
+      "Release & transfer Organization key"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "PYZeGT",
+    "msgid": "Release & transfer to this server",
+    "currentVal": [
+      "Release & transfer to this server"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "qbM5In",
+    "msgid": "Reload validity token",
+    "currentVal": [
+      "Reload validity token"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "MZWnSC",
+    "msgid": "Reloading...",
+    "currentVal": [
+      "Reloading..."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "qlAIQ1",
+    "msgid": "Remote",
+    "currentVal": [
+      "Remote"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsItemTypeTag.tsx"
+    ]
+  },
+  {
+    "id": "rn2/2V",
+    "msgid": "Remove filter",
+    "currentVal": [
+      "Remove filter"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsDatabaseEventsForm.tsx"
+    ]
+  },
+  {
+    "id": "bha0Vl",
+    "msgid": "Renews on",
+    "currentVal": [
+      "Renews on"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "q8Id6J",
+    "msgid": "Replace widget",
+    "currentVal": [
+      "Replace widget"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsManageSection.tsx"
+    ]
+  },
+  {
+    "id": "1BEcEg",
+    "msgid": "Reset 2FA",
+    "currentVal": [
+      "Reset 2FA"
+    ],
+    "fileRefs": [
+      "src/modules/settings/two-factor-authentication/components/DeleteTwoFactorAuthenticationMethod.tsx",
+      "src/modules/settings/two-factor-authentication/components/DeleteTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "6rzsES",
+    "msgid": "Reset variable",
+    "currentVal": [
+      "Reset variable"
+    ],
+    "fileRefs": [
+      "src/modules/settings/config-variables/components/ConfigVariableEdit.tsx"
+    ]
+  },
+  {
+    "id": "xPaeO2",
+    "msgid": "Row-level security",
+    "currentVal": [
+      "Row-level security"
+    ],
+    "fileRefs": [
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "kdagxk",
+    "msgid": "Search an assigned {roleTargetDisplayName}...",
+    "currentVal": [
+      "Search an assigned ",
+      [
+        "roleTargetDisplayName"
+      ],
+      "..."
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentTable.tsx"
+    ]
+  },
+  {
+    "id": "3mGNuB",
+    "msgid": "Search by email address",
+    "currentVal": [
+      "Search by email address"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx"
+    ]
+  },
+  {
+    "id": "two5rl",
+    "msgid": "Search objects",
+    "currentVal": [
+      "Search objects"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/dropdown-content/ChartDataSourceDropdownContent.tsx",
+      "src/modules/side-panel/pages/page-layout/components/record-table-settings/RecordTableDataSourceDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "8sgZS9",
+    "msgid": "seat / month",
+    "currentVal": [
+      "seat / month"
+    ],
+    "fileRefs": [
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx",
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx",
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "aQnWwf",
+    "msgid": "seat / month - billed yearly",
+    "currentVal": [
+      "seat / month - billed yearly"
+    ],
+    "fileRefs": [
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "aOvXdk",
+    "msgid": "See {objectLabelPlural}",
+    "currentVal": [
+      "See ",
+      [
+        "objectLabelPlural"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevel.tsx"
+    ]
+  },
+  {
+    "id": "U+WOF9",
+    "msgid": "Select date & time",
+    "currentVal": [
+      "Select date & time"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsDatePickerInput.tsx"
+    ]
+  },
+  {
+    "id": "7c7atJ",
+    "msgid": "Select your language and adjust the size of the interface",
+    "currentVal": [
+      "Select your language and adjust the size of the interface"
+    ],
+    "fileRefs": [
+      "src/pages/settings/profile/appearance/components/SettingsExperience.tsx"
+    ]
+  },
+  {
+    "id": "J2TlKG",
+    "msgid": "setup key",
+    "currentVal": [
+      "setup key"
+    ],
+    "fileRefs": [
+      "src/pages/settings/profile/SettingsTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "TJ4tz9",
+    "msgid": "Show value in center",
+    "currentVal": [
+      "Show value in center"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "a6TaW9",
+    "msgid": "Signatory title",
+    "currentVal": [
+      "Signatory title"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "Lz4j8Q",
+    "msgid": "Signed copy",
+    "currentVal": [
+      "Signed copy"
+    ],
+    "fileRefs": [
+      "src/modules/settings/legal/components/SettingsDpaAgreementRow.tsx"
+    ]
+  },
+  {
+    "id": "Z2Wg9g",
+    "msgid": "Signed DPA generated and downloaded",
+    "currentVal": [
+      "Signed DPA generated and downloaded"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "ISDzCY",
+    "msgid": "SMTP Username",
+    "currentVal": [
+      "SMTP Username"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "4oakKm",
+    "msgid": "smtp.example.com",
+    "currentVal": [
+      "smtp.example.com"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsConnectionForm.tsx"
+    ]
+  },
+  {
+    "id": "MEXVHu",
+    "msgid": "Source: {canonicalValue}",
+    "currentVal": [
+      "Source: ",
+      [
+        "canonicalValue"
+      ]
+    ],
+    "fileRefs": [
+      "src/modules/settings/translations/components/SidePanelSettingsMetadataTranslationsPage.tsx"
+    ]
+  },
+  {
+    "id": "gsifzp",
+    "msgid": "Split multiple values",
+    "currentVal": [
+      "Split multiple values"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts",
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts",
+      "src/modules/side-panel/pages/page-layout/utils/__tests__/shouldHideChartSetting.test.ts",
+      "src/modules/side-panel/pages/page-layout/utils/__tests__/shouldHideChartSetting.test.ts"
+    ]
+  },
+  {
+    "id": "vlvAkg",
+    "msgid": "SSO (SAML / OIDC)",
+    "currentVal": [
+      "SSO (SAML / OIDC)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "nNpwX2",
+    "msgid": "Stacked bars",
+    "currentVal": [
+      "Stacked bars"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "bQSDyq",
+    "msgid": "Stacked lines",
+    "currentVal": [
+      "Stacked lines"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "TqGZ8Y",
+    "msgid": "Start a new Organization subscription to re-enable premium features.",
+    "currentVal": [
+      "Start a new Organization subscription to re-enable premium features."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "kqtVJH",
+    "msgid": "Start a new Organization subscription.",
+    "currentVal": [
+      "Start a new Organization subscription."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "oCQwvS",
+    "msgid": "Stay up to date with product news and community updates.",
+    "currentVal": [
+      "Stay up to date with product news and community updates."
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "1CalO6",
+    "msgid": "Style",
+    "currentVal": [
+      "Style"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/ChartSettingsHeadings.ts"
+    ]
+  },
+  {
+    "id": "97eDN2",
+    "msgid": "Subject and metadata",
+    "currentVal": [
+      "Subject and metadata"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageVisibilityCard.tsx"
+    ]
+  },
+  {
+    "id": "J9ylmk",
+    "msgid": "Subject, body and attachments will be shared with your team.",
+    "currentVal": [
+      "Subject, body and attachments will be shared with your team."
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/SettingsAccountsMessageVisibilityCard.tsx"
+    ]
+  },
+  {
+    "id": "QJz8/3",
+    "msgid": "Suffix",
+    "currentVal": [
+      "Suffix"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/ChartConfigurationSettingLabels.ts"
+    ]
+  },
+  {
+    "id": "13a+Fq",
+    "msgid": "Switch to production instance",
+    "currentVal": [
+      "Switch to production instance"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "QfzgpH",
+    "msgid": "Switched to a production instance.",
+    "currentVal": [
+      "Switched to a production instance."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "phtAw0",
+    "msgid": "Sync every message",
+    "currentVal": [
+      "Sync every message"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/__stories__/SettingsRadioCards.stories.tsx"
+    ]
+  },
+  {
+    "id": "MapzEo",
+    "msgid": "Text color",
+    "currentVal": [
+      "Text color"
+    ],
+    "fileRefs": [
+      "src/modules/advanced-text-editor/constants/AdvancedTextEditorBlockCatalog.ts",
+      "src/modules/advanced-text-editor/constants/getAdvancedTextEditorTypographySettings.ts"
+    ]
+  },
+  {
+    "id": "21Xjwu",
+    "msgid": "The full agreement with fields resolved for your deployment.",
+    "currentVal": [
+      "The full agreement with fields resolved for your deployment."
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "Ya1wb4",
+    "msgid": "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory.",
+    "currentVal": [
+      "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "AYRXBE",
+    "msgid": "There is a payment issue with your subscription. Your premium features are disabled. Settle the outstanding invoice to restore them, before the subscription is cancelled: a cancelled subscription cannot be reactivated and you would need to start a new one.",
+    "currentVal": [
+      "There is a payment issue with your subscription. Your premium features are disabled. Settle the outstanding invoice to restore them, before the subscription is cancelled: a cancelled subscription cannot be reactivated and you would need to start a new one."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Ox1hE7",
+    "msgid": "\"\n\"This action cannot be undone. This will permanently delete your\n\"\n\"            entire account.",
+    "currentVal": [
+      "This action cannot be undone. This will permanently delete your\n            entire account."
+    ],
+    "fileRefs": [
+      "src/modules/settings/profile/components/DeleteAccount.tsx"
+    ]
+  },
+  {
+    "id": "o5vUsG",
+    "msgid": "This action cannot be undone. This will permanently reset your two factor authentication method. <0/> Please type in your email to confirm.",
+    "currentVal": [
+      "This action cannot be undone. This will permanently reset your two factor authentication method. <0/> Please type in your email to confirm."
+    ],
+    "fileRefs": [
+      "src/modules/settings/two-factor-authentication/components/DeleteTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "ThVMIW",
+    "msgid": "This Organization key is already bound to a different server instance. Releasing it here will transfer the license to this server and stop counting seats on the previous one.",
+    "currentVal": [
+      "This Organization key is already bound to a different server instance. Releasing it here will transfer the license to this server and stop counting seats on the previous one."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "CHf20W",
+    "msgid": "This Organization key is currently bound to a different server instance. Transferring it here will release it from the previous server and stop counting seats on it. Are you sure you want to continue?",
+    "currentVal": [
+      "This Organization key is currently bound to a different server instance. Transferring it here will release it from the previous server and stop counting seats on it. Are you sure you want to continue?"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "vbLBMd",
+    "msgid": "This role can {humanReadableAction} all records",
+    "currentVal": [
+      "This role can ",
+      [
+        "humanReadableAction"
+      ],
+      " all records"
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectFormObjectLevelTableRow.tsx"
+    ]
+  },
+  {
+    "id": "BifDEA",
+    "msgid": "This role is assigned to these {roleTargetDisplayName}.",
+    "currentVal": [
+      "This role is assigned to these ",
+      [
+        "roleTargetDisplayName"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/modules/settings/roles/role-assignment/components/SettingsRoleAssignmentTable.tsx"
+    ]
+  },
+  {
+    "id": "IBWuXb",
+    "msgid": "This server has an Organization key configured. Make sure you keep a copy of it somewhere safe: you need the same key to activate a development instance or to move your license to a replacement server. If you no longer have access to your key, contact support.",
+    "currentVal": [
+      "This server has an Organization key configured. Make sure you keep a copy of it somewhere safe: you need the same key to activate a development instance or to move your license to a replacement server. If you no longer have access to your key, contact support."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Gzd97S",
+    "msgid": "This server is registered as a development instance and is not billed additionally. A subscription can have a single development instance in addition to its production one. Switching it back to a production instance will make its seats count toward billing.",
+    "currentVal": [
+      "This server is registered as a development instance and is not billed additionally. A subscription can have a single development instance in addition to its production one. Switching it back to a production instance will make its seats count toward billing."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "VbVocX",
+    "msgid": "This will cancel all modifications done on the widget. This action cannot be undone.",
+    "currentVal": [
+      "This will cancel all modifications done on the widget. This action cannot be undone."
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsManageSection.tsx"
+    ]
+  },
+  {
+    "id": "XGDxrH",
+    "msgid": "This will permanently delete the field and all its data from {objectLabel}. Type \"yes\" to confirm.",
+    "currentVal": [
+      "This will permanently delete the field and all its data from ",
+      [
+        "objectLabel"
+      ],
+      ". Type \"yes\" to confirm."
+    ],
+    "fileRefs": [
+      "src/pages/settings/data-model/SettingsObjectFieldEdit.tsx"
+    ]
+  },
+  {
+    "id": "qEODFi",
+    "msgid": "This will permanently delete your two factor authentication method.<0/>Since 2FA is mandatory in your workspace, you will be logged out after deletion and will be asked to configure it again upon login. <1/>Please type in your email to confirm.",
+    "currentVal": [
+      "This will permanently delete your two factor authentication method.<0/>Since 2FA is mandatory in your workspace, you will be logged out after deletion and will be asked to configure it again upon login. <1/>Please type in your email to confirm."
+    ],
+    "fileRefs": [
+      "src/modules/settings/two-factor-authentication/components/DeleteTwoFactorAuthenticationMethod.tsx"
+    ]
+  },
+  {
+    "id": "GFxnQR",
+    "msgid": "Toggle all folders",
+    "currentVal": [
+      "Toggle all folders"
+    ],
+    "fileRefs": [
+      "src/modules/settings/accounts/components/message-folders/SettingsAccountsMessageFoldersCard.tsx"
+    ]
+  },
+  {
+    "id": "qJLttu",
+    "msgid": "Topic",
+    "currentVal": [
+      "Topic"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribe-topics/components/SettingsWorkspaceUnsubscribeTopicSection.tsx",
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterDropdown.tsx",
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterMenuContent.tsx"
+    ]
+  },
+  {
+    "id": "es+Zrf",
+    "msgid": "Transferring...",
+    "currentVal": [
+      "Transferring..."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "64tOpZ",
+    "msgid": "Try our REST or GraphQL API playgrounds",
+    "currentVal": [
+      "Try our REST or GraphQL API playgrounds"
+    ],
+    "fileRefs": [
+      "src/pages/settings/api-webhooks/SettingsApiWebhooks.tsx"
+    ]
+  },
+  {
+    "id": "3WWUB9",
+    "msgid": "Try our upcoming features. Note they are still in beta. Please bear with us and report any issues you find.",
+    "currentVal": [
+      "Try our upcoming features. Note they are still in beta. Please bear with us and report any issues you find."
+    ],
+    "fileRefs": [
+      "src/pages/settings/community/SettingsCommunity.tsx"
+    ]
+  },
+  {
+    "id": "ouRvqq",
+    "msgid": "TTL",
+    "currentVal": [
+      "TTL"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsDnsRecordsTable.tsx"
+    ]
+  },
+  {
+    "id": "MUIppF",
+    "msgid": "Two factor authentication provisioning failed.",
+    "currentVal": [
+      "Two factor authentication provisioning failed."
+    ],
+    "fileRefs": [
+      "src/modules/auth/components/TwoFactorAuthenticationProvisionEffect.tsx",
+      "src/modules/settings/two-factor-authentication/components/TwoFactorAuthenticationSetupForSettingsEffect.tsx"
+    ]
+  },
+  {
+    "id": "cRM1ec",
+    "msgid": "Two-factor authentication setup completed successfully!",
+    "currentVal": [
+      "Two-factor authentication setup completed successfully!"
+    ],
+    "fileRefs": [
+      "src/modules/settings/two-factor-authentication/hooks/useTwoFactorVerificationForSettings.ts"
+    ]
+  },
+  {
+    "id": "pRpC/r",
+    "msgid": "unit",
+    "currentVal": [
+      "unit"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/settings/PrefixSetting.ts",
+      "src/modules/side-panel/pages/page-layout/constants/settings/SuffixSetting.ts"
+    ]
+  },
+  {
+    "id": "rg5AzZ",
+    "msgid": "Unknown topic",
+    "currentVal": [
+      "Unknown topic"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx"
+    ]
+  },
+  {
+    "id": "8vc1Dy",
+    "msgid": "Unlock premium features like SSO, row-level security, and audit logs.",
+    "currentVal": [
+      "Unlock premium features like SSO, row-level security, and audit logs."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "SYfHmN",
+    "msgid": "Unpin tab",
+    "currentVal": [
+      "Unpin tab"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/utils/getTabSettingsPlacementItems.ts"
+    ]
+  },
+  {
+    "id": "AFYemk",
+    "msgid": "Unsubscribe all",
+    "currentVal": [
+      "Unsubscribe all"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx"
+    ]
+  },
+  {
+    "id": "WukjCJ",
+    "msgid": "Unsubscribe topics",
+    "currentVal": [
+      "Unsubscribe topics"
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribe-topics/components/SettingsWorkspaceUnsubscribeTopicSection.tsx"
+    ]
+  },
+  {
+    "id": "Y69tSP",
+    "msgid": "Update payment method",
+    "currentVal": [
+      "Update payment method"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Uq5zVf",
+    "msgid": "Update your payment method before {licenseExpiresAtDate} to avoid losing access.",
+    "currentVal": [
+      "Update your payment method before ",
+      [
+        "licenseExpiresAtDate"
+      ],
+      " to avoid losing access."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "DNM+xk",
+    "msgid": "Updated (on specific fields)",
+    "currentVal": [
+      "Updated (on specific fields)"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsDatabaseEventsForm.tsx"
+    ]
+  },
+  {
+    "id": "pphDjD",
+    "msgid": "URL to Embed",
+    "currentVal": [
+      "URL to Embed"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardIframeSettings.tsx"
+    ]
+  },
+  {
+    "id": "IjyOjp",
+    "msgid": "User is not logged in",
+    "currentVal": [
+      "User is not logged in"
+    ],
+    "fileRefs": [
+      "src/modules/settings/security/components/SettingsSecurityAuthBypassOptionsList.tsx",
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx",
+      "src/modules/settings/security/components/SettingsSecurityAuthProvidersOptionsList.tsx",
+      "src/modules/settings/security/components/SettingsSecurityEditableProfileFields.tsx"
+    ]
+  },
+  {
+    "id": "PWZBIT",
+    "msgid": "Validity token refreshed successfully",
+    "currentVal": [
+      "Validity token refreshed successfully"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "d2GZm6",
+    "msgid": "Variable {title} updated",
+    "currentVal": [
+      "Variable ",
+      [
+        "title"
+      ],
+      " updated"
+    ],
+    "fileRefs": [
+      "src/modules/settings/config-variables/components/ConfigVariableEdit.tsx"
+    ]
+  },
+  {
+    "id": "eE0JZ4",
+    "msgid": "Version",
+    "currentVal": [
+      "Version"
+    ],
+    "fileRefs": [
+      "src/modules/settings/legal/components/SettingsDpaAgreementsTable.tsx"
+    ]
+  },
+  {
+    "id": "B02hom",
+    "msgid": "View invoices",
+    "currentVal": [
+      "View invoices"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "XQC+sL",
+    "msgid": "Visibility restriction",
+    "currentVal": [
+      "Visibility restriction"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/SingleWidgetTabSettingsContent.tsx"
+    ]
+  },
+  {
+    "id": "gkAApJ",
+    "msgid": "Visibility Restriction",
+    "currentVal": [
+      "Visibility Restriction"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/components/WidgetSettingsManageSection.tsx"
+    ]
+  },
+  {
+    "id": "egkNh9",
+    "msgid": "Watch demo",
+    "currentVal": [
+      "Watch demo"
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsDiscoveryHeroCard.tsx"
+    ]
+  },
+  {
+    "id": "SHqkdn",
+    "msgid": "X axis",
+    "currentVal": [
+      "X axis"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/ChartSettingsHeadings.ts",
+      "src/modules/side-panel/pages/page-layout/utils/getChartAxisNameDisplayOptions.ts"
+    ]
+  },
+  {
+    "id": "fplGg6",
+    "msgid": "Y axis",
+    "currentVal": [
+      "Y axis"
+    ],
+    "fileRefs": [
+      "src/modules/side-panel/pages/page-layout/constants/ChartSettingsHeadings.ts",
+      "src/modules/side-panel/pages/page-layout/utils/getChartAxisNameDisplayOptions.ts"
+    ]
+  },
+  {
+    "id": "Dg2c0z",
+    "msgid": "You don't have access to this settings page.",
+    "currentVal": [
+      "You don't have access to this settings page."
+    ],
+    "fileRefs": [
+      "src/modules/settings/components/SettingsProtectedRouteWrapper.tsx"
+    ]
+  },
+  {
+    "id": "tzk0bz",
+    "msgid": "You have reached the maximum number of server transfers allowed in the last 30 days for this Organization key. Please try again later or contact support.",
+    "currentVal": [
+      "You have reached the maximum number of server transfers allowed in the last 30 days for this Organization key. Please try again later or contact support."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "gtZrCd",
+    "msgid": "You will stop receiving these emails.",
+    "currentVal": [
+      "You will stop receiving these emails."
+    ],
+    "fileRefs": [
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribePreview.tsx"
+    ]
+  },
+  {
+    "id": "mmGBWT",
+    "msgid": "Your details",
+    "currentVal": [
+      "Your details"
+    ],
+    "fileRefs": [
+      "src/pages/settings/legal/SettingsLegalDpaNew.tsx"
+    ]
+  },
+  {
+    "id": "91Ysnw",
+    "msgid": "Your Organization key",
+    "currentVal": [
+      "Your Organization key"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "eE08iE",
+    "msgid": "Your Organization subscription has been canceled.",
+    "currentVal": [
+      "Your Organization subscription has been canceled."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "iizYt1",
+    "msgid": "Your premium features are active",
+    "currentVal": [
+      "Your premium features are active"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "VRFEn9",
+    "msgid": "Your premium features are active but your Organization key is missing or invalid. This may be expected, but if not, please set a valid signed Organization key to manage your subscription, or contact support.",
+    "currentVal": [
+      "Your premium features are active but your Organization key is missing or invalid. This may be expected, but if not, please set a valid signed Organization key to manage your subscription, or contact support."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "BkmgMC",
+    "msgid": "Your premium features will be disabled",
+    "currentVal": [
+      "Your premium features will be disabled"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "TI99Rh",
+    "msgid": "Your premium features will remain active until {cancelAtDate}.",
+    "currentVal": [
+      "Your premium features will remain active until ",
+      [
+        "cancelAtDate"
+      ],
+      "."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "319YPG",
+    "msgid": "Your subscription is active but your validity token is invalid or has expired. Try reloading it or contact support.",
+    "currentVal": [
+      "Your subscription is active but your validity token is invalid or has expired. Try reloading it or contact support."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Fx0axg",
+    "msgid": "Your subscription is scheduled for cancellation",
+    "currentVal": [
+      "Your subscription is scheduled for cancellation"
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "XgIa/8",
+    "msgid": "Your subscription setup was not completed.",
+    "currentVal": [
+      "Your subscription setup was not completed."
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "Z9kbt6",
+    "msgid": "Your subscription status is: {statusLabel}",
+    "currentVal": [
+      "Your subscription status is: ",
+      [
+        "statusLabel"
+      ]
+    ],
+    "fileRefs": [
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  }
+]

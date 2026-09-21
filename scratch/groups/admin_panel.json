@@ -1,0 +1,3339 @@
+[
+  {
+    "id": "+I+tjN",
+    "msgid": "Label must contain at least one alphanumeric character",
+    "ast": [
+      "Label must contain at least one alphanumeric character"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "+MqoSu",
+    "msgid": "Behind",
+    "ast": [
+      "Behind"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkspacesStatusSummaryCard.tsx",
+      "src/modules/settings/admin-panel/utils/getUpgradeHealthStatusBadge.ts"
+    ]
+  },
+  {
+    "id": "+awaFr",
+    "msgid": "Upgrade health across instance and workspaces",
+    "ast": [
+      "Upgrade health across instance and workspaces"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "+g90tY",
+    "msgid": "Goodwill gesture after the March incident",
+    "ast": [
+      "Goodwill gesture after the March incident"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx"
+    ]
+  },
+  {
+    "id": "+mx9eK",
+    "msgid": "Use the quota engine to enforce credit allowances.",
+    "ast": [
+      "Use the quota engine to enforce credit allowances."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "/IUt/5",
+    "msgid": "Queue information is not available because the worker is down",
+    "ast": [
+      "Queue information is not available because the worker is down"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "/RlqQE",
+    "msgid": "Detected application version running on this instance",
+    "ast": [
+      "Detected application version running on this instance"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx"
+    ]
+  },
+  {
+    "id": "/l59TO",
+    "msgid": "Upgrade status refreshed",
+    "ast": [
+      "Upgrade status refreshed"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "/rTz0M",
+    "msgid": "Audio",
+    "ast": [
+      "Audio"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "0HuWgM",
+    "msgid": "Webhook rate limits",
+    "ast": [
+      "Webhook rate limits"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "0LzSIl",
+    "msgid": "Last 1 Hour (oldest → newest)",
+    "ast": [
+      "Last 1 Hour (oldest → newest)"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "0NudpV",
+    "msgid": "No metrics data available",
+    "ast": [
+      "No metrics data available"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "0rr3iW",
+    "msgid": "Use the usage limit engine to enforce API request speed limits.",
+    "ast": [
+      "Use the usage limit engine to enforce API request speed limits."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "1OVrop",
+    "msgid": "Show hidden groups",
+    "ast": [
+      "Show hidden groups"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "1VmVrX",
+    "msgid": "e.g. 128000",
+    "ast": [
+      "e.g. 128000"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "1ZMDWV",
+    "msgid": "impersonation",
+    "ast": [
+      "impersonation"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "2CAby/",
+    "msgid": "Cancels at period end",
+    "ast": [
+      "Cancels at period end"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "2XrCFd",
+    "msgid": "Synchronize catalog",
+    "ast": [
+      "Synchronize catalog"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "2lF8Zj",
+    "msgid": "Unanswered",
+    "ast": [
+      "Unanswered"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsPart.tsx"
+    ]
+  },
+  {
+    "id": "33fb3H",
+    "msgid": "Workspaces status",
+    "ast": [
+      "Workspaces status"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminUpgradeStatusListCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "3UPqHL",
+    "msgid": "Search config variables",
+    "ast": [
+      "Search config variables"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableSearchInput.tsx"
+    ]
+  },
+  {
+    "id": "3X5ngu",
+    "msgid": "Cost per million tokens (USD)",
+    "ast": [
+      "Cost per million tokens (USD)"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "3hkXRB",
+    "msgid": "Credit balance",
+    "ast": [
+      "Credit balance"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "3m7+J/",
+    "msgid": "Failed to refresh upgrade status",
+    "ast": [
+      "Failed to refresh upgrade status"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "3xMv4O",
+    "msgid": "Grant admin panel access",
+    "ast": [
+      "Grant admin panel access"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "3zE1mx",
+    "msgid": "Administrators",
+    "ast": [
+      "Administrators"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdmins.tsx"
+    ]
+  },
+  {
+    "id": "40bRe+",
+    "msgid": "Use the dedicated workflow index page to browse workflows and their versions.",
+    "ast": [
+      "Use the dedicated workflow index page to browse workflows and their versions."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "43TqJC",
+    "msgid": "A display name for this provider",
+    "ast": [
+      "A display name for this provider"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "4Fpy78",
+    "msgid": "Server administrator access updated.",
+    "ast": [
+      "Server administrator access updated."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "4H6WHS",
+    "msgid": "Asymmetric public keys used to sign and verify access tokens. Revoking a key immediately invalidates every JWT signed with it.",
+    "ast": [
+      "Asymmetric public keys used to sign and verify access tokens. Revoking a key immediately invalidates every JWT signed with it."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "4jdeR0",
+    "msgid": "Copy key ID",
+    "ast": [
+      "Copy key ID"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "58V8TX",
+    "msgid": "Loading apps...",
+    "ast": [
+      "Loading apps..."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "5O8DG6",
+    "msgid": "Grant credits",
+    "ast": [
+      "Grant credits"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "5UfQvA",
+    "msgid": "Upgrade Status",
+    "ast": [
+      "Upgrade Status"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "5uLUiv",
+    "msgid": "After a year",
+    "ast": [
+      "After a year"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "67waeA",
+    "msgid": "Trial period",
+    "ast": [
+      "Trial period"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "6BDqha",
+    "msgid": "Limits",
+    "ast": [
+      "Limits"
+    ],
+    "files": [
+      "src/modules/settings/billing/components/SettingsBillingLimitEditForm.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsContent.tsx",
+      "src/modules/settings/billing/components/SettingsBillingLimitsTable.tsx",
+      "src/modules/settings/billing/components/SettingsBillingTabBar.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/billing/SettingsBillingNewLimit.tsx"
+    ]
+  },
+  {
+    "id": "6SbZqO",
+    "msgid": "Usage period",
+    "ast": [
+      "Usage period"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "6WdDG7",
+    "msgid": "Page",
+    "ast": [
+      "Page"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "6YzXhC",
+    "msgid": "Current value from server environment. Set a custom value to override.",
+    "ast": [
+      "Current value from server environment. Set a custom value to override."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "6bwSBJ",
+    "msgid": "e.g. 16384",
+    "ast": [
+      "e.g. 16384"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "70UyPr",
+    "msgid": "Failed to revoke signing key. Please try again later.",
+    "ast": [
+      "Failed to revoke signing key. Please try again later."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/hooks/useRevokeSigningKey.ts"
+    ]
+  },
+  {
+    "id": "7F0zgN",
+    "msgid": "e.g. 3.75",
+    "ast": [
+      "e.g. 3.75"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "7S4EZE",
+    "msgid": "Uninstall this app from all workspaces before deleting it",
+    "ast": [
+      "Uninstall this app from all workspaces before deleting it"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "7sBzvW",
+    "msgid": "Display name for the model",
+    "ast": [
+      "Display name for the model"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "8/+vjg",
+    "msgid": "Configurable search fields",
+    "ast": [
+      "Configurable search fields"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "87ZNeX",
+    "msgid": "Custom model ID",
+    "ast": [
+      "Custom model ID"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "88ZkNH",
+    "msgid": "Upgrade health across all workspaces",
+    "ast": [
+      "Upgrade health across all workspaces"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "88vQqv",
+    "msgid": "e.g. my-workspace",
+    "ast": [
+      "e.g. my-workspace"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "8Drj7i",
+    "msgid": "Using default value. Set a custom value to override.",
+    "ast": [
+      "Using default value. Set a custom value to override."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "8KjW3W",
+    "msgid": "Run logic functions from prebuilt application bundles.",
+    "ast": [
+      "Run logic functions from prebuilt application bundles."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "8TMaZI",
+    "msgid": "Timestamp",
+    "ast": [
+      "Timestamp"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx",
+      "src/modules/settings/event-logs/utils/getColumnsForEventLogTable.tsx"
+    ]
+  },
+  {
+    "id": "8g3Cgz",
+    "msgid": "Monitor the execution of your calendar events sync job",
+    "ast": [
+      "Monitor the execution of your calendar events sync job"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "8n9Unw",
+    "msgid": "Direct REST metadata responses",
+    "ast": [
+      "Direct REST metadata responses"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "8u2elr",
+    "msgid": "e.g. 2.50",
+    "ast": [
+      "e.g. 2.50"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "8whThc",
+    "msgid": "No billing data is available for this workspace.",
+    "ast": [
+      "No billing data is available for this workspace."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "8zfXiN",
+    "msgid": "e.g. 1.25",
+    "ast": [
+      "e.g. 1.25"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "91e2Af",
+    "msgid": "Workflow index page",
+    "ast": [
+      "Workflow index page"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "9CjMQ7",
+    "msgid": "Enter JSON array",
+    "ast": [
+      "Enter JSON array"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableDatabaseInput.tsx"
+    ]
+  },
+  {
+    "id": "9I618z",
+    "msgid": "Model ID is required",
+    "ast": [
+      "Model ID is required"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "9J0yW0",
+    "msgid": "Ownership claimed successfully",
+    "ast": [
+      "Ownership claimed successfully"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "9rY+8P",
+    "msgid": "This app has no owner workspace. Claiming it will assign ownership to your current workspace, and you will be able to manage it.",
+    "ast": [
+      "This app has no owner workspace. Claiming it will assign ownership to your current workspace, and you will be able to manage it."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "A4dnvW",
+    "msgid": "Top Workspaces",
+    "ast": [
+      "Top Workspaces"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "A5XQ/A",
+    "msgid": "No variables found",
+    "ast": [
+      "No variables found"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/SettingsAdminConfigVariables.tsx"
+    ]
+  },
+  {
+    "id": "AF7Zfa",
+    "msgid": "Return metadata directly instead of wrapping it in the legacy response envelope.",
+    "ast": [
+      "Return metadata directly instead of wrapping it in the legacy response envelope."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "Ap948/",
+    "msgid": "Listed",
+    "ast": [
+      "Listed"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx",
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "BAiyFV",
+    "msgid": "AKIA...",
+    "ast": [
+      "AKIA..."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "BKoJRa",
+    "msgid": "All Groups",
+    "ast": [
+      "All Groups"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/SettingsAdminConfigVariables.tsx"
+    ]
+  },
+  {
+    "id": "BglnOD",
+    "msgid": "Computed at",
+    "ast": [
+      "Computed at"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkspacesStatusSummaryCard.tsx"
+    ]
+  },
+  {
+    "id": "C/wr0z",
+    "msgid": "This setting can only be configured through environment variables.",
+    "ast": [
+      "This setting can only be configured through environment variables."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "C6vAhD",
+    "msgid": "Current subscription state and line items",
+    "ast": [
+      "Current subscription state and line items"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "CCR+qC",
+    "msgid": "Revoke credit grant",
+    "ast": [
+      "Revoke credit grant"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "CU/Sq6",
+    "msgid": "full server access",
+    "ast": [
+      "full server access"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "CcK+Ft",
+    "msgid": "PDF",
+    "ast": [
+      "PDF"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "Ce7yfm",
+    "msgid": "Workspace lists by upgrade status",
+    "ast": [
+      "Workspace lists by upgrade status"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "CpT2ez",
+    "msgid": "Legacy (HS256)",
+    "ast": [
+      "Legacy (HS256)"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "CpnBmA",
+    "msgid": "Calendar Sync is not available because the service is down",
+    "ast": [
+      "Calendar Sync is not available because the service is down"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "D0Z4Jd",
+    "msgid": "Max output must be a positive integer",
+    "ast": [
+      "Max output must be a positive integer"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "D38O1A",
+    "msgid": "Types of content this model can process besides text",
+    "ast": [
+      "Types of content this model can process besides text"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "DJokAV",
+    "msgid": "Kickoff prompt",
+    "ast": [
+      "Kickoff prompt"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatMessage.tsx"
+    ]
+  },
+  {
+    "id": "DU27lO",
+    "msgid": "Last 1 hour",
+    "ast": [
+      "Last 1 hour"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/constants/WorkerQueueMetricsSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "E0rSFg",
+    "msgid": "Granted",
+    "ast": [
+      "Granted"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "E2CkaQ",
+    "msgid": "Failed to claim ownership.",
+    "ast": [
+      "Failed to claim ownership."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "E5fxqI",
+    "msgid": "After 90 days",
+    "ast": [
+      "After 90 days"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "EUHN7i",
+    "msgid": "Undefined",
+    "ast": [
+      "Undefined"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableValueInput.tsx"
+    ]
+  },
+  {
+    "id": "EoiSFI",
+    "msgid": "Recent Users",
+    "ast": [
+      "Recent Users"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "EsP4NW",
+    "msgid": "No users found matching your search criteria.",
+    "ast": [
+      "No users found matching your search criteria."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "FVzmEZ",
+    "msgid": "Job Actions",
+    "ast": [
+      "Job Actions"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobRowDropdownMenu.tsx"
+    ]
+  },
+  {
+    "id": "FXWLlg",
+    "msgid": "API rate limits v2",
+    "ast": [
+      "API rate limits v2"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "Faptqt",
+    "msgid": "Administrator",
+    "ast": [
+      "Administrator"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdmins.tsx"
+    ]
+  },
+  {
+    "id": "FdPN4f",
+    "msgid": "Grant full access",
+    "ast": [
+      "Grant full access"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "G1r3UJ",
+    "msgid": "Allow filtering records by values inside JSON fields.",
+    "ast": [
+      "Allow filtering records by values inside JSON fields."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "GDMzJS",
+    "msgid": "Enter your two-factor authentication code to confirm.",
+    "ast": [
+      "Enter your two-factor authentication code to confirm."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "GEMJqo",
+    "msgid": "Database configuration is currently disabled.",
+    "ast": [
+      "Database configuration is currently disabled."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "GNJgJf",
+    "msgid": "All failed jobs have been retried",
+    "ast": [
+      "All failed jobs have been retried"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/hooks/useRetryJobs.ts"
+    ]
+  },
+  {
+    "id": "GQgBSj",
+    "msgid": "Last 7 Days (oldest → newest)",
+    "ast": [
+      "Last 7 Days (oldest → newest)"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "GXsAby",
+    "msgid": "Revoke",
+    "ast": [
+      "Revoke"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantRowDropdownMenu.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminRevokeSigningKeyConfirmationModal.tsx",
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "GdgCoi",
+    "msgid": "Plan",
+    "ast": [
+      "Plan"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx"
+    ]
+  },
+  {
+    "id": "GqCA/t",
+    "msgid": "Answered",
+    "ast": [
+      "Answered"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsPart.tsx"
+    ]
+  },
+  {
+    "id": "Gtjqi6",
+    "msgid": "Key ID copied",
+    "ast": [
+      "Key ID copied"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "Gw5WrN",
+    "msgid": "Supports reasoning",
+    "ast": [
+      "Supports reasoning"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "Gzr66P",
+    "msgid": "Signing Keys",
+    "ast": [
+      "Signing Keys"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "HYRl4P",
+    "msgid": "Failed to load more chats.",
+    "ast": [
+      "Failed to load more chats."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/hooks/useAdminChatThreads.ts"
+    ]
+  },
+  {
+    "id": "HiI1Lo",
+    "msgid": "The model identifier used by the provider API",
+    "ast": [
+      "The model identifier used by the provider API"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "HslPhm",
+    "msgid": "Prebuilt logic functions",
+    "ast": [
+      "Prebuilt logic functions"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "HyaXse",
+    "msgid": "Health of the latest instance command",
+    "ast": [
+      "Health of the latest instance command"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "I1IOmb",
+    "msgid": "Health Status",
+    "ast": [
+      "Health Status"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "I6lVwB",
+    "msgid": "After 30 days",
+    "ast": [
+      "After 30 days"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "IEtN5Y",
+    "msgid": "Upgrade health",
+    "ast": [
+      "Upgrade health"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkspacesStatusSummaryCard.tsx"
+    ]
+  },
+  {
+    "id": "IFQsdb",
+    "msgid": "Loading jobs...",
+    "ast": [
+      "Loading jobs..."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "IHIWR4",
+    "msgid": "Version of the application",
+    "ast": [
+      "Version of the application"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "IHtFjq",
+    "msgid": "Token limits for context and output",
+    "ast": [
+      "Token limits for context and output"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "IL/nIb",
+    "msgid": "Monitor the execution of your emails sync job",
+    "ast": [
+      "Monitor the execution of your emails sync job"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "IohPnt",
+    "msgid": "No messages found.",
+    "ast": [
+      "No messages found."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatThreadMessageList.tsx"
+    ]
+  },
+  {
+    "id": "IpCCj8",
+    "msgid": "Last command",
+    "ast": [
+      "Last command"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "IzB3v0",
+    "msgid": "Model ID",
+    "ast": [
+      "Model ID"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "J22jAC",
+    "msgid": "Workspace Info",
+    "ast": [
+      "Workspace Info"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx"
+    ]
+  },
+  {
+    "id": "JJFwWE",
+    "msgid": "New AI Provider",
+    "ast": [
+      "New AI Provider"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "JXU6Ex",
+    "msgid": "Delete app",
+    "ast": [
+      "Delete app"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "JkPTT8",
+    "msgid": "No server administrators found.",
+    "ast": [
+      "No server administrators found."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdmins.tsx"
+    ]
+  },
+  {
+    "id": "K0joU5",
+    "msgid": "Failure Rate",
+    "ast": [
+      "Failure Rate"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthAccountSyncCountersTable.tsx"
+    ]
+  },
+  {
+    "id": "KI1xjO",
+    "msgid": "Search by workspace name, subdomain, or ID...",
+    "ast": [
+      "Search by workspace name, subdomain, or ID..."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "KSnRfc",
+    "msgid": "Transfer ownership",
+    "ast": [
+      "Transfer ownership"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "KZ7vMS",
+    "msgid": "Legacy HS256 verifications across all tokens",
+    "ast": [
+      "Legacy HS256 verifications across all tokens"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "L8fEEm",
+    "msgid": "Group",
+    "ast": [
+      "Group"
+    ],
+    "files": [
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownCustomView.tsx",
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownLayoutContent.tsx",
+      "src/modules/object-record/object-options-dropdown/components/ObjectOptionsDropdownRecordGroupsContent.tsx",
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "LVcnN8",
+    "msgid": "Failed to transfer ownership. Check that the subdomain is correct.",
+    "ast": [
+      "Failed to transfer ownership. Check that the subdomain is correct."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "LbIh3Y",
+    "msgid": "Calendar Sync",
+    "ast": [
+      "Calendar Sync"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "MMGDfe",
+    "msgid": "This value will be saved to the database.",
+    "ast": [
+      "This value will be saved to the database."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "MNOlLY",
+    "msgid": "Use a dedicated form when creating records.",
+    "ast": [
+      "Use a dedicated form when creating records."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "MS72xQ",
+    "msgid": "Search by workspace, user email or thread id...",
+    "ast": [
+      "Search by workspace, user email or thread id..."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminChats.tsx"
+    ]
+  },
+  {
+    "id": "MjAVB0",
+    "msgid": "Last 4 Hours (oldest → newest)",
+    "ast": [
+      "Last 4 Hours (oldest → newest)"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "MxZ8eH",
+    "msgid": "Your provider API key for authentication",
+    "ast": [
+      "Your provider API key for authentication"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "N8UzTV",
+    "msgid": "Replies",
+    "ast": [
+      "Replies"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTable.tsx"
+    ]
+  },
+  {
+    "id": "NGOYJs",
+    "msgid": "Credit allowance quotas",
+    "ast": [
+      "Credit allowance quotas"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "NXfWhP",
+    "msgid": "Unique indexes",
+    "ast": [
+      "Unique indexes"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "Nbjq/v",
+    "msgid": "sk-...",
+    "ast": [
+      "sk-..."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "OX7bKt",
+    "msgid": "Failed to synchronize the marketplace catalog.",
+    "ast": [
+      "Failed to synchronize the marketplace catalog."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "OuYGr9",
+    "msgid": "Limit the rate of outgoing webhook deliveries.",
+    "ast": [
+      "Limit the rate of outgoing webhook deliveries."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "P1Rw/Z",
+    "msgid": "Grant access",
+    "ast": [
+      "Grant access"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "PAbCsV",
+    "msgid": "Whether this model supports chain-of-thought reasoning",
+    "ast": [
+      "Whether this model supports chain-of-thought reasoning"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "PPf/RT",
+    "msgid": "Choose which fields are used when searching for records.",
+    "ast": [
+      "Choose which fields are used when searching for records."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "PtK3Kn",
+    "msgid": "About this workspace",
+    "ast": [
+      "About this workspace"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx"
+    ]
+  },
+  {
+    "id": "Q4dFjT",
+    "msgid": "No workspace behind",
+    "ast": [
+      "No workspace behind"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "Q6o/eX",
+    "msgid": "Rollover",
+    "ast": [
+      "Rollover"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/CreditGrantTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "QHjErc",
+    "msgid": "Active Sync",
+    "ast": [
+      "Active Sync"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthAccountSyncCountersTable.tsx"
+    ]
+  },
+  {
+    "id": "QtMnui",
+    "msgid": "Base URL is required",
+    "ast": [
+      "Base URL is required"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "R/PuIn",
+    "msgid": "This provider doesn't have a native SDK yet — it will use OpenAI-compatible mode. Need native support? Reach out to us.",
+    "ast": [
+      "This provider doesn't have a native SDK yet — it will use OpenAI-compatible mode. Need native support? Reach out to us."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "ROxeMs",
+    "msgid": "New Model",
+    "ast": [
+      "New Model"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "RWJnRQ",
+    "msgid": "Ownership transferred successfully",
+    "ast": [
+      "Ownership transferred successfully"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "SDND4q",
+    "msgid": "Not configured",
+    "ast": [
+      "Not configured"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "SJEIIJ",
+    "msgid": "Failed to retry jobs. Please try again later.",
+    "ast": [
+      "Failed to retry jobs. Please try again later."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/hooks/useRetryJobs.ts"
+    ]
+  },
+  {
+    "id": "SLIRqz",
+    "msgid": "This database value overrides environment settings. ",
+    "ast": [
+      "This database value overrides environment settings. "
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "Shfac6",
+    "msgid": "Vetted",
+    "ast": [
+      "Vetted"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "Smg70n",
+    "msgid": "Workspace upgrade health",
+    "ast": [
+      "Workspace upgrade health"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx"
+    ]
+  },
+  {
+    "id": "Sn1jT8",
+    "msgid": "Legacy",
+    "ast": [
+      "Legacy"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "SsHJsm",
+    "msgid": "Admin panel",
+    "ast": [
+      "Admin panel"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdmins.tsx"
+    ]
+  },
+  {
+    "id": "TiRphK",
+    "msgid": "No workspaces found matching your search criteria.",
+    "ast": [
+      "No workspaces found matching your search criteria."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "Tt0V8j",
+    "msgid": "Enable impersonation",
+    "ast": [
+      "Enable impersonation"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "UDL15Z",
+    "msgid": "Loading chats...",
+    "ast": [
+      "Loading chats..."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsContent.tsx"
+    ]
+  },
+  {
+    "id": "UHhAMv",
+    "msgid": "Cache read",
+    "ast": [
+      "Cache read"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "UKCiEd",
+    "msgid": "Select Source",
+    "ast": [
+      "Select Source"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "UPqS9C",
+    "msgid": "Health",
+    "ast": [
+      "Health"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/hooks/useSettingsAdminTabs.ts"
+    ]
+  },
+  {
+    "id": "UQ4Hjl",
+    "msgid": "credits",
+    "ast": [
+      "credits"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx",
+      "src/modules/settings/billing/components/internal/ResourceCreditPackagePickerModal.tsx"
+    ]
+  },
+  {
+    "id": "UYDPfv",
+    "msgid": "Failed to load chats. Please try again.",
+    "ast": [
+      "Failed to load chats. Please try again."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsContent.tsx"
+    ]
+  },
+  {
+    "id": "UZHvVi",
+    "msgid": "Value is set in the server environment, it may be a different value on the worker.",
+    "ast": [
+      "Value is set in the server environment, it may be a different value on the worker."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "VJScHU",
+    "msgid": "Reason",
+    "ast": [
+      "Reason"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterDropdown.tsx",
+      "src/modules/settings/unsubscribers/components/filter-dropdown/SettingsUnsubscribersFilterMenuContent.tsx",
+      "src/modules/settings/unsubscribers/components/SettingsUnsubscribersList.tsx"
+    ]
+  },
+  {
+    "id": "VRi9O8",
+    "msgid": "Message Sync is not available because the service is down",
+    "ast": [
+      "Message Sync is not available because the service is down"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "Vj43Y/",
+    "msgid": "Config Variables",
+    "ast": [
+      "Config Variables"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/SettingsAdminConfigVariables.tsx"
+    ]
+  },
+  {
+    "id": "VxZSi+",
+    "msgid": "Failed to load server administrators.",
+    "ast": [
+      "Failed to load server administrators."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdmins.tsx"
+    ]
+  },
+  {
+    "id": "WJEtVC",
+    "msgid": "Manage the marketplace application catalog",
+    "ast": [
+      "Manage the marketplace application catalog"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "WUREiw",
+    "msgid": "us-east-1",
+    "ast": [
+      "us-east-1"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "WVzGc2",
+    "msgid": "Subscription",
+    "ast": [
+      "Subscription"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/usage/constants/UsageOperationTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "WlItll",
+    "msgid": "After 180 days",
+    "ast": [
+      "After 180 days"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "Woqoyp",
+    "msgid": "Credit consumption for the current period",
+    "ast": [
+      "Credit consumption for the current period"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "X1zsRT",
+    "msgid": "Signing key revoked",
+    "ast": [
+      "Signing key revoked"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/hooks/useRevokeSigningKey.ts"
+    ]
+  },
+  {
+    "id": "XDeNvP",
+    "msgid": "Disable impersonation",
+    "ast": [
+      "Disable impersonation"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "XUlP/Y",
+    "msgid": "Last 12 hours",
+    "ast": [
+      "Last 12 hours"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/constants/WorkerQueueMetricsSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "XXzjfC",
+    "msgid": "Msgs",
+    "ast": [
+      "Msgs"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTable.tsx"
+    ]
+  },
+  {
+    "id": "Xgkhyj",
+    "msgid": "Flags",
+    "ast": [
+      "Flags"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTable.tsx"
+    ]
+  },
+  {
+    "id": "Xh9FA2",
+    "msgid": "e.g. My OpenAI Proxy",
+    "ast": [
+      "e.g. My OpenAI Proxy"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "XnR4kd",
+    "msgid": "e.g. OpenAI EU",
+    "ast": [
+      "e.g. OpenAI EU"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "Xry+oU",
+    "msgid": "Installation",
+    "ast": [
+      "Installation"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "YFLMyY",
+    "msgid": "No config variables match your current filters. Try adjusting your filters or search criteria.",
+    "ast": [
+      "No config variables match your current filters. Try adjusting your filters or search criteria."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/SettingsAdminConfigVariables.tsx"
+    ]
+  },
+  {
+    "id": "Yiplcx",
+    "msgid": "Stripe subscription",
+    "ast": [
+      "Stripe subscription"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "YoKFgq",
+    "msgid": "Last 10 users created. Click to impersonate.",
+    "ast": [
+      "Last 10 users created. Click to impersonate."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "YrBAQE",
+    "msgid": "No usage data is available for this workspace.",
+    "ast": [
+      "No usage data is available for this workspace."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "ZPnTAU",
+    "msgid": "Cache pricing",
+    "ast": [
+      "Cache pricing"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "ZVr1+K",
+    "msgid": "Recent Events (oldest → newest)",
+    "ast": [
+      "Recent Events (oldest → newest)"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "ZWX/Lk",
+    "msgid": "Failed to add model",
+    "ast": [
+      "Failed to add model"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "Zk8585",
+    "msgid": "Stripe customer linked to this workspace",
+    "ast": [
+      "Stripe customer linked to this workspace"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "a3Hy65",
+    "msgid": "Unnamed product",
+    "ast": [
+      "Unnamed product"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "aHCEmh",
+    "msgid": "Pricing",
+    "ast": [
+      "Pricing"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "aHPKtV",
+    "msgid": "Claim ownership",
+    "ast": [
+      "Claim ownership"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "aerYcp",
+    "msgid": "full admin panel access",
+    "ast": [
+      "full admin panel access"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "ahCOdw",
+    "msgid": "Failed to update server administrator access.",
+    "ast": [
+      "Failed to update server administrator access."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "amPBVF",
+    "msgid": "Compensation",
+    "ast": [
+      "Compensation"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/CreditGrantTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "apOMfI",
+    "msgid": "No workspace failed",
+    "ast": [
+      "No workspace failed"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "b2ghLW",
+    "msgid": "Base credits",
+    "ast": [
+      "Base credits"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "b8wwse",
+    "msgid": "Click on the checkmark to apply your changes.",
+    "ast": [
+      "Click on the checkmark to apply your changes."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "bPJyAg",
+    "msgid": "Region is required for Bedrock",
+    "ast": [
+      "Region is required for Bedrock"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "c+GbbT",
+    "msgid": "e.g. GPT-4o",
+    "ast": [
+      "e.g. GPT-4o"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "c2ES/s",
+    "msgid": "Use target relations to find messages and calendar events linked to records.",
+    "ast": [
+      "Use target relations to find messages and calendar events linked to records."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "cGlfU4",
+    "msgid": "Cache write",
+    "ast": [
+      "Cache write"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "cLzEjc",
+    "msgid": "Allow sharing individual records with workspace members.",
+    "ast": [
+      "Allow sharing individual records with workspace members."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "cT1jbf",
+    "msgid": "Multiple answers",
+    "ast": [
+      "Multiple answers"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsQuestion.tsx"
+    ]
+  },
+  {
+    "id": "cdB4EG",
+    "msgid": "Last command result",
+    "ast": [
+      "Last command result"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "cg+Poy",
+    "msgid": "Revoke access",
+    "ast": [
+      "Revoke access"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "crxufE",
+    "msgid": "Detail per workspace",
+    "ast": [
+      "Detail per workspace"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "d/tbM2",
+    "msgid": "Select a known provider or create a custom one",
+    "ast": [
+      "Select a known provider or create a custom one"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "dC0BTo",
+    "msgid": "Canceled at",
+    "ast": [
+      "Canceled at"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "dmU8dH",
+    "msgid": "Record sharing",
+    "ast": [
+      "Record sharing"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "e9OqcR",
+    "msgid": "Queue performance",
+    "ast": [
+      "Queue performance"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerQueueMetricsSection.tsx"
+    ]
+  },
+  {
+    "id": "eKz2ln",
+    "msgid": "Chat conversation",
+    "ast": [
+      "Chat conversation"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminWorkspaceChatThread.tsx"
+    ]
+  },
+  {
+    "id": "eZ6HbZ",
+    "msgid": "API key is required",
+    "ast": [
+      "API key is required"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "elpx6r",
+    "msgid": "Message Sync",
+    "ast": [
+      "Message Sync"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "enzGAL",
+    "msgid": "Questions",
+    "ast": [
+      "Questions"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminChatAskQuestionsPart.tsx"
+    ]
+  },
+  {
+    "id": "ex8PR1",
+    "msgid": "Retry All Failed",
+    "ast": [
+      "Retry All Failed"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "fI1Tll",
+    "msgid": "Mark this app as reviewed and approved",
+    "ast": [
+      "Mark this app as reviewed and approved"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "fQoUMw",
+    "msgid": "Has error",
+    "ast": [
+      "Has error"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "fWQJW/",
+    "msgid": "Allow developers to claim ownership of applications.",
+    "ast": [
+      "Allow developers to claim ownership of applications."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "fj5byd",
+    "msgid": "N/A",
+    "ast": [
+      "N/A"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkspacesStatusSummaryCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "fqtGOd",
+    "msgid": "Granted credits",
+    "ast": [
+      "Granted credits"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "gA2ZGo",
+    "msgid": "App claiming",
+    "ast": [
+      "App claiming"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "gU+vGA",
+    "msgid": "Failed to add provider",
+    "ast": [
+      "Failed to add provider"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "gUeG+X",
+    "msgid": "Optional — uses IAM role if empty",
+    "ast": [
+      "Optional — uses IAM role if empty"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "gdAJ4I",
+    "msgid": "Last 4 hours",
+    "ast": [
+      "Last 4 hours"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/constants/WorkerQueueMetricsSelectOptions.ts"
+    ]
+  },
+  {
+    "id": "glQp+P",
+    "msgid": "No active subscription.",
+    "ast": [
+      "No active subscription."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "gmjkzq",
+    "msgid": "Error deleting app",
+    "ast": [
+      "Error deleting app"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "gukxZ5",
+    "msgid": "Onboarding",
+    "ast": [
+      "Onboarding"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsTableRow.tsx"
+    ]
+  },
+  {
+    "id": "hG711D",
+    "msgid": "Inferred version",
+    "ast": [
+      "Inferred version"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminUpgradeStatusListCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx"
+    ]
+  },
+  {
+    "id": "hom7qf",
+    "msgid": "Claim",
+    "ast": [
+      "Claim"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "i/2ImT",
+    "msgid": "Not listed",
+    "ast": [
+      "Not listed"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "i2zgN4",
+    "msgid": "Message Sync and Calendar Sync are not available because the service is down",
+    "ast": [
+      "Message Sync and Calendar Sync are not available because the service is down"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminConnectedAccountHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "iAubP2",
+    "msgid": "This should never happen",
+    "ast": [
+      "This should never happen"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "iKFXyT",
+    "msgid": "Waiting Children",
+    "ast": [
+      "Waiting Children"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "iRegw9",
+    "msgid": "Search by name, email, or user ID...",
+    "ast": [
+      "Search by name, email, or user ID..."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "iVFTRM",
+    "msgid": "Pre-install on new workspaces",
+    "ast": [
+      "Pre-install on new workspaces"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "il+blF",
+    "msgid": "e.g. 10.00",
+    "ast": [
+      "e.g. 10.00"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "irI8Y5",
+    "msgid": "Allow installation",
+    "ast": [
+      "Allow installation"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "iu5Egq",
+    "msgid": "Revoke admin panel access",
+    "ast": [
+      "Revoke admin panel access"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "j5CWO4",
+    "msgid": "Up to date",
+    "ast": [
+      "Up to date"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/utils/getUpgradeHealthStatusBadge.ts"
+    ]
+  },
+  {
+    "id": "j5nqnO",
+    "msgid": "Last 24 Hours (oldest → newest)",
+    "ast": [
+      "Last 24 Hours (oldest → newest)"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "jBzu2R",
+    "msgid": "Message and calendar target reads",
+    "ast": [
+      "Message and calendar target reads"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "k7iMla",
+    "msgid": "How your system is doing",
+    "ast": [
+      "How your system is doing"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthStatus.tsx"
+    ]
+  },
+  {
+    "id": "klrZv0",
+    "msgid": "JSON filters",
+    "ast": [
+      "JSON filters"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "lcPZCR",
+    "msgid": "Enter both keys, or neither to use the instance IAM role",
+    "ast": [
+      "Enter both keys, or neither to use the instance IAM role"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "lh5BED",
+    "msgid": "View Jobs",
+    "ast": [
+      "View Jobs"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerQueueMetricsSection.tsx"
+    ]
+  },
+  {
+    "id": "lj3GoP",
+    "msgid": "No jobs found",
+    "ast": [
+      "No jobs found"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "ljWYXA",
+    "msgid": "Display this app in the NPM packages list",
+    "ast": [
+      "Display this app in the NPM packages list"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "llJ0OR",
+    "msgid": "Secret Access Key",
+    "ast": [
+      "Secret Access Key"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "llc/hA",
+    "msgid": "Select Group",
+    "ast": [
+      "Select Group"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "lrTLOv",
+    "msgid": "Revoking this key will invalidate every JWT signed with it. Users with active tokens signed by this key will be logged out.",
+    "ast": [
+      "Revoking this key will invalidate every JWT signed with it. Users with active tokens signed by this key will be logged out."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminRevokeSigningKeyConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "m/o1+r",
+    "msgid": "Unknown workspace",
+    "ast": [
+      "Unknown workspace"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkspacesByHealthAccordion.tsx"
+    ]
+  },
+  {
+    "id": "mUv9U4",
+    "msgid": "Sales",
+    "ast": [
+      "Sales"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/CreditGrantTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "n0WCk8",
+    "msgid": "Select options",
+    "ast": [
+      "Select options"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableDatabaseInput.tsx"
+    ]
+  },
+  {
+    "id": "n7EOpf",
+    "msgid": "Last 12 Hours (oldest → newest)",
+    "ast": [
+      "Last 12 Hours (oldest → newest)"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "nCq25C",
+    "msgid": "Top 10 workspaces by number of users",
+    "ast": [
+      "Top 10 workspaces by number of users"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "nE5VAt",
+    "msgid": "Grant",
+    "ast": [
+      "Grant"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx"
+    ]
+  },
+  {
+    "id": "nJGwRf",
+    "msgid": "Billing interval",
+    "ast": [
+      "Billing interval"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingSubscriptionInfoCard.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/enterprise/components/EnterprisePlanModal.tsx"
+    ]
+  },
+  {
+    "id": "nSK0mT",
+    "msgid": "Current period",
+    "ast": [
+      "Current period"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "nU13WY",
+    "msgid": "No chats found",
+    "ast": [
+      "No chats found"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsContent.tsx"
+    ]
+  },
+  {
+    "id": "nbyiz/",
+    "msgid": "Credits handed out on top of the plan allowance. They stay spendable until used up.",
+    "ast": [
+      "Credits handed out on top of the plan allowance. They stay spendable until used up."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "oPoLg+",
+    "msgid": "No access",
+    "ast": [
+      "No access"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdminAccess.tsx"
+    ]
+  },
+  {
+    "id": "oVH0Mt",
+    "msgid": "The API endpoint for your OpenAI-compatible provider",
+    "ast": [
+      "The API endpoint for your OpenAI-compatible provider"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "oiVP/+",
+    "msgid": "Enter a value to store in database",
+    "ast": [
+      "Enter a value to store in database"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableValueInput.tsx"
+    ]
+  },
+  {
+    "id": "omBFwv",
+    "msgid": "Supported input types",
+    "ast": [
+      "Supported input types"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "pNW+Rt",
+    "msgid": "Access Key ID",
+    "ast": [
+      "Access Key ID"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "pTGa/J",
+    "msgid": "Refresh status",
+    "ast": [
+      "Refresh status"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminInferredVersion.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminWorkspacesStatus.tsx"
+    ]
+  },
+  {
+    "id": "pUfoQJ",
+    "msgid": "Schema name",
+    "ast": [
+      "Schema name"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx"
+    ]
+  },
+  {
+    "id": "pUligB",
+    "msgid": "Failed to delete jobs. Please try again later.",
+    "ast": [
+      "Failed to delete jobs. Please try again later."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/hooks/useDeleteJobs.ts"
+    ]
+  },
+  {
+    "id": "pZXwuH",
+    "msgid": "Delayed",
+    "ast": [
+      "Delayed"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "peBb6B",
+    "msgid": "Enter a new secret value",
+    "ast": [
+      "Enter a new secret value"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableValueInput.tsx"
+    ]
+  },
+  {
+    "id": "pfRh+M",
+    "msgid": "No apps found",
+    "ast": [
+      "No apps found"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "pubQie",
+    "msgid": "Enter value",
+    "ast": [
+      "Enter value"
+    ],
+    "files": [
+      "src/modules/object-core/workflows/components/CoreWorkflowFilterValueInput.tsx",
+      "src/modules/object-record/advanced-filter/components/AdvancedFilterDropdownTextInput.tsx",
+      "src/modules/object-record/record-field/ui/meta-types/input/components/ArrayFieldInput.tsx",
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableDatabaseInput.tsx",
+      "src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterValueInput.tsx",
+      "src/modules/workflow/workflow-steps/filters/components/WorkflowStepFilterValueInput.tsx",
+      "src/modules/workflow/workflow-steps/workflow-actions/code-action/components/WorkflowEditActionCodeFieldLeaf.tsx"
+    ]
+  },
+  {
+    "id": "q+Xhwx",
+    "msgid": "Pre-installed only",
+    "ast": [
+      "Pre-installed only"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "qKnSyT",
+    "msgid": "App deleted successfully",
+    "ast": [
+      "App deleted successfully"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "qPiqVD",
+    "msgid": "Marketplace catalog synchronization started.",
+    "ast": [
+      "Marketplace catalog synchronization started."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "qeXMXz",
+    "msgid": "Region where inference data is processed (optional)",
+    "ast": [
+      "Region where inference data is processed (optional)"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "qjNojw",
+    "msgid": "The AWS region for Bedrock",
+    "ast": [
+      "The AWS region for Bedrock"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "qmwHSv",
+    "msgid": "Target workspace subdomain",
+    "ast": [
+      "Target workspace subdomain"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "rHNnAT",
+    "msgid": "Select a known model or add a custom one",
+    "ast": [
+      "Select a known model or add a custom one"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "rHeTee",
+    "msgid": "Automatically install this app on every newly created workspace",
+    "ast": [
+      "Automatically install this app on every newly created workspace"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationGeneralSwitches.tsx"
+    ]
+  },
+  {
+    "id": "rJrWw4",
+    "msgid": "Revoke signing key",
+    "ast": [
+      "Revoke signing key"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminRevokeSigningKeyConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "rW8PxS",
+    "msgid": "Prioritized",
+    "ast": [
+      "Prioritized"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "ruJO57",
+    "msgid": "Job Name",
+    "ast": [
+      "Job Name"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "s1C/cR",
+    "msgid": "All App Registrations",
+    "ast": [
+      "All App Registrations"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "s1MstR",
+    "msgid": "Loading metrics data...",
+    "ast": [
+      "Loading metrics data..."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminWorkerMetricsGraph.tsx"
+    ]
+  },
+  {
+    "id": "sakSHW",
+    "msgid": "Custom provider",
+    "ast": [
+      "Custom provider"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "sgqwjE",
+    "msgid": "Last 10 users created. Click to manage feature flags or impersonate.",
+    "ast": [
+      "Last 10 users created. Click to manage feature flags or impersonate."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminGeneral.tsx"
+    ]
+  },
+  {
+    "id": "snb/bC",
+    "msgid": "Email campaigns",
+    "ast": [
+      "Email campaigns"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "t+sNce",
+    "msgid": "Cost per million tokens for cached input (USD)",
+    "ast": [
+      "Cost per million tokens for cached input (USD)"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "tEWpbi",
+    "msgid": "Enter the workspace subdomain to transfer this app to. You will lose access to manage it.",
+    "ast": [
+      "Enter the workspace subdomain to transfer this app to. You will lose access to manage it."
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "tKcbYd",
+    "msgid": "Failed Jobs",
+    "ast": [
+      "Failed Jobs"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthAccountSyncCountersTable.tsx"
+    ]
+  },
+  {
+    "id": "u+aOKb",
+    "msgid": "e.g. gpt-4o",
+    "ast": [
+      "e.g. gpt-4o"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "uKvqU1",
+    "msgid": "Context window must be a positive integer",
+    "ast": [
+      "Context window must be a positive integer"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "uUehLT",
+    "msgid": "Waiting",
+    "ast": [
+      "Waiting"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminQueueJobsTable.tsx"
+    ]
+  },
+  {
+    "id": "uahNQ+",
+    "msgid": "Onboarding only",
+    "ast": [
+      "Onboarding only"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "ucgZ0o",
+    "msgid": "Organization",
+    "ast": [
+      "Organization"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/hooks/useSettingsAdminTabs.ts",
+      "src/modules/settings/billing/components/internal/PlansTags.tsx",
+      "src/modules/settings/billing/components/internal/SettingsBillingPlanComparisonTable.tsx",
+      "src/modules/settings/billing/components/SettingsBillingSubscriptionInfo.tsx",
+      "src/modules/settings/billing/hooks/useBillingWording.ts",
+      "src/modules/settings/billing/hooks/useSwitchBillingPlan.ts",
+      "src/pages/settings/enterprise/components/OrganizationAdornment.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx",
+      "src/pages/settings/enterprise/SettingsEnterprise.tsx"
+    ]
+  },
+  {
+    "id": "v7vAuj",
+    "msgid": "Total Jobs",
+    "ast": [
+      "Total Jobs"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminHealthAccountSyncCountersTable.tsx"
+    ]
+  },
+  {
+    "id": "vSJd18",
+    "msgid": "Video",
+    "ast": [
+      "Video"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx"
+    ]
+  },
+  {
+    "id": "vUr1/5",
+    "msgid": "Using default application value. Configure via environment variables.",
+    "ast": [
+      "Using default application value. Configure via environment variables."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "vs9cre",
+    "msgid": "Enable email campaigns, lists, and unsubscribe management.",
+    "ast": [
+      "Enable email campaigns, lists, and unsubscribe management."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "w8Rv8T",
+    "msgid": "Label is required",
+    "ast": [
+      "Label is required"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiModel.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "wCSQOc",
+    "msgid": "Key ID",
+    "ast": [
+      "Key ID"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "wCw+0a",
+    "msgid": "Search registrations...",
+    "ast": [
+      "Search registrations..."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/apps/components/SettingsAdminApps.tsx"
+    ]
+  },
+  {
+    "id": "wW6NCp",
+    "msgid": "Last error",
+    "ast": [
+      "Last error"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceContent.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "wgmt7A",
+    "msgid": "Hide hidden groups",
+    "ast": [
+      "Hide hidden groups"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableOptionsDropdownContent.tsx"
+    ]
+  },
+  {
+    "id": "wu0RfR",
+    "msgid": "Clear the field or \"X\" to revert to environment/default value.",
+    "ast": [
+      "Clear the field or \"X\" to revert to environment/default value."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/config-variables/components/ConfigVariableHelpText.tsx"
+    ]
+  },
+  {
+    "id": "wxvgdv",
+    "msgid": "Onboarding reward",
+    "ast": [
+      "Onboarding reward"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/CreditGrantTypeLabels.ts"
+    ]
+  },
+  {
+    "id": "x4qjZw",
+    "msgid": "Credits are added on top of the plan allowance and are spent only once it runs out. They carry over in full from one billing period to the next, and stay available until they are used up or, where an expiry is set, until the end of the billing period that expiry falls in.",
+    "ast": [
+      "Credits are added on top of the plan allowance and are spent only once it runs out. They carry over in full from one billing period to the next, and stay available until they are used up or, where an expiry is set, until the end of the billing period that expiry falls in."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantModal.tsx"
+    ]
+  },
+  {
+    "id": "x8uKc7",
+    "msgid": "Instance status",
+    "ast": [
+      "Instance status"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/components/SettingsAdminUpgradeStatusListCard.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx",
+      "src/pages/settings/admin-panel/SettingsAdminInstanceStatus.tsx"
+    ]
+  },
+  {
+    "id": "x9/fRy",
+    "msgid": "Delete or transfer this app registration",
+    "ast": [
+      "Delete or transfer this app registration"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "xGiT1z",
+    "msgid": "Revoked",
+    "ast": [
+      "Revoked"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx",
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx",
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminSigningKeysTable.tsx"
+    ]
+  },
+  {
+    "id": "xfQ2i8",
+    "msgid": "Allow unique indexes to prevent duplicate field values.",
+    "ast": [
+      "Allow unique indexes to prevent duplicate field values."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  },
+  {
+    "id": "xrVx9A",
+    "msgid": "This is the current signing key. Revoking it will invalidate every JWT signed with it and users may need to sign in again. A new signing key will be generated automatically on the next request.",
+    "ast": [
+      "This is the current signing key. Revoking it will invalidate every JWT signed with it and users may need to sign in again. A new signing key will be generated automatically on the next request."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/signing-keys/components/SettingsAdminRevokeSigningKeyConfirmationModal.tsx"
+    ]
+  },
+  {
+    "id": "xsawDG",
+    "msgid": "https://api.example.com/v1",
+    "ast": [
+      "https://api.example.com/v1"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminNewAiProvider.tsx"
+    ]
+  },
+  {
+    "id": "yByRxz",
+    "msgid": "This week",
+    "ast": [
+      "This week"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/health-status/constants/WorkerQueueMetricsSelectOptions.ts",
+      "src/modules/settings/billing/constants/UsageLimitPeriodSpanLabels.ts"
+    ]
+  },
+  {
+    "id": "yLljbQ",
+    "msgid": "Credits used",
+    "ast": [
+      "Credits used"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "yPZL9v",
+    "msgid": "After 60 days",
+    "ast": [
+      "After 60 days"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/CreditGrantExpiryOptions.ts"
+    ]
+  },
+  {
+    "id": "ywC9IM",
+    "msgid": "No user reply",
+    "ast": [
+      "No user reply"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/chats/components/SettingsAdminChatsFilterDropdown.tsx"
+    ]
+  },
+  {
+    "id": "zCO0/Y",
+    "msgid": "Users with server-level access. Open a user to grant or revoke access; use the search below to find anyone.",
+    "ast": [
+      "Users with server-level access. Open a user to grant or revoke access; use the search below to find anyone."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminServerAdmins.tsx"
+    ]
+  },
+  {
+    "id": "zH6NZT",
+    "msgid": "Credit grant revoked.",
+    "ast": [
+      "Credit grant revoked."
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceCreditGrantsTable.tsx"
+    ]
+  },
+  {
+    "id": "zHJ27S",
+    "msgid": "Stripe customer",
+    "ast": [
+      "Stripe customer"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "zPGNJm",
+    "msgid": "Transfer",
+    "ast": [
+      "Transfer"
+    ],
+    "files": [
+      "src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationDangerZone.tsx"
+    ]
+  },
+  {
+    "id": "zbbpgB",
+    "msgid": "Cancels at",
+    "ast": [
+      "Cancels at"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/components/SettingsAdminWorkspaceBillingContent.tsx"
+    ]
+  },
+  {
+    "id": "zod7Md",
+    "msgid": "Record creation form",
+    "ast": [
+      "Record creation form"
+    ],
+    "files": [
+      "src/modules/settings/admin-panel/constants/SettingsAdminFeatureFlagMetadata.ts"
+    ]
+  }
+]

@@ -1,0 +1,250 @@
+i/aRV6	({seats} {seatCountLabel} × ${displayedPerSeatPrice})
+lAxYP0	(${currentCreditPriceDisplay}/{intervalLabel})
+ZBGbuw	[empty string]
+XHO5F1	{0, plural, one {# job could not be deleted} other {# jobs could not be deleted}}
+AHhuJj	{0, plural, one {# job could not be retried} other {# jobs could not be retried}}
+Qvm3VE	{0, plural, one {# Object} other {# Objects}}
+8ob0vY	{0, plural, one {# workspace failed or behind} other {# workspaces failed or behind}}
+xEqptn	{0, plural, one {credit/period} other {credits/period}}
+AkeiJW	{0, plural, one {seat} other {seats}}
+XWd9bY	{agentCount, plural, one {{agentCount} agent} other {{agentCount} agents}}
+WhHyQh	{apiKeyCount, plural, one {{apiKeyCount} API key} other {{apiKeyCount} API keys}}
+wXviUj	{attemptsMade, plural, one {{attemptsMade} attempt} other {{attemptsMade} attempts}}
+y9covz	{behindCount, plural, one {# workspace behind} other {# workspaces behind}}
+M9lDqR	{count, plural, one {E.g. {example} for # decimal} other {E.g. {example} for # decimals}}
+0aO0VO	{days, plural, one {{days} day} other {{days} days}}
+7o03+8	{decimals, plural, one {E.g. {example} for # decimal} other {E.g. {example} for # decimals}}
+MIIEDl	{deletedCount, plural, one {Successfully deleted {deletedCount} job} other {Successfully deleted {deletedCount} jobs}}
+nRKZKb	{failedCount, plural, one {# workspace failed} other {# workspaces failed}}
+bv2QCV	{filterRulesCount, plural, one {{filterRulesCount} rule} other {{filterRulesCount} rules}}
+iokIra	{formattedType} of {objectLabel}
+YF/a2j	{grantedBy, plural, one {Granted for {grantedBy} object} other {Granted for {grantedBy} objects}}
+pEl0a0	{hours, plural, one {{hours} hour} other {{hours} hours}}
+m+qcrh	{installCount, plural, one {{0} install} other {{1} installs}}
+j9A2IB	{jobCount, plural, one {Delete {jobCount} Job} other {Delete {jobCount} Jobs}}
+48w++B	{jobCount, plural, one {Retry {jobCount} Job} other {Retry {jobCount} Jobs}}
+X78+Nn	{jobCount, plural, one {This will permanently remove it from the queue. This action cannot be undone.} other {This will permanently remove them from the queue. This action cannot be undone.}}
+QJYN9L	{jobCount, plural, one {This will retry the selected job. It will be re-executed from the beginning.} other {This will retry the selected jobs. They will be re-executed from the beginning.}}
+1DrH/j	{memberCount, plural, one {{memberCount} member} other {{memberCount} members}}
+HpUf/k	{positionLabel} record holds priority
+5d0hY6	{retriedCount, plural, one {Successfully retried {retriedCount} job} other {Successfully retried {retriedCount} jobs}}
+hcRYEH	{revokedBy, plural, one {Revoked for {revokedBy} object} other {Revoked for {revokedBy} objects}}
+OeIgEg	{roleLabel} can {humanReadableAction} {objectLabel} records
+D0C09b	{roleLabel} can't {humanReadableAction} {objectLabel} records
+uHZWwU	{roleTargetName} will be assigned to the "{newRoleName}" role.
+UsskHt	{scopeCount} scopes
+kvVMdH	{selectedCount, plural, one {Delete {selectedCount} Job} other {Delete {selectedCount} Jobs}}
+1y0QK1	{selectedCount, plural, one {Retry {selectedCount} Job} other {Retry {selectedCount} Jobs}}
+bI/mcH	{tabCount} tabs
+WN9tFl	{workspaceMemberName} will be unassigned from the following role:
+h5WHNQ	/{intervalLabel}
+XxzXhf	#
+rhCsft	+{estimatedInstallCount} installs
+Mkh9C8	1 scope
+W/OU4i	1 tab
+HfdWGA	About your app
+IF4QNM	Access your workspace data from your favorite MCP client like Claude, Codex or Cursor.
+LynXsl	Activity visibility
+Rop0cs	Add connection
+FKGcEL	Add the Twenty MCP server as a remote context server in Zed.
+iA2nHX	Add the Twenty MCP server from Augment Code settings.
+l+NzAk	Add the Twenty MCP server from Raycast's MCP commands or settings.
+j6G/yI	Add the Twenty MCP server in Gemini CLI settings.
+K0DXoj	Add the Twenty remote server with LM Studio's install link.
+4D/zWv	Add Twenty as a Streamable HTTP extension in Goose.
+XnwceV	Add URI
+X5Mx4I	AI tool
+BAiyFV	AKIA...
+c3lkKf	All Members
+ypSiuQ	All Metadata
+45Gm/K	All the applications currently installed on this workspace
+vj+OHl	Allowed redirect URIs for OAuth flows
+Fc64QW	Amazon Q Developer CLI
+r+NRG6	API Key copied to clipboard
+LllWIc	Application Logs
+EzsAEI	Apps you're the developer of
+6TRVUO	Augment Code
+XFGV21	Automatically upgrade this application when a new version is published
+pN5hZf	Build and runtime metadata for this component
+f2qxNx	Build checksum
+9emr42	Bundled with {applicationName}
++x0fpb	caldav.example.com
+yOaaWk	ChatGPT
+EcjwmO	Choose whether this activity type appears in record timelines
+ke+vxJ	Claimed by this workspace
+fcgvCA	Claude
+Sjy8hC	Claude install links require an HTTPS MCP URL.
+Bdj4LI	Client Secret
+6uKe4W	Client secret rotated. Copy it now — it won't be shown again.
+yJ8MIx	Cline
+bKJYIa	Code your function
+cj9UFG	Command copied to clipboard
+PLbVix	Conditional availability
+ais8E1	Configuration of this command menu item
+CcCy4C	Configure the remote MCP server through Warp's agent settings.
+pHIR4s	Configure the remote server in Amazon Q Developer's MCP settings.
+g1/8jH	Configure the Twenty MCP server manually in Cascade.
+XiyvRh	Configure the Twenty MCP server manually in Cline.
+CMrq4R	Connect additional MCP clients using install links or client docs.
+Oos8fo	Copy command
+Es0ros	Copy commands
+Ip9rQi	Copy sharing link
+u9zl2y	Core Objects
+6wi9Nf	Could not open the API playground
+TU+LOV	Couldn't load installed workspaces
+L3dKdL	Credentials and scopes for OAuth authorization flows
+rV1+uS	Cron triggers pass no payload — the handler is called with an empty object.
+mO0Peh	Cursor
+lP42oc	Database event
+KSOhjo	Delete this webhook
+snMaH4	Delete webhook
++hvIFU	eddy@gmail.com, @apple.com
+jvneza	Email support
+T3juzf	Endpoint URL
+cpGsq/	Error rotating client secret
+fQYyhK	Error updating redirect URIs
+cW8SdW	Event type
+B0clc7	Execution ID
+SkXfL0	Expiration Date
+1RvVK1	Expires in {dateDiff}
+leUV74	Exposes the function as a step in the workflow builder
+Kh6fBo	Exposes the function as a tool that AI agents can call
+nKkohy	Failed to load webhook
+is6uow	Failed to reset the timeline activity type.
+UNwpjb	Failed to update auto-upgrade setting.
+6TG/SY	Failed to update the timeline activity type.
+BZGmTs	Fill with sample input from
+LjNPDA	Filter by event
+gVEHcL	Filter by record ID
+Ghistm	for {objectLabel}
+xMJhWJ	Format: [Minute] [Hour] [Day of Month] [Month] [Day of Week]
+YMZBxa	Function
+e4FdDl	Gemini CLI
+IagMXz	Goose
+gBiL6J	GraphQL
+oEpvJo	Headless component
+WOXdI6	"
+"Host your workspace's customizations and overrides.
+"
+"
+"
+"#### What it includes
+"
+"Every extension you create on top of the standard app is grouped under Custom. It keeps your schema changes, interface changes, and workspace-specific logic in one place.
+"
+"
+"
+"- Custom objects and fields for your own data model
+"
+"- Views, navigation items, and record layouts that shape how your team works
+"
+"- Logic functions, front components, and agents that automate or extend the workspace
+"
+"
+"
+"#### Why it exists
+"
+"Use this app for workspace-specific customization that should stay local to this workspace.
+"
+"
+"
+"If you are shaping one workspace for one business, keep it here. If you are building a reusable business app with its own data model, UI, and automation that should be versioned, shared, or installed across workspaces, create a dedicated app instead.
+"
+"
+"
+"#### Build your own app
+"
+"
+"
+"Scaffold a new app in one command:
+"
+"
+"
+"```bash
+"
+"npx create-twenty-app@latest my-twenty-app
+"
+"```
+"
+"
+"
+"See the [Getting Started guide](https://twenty.com/developers/extend/apps/getting-started) for the full walkthrough, and [Building Apps](https://twenty.com/developers/extend/apps/building) for the `defineApplication` / `defineEntity` APIs.
+xsawDG	https://api.example.com/v1
+1Un+Rf	https://example.com/callback
+yhVtER	https://example.com/embed
+0yRnXS	https://example.com/webhook
++8jOVa	imap.example.com
+6K6XSi	JetBrains AI / Junie
+C5FAaq	john.doe
+wrLOeW	john.doe@example.com
+NaBPMD	LibreChat
+ufrtI9	LM Studio
+n/YqqB	Raycast
+uFEgGd	Replit Agent
+Nbjq/v	sk-...
+4oakKm	smtp.example.com
+HP7per	"
+"The base data model every Twenty workspace runs on.
+"
+"
+"
+"#### What "foundation" means
+"
+"
+"
+"Every Twenty workspace starts with this set of objects. They define the shape of your CRM, including relationships, activity, and reporting. Everything else, including marketplace apps, AI agents, and custom objects, plugs into them.
+"
+"
+"
+"#### Included objects
+"
+"- **People & Companies**: contact and account records
+"
+"- **Opportunities**: your sales pipeline
+"
+"- **Notes & Tasks**: activity and follow-ups
+"
+"- **Workflows & Dashboards**: automation and reporting
+"
+"
+"
+"Remove this app and the rest of Twenty has nothing to hang off.
+"
+"
+"
+"#### Build your own app
+"
+"
+"
+"Extend Twenty with your own objects, fields, logic functions, or AI skills. Scaffold a new app in one command:
+"
+"
+"
+"```bash
+"
+"npx create-twenty-app@latest my-twenty-app
+"
+"```
+"
+"
+"
+"Then inside the folder:
+"
+"
+"
+"```bash
+"
+"cd my-twenty-app
+"
+"yarn twenty dev
+"
+"```
+"
+"
+"
+"See the [Getting Started guide](https://twenty.com/developers/extend/apps/getting-started) for the full walkthrough, and [Building Apps](https://twenty.com/developers/extend/apps/building) for the `defineApplication` / `defineEntity` APIs.
+WUREiw	us-east-1
+IEcsBR	VS Code
+HUu++U	Warp
+UcBL9G	Windsurf / Cascade
+ZGbFnN	Zed
