@@ -219,7 +219,11 @@ export class SdkProviderFactoryService {
     return this.toProviderInstance(
       provider,
       AI_SDK_OPENAI_COMPATIBLE,
-      (modelId: string) => provider(modelId),
+      (modelId: string) =>
+        wrapLanguageModel({
+          model: provider(modelId),
+          middleware: sanitizeGeminiToolResultRefsMiddleware,
+        }),
     );
   }
 
