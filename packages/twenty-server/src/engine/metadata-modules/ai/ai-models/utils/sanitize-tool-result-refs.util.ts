@@ -10,7 +10,9 @@ const containsJsonSchemaDefsRef = (value: unknown): boolean => {
   }
 
   if (!isObject(value)) {
-    return false;
+    return (
+      isString(value) && (value.includes('$defs') || value.includes('$ref'))
+    );
   }
 
   return (
@@ -20,29 +22,73 @@ const containsJsonSchemaDefsRef = (value: unknown): boolean => {
   );
 };
 
+const sanitizeJsonSchemaRefs = (value: unknown): unknown => {
+  if (isArray(value)) {
+    return value.map(sanitizeJsonSchemaRefs);
+  }
+
+  if (!isObject(value)) {
+    if (isString(value)) {
+      return value.replaceAll('#/$defs/', '#/definitions/');
+    }
+
+    return value;
+  }
+
+  const result: Record<string, unknown> = {};
+
+  for (const [key, val] of Object.entries(value)) {
+    const newKey =
+      key === '$ref' ? 'ref' : key === '$defs' ? 'definitions' : key;
+
+    result[newKey] = sanitizeJsonSchemaRefs(val);
+  }
+
+  return result;
+};
+
 const sanitizeToolResultPart = (
   part: LanguageModelV4ToolResultPart,
 ): LanguageModelV4ToolResultPart => {
-  if (
-    (part.output.type !== 'json' && part.output.type !== 'error-json') ||
-    !containsJsonSchemaDefsRef(part.output.value)
-  ) {
+  if (!containsJsonSchemaDefsRef(part.output.value)) {
     return part;
   }
 
-  const value = JSON.stringify(part.output.value);
+  if (part.output.type === 'json' || part.output.type === 'error-json') {
+    const sanitizedValue = sanitizeJsonSchemaRefs(part.output.value);
+    const value = JSON.stringify(sanitizedValue);
+    const providerOptions = part.output.providerOptions
+      ? { providerOptions: part.output.providerOptions }
+      : {};
 
-  const providerOptions = part.output.providerOptions
-    ? { providerOptions: part.output.providerOptions }
-    : {};
+    return {
+      ...part,
+      output:
+        part.output.type === 'error-json'
+          ? { type: 'error-text', value, ...providerOptions }
+          : { type: 'text', value, ...providerOptions },
+    };
+  }
 
-  return {
-    ...part,
-    output:
-      part.output.type === 'error-json'
-        ? { type: 'error-text', value, ...providerOptions }
-        : { type: 'text', value, ...providerOptions },
-  };
+  if (
+    (part.output.type === 'text' || part.output.type === 'error-text') &&
+    isString(part.output.value)
+  ) {
+    const sanitizedValue = part.output.value
+      .replaceAll('"$ref"', '"ref"')
+      .replaceAll('"$defs"', '"definitions"')
+      .replaceAll('#/$defs/', '#/definitions/');
+
+    return {
+      ...part,
+      output: {
+        ...part.output,
+        value: sanitizedValue,
+      },
+    };
+  }
+
+  return part;
 };
 
 export const sanitizeToolResultRefs = (

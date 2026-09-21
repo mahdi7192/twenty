@@ -18,6 +18,19 @@ const SCHEMA_WITH_REFS = {
   ],
 };
 
+const EXPECTED_SANITIZED_SCHEMA = {
+  tools: [
+    {
+      name: 'find_many_companies',
+      inputSchema: {
+        type: 'object',
+        properties: { filter: { ref: '#/definitions/__schema0' } },
+        definitions: { __schema0: { type: 'object' } },
+      },
+    },
+  ],
+};
+
 const getFirstToolResultPart = (
   prompt: LanguageModelV4Prompt,
 ): LanguageModelV4ToolResultPart => {
@@ -60,7 +73,7 @@ describe('sanitizeToolResultRefs', () => {
       throw new Error('Expected the output to be serialized to text');
     }
 
-    expect(JSON.parse(part.output.value)).toEqual(SCHEMA_WITH_REFS);
+    expect(JSON.parse(part.output.value)).toEqual(EXPECTED_SANITIZED_SCHEMA);
   });
 
   it('should preserve output-level providerOptions when serializing to text', () => {
@@ -109,7 +122,7 @@ describe('sanitizeToolResultRefs', () => {
       throw new Error('Expected the output to be serialized to error-text');
     }
 
-    expect(JSON.parse(part.output.value)).toEqual(SCHEMA_WITH_REFS);
+    expect(JSON.parse(part.output.value)).toEqual(EXPECTED_SANITIZED_SCHEMA);
   });
 
   it('should leave tool results without refs untouched', () => {
@@ -132,6 +145,30 @@ describe('sanitizeToolResultRefs', () => {
 
     expect(part.output.type).toBe('json');
     expect(part.output).toEqual({ type: 'json', value });
+  });
+
+  it('should sanitize tool-result text output containing $ref/$defs', () => {
+    const rawText = JSON.stringify(SCHEMA_WITH_REFS);
+    const prompt: LanguageModelV4Prompt = [
+      {
+        role: 'tool',
+        content: [
+          {
+            type: 'tool-result',
+            toolCallId: 'call-1',
+            toolName: 'learn_tools',
+            output: { type: 'text', value: rawText },
+          },
+        ],
+      },
+    ];
+
+    const part = getFirstToolResultPart(sanitizeToolResultRefs(prompt));
+
+    expect(part.output.type).toBe('text');
+    expect(JSON.parse((part.output as { type: 'text'; value: string }).value)).toEqual(
+      EXPECTED_SANITIZED_SCHEMA,
+    );
   });
 
   it('should not touch non-tool messages', () => {
