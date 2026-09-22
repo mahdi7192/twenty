@@ -72,7 +72,7 @@ describe('AddressInput country picker on a side panel surface', () => {
     const user = userEvent.setup();
     const { onChange, onClickOutside } = renderAddressInput(surface);
 
-    await user.click(screen.getByText('No country'));
+    await user.click(screen.getByText('Iran'));
     await user.type(screen.getByPlaceholderText('Search'), 'France');
     await user.click(await screen.findByText('France'));
 

@@ -37,7 +37,7 @@ export const generateEmptyFieldValue = ({
         addressStreet2: '',
         addressCity: '',
         addressState: '',
-        addressCountry: '',
+        addressCountry: 'Iran',
         addressPostcode: '',
         addressLat: null,
         addressLng: null,

@@ -10,6 +10,10 @@ import { TextInput } from '@/ui/input/components/TextInput';
 import { TEXT_INPUT_CLICK_OUTSIDE_ID } from '@/ui/input/components/constants/TextInputClickOutsideId';
 import { CountrySelect } from '@/ui/input/components/internal/country/components/CountrySelect';
 import { SELECT_COUNTRY_DROPDOWN_ID } from '@/ui/input/components/internal/country/constants/SelectCountryDropdownId';
+import { IranCitySelect } from '@/ui/input/components/internal/iran/components/IranCitySelect';
+import { IranProvinceSelect } from '@/ui/input/components/internal/iran/components/IranProvinceSelect';
+import { SELECT_IRAN_CITY_DROPDOWN_ID } from '@/ui/input/components/internal/iran/constants/SelectIranCityDropdownId';
+import { SELECT_IRAN_PROVINCE_DROPDOWN_ID } from '@/ui/input/components/internal/iran/constants/SelectIranProvinceDropdownId';
 import { Dropdown } from '@/ui/layout/dropdown/components/Dropdown';
 import { activeDropdownFocusIdState } from '@/ui/layout/dropdown/states/activeDropdownFocusIdState';
 import { useListenClickOutside } from '@/ui/utilities/pointer-event/hooks/useListenClickOutside';
@@ -19,9 +23,15 @@ import { MOBILE_VIEWPORT } from 'twenty-ui/theme-constants';
 
 import { t } from '@lingui/core/macro';
 import { type AllowedAddressSubField } from 'twenty-shared/types';
+import { getCitiesForProvince } from '@/ui/field/input/utils/getCitiesForProvince';
 import { useAddressAutocomplete } from '@/ui/field/input/hooks/useAddressAutocomplete';
 import { useCountryUtils } from '@/ui/field/input/hooks/useCountryUtils';
 import { useFocusManagement } from '@/ui/field/input/hooks/useFocusManagement';
+import {
+  formatIranStreet2,
+  isIranAddress,
+  parseIranStreet2,
+} from '@/ui/field/input/utils/iranAddressUtils';
 
 const StyledAddressContainer = styled.div`
   padding: 4px 8px;
@@ -87,24 +97,46 @@ export const AddressInput = ({
   onChange,
   subFields,
 }: AddressInputProps) => {
-  const [internalValue, setInternalValue] = useState(value);
+  const [internalValue, setInternalValue] = useState<FieldAddressValue>(() => ({
+    ...value,
+    addressCountry: value.addressCountry || 'Iran',
+  }));
+
+  const isCurrentAddressIran = isIranAddress(internalValue.addressCountry);
 
   const addressStreet1InputRef = useRef<HTMLInputElement>(null);
   const addressStreet2InputRef = useRef<HTMLInputElement>(null);
   const addressCityInputRef = useRef<HTMLInputElement>(null);
   const addressStateInputRef = useRef<HTMLInputElement>(null);
   const addressPostcodeInputRef = useRef<HTMLInputElement>(null);
+  const pelakInputRef = useRef<HTMLInputElement>(null);
+  const unitInputRef = useRef<HTMLInputElement>(null);
   const wrapperRef = useRef<HTMLDivElement>(null);
+
+  const parsedStreet2 = useMemo(
+    () => parseIranStreet2(internalValue.addressStreet2),
+    [internalValue.addressStreet2],
+  );
+  const [pelak, setPelak] = useState(parsedStreet2.pelak);
+  const [unit, setUnit] = useState(parsedStreet2.unit);
+
+  useEffect(() => {
+    const parsed = parseIranStreet2(internalValue.addressStreet2);
+    setPelak(parsed.pelak);
+    setUnit(parsed.unit);
+  }, [internalValue.addressStreet2]);
 
   const inputRefs = useMemo(
     () => ({
       addressStreet1: addressStreet1InputRef,
-      addressStreet2: addressStreet2InputRef,
+      addressStreet2: isCurrentAddressIran
+        ? pelakInputRef
+        : addressStreet2InputRef,
       addressCity: addressCityInputRef,
       addressState: addressStateInputRef,
       addressPostcode: addressPostcodeInputRef,
     }),
-    [],
+    [isCurrentAddressIran],
   );
 
   const { findCountryCodeByCountryName } = useCountryUtils();
@@ -145,7 +177,10 @@ export const AddressInput = ({
       setInternalValue(updatedAddress);
       onChange?.(updatedAddress);
 
-      if (field === 'addressStreet1' || field === 'addressCity') {
+      if (
+        !isCurrentAddressIran &&
+        (field === 'addressStreet1' || field === 'addressCity')
+      ) {
         const countryCode = findCountryCodeByCountryName(
           updatedAddress.addressCountry ?? '',
         );
@@ -162,6 +197,7 @@ export const AddressInput = ({
     },
     [
       internalValue,
+      isCurrentAddressIran,
       onChange,
       findCountryCodeByCountryName,
       typeOfAddressForAutocomplete,
@@ -169,6 +205,64 @@ export const AddressInput = ({
       getAutocompletePlaceData,
       subFields,
     ],
+  );
+
+  const handlePelakChange = useCallback(
+    (newPelak: string) => {
+      setPelak(newPelak);
+      const newStreet2 = formatIranStreet2(newPelak, unit);
+      const updatedAddress = {
+        ...internalValue,
+        addressStreet2: newStreet2,
+      };
+      setInternalValue(updatedAddress);
+      onChange?.(updatedAddress);
+    },
+    [internalValue, unit, onChange],
+  );
+
+  const handleUnitChange = useCallback(
+    (newUnit: string) => {
+      setUnit(newUnit);
+      const newStreet2 = formatIranStreet2(pelak, newUnit);
+      const updatedAddress = {
+        ...internalValue,
+        addressStreet2: newStreet2,
+      };
+      setInternalValue(updatedAddress);
+      onChange?.(updatedAddress);
+    },
+    [internalValue, pelak, onChange],
+  );
+
+  const handleProvinceChange = useCallback(
+    (newProvince: string) => {
+      const validCities = getCitiesForProvince(newProvince);
+      const shouldKeepCity =
+        Boolean(internalValue.addressCity) &&
+        validCities.includes(internalValue.addressCity ?? '');
+
+      const updatedAddress = {
+        ...internalValue,
+        addressState: newProvince,
+        addressCity: shouldKeepCity ? internalValue.addressCity : '',
+      };
+      setInternalValue(updatedAddress);
+      onChange?.(updatedAddress);
+    },
+    [internalValue, onChange],
+  );
+
+  const handleCityChange = useCallback(
+    (newCity: string) => {
+      const updatedAddress = {
+        ...internalValue,
+        addressCity: newCity,
+      };
+      setInternalValue(updatedAddress);
+      onChange?.(updatedAddress);
+    },
+    [internalValue, onChange],
   );
 
   const handlePlaceSelection = useCallback(
@@ -234,7 +328,9 @@ export const AddressInput = ({
     callback: (event) => {
       if (
         activeDropdownFocusId === SELECT_COUNTRY_DROPDOWN_ID ||
-        activeDropdownFocusId === SELECT_AUTOCOMPLETE_LIST_DROPDOWN_ID
+        activeDropdownFocusId === SELECT_AUTOCOMPLETE_LIST_DROPDOWN_ID ||
+        activeDropdownFocusId === SELECT_IRAN_PROVINCE_DROPDOWN_ID ||
+        activeDropdownFocusId === SELECT_IRAN_CITY_DROPDOWN_ID
       ) {
         return;
       }
@@ -247,7 +343,10 @@ export const AddressInput = ({
   });
 
   useEffect(() => {
-    setInternalValue(value);
+    setInternalValue({
+      ...value,
+      addressCountry: value?.addressCountry || 'Iran',
+    });
   }, [value]);
 
   const validAutocompleteData = useMemo(
@@ -293,84 +392,171 @@ export const AddressInput = ({
 
   return (
     <StyledAddressContainer ref={wrapperRef}>
-      {isFieldInputInSubFieldsAddress('addressStreet1') &&
-        renderInputWithAutocomplete(
-          <TextInput
-            autoFocus
-            value={internalValue.addressStreet1 ?? ''}
-            ref={inputRefs.addressStreet1}
-            label={t`Address 1`}
-            fullWidth
-            onChange={getChangeHandler('addressStreet1')}
-            onFocus={getFocusHandler('addressStreet1')}
-            textClickOutsideId={
-              validAutocompleteData &&
-              typeOfAddressForAutocomplete === 'addressStreet1'
-                ? TEXT_INPUT_CLICK_OUTSIDE_ID
-                : undefined
-            }
-          />,
-          'addressStreet1',
-        )}
-      {isFieldInputInSubFieldsAddress('addressStreet2') && (
-        <TextInput
-          value={internalValue.addressStreet2 ?? ''}
-          ref={inputRefs.addressStreet2}
-          label={t`Address 2`}
-          fullWidth
-          onChange={getChangeHandler('addressStreet2')}
-          onFocus={getFocusHandler('addressStreet2')}
-        />
-      )}
-      <StyledHalfRowContainer>
-        {isFieldInputInSubFieldsAddress('addressCity') &&
-          renderInputWithAutocomplete(
-            <TextInput
-              value={internalValue.addressCity ?? ''}
-              ref={inputRefs.addressCity}
-              label={t`City`}
-              fullWidth
-              onChange={getChangeHandler('addressCity')}
-              onFocus={getFocusHandler('addressCity')}
-              textClickOutsideId={
-                validAutocompleteData &&
-                typeOfAddressForAutocomplete === 'addressCity'
-                  ? TEXT_INPUT_CLICK_OUTSIDE_ID
-                  : undefined
-              }
-            />,
-            'addressCity',
+      {isCurrentAddressIran ? (
+        <>
+          <StyledHalfRowContainer>
+            {isFieldInputInSubFieldsAddress('addressState') && (
+              <IranProvinceSelect
+                label={t`استان`}
+                selectedProvince={internalValue.addressState ?? ''}
+                onChange={handleProvinceChange}
+              />
+            )}
+            {isFieldInputInSubFieldsAddress('addressCity') && (
+              <IranCitySelect
+                label={t`شهر`}
+                selectedProvince={internalValue.addressState ?? ''}
+                selectedCity={internalValue.addressCity ?? ''}
+                onChange={handleCityChange}
+              />
+            )}
+          </StyledHalfRowContainer>
+
+          {isFieldInputInSubFieldsAddress('addressStreet1') &&
+            renderInputWithAutocomplete(
+              <TextInput
+                autoFocus
+                value={internalValue.addressStreet1 ?? ''}
+                ref={inputRefs.addressStreet1}
+                label={t`آدرس`}
+                placeholder={t`خیابان، کوچه، معبر...`}
+                fullWidth
+                onChange={getChangeHandler('addressStreet1')}
+                onFocus={getFocusHandler('addressStreet1')}
+                textClickOutsideId={
+                  validAutocompleteData &&
+                  typeOfAddressForAutocomplete === 'addressStreet1'
+                    ? TEXT_INPUT_CLICK_OUTSIDE_ID
+                    : undefined
+                }
+              />,
+              'addressStreet1',
+            )}
+
+          {isFieldInputInSubFieldsAddress('addressStreet2') && (
+            <StyledHalfRowContainer>
+              <TextInput
+                value={pelak}
+                ref={pelakInputRef}
+                label={t`پلاک`}
+                placeholder={t`پلاک`}
+                fullWidth
+                onChange={handlePelakChange}
+              />
+              <TextInput
+                value={unit}
+                ref={unitInputRef}
+                label={t`واحد`}
+                placeholder={t`واحد`}
+                fullWidth
+                onChange={handleUnitChange}
+              />
+            </StyledHalfRowContainer>
           )}
-        {isFieldInputInSubFieldsAddress('addressState') && (
-          <TextInput
-            value={internalValue.addressState ?? ''}
-            ref={inputRefs.addressState}
-            label={t`State`}
-            fullWidth
-            onChange={getChangeHandler('addressState')}
-            onFocus={getFocusHandler('addressState')}
-          />
-        )}
-      </StyledHalfRowContainer>
-      <StyledHalfRowContainer>
-        {isFieldInputInSubFieldsAddress('addressPostcode') && (
-          <TextInput
-            value={internalValue.addressPostcode ?? ''}
-            ref={inputRefs.addressPostcode}
-            label={t`Post Code`}
-            fullWidth
-            onChange={getChangeHandler('addressPostcode')}
-            onFocus={getFocusHandler('addressPostcode')}
-          />
-        )}
-        {isFieldInputInSubFieldsAddress('addressCountry') && (
-          <CountrySelect
-            label={t`Country`}
-            onChange={getChangeHandler('addressCountry')}
-            selectedCountryName={internalValue.addressCountry ?? ''}
-          />
-        )}
-      </StyledHalfRowContainer>
+
+          <StyledHalfRowContainer>
+            {isFieldInputInSubFieldsAddress('addressPostcode') && (
+              <TextInput
+                value={internalValue.addressPostcode ?? ''}
+                ref={inputRefs.addressPostcode}
+                label={t`کد پستی`}
+                placeholder={t`کد پستی`}
+                fullWidth
+                onChange={getChangeHandler('addressPostcode')}
+                onFocus={getFocusHandler('addressPostcode')}
+              />
+            )}
+            {isFieldInputInSubFieldsAddress('addressCountry') && (
+              <CountrySelect
+                label={t`کشور`}
+                onChange={getChangeHandler('addressCountry')}
+                selectedCountryName={internalValue.addressCountry || 'Iran'}
+              />
+            )}
+          </StyledHalfRowContainer>
+        </>
+      ) : (
+        <>
+          {isFieldInputInSubFieldsAddress('addressStreet1') &&
+            renderInputWithAutocomplete(
+              <TextInput
+                autoFocus
+                value={internalValue.addressStreet1 ?? ''}
+                ref={inputRefs.addressStreet1}
+                label={t`Address 1`}
+                fullWidth
+                onChange={getChangeHandler('addressStreet1')}
+                onFocus={getFocusHandler('addressStreet1')}
+                textClickOutsideId={
+                  validAutocompleteData &&
+                  typeOfAddressForAutocomplete === 'addressStreet1'
+                    ? TEXT_INPUT_CLICK_OUTSIDE_ID
+                    : undefined
+                }
+              />,
+              'addressStreet1',
+            )}
+          {isFieldInputInSubFieldsAddress('addressStreet2') && (
+            <TextInput
+              value={internalValue.addressStreet2 ?? ''}
+              ref={inputRefs.addressStreet2}
+              label={t`Address 2`}
+              fullWidth
+              onChange={getChangeHandler('addressStreet2')}
+              onFocus={getFocusHandler('addressStreet2')}
+            />
+          )}
+          <StyledHalfRowContainer>
+            {isFieldInputInSubFieldsAddress('addressCity') &&
+              renderInputWithAutocomplete(
+                <TextInput
+                  value={internalValue.addressCity ?? ''}
+                  ref={inputRefs.addressCity}
+                  label={t`City`}
+                  fullWidth
+                  onChange={getChangeHandler('addressCity')}
+                  onFocus={getFocusHandler('addressCity')}
+                  textClickOutsideId={
+                    validAutocompleteData &&
+                    typeOfAddressForAutocomplete === 'addressCity'
+                      ? TEXT_INPUT_CLICK_OUTSIDE_ID
+                      : undefined
+                  }
+                />,
+                'addressCity',
+              )}
+            {isFieldInputInSubFieldsAddress('addressState') && (
+              <TextInput
+                value={internalValue.addressState ?? ''}
+                ref={inputRefs.addressState}
+                label={t`State`}
+                fullWidth
+                onChange={getChangeHandler('addressState')}
+                onFocus={getFocusHandler('addressState')}
+              />
+            )}
+          </StyledHalfRowContainer>
+          <StyledHalfRowContainer>
+            {isFieldInputInSubFieldsAddress('addressPostcode') && (
+              <TextInput
+                value={internalValue.addressPostcode ?? ''}
+                ref={inputRefs.addressPostcode}
+                label={t`Post Code`}
+                fullWidth
+                onChange={getChangeHandler('addressPostcode')}
+                onFocus={getFocusHandler('addressPostcode')}
+              />
+            )}
+            {isFieldInputInSubFieldsAddress('addressCountry') && (
+              <CountrySelect
+                label={t`Country`}
+                onChange={getChangeHandler('addressCountry')}
+                selectedCountryName={internalValue.addressCountry ?? ''}
+              />
+            )}
+          </StyledHalfRowContainer>
+        </>
+      )}
     </StyledAddressContainer>
   );
 };

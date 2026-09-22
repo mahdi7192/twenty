@@ -92,4 +92,22 @@ describe('formatAddressDisplay', () => {
     ]);
     expect(result).toBe('');
   });
+
+  it('should format Iranian address properly with Persian comma', () => {
+    const iranAddress: FieldAddressValue = {
+      addressCountry: 'Iran',
+      addressState: 'تهران',
+      addressCity: 'تهران',
+      addressStreet1: 'خیابان ولیعصر',
+      addressStreet2: 'پلاک ۱۲، واحد ۴',
+      addressPostcode: '1234567890',
+      addressLat: null,
+      addressLng: null,
+    };
+
+    const result = formatAddressDisplay(iranAddress, null);
+    expect(result).toBe(
+      'ایران، تهران، تهران، خیابان ولیعصر، پلاک ۱۲، واحد ۴، کد پستی: 1234567890',
+    );
+  });
 });
