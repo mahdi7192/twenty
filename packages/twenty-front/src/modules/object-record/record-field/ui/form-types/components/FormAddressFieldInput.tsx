@@ -112,7 +112,7 @@ export const FormAddressFieldInput = ({
         {isCurrentAddressIran ? (
           <>
             <FormSelectFieldInput
-              label={t`استان`}
+              label="استان"
               defaultValue={defaultValue?.addressState ?? ''}
               onChange={handleProvinceChange}
               options={iranProvinceOptions}
@@ -121,7 +121,7 @@ export const FormAddressFieldInput = ({
               isNullable
             />
             <FormSelectFieldInput
-              label={t`شهر`}
+              label="شهر"
               defaultValue={defaultValue?.addressCity ?? ''}
               onChange={(city) => handleChange('addressCity')(city ?? '')}
               options={iranCityOptions}
@@ -130,39 +130,39 @@ export const FormAddressFieldInput = ({
               isNullable
             />
             <FormTextFieldInput
-              label={t`آدرس`}
+              label="آدرس"
               defaultValue={defaultValue?.addressStreet1 ?? ''}
               onChange={handleChange('addressStreet1')}
               readonly={readonly}
               VariablePicker={VariablePicker}
-              placeholder={t`خیابان، کوچه، معبر...`}
+              placeholder="خیابان، کوچه، معبر..."
             />
             <FormTextFieldInput
-              label={t`پلاک`}
+              label="پلاک"
               defaultValue={pelak}
               onChange={handlePelakChange}
               readonly={readonly}
               VariablePicker={VariablePicker}
-              placeholder={t`پلاک`}
+              placeholder="پلاک"
             />
             <FormTextFieldInput
-              label={t`واحد`}
+              label="واحد"
               defaultValue={unit}
               onChange={handleUnitChange}
               readonly={readonly}
               VariablePicker={VariablePicker}
-              placeholder={t`واحد`}
+              placeholder="واحد"
             />
             <FormTextFieldInput
-              label={t`کد پستی`}
+              label="کد پستی"
               defaultValue={defaultValue?.addressPostcode ?? ''}
               onChange={handleChange('addressPostcode')}
               readonly={readonly}
               VariablePicker={VariablePicker}
-              placeholder={t`کد پستی`}
+              placeholder="کد پستی"
             />
             <FormCountrySelectInput
-              label={t`کشور`}
+              label="کشور"
               selectedCountryName={currentCountry}
               onChange={handleChange('addressCountry')}
               readonly={readonly}

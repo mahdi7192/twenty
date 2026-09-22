@@ -1,5 +1,4 @@
 import { useMemo } from 'react';
-import { t } from '@lingui/core/macro';
 import { Select } from '@/ui/input/components/Select';
 import { SELECT_IRAN_PROVINCE_DROPDOWN_ID } from '@/ui/input/components/internal/iran/constants/SelectIranProvinceDropdownId';
 import { IRAN_PROVINCES } from '@/ui/field/input/constants/IranProvinces';
@@ -14,7 +13,7 @@ export type IranProvinceSelectProps = {
 };
 
 export const IranProvinceSelect = ({
-  label = t`استان`,
+  label = 'استان',
   selectedProvince,
   onChange,
   disabled,
@@ -27,7 +26,7 @@ export const IranProvinceSelect = ({
 
     return [
       {
-        label: t`انتخاب استان`,
+        label: 'انتخاب استان',
         value: '',
         Icon: IconCircleOff,
       },

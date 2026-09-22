@@ -1,5 +1,4 @@
 import { useMemo } from 'react';
-import { t } from '@lingui/core/macro';
 import { Select } from '@/ui/input/components/Select';
 import { SELECT_IRAN_CITY_DROPDOWN_ID } from '@/ui/input/components/internal/iran/constants/SelectIranCityDropdownId';
 import { getCitiesForProvince } from '@/ui/field/input/utils/getCitiesForProvince';
@@ -15,7 +14,7 @@ export type IranCitySelectProps = {
 };
 
 export const IranCitySelect = ({
-  label = t`شهر`,
+  label = 'شهر',
   selectedProvince,
   selectedCity,
   onChange,
@@ -31,7 +30,7 @@ export const IranCitySelect = ({
     if (!hasProvince) {
       return [
         {
-          label: t`ابتدا استان را انتخاب کنید`,
+          label: 'ابتدا استان را انتخاب کنید',
           value: '',
           Icon: IconCircleOff,
         },
@@ -45,7 +44,7 @@ export const IranCitySelect = ({
 
     return [
       {
-        label: t`انتخاب شهر`,
+        label: 'انتخاب شهر',
         value: '',
         Icon: IconCircleOff,
       },

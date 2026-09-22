@@ -397,14 +397,14 @@ export const AddressInput = ({
           <StyledHalfRowContainer>
             {isFieldInputInSubFieldsAddress('addressState') && (
               <IranProvinceSelect
-                label={t`استان`}
+                label="استان"
                 selectedProvince={internalValue.addressState ?? ''}
                 onChange={handleProvinceChange}
               />
             )}
             {isFieldInputInSubFieldsAddress('addressCity') && (
               <IranCitySelect
-                label={t`شهر`}
+                label="شهر"
                 selectedProvince={internalValue.addressState ?? ''}
                 selectedCity={internalValue.addressCity ?? ''}
                 onChange={handleCityChange}
@@ -418,8 +418,8 @@ export const AddressInput = ({
                 autoFocus
                 value={internalValue.addressStreet1 ?? ''}
                 ref={inputRefs.addressStreet1}
-                label={t`آدرس`}
-                placeholder={t`خیابان، کوچه، معبر...`}
+                label="آدرس"
+                placeholder="خیابان، کوچه، معبر..."
                 fullWidth
                 onChange={getChangeHandler('addressStreet1')}
                 onFocus={getFocusHandler('addressStreet1')}
@@ -438,16 +438,16 @@ export const AddressInput = ({
               <TextInput
                 value={pelak}
                 ref={pelakInputRef}
-                label={t`پلاک`}
-                placeholder={t`پلاک`}
+                label="پلاک"
+                placeholder="پلاک"
                 fullWidth
                 onChange={handlePelakChange}
               />
               <TextInput
                 value={unit}
                 ref={unitInputRef}
-                label={t`واحد`}
-                placeholder={t`واحد`}
+                label="واحد"
+                placeholder="واحد"
                 fullWidth
                 onChange={handleUnitChange}
               />
@@ -459,8 +459,8 @@ export const AddressInput = ({
               <TextInput
                 value={internalValue.addressPostcode ?? ''}
                 ref={inputRefs.addressPostcode}
-                label={t`کد پستی`}
-                placeholder={t`کد پستی`}
+                label="کد پستی"
+                placeholder="کد پستی"
                 fullWidth
                 onChange={getChangeHandler('addressPostcode')}
                 onFocus={getFocusHandler('addressPostcode')}
@@ -468,7 +468,7 @@ export const AddressInput = ({
             )}
             {isFieldInputInSubFieldsAddress('addressCountry') && (
               <CountrySelect
-                label={t`کشور`}
+                label="کشور"
                 onChange={getChangeHandler('addressCountry')}
                 selectedCountryName={internalValue.addressCountry || 'Iran'}
               />
