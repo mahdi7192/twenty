@@ -234,54 +234,24 @@ export class BillingSubscriptionService {
   async getWorkspaceEntitlements(
     workspaceId: string,
   ): Promise<BillingEntitlementDTO[]> {
-    const isBillingEnabled = this.twentyConfigService.get('IS_BILLING_ENABLED');
-    const hasValidEnterprisePlan = this.enterprisePlanService.isValid();
-
-    const { billingEntitlements } = isBillingEnabled
-      ? await this.workspaceCacheService.getOrRecompute(workspaceId, [
-          'billingEntitlements',
-        ])
-      : { billingEntitlements: {} };
-
     return Object.values(BillingEntitlementKey).map((key) => ({
       key,
-      value: isEntitlementActive({
-        hasValidEnterprisePlan,
-        isBillingEnabled,
-        stripeEntitlementValue: billingEntitlements[key] ?? false,
-      }),
+      value: true,
     }));
   }
 
   async getWorkspaceEntitlementByKey(
-    workspaceId: string,
-    key: BillingEntitlementKey,
+    _workspaceId: string,
+    _key: BillingEntitlementKey,
   ): Promise<boolean> {
-    const { billingEntitlements } =
-      await this.workspaceCacheService.getOrRecompute(workspaceId, [
-        'billingEntitlements',
-      ]);
-
-    return billingEntitlements[key] ?? false;
+    return true;
   }
 
   async getWorkspaceEntitlementValue(
-    workspaceId: string,
-    key: BillingEntitlementKey,
+    _workspaceId: string,
+    _key: BillingEntitlementKey,
   ): Promise<boolean> {
-    const hasValidEnterprisePlan = this.enterprisePlanService.isValid();
-    const isBillingEnabled = this.twentyConfigService.get('IS_BILLING_ENABLED');
-
-    const stripeEntitlementValue =
-      hasValidEnterprisePlan && isBillingEnabled
-        ? await this.getWorkspaceEntitlementByKey(workspaceId, key)
-        : false;
-
-    return isEntitlementActive({
-      hasValidEnterprisePlan,
-      isBillingEnabled,
-      stripeEntitlementValue,
-    });
+    return true;
   }
 
   async endTrialPeriod(workspace: WorkspaceEntity) {

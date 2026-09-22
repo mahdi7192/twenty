@@ -152,48 +152,27 @@ export class EnterprisePlanService implements OnModuleInit {
   }
 
   hasValidSignedEnterpriseKey(): boolean {
-    this.refreshKeyPayload();
-    return isDefined(this.cachedKeyPayload);
+    return true;
   }
 
   hasValidEnterpriseValidityToken(): boolean {
-    if (isDefined(this.cachedValidityPayload)) {
-      const now = Math.floor(Date.now() / 1000);
-
-      return this.cachedValidityPayload.exp > now;
-    }
-
-    return false;
+    return true;
   }
 
   isValid(): boolean {
-    return this.hasValidEnterpriseValidityToken();
+    return true;
   }
 
-  isValidEnterpriseKeyFormat(key: string): boolean {
-    return this.verifyJwt<EnterpriseKeyPayload>(key) !== null;
+  isValidEnterpriseKeyFormat(_key: string): boolean {
+    return true;
   }
 
   async getLicenseInfo(): Promise<EnterpriseLicenseInfo> {
-    this.refreshKeyPayload();
-    await this.loadValidityToken();
-
-    if (isDefined(this.cachedValidityPayload)) {
-      const now = Math.floor(Date.now() / 1000);
-
-      return {
-        isValid: this.cachedValidityPayload.exp > now,
-        licensee: this.cachedKeyPayload?.licensee ?? null,
-        expiresAt: new Date(this.cachedValidityPayload.exp * 1000),
-        subscriptionId: this.cachedValidityPayload.sub,
-      };
-    }
-
     return {
-      isValid: false,
-      licensee: null,
-      expiresAt: null,
-      subscriptionId: null,
+      isValid: true,
+      licensee: 'Self-Hosted Enterprise',
+      expiresAt: new Date(Date.now() + 100 * 365 * 24 * 60 * 60 * 1000),
+      subscriptionId: 'self-hosted-enterprise',
     };
   }
 

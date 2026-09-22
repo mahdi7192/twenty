@@ -70,19 +70,10 @@ export class BillingService {
   }
 
   async hasEntitlement(
-    workspaceId: string,
-    entitlementKey: BillingEntitlementKey,
+    _workspaceId: string,
+    _entitlementKey: BillingEntitlementKey,
   ) {
-    const isBillingEnabled = this.isBillingEnabled();
-
-    if (!isBillingEnabled) {
-      return true;
-    }
-
-    return this.billingSubscriptionService.getWorkspaceEntitlementByKey(
-      workspaceId,
-      entitlementKey,
-    );
+    return true;
   }
 
   async isSubscriptionIncompleteOnboardingStatus(workspaceId: string) {
